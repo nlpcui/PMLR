@@ -4,22 +4,13 @@ Topic/Clustering model
 import json
 import logging
 import argparse
-from utils import set_logging
-'''
-
-1. Generate topic-document matrix
-2. various strategies to sample documents  
-3. generate labels for clusters according to documents 
-4. aggregate these labels to a score (we proposed)
-5. optimize this score  
-'''
-
 import sys
 import os
-from data.dataset import WikitextDataset, BillDataset
-from collections import OrderedDict
 import tomotopy as tp
 import numpy as np
+from data.dataset import WikitextDataset, BillDataset
+from utils import set_logging
+from collections import OrderedDict
 
 
 def train_lda(corpus, num_topics, save_path, max_iterations=1000, step=10):
@@ -66,6 +57,6 @@ if __name__ == '__main__':
     if args.dataset == 'wikitext':
         documents = WikitextDataset(data_file='data/wikitext/train.metadata.jsonl')
     else:
-        documents = BillDataset(data_file='')
+        documents = BillDataset(data_file='data/bill/train.metadata.jsonl')
 
     train_lda(corpus=documents, num_topics=args.num_topics, max_iterations=args.max_iterations, save_path=f'output/topic_models/{args.model_type}_{args.dataset}_{args.num_topics}.json')
