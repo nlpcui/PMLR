@@ -1,6 +1,3 @@
-"""
-prompt LLM to generate a label for sampled documents
-"""
 import json
 import argparse
 import logging

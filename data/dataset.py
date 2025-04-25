@@ -43,7 +43,6 @@ class WikitextDataset(Dataset):
                 self.texts.append(data['text'])
                 self.sub_categories.append(data['subcategory'])
                 self.page_names.append(data['page_name'])
-                # self.tokenized_texts.append(clean_text(nltk.wordpunct_tokenize(data['text'].lower())))
                 self.tokenized_texts.append(data['tokenized_text'].split(' '))
 
     def __getitem__(self, idx):
@@ -66,16 +65,32 @@ class WikitextDataset(Dataset):
 
 class BillDataset:
     def __init__(self, data_file):
-        pass
+        self.ids = []
+        self.texts = []
+        # self.super_categories = []
+        self.sub_categories = []
+        self.categories = []
+        self.tokenized_texts = []
 
+        self.vocab = set([])
+        with open(data_file, 'r') as fp:
+            for lid, line in enumerate(fp.readlines()):
+                data = json.loads(line.strip())
+                self.ids.append(lid)
+                self.texts.append(data['summary'])
+                self.categories.append(data['topic'])
+                self.sub_categories.append(data['subtopic'])
+                self.tokenized_texts.append(data['tokenized_text'].split(' '))
+                self.vocab.update(self.tokenized_texts[-1])
 
-    def __getitem__(self):
-        return
+    def __getitem__(self, idx):
+        return {
+            'id': self.ids[idx],
+            'text': self.texts[idx],
+            'category': self.categories[idx],
+            'sub_categories': self.sub_categories[idx],
+            'tokenized_text': self.tokenized_texts[idx]
+        }
 
-class ClusterDataset:
-    def __init__(self):
-        self.clusters = OrderedDict()  # {cluster id: {document_id: score},  }
-
-
-if __name__ == '__main__':
-    pass
+    def __len__(self):
+        return len(self.ids)
