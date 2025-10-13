@@ -18,6 +18,5 @@ def truncate(text, max_length):
     words = text.split(' ')
     if len(words) <= max_length:
         return text
-    return ' '.join(words[:max_length])
-
+    return ' '.join(words[:max_length]) + ' ...'
 
