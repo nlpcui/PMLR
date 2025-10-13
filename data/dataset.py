@@ -39,9 +39,11 @@ class WikitextDataset(Dataset):
 
                 self.ids2pos[data['id']] = len(self.ids)
 
-                self.ids.append(i)
+                self.ids.append(i)  # line number as id
                 self.texts.append(data['text'])
                 self.sub_categories.append(data['subcategory'])
+                self.categories.append(data['category'])
+                self.super_categories.append(data['supercategory'])
                 self.page_names.append(data['page_name'])
                 self.tokenized_texts.append(data['tokenized_text'].split(' '))
 
@@ -49,7 +51,8 @@ class WikitextDataset(Dataset):
         return {
             'id': self.ids[idx],
             'text': self.texts[idx],
-            'tokenized_text': self.tokenized_texts[idx]
+            'tokenized_text': self.tokenized_texts[idx],
+            'label': self.sub_categories[idx]
         }
 
     def get_by_id(self, doc_id):
@@ -87,7 +90,7 @@ class BillDataset:
         return {
             'id': self.ids[idx],
             'text': self.texts[idx],
-            'category': self.categories[idx],
+            'label': self.categories[idx],
             'sub_categories': self.sub_categories[idx],
             'tokenized_text': self.tokenized_texts[idx]
         }
