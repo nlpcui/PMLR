@@ -1,0 +1,1252 @@
+{
+  "0": {
+    "pos_docs": [
+      4759,
+      4789,
+      4794
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Historical Cricketers",
+      "description": "The documents discuss the careers and achievements of notable cricketers from Australia and Pakistan during the mid-20th century.",
+      "evidence": {
+        "Document 1": [
+          "Ron Saggers was an Australian cricketer who played for New South Wales.",
+          "He played briefly for the Australian team, playing six Tests between 1948 and 1950."
+        ],
+        "Document 2": [
+          "Munir Malik was a Pakistani cricketer who played three Tests for Pakistan between 1959 and 1962.",
+          "He took nine wickets in Test cricket at an average of 39.77."
+        ]
+      }
+    }
+  },
+  "1": {
+    "pos_docs": [
+      8746,
+      8691,
+      8660
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Roller Coasters by Bolliger & Mabillard",
+      "description": "The documents discuss various roller coasters designed by Bolliger & Mabillard, highlighting their specifications, history, and ride experiences.",
+      "evidence": {
+        "Document 1": [
+          "Nitro is a steel Floorless Coaster at the Adlabs Imagica amusement park",
+          "Manufactured by Bolliger & Mabillard"
+        ],
+        "Document 2": [
+          "Sky Scrapper is a flying roller coaster",
+          "Designed by Swiss firm Bolliger & Mabillard"
+        ],
+        "Document 3": [
+          "D\u00e6monen is a steel Floorless Coaster roller coaster",
+          "Designed by Bolliger & Mabillard"
+        ]
+      }
+    }
+  },
+  "2": {
+    "pos_docs": [
+      8469,
+      8459,
+      8523
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Notorious Criminal Cases",
+      "description": "This topic encompasses high-profile criminal cases involving individuals who committed severe crimes, including murder and other violent acts, attracting significant media attention.",
+      "evidence": {
+        "Document 1": [
+          "Maurice Clemmons was responsible for the November 29, 2009, murder of four police officers.",
+          "Clemmons had at least five felony convictions in Arkansas."
+        ],
+        "Document 2": [
+          "Joran van der Sloot is the murderer of Stephany Flores Ram\u00edrez in Lima, in 2010.",
+          "Van der Sloot was the primary suspect in the 2005 disappearance of Natalee Holloway."
+        ],
+        "Document 3": [
+          "The Schenecker double homicide occurred on January 27, 2011; Calyx and Beau Schenecker were found dead by police.",
+          "Julie Powers Schenecker was arrested on suspicion of their murder after an alleged confession."
+        ]
+      }
+    }
+  },
+  "3": {
+    "pos_docs": [
+      5827,
+      5840,
+      5812
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Administrative Law in Singapore",
+      "description": "This cluster discusses various aspects of administrative law in Singapore, including the doctrine of legitimate expectation, threshold issues for judicial review, and the exclusion of judicial review.",
+      "evidence": {
+        "Document 1": [
+          "The doctrine of legitimate expectation in Singapore protects both procedural and substantive rights.",
+          "The recognition of substantive legitimate expectations is somewhat controversial."
+        ],
+        "Document 2": [
+          "Threshold issues are legal requirements in Singapore administrative law that must be satisfied by applicants before their claims for judicial review.",
+          "Applicants must establish they have private standing if they seek to represent personal interests."
+        ],
+        "Document 3": [
+          "Exclusion of judicial review has been attempted by the Parliament of Singapore to protect the exercise of executive power.",
+          "The courts there have taken the view that such clauses are, subject to some exceptions, not effective in denying or restricting the extent to which the courts are able to exercise judicial review."
+        ]
+      }
+    }
+  },
+  "4": {
+    "pos_docs": [
+      5859,
+      4281,
+      5884
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "NCAA College Sports Teams",
+      "description": "The documents discuss the performance and details of NCAA Division I football and basketball teams from the University of Alabama and Princeton University during specific seasons.",
+      "evidence": {
+        "Document 1": [
+          "2010 Alabama Crimson Tide football team represented the University of Alabama in the 2010 NCAA Division I FBS football season.",
+          "finished the season with a record of ten wins and three losses (10 \u2013 3, 5 \u2013 3 in the SEC)"
+        ],
+        "Document 2": [
+          "2011 \u2013 12 Princeton Tigers men 's basketball team represented Princeton University during the 2011 \u2013 12 NCAA Division I men 's basketball season.",
+          "finished the season 20 \u2013 12, 10 \u2013 4 in Ivy League play to finish in third place"
+        ],
+        "Document 3": [
+          "2012 Alabama Crimson Tide football team represented the University of Alabama in the 2012 NCAA Division I Football Bowl Subdivision (FBS) football season.",
+          "finished the season with a record of 13 wins and 1 loss (13 \u2013 1 overall, 7 \u2013 1 in the SEC)"
+        ]
+      }
+    }
+  },
+  "5": {
+    "pos_docs": [
+      13317,
+      13316,
+      13320
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Supernatural Character Analysis",
+      "description": "An exploration of key characters and their development in the television series Supernatural.",
+      "evidence": {
+        "Document 1": [
+          "Bobby Singer is a fictional character in The CW Television Network's drama / horror television series Supernatural portrayed by Jim Beaver.",
+          "The character, a 'rough but warmhearted' working-class man who hunts supernatural creatures, has evolved over time into a father-figure for series protagonists Sam and Dean Winchester."
+        ],
+        "Document 2": [
+          "The narrative follows series protagonists Sam (Jared Padalecki) and Dean Winchester (Jensen Ackles) as they enter the dreamscape to rescue the comatose Bobby Singer (Jim Beaver).",
+          "It delves into the backstory of Bobby, and also features a major turning point in Dean's search for self-worth."
+        ],
+        "Document 3": [
+          "Castiel is a fictional character portrayed by Misha Collins on the CW Television Network's American television series Supernatural.",
+          "As an angel, he possesses a number of supernatural abilities, including the ability to kill demons."
+        ]
+      }
+    }
+  },
+  "6": {
+    "pos_docs": [
+      2836,
+      9371,
+      9318
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Art and Nature in Romanticism",
+      "description": "The documents explore the interplay between art, nature, and personal experience in the context of Romanticism and its influence on various artists and poets.",
+      "evidence": {
+        "Document 1": [
+          "the poem discusses Coleridge's childhood experience in a negative manner and emphasizes the need to be raised in the countryside",
+          "the view of nature within the poem has a strong Christian element"
+        ],
+        "Document 2": [
+          "the painting shows Gauguin against a red background with a halo above his head",
+          "the religious symbolism and the stylistic influence of Japanese wood-block prints and cloisonnism are apparent"
+        ],
+        "Document 3": [
+          "the painting emphasizes his 'art for art's sake' philosophy",
+          "the original frame carried a poem written by Whistler's friend Algernon Charles Swinburne"
+        ]
+      }
+    }
+  },
+  "7": {
+    "pos_docs": [
+      10455,
+      10442,
+      10433
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Pennsylvania Tributaries",
+      "description": "The documents discuss various tributaries of the Susquehanna River in Pennsylvania, highlighting their characteristics, watersheds, and ecological significance.",
+      "evidence": {
+        "Document 1": [
+          "Harveys Creek is a tributary of the Susquehanna River",
+          "The creek's watershed has an area of 46.3 square miles"
+        ],
+        "Document 2": [
+          "Shickshinny Creek is a tributary of the Susquehanna River",
+          "Its watershed has an area of 35.0 square miles"
+        ],
+        "Document 3": [
+          "Little Catawissa Creek is a tributary of Catawissa Creek",
+          "The watershed of Little Catawissa Creek has an area of 16.70 square miles"
+        ]
+      }
+    }
+  },
+  "8": {
+    "pos_docs": [
+      1591,
+      1565,
+      11844
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Hindu Temples in South Asia",
+      "description": "The documents discuss significant Hindu temple complexes in South Asia, highlighting their historical, architectural, and cultural importance.",
+      "evidence": {
+        "Document 1": [
+          "Munneswaram temple is an important regional Hindu temple complex in Sri Lanka.",
+          "The temple is one of the ancient Pancha Ishwarams dedicated to Shiva."
+        ],
+        "Document 2": [
+          "Pundarikakshan Perumal Temple is dedicated to the Hindu god Vishnu.",
+          "Constructed in the Dravidian style of architecture, the temple is glorified in the Divya Prabandha."
+        ]
+      }
+    }
+  },
+  "9": {
+    "pos_docs": [
+      9892,
+      9886,
+      9569
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "19th Century Thoroughbred Racing",
+      "description": "The documents discuss notable British Thoroughbred racehorses from the late 19th century and their racing careers.",
+      "evidence": {
+        "Document 1": [
+          "St. Gatien was a British Thoroughbred racehorse and sire.",
+          "He was regarded by contemporary experts as one of the greatest horses of the 19th century."
+        ],
+        "Document 2": [
+          "Paradox was a British Thoroughbred racehorse and sire.",
+          "He proved himself to be one of the best two-year-olds of his generation."
+        ]
+      }
+    }
+  },
+  "10": {
+    "pos_docs": [
+      2159,
+      2797,
+      12990
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Music Albums and Releases",
+      "description": "The documents discuss various music albums, their releases, and associated artists across different genres.",
+      "evidence": {
+        "Document 1": [
+          "Move Like This is the seventh, and, to date, final studio album by American rock band The Cars",
+          "The album reached the top ten of the Billboard 200"
+        ],
+        "Document 2": [
+          "10 is a greatest hits album by American Christian rock band MercyMe",
+          "The album debuted at number 18 on the Billboard 200 and number one on the Billboard Christian Albums chart"
+        ],
+        "Document 3": [
+          "Electric Mud is the fifth studio album by Muddy Waters",
+          "The album peaked at # 127 on the Billboard Pop Albums chart"
+        ]
+      }
+    }
+  },
+  "11": {
+    "pos_docs": [
+      5324,
+      8551,
+      8539
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Culinary and Agricultural Practices",
+      "description": "This topic encompasses the practices and characteristics of food preparation and animal breeding, highlighting both culinary recipes and livestock management.",
+      "evidence": {
+        "Document 1": [
+          "Welara is a part-Arabian pony breed developed from the Arabian horse and the Welsh pony.",
+          "They are used for many disciplines of English riding, and are known for their refinement, hardiness and spirit."
+        ],
+        "Document 2": [
+          "Applesauce cake is a dessert cake prepared using apple sauce, flour and sugar as primary ingredients.",
+          "The preparation of applesauce cake dates back to early colonial times in the United States."
+        ],
+        "Document 3": [
+          "Beurre Ma\u00eetre d'H\u00f4tel is a type of compound butter of French origin, prepared with butter, parsley, lemon juice, salt and pepper.",
+          "It is a savory butter that is used on meats such as steak, fish, vegetables and other foods."
+        ]
+      }
+    }
+  },
+  "12": {
+    "pos_docs": [
+      2882,
+      2954,
+      2936
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Major League Baseball Players",
+      "description": "The documents discuss the careers and statistics of various professional baseball players who played in Major League Baseball.",
+      "evidence": {
+        "Document 1": [
+          "Pat Burrell is an American former professional baseball outfielder who played in Major League Baseball.",
+          "Burrell played with the Philadelphia Phillies, the Tampa Bay Rays, and the San Francisco Giants."
+        ],
+        "Document 2": [
+          "Daniel Thomas Meyer is a retired professional baseball player whose career spanned 15 seasons, 12 of which were played in Major League Baseball.",
+          "Meyer primarily played first base and batted left-handed."
+        ]
+      }
+    }
+  },
+  "13": {
+    "pos_docs": [
+      563,
+      8231,
+      9644
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "R&B Ballads in Pop Music",
+      "description": "This topic encompasses R&B ballads performed by prominent artists, highlighting their musical composition, lyrical themes, and critical reception.",
+      "evidence": {
+        "Document 1": [
+          "My Heart Is Calling is a song recorded by American recording artist Whitney Houston...",
+          "It is a moderately paced R & B ballad..."
+        ],
+        "Document 2": [
+          "I Got You is a pop ballad...",
+          "The song garnered a mixed response from music critics."
+        ],
+        "Document 3": [
+          "Take a Bow is a song recorded by Barbadian singer Rihanna...",
+          "It is an R & B song that contains elements of dance-pop."
+        ]
+      }
+    }
+  },
+  "14": {
+    "pos_docs": [
+      5468,
+      5497,
+      5423
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "30 Rock Episodes",
+      "description": "The documents discuss various episodes of the American television comedy series 30 Rock, highlighting their plots, characters, and guest appearances.",
+      "evidence": {
+        "Document 1": [
+          "seventh episode of NBC's first season of 30 Rock",
+          "Tracy Does Conan is about Liz Lemon and Pete Hornberger trying to get Tracy Jordan to make a successful appearance on Late Night with Conan O'Brien."
+        ],
+        "Document 2": [
+          "seventeenth episode of the third season of 30 Rock",
+          "joy about the fiftieth episode for the fictitious show The Girlie Show with Tracy Jordan turns to worry when word spreads about imminent budget cuts."
+        ],
+        "Document 3": [
+          "eleventh episode of the first season of 30 Rock",
+          "Liz Lemon and Jenna Maroney capture the attention of two men while Tracy Jordan enlists friends to write his autobiography."
+        ]
+      }
+    }
+  },
+  "15": {
+    "pos_docs": [
+      10184,
+      11491,
+      10223
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Public Transport Systems in Norway and the UK",
+      "description": "The documents discuss various aspects of commuter rail and tramway systems in Norway and the UK, focusing on their operations, history, and infrastructure.",
+      "evidence": {
+        "Document 1": [
+          "Oslo Commuter Rail is a commuter rail centered in Oslo, Norway, connecting the capital to six counties in Eastern Norway.",
+          "The system is operated by the Norwegian State Railways and spans eight routes and 128 stations."
+        ],
+        "Document 2": [
+          "Worle railway station serves the Worle, West Wick and St Georges suburbs of Weston-super-Mare in North Somerset, England.",
+          "The station is managed by Great Western Railway and provides all train services at the station."
+        ],
+        "Document 3": [
+          "The Rodel\u00f8kka Line was a former line of the Oslo Tramway of Norway, in use from 1900 to 1961.",
+          "It was built by Kristiania Kommunale Sporveie and served by Line 9 until 1949."
+        ]
+      }
+    }
+  },
+  "16": {
+    "pos_docs": [
+      13402,
+      4377,
+      13401
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "American Television Dramas",
+      "description": "The documents discuss various seasons of popular American television dramas, focusing on their characters, storylines, and production details.",
+      "evidence": {
+        "Document 1": [
+          "The first season of the American television medical drama Grey's Anatomy",
+          "the protagonist and title character is Dr. Meredith Grey"
+        ],
+        "Document 3": [
+          "the sixth season of the American television medical drama Grey's Anatomy",
+          "the showrunner being Shonda Rhimes"
+        ]
+      }
+    }
+  },
+  "17": {
+    "pos_docs": [
+      10642,
+      10710,
+      10740
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "WWE Professional Wrestling Events",
+      "description": "The documents discuss various professional wrestling events produced by World Wrestling Entertainment, highlighting matches, championships, and wrestler participation.",
+      "evidence": {
+        "Document 1": [
+          "Johnny Jeter is best known for his appearances with World Wrestling Entertainment (WWE) in 2006 under the ring name Johnny as a member of The Spirit Squad.",
+          "Jeter subsequently had brief stints as a solo wrestler with OVW, Raw, SmackDown, and ECW before being released in late 2007."
+        ],
+        "Document 2": [
+          "Vengeance: Night of Champions was the seventh annual professional wrestling pay-per-view event produced by World Wrestling Entertainment (WWE).",
+          "The main event featured John Cena defending the WWE Championship against Mick Foley, Bobby Lashley, Randy Orton, and King Booker."
+        ],
+        "Document 3": [
+          "Judgment Day (2007) was the ninth annual Judgment Day professional wrestling pay-per-view event produced by World Wrestling Entertainment (WWE).",
+          "The main match on the Raw brand was John Cena versus The Great Khali for the WWE Championship."
+        ]
+      }
+    }
+  },
+  "18": {
+    "pos_docs": [
+      6290,
+      8088,
+      4582
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "American Military Figures",
+      "description": "This topic encompasses notable American military officers and their contributions during pivotal conflicts in U.S. history, particularly in the Revolutionary War and subsequent conflicts.",
+      "evidence": {
+        "Document 1": [
+          "highest ranking American military officer on the northwestern frontier during the American Revolutionary War",
+          "celebrated captures of Kaskaskia and Vincennes"
+        ],
+        "Document 2": [
+          "served as a second lieutenant in the Virginia Volunteers during the Mexican \u2013 American War",
+          "fought as a Border Ruffian during the Bleeding Kansas confrontations"
+        ],
+        "Document 3": [
+          "served as a captain in command of a company in the Virginia militia during the American Revolutionary War",
+          "served as a member of the Virginia House of Delegates"
+        ]
+      }
+    }
+  },
+  "19": {
+    "pos_docs": [
+      3299,
+      3359,
+      2391
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Royal Australian Air Force History",
+      "description": "The documents discuss the formation, evolution, and operational history of various units within the Royal Australian Air Force (RAAF).",
+      "evidence": {
+        "Document 1": [
+          "No. 1 Initial Flying Training School was formed in 1951 in response to increased demand for aircrew during the Korean War.",
+          "No. IFTS merged with No. 1 Basic Flying Training School at RAAF Base Uranquinty in 1955."
+        ],
+        "Document 2": [
+          "No. 84 Wing is a Royal Australian Air Force transport wing headquartered at RAAF Base Richmond.",
+          "Formed in 1944 for army co-operation duties in the South West Pacific theatre of World War II."
+        ]
+      }
+    }
+  },
+  "20": {
+    "pos_docs": [
+      12449,
+      7632,
+      7566
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Space Exploration and Science Fiction",
+      "description": "The documents discuss themes related to space exploration, including real missions and fictional narratives in science fiction television.",
+      "evidence": {
+        "Document 1": [
+          "STS-74 was the fourth mission of the US / Russian Shuttle-Mir Program",
+          "Space Shuttle Atlantis lifted off from Kennedy Space Center launch pad 39A on 12 November 1995."
+        ],
+        "Document 2": [
+          "'Extinction' is the fifty-fifth episode of the American science fiction television series Star Trek: Enterprise",
+          "Set in the 22nd century, the series follows the adventures of the first Starfleet starship, Enterprise."
+        ],
+        "Document 3": [
+          "'Azati Prime' is the seventieth episode of the American science fiction television series Star Trek: Enterprise",
+          "The episode features several guest actors, including those playing members of the Xindi Council."
+        ]
+      }
+    }
+  },
+  "21": {
+    "pos_docs": [
+      3705,
+      11922,
+      11943
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "World War I Naval Vessels",
+      "description": "The documents discuss various naval ships used during World War I, focusing on their design, service history, and military engagements.",
+      "evidence": {
+        "Document 1": [
+          "Diderot participated in the Battle of Antivari in the Adriatic Sea",
+          "She spent most of the rest of the war blockading the Straits of Otranto and the Dardanelles"
+        ],
+        "Document 2": [
+          "Heimdall served in the German fleet throughout the 1890s",
+          "She served in the VI Battle Squadron after the outbreak of World War I in August 1914"
+        ],
+        "Document 3": [
+          "Wiesbaden saw only one major action, the Battle of Jutland",
+          "Frankfurt was interned with the rest of the fleet at the end of the war and scuttled at Scapa Flow"
+        ]
+      }
+    }
+  },
+  "22": {
+    "pos_docs": [
+      13887,
+      9103,
+      9122
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Christian Baptism and Theology",
+      "description": "This topic encompasses various theological perspectives on baptism within Christianity, including its significance, practices, and historical development across different denominations.",
+      "evidence": {
+        "Document 1": [
+          "The International Pentecostal Holiness Church... is a Pentecostal Christian denomination founded in 1911",
+          "Heavily influenced by two major American revival movements..."
+        ],
+        "Document 2": [
+          "In Reformed theology, baptism is a sacrament signifying the baptized person's union with Christ",
+          "Baptism also signifies regeneration and remission of sin."
+        ],
+        "Document 3": [
+          "Baptism with the Holy Spirit... is frequently associated with incorporation into the Christian Church",
+          "different Christian denominations and traditions have interpreted its meaning in a variety of ways"
+        ]
+      }
+    }
+  },
+  "23": {
+    "pos_docs": [
+      13870,
+      4690,
+      4716
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Celebrity Pranks and Performances",
+      "description": "This topic encompasses notable instances of celebrity pranks and unique performances, highlighting their impact and public reception.",
+      "evidence": {
+        "Document 1": [
+          "Sarah Palin fell victim to a prank call by the Masked Avengers",
+          "the comedy duo had previously pranked celebrities like Bill Gates and Tiger Woods."
+        ],
+        "Document 2": [
+          "Madonna created the show for her Australian fans",
+          "the show received positive reviews from critics who appreciated the stripped down, confessional nature of the singer's performance."
+        ],
+        "Document 3": [
+          "The Virgin Tour was the debut concert tour by American singer-songwriter Madonna",
+          "The tour was a reflection of her own self and collaborated with designer Maripol for the costumes."
+        ]
+      }
+    }
+  },
+  "24": {
+    "pos_docs": [
+      1568,
+      1544,
+      1467
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Medieval Churches in Anglesey",
+      "description": "The documents discuss various medieval parish churches located in Anglesey, North Wales, highlighting their historical significance and architectural features.",
+      "evidence": {
+        "Document 1": [
+          "12th-century parish church in Anglesey",
+          "used as a royal chapel during the early Middle Ages"
+        ],
+        "Document 2": [
+          "small medieval parish church near the village of Llanbedrgoch",
+          "contains a reading desk made from 15th-century bench ends"
+        ],
+        "Document 3": [
+          "small medieval church, dating from the 15th century",
+          "Grade II listed building of exceptionally simple character"
+        ]
+      }
+    }
+  },
+  "25": {
+    "pos_docs": [
+      2562,
+      2478,
+      12192
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Historical Battles",
+      "description": "This topic encompasses significant battles from different historical periods and regions, highlighting their strategic importance and outcomes.",
+      "evidence": {
+        "Document 1": [
+          "The Battle of Sant Esteve d 'en Bas took place on 10 March 1695 in the Catalan front of the War of the Grand Alliance.",
+          "Juign\u00e9 's force was in a punitive expedition to burn the village of Sant Esteve d 'en Bas, when it was attacked by the Catalan militia."
+        ],
+        "Document 2": [
+          "The 1757 Battle on Snowshoes was a skirmish fought between Rogers ' Rangers and French and Indian troops during the French and Indian War.",
+          "The battle was given this name because the British combatants were wearing snowshoes."
+        ],
+        "Document 3": [
+          "The Battle of Gythium was fought in 195 BC between Sparta and the coalition of Rome, Rhodes, the Achaean League and Pergamum.",
+          "The result of this battle forced Nabis, the tyrant of Sparta, to abandon the surrounding land and withdraw to the city of Sparta."
+        ]
+      }
+    }
+  },
+  "26": {
+    "pos_docs": [
+      5017,
+      5022,
+      4936
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Corporate History of Technology Firms",
+      "description": "These documents provide insights into the corporate histories and developments of various technology and financial service companies.",
+      "evidence": {
+        "doc_id_1": [
+          "CSG International is a multinational corporation",
+          "became an independent corporation when it was acquired"
+        ],
+        "doc_id_2": [
+          "International Finance Corporation offers investment",
+          "established in 1956 as the private sector arm"
+        ],
+        "doc_id_3": [
+          "Salesforce Marketing Cloud was founded under the name ExactTarget",
+          "acquired by Salesforce for $ 2.5 billion"
+        ]
+      }
+    }
+  },
+  "27": {
+    "pos_docs": [
+      5583,
+      5534,
+      5553
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Soviet Military Aircraft Development",
+      "description": "The documents discuss the development and specifications of various Soviet military aircraft prototypes from the pre-World War II and post-World War II eras.",
+      "evidence": {
+        "Document 1": [
+          "The Polikarpov VIT-1 was a Soviet twin-engined multi-purpose aircraft developed before World War II.",
+          "It was decided to revise the design with more powerful engines as the VIT-2."
+        ],
+        "Document 2": [
+          "The Tupolev Tu-80 was a Soviet prototype for a longer-ranged version of the Tupolev Tu-4 bomber built after World War II.",
+          "Work began on the design in February 1948."
+        ],
+        "Document 3": [
+          "The Ilyushin Il-6 was a Soviet long-range bomber developed from the Ilyushin Il-4 during 1942.",
+          "Further development was canceled in 1944."
+        ]
+      }
+    }
+  },
+  "28": {
+    "pos_docs": [
+      8056,
+      8119,
+      8042
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "12th Century Anglo-Norman Nobility",
+      "description": "The documents discuss notable figures and their roles during the reigns of King Stephen and King Henry II in 12th century England.",
+      "evidence": {
+        "Document 1": [
+          "William de Chesney was an Anglo-Norman magnate during the reign of King Stephen of England.",
+          "Chesney controlled a number of royal castles, and served Stephen during some of the king's English military campaigns."
+        ],
+        "Document 2": [
+          "Robert of Ghent was Lord Chancellor of England and Dean of York in the 12th century.",
+          "He was selected as chancellor by King Stephen of England in the mid-1140s."
+        ],
+        "Document 3": [
+          "Gilbert de Lacy was a medieval Anglo-Norman baron in England.",
+          "He had inherited his father's lands in Normandy by 1133, and by 1136 was in England with King Stephen of England."
+        ]
+      }
+    }
+  },
+  "29": {
+    "pos_docs": [
+      1248,
+      1211,
+      1205
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Mycena Mushroom Species",
+      "description": "The documents discuss various species of Mycena mushrooms, highlighting their taxonomy, morphology, and specific characteristics found in Japan.",
+      "evidence": {
+        "Document 1": [
+          "Mycena fuscoaurantiaca is a species of mushroom in the Mycenaceae family.",
+          "The mushroom was first collected by Japanese mycologist Haruki Takahashi in 1999."
+        ],
+        "Document 2": [
+          "Mycena clariviolacea is a mushroom in the Mycenaceae family.",
+          "The mushroom was first collected by Japanese mycologist Haruki Takahashi in 2000."
+        ],
+        "Document 3": [
+          "Mycena intersecta is a species of mushroom in the Mycenaceae family.",
+          "The mushroom was first collected by Japanese mycologist Haruki Takahashi in 1999."
+        ]
+      }
+    }
+  },
+  "30": {
+    "pos_docs": [
+      8605,
+      8637,
+      8653
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "African Nations at Olympics",
+      "description": "This topic covers the participation of African nations in the Summer Olympics, focusing on their athletes, events, and historical context.",
+      "evidence": {
+        "Document 1": [
+          "Benin took part in the 2008 Summer Olympics, which were held in Beijing, China.",
+          "Five athletes from Benin were selected to compete in the 2008 games."
+        ],
+        "Document 2": [
+          "Mauritania competed at the 2008 Summer Olympics which was held in Beijing, China.",
+          "The delegation included two track and field athletes, Souleymane Ould Chebal and Bounkou Camara."
+        ]
+      }
+    }
+  },
+  "31": {
+    "pos_docs": [
+      13169,
+      13175,
+      13128
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Bach Church Cantatas",
+      "description": "The documents discuss various church cantatas composed by Johann Sebastian Bach, highlighting their liturgical significance, structure, and historical context.",
+      "evidence": {
+        "Document 1": [
+          "BWV 136 is a church cantata by Johann Sebastian Bach.",
+          "The cantata is structured in six movements."
+        ],
+        "Document 2": [
+          "BWV 116 is a church cantata written by Johann Sebastian Bach in 1724.",
+          "Bach scored the cantata for four vocal soloists and a Baroque instrumental ensemble."
+        ],
+        "Document 3": [
+          "BWV 112 is a cantata by Johann Sebastian Bach for the second Sunday after Easter.",
+          "Bach structured the work in five movements."
+        ]
+      }
+    }
+  },
+  "32": {
+    "pos_docs": [
+      873,
+      1064,
+      1005
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Indian Film Industry",
+      "description": "This topic encompasses the contributions and careers of various notable figures in the Indian film industry, including actors, directors, and screenwriters.",
+      "evidence": {
+        "Document 1": [
+          "Cottam is a screenwriter, actor, producer and film director.",
+          "Cottam directed short films along a topical series called 'Dirty Little Shorts'."
+        ],
+        "Document 2": [
+          "Taapsee Pannu is an Indian model and actress, who mainly works in the South Indian film industry.",
+          "She has appeared in a number of critically acclaimed films such as Aadukalam, Vastadu Naa Raju and Mr. Perfect."
+        ],
+        "Document 3": [
+          "Vishal Bhardwaj is an Indian film director, screenwriter, producer, music composer and playback singer.",
+          "He is known for his work in Hindi cinema, and is the recipient of a Filmfare Award and seven National Film Awards."
+        ]
+      }
+    }
+  },
+  "33": {
+    "pos_docs": [
+      13680,
+      13675,
+      13677
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Philosophical Arguments for God",
+      "description": "This topic encompasses various philosophical arguments that seek to establish the existence of God through reasoning and moral considerations.",
+      "evidence": {
+        "Document 1": [
+          "An ontological argument is a philosophical argument for the existence of God that uses ontology.",
+          "Anselm defined God as 'that than which nothing greater can be conceived'."
+        ],
+        "Document 3": [
+          "The argument from morality is an argument for the existence of God.",
+          "Kant argued that the goal of humanity is to achieve perfect happiness and virtue."
+        ]
+      }
+    }
+  },
+  "34": {
+    "pos_docs": [
+      13743,
+      8052,
+      13714
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Pioneering Women in Medicine",
+      "description": "The documents highlight the achievements and contributions of pioneering women in the field of medicine and toxicology.",
+      "evidence": {
+        "Document 1": [
+          "Frances McConnell-Mills was an American toxicologist and the first woman to be appointed Denver's city toxicologist.",
+          "She specialized in the fields of toxicology and forensic pathology, testifying in many high-profile criminal cases."
+        ],
+        "Document 2": [
+          "Hedwig Potthast was the private secretary and mistress of Heinrich Himmler, providing insight into the complexities of women's roles during historical events."
+        ],
+        "Document 3": [
+          "Helen Mayo was an Australian medical doctor and medical educator, co-founding the School for Mothers and advocating for infant health."
+        ]
+      }
+    }
+  },
+  "35": {
+    "pos_docs": [
+      3949,
+      3971,
+      11179
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Electrical Filter Design",
+      "description": "The documents discuss concepts related to the design and analysis of electrical filters and their properties.",
+      "evidence": {
+        "Document 1": [
+          "Prototype filters are electronic filter designs that are used as a template to produce a modified filter design for a particular application.",
+          "They are most often seen in regard to electronic filters and especially linear analogue passive filters."
+        ],
+        "Document 2": [
+          "An antimetric electrical network is an electrical network that exhibits anti-symmetrical electrical properties.",
+          "References to symmetry and antimetry of a network usually refer to the input impedances of a two-port network when correctly terminated."
+        ]
+      }
+    }
+  },
+  "36": {
+    "pos_docs": [
+      2471,
+      2617,
+      5268
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Naval Engagements in the French Revolutionary Wars",
+      "description": "This topic encompasses the various naval battles and engagements involving British and French forces during the French Revolutionary Wars, highlighting their strategic significance and outcomes.",
+      "evidence": {
+        "Document 1": [
+          "The Action of 26 April 1797 was a minor naval engagement during the French Revolutionary Wars.",
+          "The British vessels... were significantly more powerful than the Spanish frigates."
+        ],
+        "Document 2": [
+          "The Action of 9 February 1799 was a minor naval engagement of the French Revolutionary Wars.",
+          "Prudente was operating off South Africa, attacking British trade... when the ship was discovered by British frigate HMS Daedalus."
+        ]
+      }
+    }
+  },
+  "37": {
+    "pos_docs": [
+      3836,
+      3839,
+      3792
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "The Boat Race History",
+      "description": "A historical overview of the annual rowing competition between the Universities of Oxford and Cambridge.",
+      "evidence": {
+        "Document 1": [
+          "The Boat Race is an annual side-by-side rowing race between crews from the Universities of Oxford and Cambridge along the River Thames.",
+          "The race was first held in 1829, and since 1845 has taken place on the 4.2-mile (6.8 km) Championship Course on the River Thames in southwest London."
+        ],
+        "Document 2": [
+          "The Boat Race is an annual side-by-side rowing race between crews from the Universities of Oxford and Cambridge along the River Thames.",
+          "The rivalry is a major point of honour between the two universities, as of 2014 it is followed throughout the United Kingdom and broadcast worldwide."
+        ],
+        "Document 3": [
+          "Held annually, the Boat Race is a side-by-side rowing race between crews from the Universities of Oxford and Cambridge along the River Thames.",
+          "The rivalry is a major point of honour between the two universities; it is followed throughout the United Kingdom and, as of 2015, broadcast worldwide."
+        ]
+      }
+    }
+  },
+  "38": {
+    "pos_docs": [
+      5633,
+      693,
+      5763
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "State Highways in Delaware",
+      "description": "This topic covers the state highways in Delaware, including their routes, designations, and historical development.",
+      "evidence": {
+        "Document 1": [
+          "Delaware Route 30 is a state highway in Sussex County, Delaware.",
+          "DE 30 was first designated by 1938 to connect DE 24 in Millsboro to DE 5 in Milton."
+        ],
+        "Document 3": [
+          "Delaware Route 404 is a major state highway in Sussex County, Delaware that spans the width of the state.",
+          "DE 404 was first designated by 1936 to run from the Maryland border to DE 18 southeast of Bridgeville."
+        ]
+      }
+    }
+  },
+  "39": {
+    "pos_docs": [
+      218,
+      170,
+      179
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Shark and Ray Species",
+      "description": "The documents discuss various species of sharks and rays, their habitats, behaviors, reproductive methods, and conservation statuses.",
+      "evidence": {
+        "Document 1": [
+          "The mangrove whipray or whitetail stingray ( Himantura granulata ) is a species of stingray in the family Dasyatidae.",
+          "The International Union for Conservation of Nature ( IUCN ) has assessed it as Near Threatened globally."
+        ],
+        "Document 2": [
+          "The banded houndshark ( Triakis scyllium ) is a species of houndshark, in the family Triakidae.",
+          "The International Union for Conservation of Nature ( IUCN ) has listed it under Least Concern."
+        ],
+        "Document 3": [
+          "The Australian weasel shark ( Hemigaleus australiensis ) is an uncommon species of ground shark in the family Hemigaleidae.",
+          "Thus, it has been listed as Least Concern by the International Union for Conservation of Nature ( IUCN )."
+        ]
+      }
+    }
+  },
+  "40": {
+    "pos_docs": [
+      14111,
+      14112,
+      12916
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Evolutionary Adaptations in Organisms",
+      "description": "This topic encompasses the various evolutionary adaptations and strategies organisms employ for survival and reproduction in response to environmental pressures.",
+      "evidence": {
+        "Document 1": [
+          "Worker policing is a behavior seen in colonies of social hymenopterans whereby worker females eat or remove eggs that have been laid by other workers rather than those laid by a queen.",
+          "Worker policing has been suggested as a form of coercion to promote the evolution of altruistic behavior in eusocial insect societies."
+        ],
+        "Document 2": [
+          "Plant defense against herbivory or host-plant resistance describes a range of adaptations evolved by plants which improve their survival and reproduction by reducing the impact of herbivores.",
+          "Plants can sense being touched, and they can use several strategies to defend against damage caused by herbivores."
+        ],
+        "Document 3": [
+          "Entoprocta is a phylum of mostly sessile aquatic animals, ranging from 0.1 to 7 millimetres long.",
+          "Some species eject unfertilized ova into the water, while others keep their ova in brood chambers until they hatch."
+        ]
+      }
+    }
+  },
+  "41": {
+    "pos_docs": [
+      3354,
+      3386,
+      3320
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Australian Infantry Battalions",
+      "description": "The documents discuss various infantry battalions of the Australian Army, focusing on their histories, formations, and roles during the World Wars.",
+      "evidence": {
+        "Document 1": [
+          "The 32nd Battalion was an infantry battalion of the Australian Army.",
+          "It served in France and Belgium during the First World War."
+        ],
+        "Document 2": [
+          "The 2/6th Battalion was an infantry battalion of the Australian Army that served during the Second World War.",
+          "The battalion formed part of the 6th Division and was among the first troops raised by Australia during the war."
+        ],
+        "Document 3": [
+          "The 26th Battalion was an infantry battalion of the Australian Army.",
+          "It fought at Gallipoli in the latter stages of that campaign."
+        ]
+      }
+    }
+  },
+  "42": {
+    "pos_docs": [
+      8411,
+      7723,
+      8330
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Video Game Fighting Mechanics",
+      "description": "This topic encompasses various fighting games that feature characters from popular franchises engaging in combat using unique mechanics and gameplay styles.",
+      "evidence": {
+        "Document 1": [
+          "crossover fighting game developed and published by Capcom",
+          "players select a team of characters from the Marvel and Capcom universes to engage in combat"
+        ],
+        "Document 2": [
+          "go-kart racing game developed and published by Nintendo",
+          "pits them against each other as they race in karts on tracks based on locations in the Mario series"
+        ],
+        "Document 3": [
+          "3-D cel-shaded fighting game developed by Eighting",
+          "players pit two characters from the Naruto manga and anime series against each other"
+        ]
+      }
+    }
+  },
+  "43": {
+    "pos_docs": [
+      3739,
+      9526,
+      9520
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Political Elections and Parties",
+      "description": "This topic encompasses various political elections and the parties involved in them, focusing on their candidates, campaign dynamics, and electoral outcomes.",
+      "evidence": {
+        "Document 1": [
+          "The Nation Alliance Party was a minor political party in British Columbia, Canada.",
+          "The party sought to promote multiculturalism, advocate for rights of ethnic minorities and recent immigrants."
+        ],
+        "Document 2": [
+          "The 2013 Pittsburgh mayoral election took place on November 5, 2013.",
+          "Democrat Bill Peduto was elected the 60th Mayor of Pittsburgh, Pennsylvania."
+        ],
+        "Document 3": [
+          "An election for the Speaker of the U.S. House of Representatives took place on October 29, 2015.",
+          "The election was necessitated by the announcement of Speaker John Boehner's resignation."
+        ]
+      }
+    }
+  },
+  "44": {
+    "pos_docs": [
+      10958,
+      10939,
+      10931
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Pulp Magazine History",
+      "description": "The topic encompasses the history and characteristics of pulp magazines, particularly in the science fiction and weird fiction genres during the mid-20th century.",
+      "evidence": {
+        "Document 1": [
+          "Strange Stories was a pulp magazine which ran for thirteen issues from 1939 to 1941.",
+          "It ceased publication in 1941 when Weisinger left to edit Superman comic books."
+        ],
+        "Document 2": [
+          "Two Complete Science-Adventure Books was a pulp science fiction magazine, published by Fiction House, which lasted for eleven issues between 1950 and 1954.",
+          "The magazine folded in 1954, almost at the end of the pulp era."
+        ],
+        "Document 3": [
+          "Out of This World Adventures was a pulp magazine which published two issues, in July and December 1950.",
+          "Sales were weak, and after two issues Avon decided to cancel it."
+        ]
+      }
+    }
+  },
+  "45": {
+    "pos_docs": [
+      11324,
+      10250,
+      11335
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Diving Decompression Practices",
+      "description": "The documents discuss the processes, equipment, and safety protocols related to decompression in diving, focusing on the management of inert gases and the ascent procedures required to prevent decompression sickness.",
+      "evidence": {
+        "Document 1": [
+          "The practice of decompression by divers comprises the planning and monitoring of the profile indicated by the algorithms or tables of the chosen decompression model",
+          "Omission of decompression theoretically required for a dive profile exposes the diver to significantly higher risk of symptomatic decompression sickness."
+        ],
+        "Document 2": [
+          "A diving cylinder, scuba tank or diving tank is a gas cylinder used to store and transport the high pressure breathing gas required by a scuba set",
+          "Cylinders provide gas to the diver through the demand valve of a diving regulator or the breathing loop of a diving rebreather."
+        ],
+        "Document 3": [
+          "The decompression of a diver is the reduction in ambient pressure experienced during ascent from depth",
+          "It is also the process of elimination of dissolved inert gases from the diver's body, which occurs during the ascent."
+        ]
+      }
+    }
+  },
+  "46": {
+    "pos_docs": [
+      3723,
+      3726,
+      3448
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Nationalism in Eastern Europe",
+      "description": "The documents discuss various forms of nationalism in Eastern Europe, particularly focusing on German nationalism and its impact on Polish identity and resistance during historical conflicts.",
+      "evidence": {
+        "1": [
+          "German Eastern Marches Society was a German radical, extremely nationalist xenophobic organization founded in 1894.",
+          "Its main aims were the promotion of Germanization of Poles living in Prussia and destruction of Polish national identity."
+        ],
+        "2": [
+          "German nationalism arose in the 19th century as a nationalist movement amongst the German-speaking population of the Austro-Hungarian Empire.",
+          "Several political parties and groups have expressed pan-German nationalist sentiment."
+        ]
+      }
+    }
+  },
+  "47": {
+    "pos_docs": [
+      11093,
+      11127,
+      10977
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "The X-Files Episodes",
+      "description": "This topic encompasses key episodes from the science fiction television series The X-Files, focusing on the investigations of paranormal phenomena by FBI agents.",
+      "evidence": {
+        "Document 1": [
+          "The episode helps explore the series ' overarching mythology.",
+          "The show centers on FBI special agents Fox Mulder and Dana Scully who work on cases linked to the paranormal."
+        ],
+        "Document 2": [
+          "The series centers on FBI special agents Dana Scully and her new partner John Doggett.",
+          "Scully, Doggett, and Walter Skinner discover several returned alien abductees."
+        ],
+        "Document 3": [
+          "The episode helps to explore the series ' overarching mythology.",
+          "The show centers on FBI special agents who work on cases linked to the paranormal."
+        ]
+      }
+    }
+  },
+  "48": {
+    "pos_docs": [
+      9062,
+      6677,
+      6744
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Tropical Cyclone Seasons",
+      "description": "The documents discuss various tropical cyclone seasons and their characteristics in different oceanic regions.",
+      "evidence": {
+        "Document 1": [
+          "Tropical Storm Emilia was a rare tropical cyclone that affected the Baja California peninsula in July 2006.",
+          "The storm brought tropical storm force winds and precipitation to the southwestern Mexican coastline."
+        ],
+        "Document 2": [
+          "The 1994 \u2013 95 South-West Indian Ocean cyclone season was fairly active, with storms forming regularly from October through April.",
+          "Most of the storms originated from the intertropical convergence zone."
+        ],
+        "Document 3": [
+          "The 1992 \u2013 93 South-West Indian Ocean cyclone season lasted longer than normal, with the first storm Aviona forming on September 27.",
+          "Tropical cyclones in this basin are monitored by the Regional Specialised Meteorological Centre in R\u00e9union."
+        ]
+      }
+    }
+  },
+  "49": {
+    "pos_docs": [
+      302,
+      292,
+      263
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Civic and Commercial Developments",
+      "description": "This topic encompasses various civic and commercial developments that serve community and retail functions in urban settings.",
+      "evidence": {
+        "Document 1": [
+          "Willow Grove Park Mall is a three-story shopping mall located in the unincorporated community of Willow Grove",
+          "The mall contains over 130 stores along with several restaurants including The Cheesecake Factory."
+        ],
+        "Document 2": [
+          "The Oregon Civic Justice Center is a three-story former library building on the campus of Willamette University",
+          "the building now houses several programs of Willamette University College of Law."
+        ],
+        "Document 3": [
+          "The Hillsboro Civic Center is a government-built, mixed-use development in downtown Hillsboro, Oregon",
+          "The complex includes retail space, public plazas, and residential housing."
+        ]
+      }
+    }
+  }
+}

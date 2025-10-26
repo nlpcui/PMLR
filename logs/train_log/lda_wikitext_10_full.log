@@ -1,0 +1,44 @@
+<Basic Info>
+| LDAModel (current version: 0.13.0)
+| 14290 docs, 14090633 words
+| Total Vocabs: 15000, Used Vocabs: 15000
+| Entropy of words: 8.60627
+| Entropy of term-weighted words: 8.60627
+| Removed Vocabs: <NA>
+|
+<Training Info>
+| Iterations: 370, Burn-in steps: 0
+| Optimization Interval: 10
+| Log-likelihood per word: -8.47434
+|
+<Initial Parameters>
+| tw: TermWeight.ONE
+| min_cf: 0 (minimum collection frequency of words)
+| min_df: 0 (minimum document frequency of words)
+| rm_top: 0 (the number of top words to be removed)
+| k: 10 (the number of topics between 1 ~ 32767)
+| alpha: [0.1] (hyperparameter of Dirichlet distribution for document-topic, given as a single `float` in case of symmetric prior and as a list with length `k` of `float` in case of asymmetric prior.)
+| eta: 0.01 (hyperparameter of Dirichlet distribution for topic-word)
+| seed: 1666056192 (random seed)
+| trained in version 0.13.0
+|
+<Parameters>
+| alpha (Dirichlet prior on the per-document topic distributions)
+|  [0.0889143  0.14347242 0.07395391 0.05838998 0.17655998 0.13647729
+|   0.02803029 0.18697527 0.06158397 0.06790065]
+| eta (Dirichlet prior on the per-topic word distribution)
+|  0.01
+|
+<Topics>
+| #0 (1437619) : war ship ships british aircraft
+| #1 (1256537) : century city building built new
+| #2 (1455331) : song album music number video
+| #3 (633377) : road highway route line state
+| #4 (1498135) : book work use published time
+| #5 (2546939) : film episode game series character
+| #6 (546836) : storm tropical hurricane winds depression
+| #7 (2565078) : government war years later state
+| #8 (1326146) : team season game match second
+| #9 (824635) : species found water known long
+|
+

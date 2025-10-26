@@ -7,6 +7,14 @@ local_config = {
     },
     'output': {
         'topic_models'
+    },
+    'embeddings': {
+        'wikitext': 'data/wikitext/train.metadata.embeddings.jsonl.all-MiniLM-L6-v2.parquet',
+        'bill': 'data/bill/train.metadata.embeddings.jsonl.all-MiniLM-L6-v2.parquet'
+    },
+    'vocab': {
+        'wikitext': 'data/wikitext/vocab.json',
+        'bill': 'data/bill/vocab.json'
     }
 }
 

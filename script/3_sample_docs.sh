@@ -1,32 +1,43 @@
 #!/bin/bash
 
-# wikitext
-# top k
-#python -m src.sample_docs --dataset=wikitext --strategy=top_k --pos_k=5 --neg_k=0 --topic_model=lda --num_topics=25 --output_path=wikitext_lda_25_topk_pos5_neg0.json
-#exit 1
-#python -m src.sample_docs --dataset=wikitext --strategy=top_k --pos_k=10 --neg_k=0 --topic_model=lda --num_topics=25 --output_path=wikitext_lda_25_topk_pos10_neg0.json
-#python -m src.sample_docs --dataset=wikitext --strategy=top_k --pos_k=15 --neg_k=0 --topic_model=lda --num_topics=25 --output_path=wikitext_lda_25_topk_pos15_neg0.json
-#python -m src.sample_docs --dataset=wikitext --strategy=top_k --pos_k=20 --neg_k=0 --topic_model=lda --num_topics=25 --output_path=wikitext_lda_25_topk_pos20_neg0.json
-python -m src.sample_docs --dataset=wikitext --strategy=top_k --pos_k=50 --neg_k=0 --topic_model=lda --num_topics=25 --output_path=wikitext_lda_25_topk_pos50_neg0.json
+mkdir -p output/sampled_docs
+mkdir -p logs
 
-# weighted
-#for i in 1 2 3
-#do
-#  python -m src.sample_docs --dataset=wikitext --strategy=weighted --pos_k=5 --neg_k=0 --topic_model=lda --num_topics=25 --output_path=wikitext_lda_25_weighted_pos5_neg0_${i}.json
-#  python -m src.sample_docs --dataset=wikitext --strategy=weighted --pos_k=10 --neg_k=0 --topic_model=lda --num_topics=25 --output_path=wikitext_lda_25_weighted_pos10_neg0_${i}.json
-#  python -m src.sample_docs --dataset=wikitext --strategy=weighted --pos_k=15 --neg_k=0 --topic_model=lda --num_topics=25 --output_path=wikitext_lda_25_weighted_pos15_neg0_${i}.json
-#  python -m src.sample_docs --dataset=wikitext --strategy=weighted --pos_k=20 --neg_k=0 --topic_model=lda --num_topics=25 --output_path=wikitext_lda_25_weighted_pos20_neg0_${i}.json
-#done
+datasets=("wikitext" "bill")
+models=("lda" "ctm" "bertopic")
+topic_nums=(25 50 100 200)
+pos_k_combos=(3 7 10)
+neg_k_combos=(0 3)
 
-python -m src.sample_docs --dataset=wikitext --strategy=weighted --pos_k=50 --neg_k=0 --topic_model=lda --num_topics=25 --output_path=wikitext_lda_25_weighted_pos50_neg0_1.json
+LOGFILE="logs/sample_docs_errors.log"
+> $LOGFILE
 
-# random
-#for i in 1 2 3
-#do
-#  python -m src.sample_docs --dataset=wikitext --strategy=weighted --pos_k=5 --neg_k=0 --topic_model=lda --num_topics=25 --output_path=wikitext_lda_25_random_pos5_neg0_${i}.json
-#  python -m src.sample_docs --dataset=wikitext --strategy=weighted --pos_k=10 --neg_k=0 --topic_model=lda --num_topics=25 --output_path=wikitext_lda_25_random_pos10_neg0_${i}.json
-##  python -m src.sample_docs --dataset=wikitext --strategy=weighted --pos_k=15 --neg_k=0 --topic_model=lda --num_topics=25 --output_path=wikitext_lda_25_random_pos15_neg0_${i}.json
-#  python -m src.sample_docs --dataset=wikitext --strategy=weighted --pos_k=20 --neg_k=0 --topic_model=lda --num_topics=25 --output_path=wikitext_lda_25_random_pos20_neg0_${i}.json
-#done
+job=0
+for dataset in "${datasets[@]}"; do
+  for model in "${models[@]}"; do
+    for k in "${topic_nums[@]}"; do
+      for pos_k in "${pos_k_combos[@]}"; do
+        for neg_k in "${neg_k_combos[@]}"; do
+          for strategy in top_k weighted random; do
+            runs=1
+            [[ "$strategy" != "top_k" ]] && runs=3
+            for run in $(seq 1 $runs); do
+              job=$((job+1))
+              echo "[$job] $model | $dataset | K=$k | strategy=$strategy | pos_k=$pos_k | neg_k=$neg_k | run=$run"
+              python -m src.sample_docs \
+                --dataset=$dataset \
+                --strategy=$strategy \
+                --pos_k=$pos_k \
+                --neg_k=$neg_k \
+                --topic_model=$model \
+                --num_topics=$k \
+                --output_path=output/sampled_docs/${dataset}_${model}_${k}_${strategy}_pos${pos_k}_neg${neg_k}_${run}.json 2>> $LOGFILE
+            done
+          done
+        done
+      done
+    done
+  done
+done
 
-python -m src.sample_docs --dataset=wikitext --strategy=weighted --pos_k=50 --neg_k=0 --topic_model=lda --num_topics=25 --output_path=wikitext_lda_25_random_pos50_neg0_1.json
+echo "Sampling complete. Check $LOGFILE for errors."

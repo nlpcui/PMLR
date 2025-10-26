@@ -1,0 +1,266 @@
+<Basic Info>
+| LDAModel (current version: 0.13.0)
+| 14290 docs, 14090633 words
+| Total Vocabs: 15000, Used Vocabs: 15000
+| Entropy of words: 8.60627
+| Entropy of term-weighted words: 8.60627
+| Removed Vocabs: <NA>
+|
+<Training Info>
+| Iterations: 570, Burn-in steps: 0
+| Optimization Interval: 10
+| Log-likelihood per word: -8.46591
+|
+<Initial Parameters>
+| tw: TermWeight.ONE
+| min_cf: 0 (minimum collection frequency of words)
+| min_df: 0 (minimum document frequency of words)
+| rm_top: 0 (the number of top words to be removed)
+| k: 200 (the number of topics between 1 ~ 32767)
+| alpha: [0.1] (hyperparameter of Dirichlet distribution for document-topic, given as a single `float` in case of symmetric prior and as a list with length `k` of `float` in case of asymmetric prior.)
+| eta: 0.01 (hyperparameter of Dirichlet distribution for topic-word)
+| seed: 948131977 (random seed)
+| trained in version 0.13.0
+|
+<Parameters>
+| alpha (Dirichlet prior on the per-document topic distributions)
+|  [0.01753423 0.00819633 0.00842829 0.01935178 0.01705353 0.11550435
+|   0.04323483 0.006867   0.0240391  0.02377764 0.00812395 0.01933003
+|   0.02401591 0.0060225  0.03624457 0.02705588 0.02042165 0.01161187
+|   0.01203017 0.01858835 0.01955413 0.03140837 0.02190044 0.03584094
+|   0.0143874  0.02233713 0.16730048 0.02698492 0.04251868 0.00910804
+|   0.01816473 0.03268923 0.023526   0.01822182 0.00581361 0.01356273
+|   0.00632618 0.00838229 0.00640364 0.00575147 0.05567697 0.01526127
+|   0.01632991 0.01902826 0.03350944 0.0154683  0.00967639 0.04101637
+|   0.01460687 0.00656    0.02400364 0.01550073 0.01144445 0.02421852
+|   0.01718351 0.01791871 0.03829898 0.01311908 0.03141303 0.07126333
+|   0.02551405 0.00733194 0.01754222 0.0084862  0.06897929 0.0809817
+|   0.00620807 0.03461386 0.0084416  0.14357403 0.00844538 0.02445124
+|   0.01363179 0.0104119  0.01126241 0.02422071 0.03574084 0.01459071
+|   0.02226519 0.02457119 0.01267424 0.03970034 0.01503682 0.01219423
+|   0.01461658 0.0101987  0.01836175 0.01450489 0.01367362 0.00684906
+|   0.01949962 0.01253123 0.0070195  0.00727674 0.04618651 0.00678037
+|   0.00712174 0.0108066  0.00843898 0.00845503 0.02199119 0.03170314
+|   0.00805082 0.01345107 0.04508409 0.01645311 0.01044838 0.0155869
+|   0.0134019  0.00740497 0.01691653 0.00835273 0.17563309 0.01266066
+|   0.03707851 0.12780212 0.02005029 0.02421444 0.00852081 0.01772733
+|   0.00938882 0.00872728 0.13763465 0.02414879 0.00872892 0.02419512
+|   0.01847697 0.00636158 0.02227131 0.01306155 0.04541298 0.01682189
+|   0.0168771  0.07107635 0.05702022 0.01640442 0.03303715 0.03131665
+|   0.01046887 0.00790622 0.00931111 0.01026272 0.02145204 0.00796135
+|   0.02653937 0.01843431 0.01828115 0.01741443 0.10680423 0.00835773
+|   0.00672056 0.01034968 0.00881192 0.0063898  0.0472258  0.01043105
+|   0.01587272 0.01735908 0.00947285 0.0088541  0.03354844 0.02349047
+|   0.02598644 0.00704426 0.00954362 0.00710182 0.00723323 0.03316255
+|   0.01071271 0.01555349 0.00732467 0.12019009 0.0179228  0.01925158
+|   0.00848993 0.0087905  0.01459098 0.05134258 0.0145547  0.00961265
+|   0.01268683 0.03552148 0.01440592 0.02019432 0.01136877 0.01074091
+|   0.00872746 0.02434883 0.06562759 0.01912154 0.14904553 0.00636131
+|   0.09010087 0.03217701 0.01610213 0.00671975 0.1059586  0.00701434
+|   0.0113969  0.01910976]
+| eta (Dirichlet prior on the per-topic word distribution)
+|  0.01
+|
+<Topics>
+| #0 (43611) : food wine meat salt beer
+| #1 (17746) : dean sam angel mars max
+| #2 (33981) : creek watershed river fish feet
+| #3 (126845) : ship guns tons ships long
+| #4 (86282) : species birds bird breeding range
+| #5 (201034) : different use example number form
+| #6 (85998) : bridge construction project million work
+| #7 (22074) : motorway road croatia traffic route
+| #8 (145889) : album music songs released release
+| #9 (42353) : online internet website twitter video
+| #10 (22230) : race won track adams racing
+| #11 (21785) : white black african american americans
+| #12 (59284) : church christian god religious christ
+| #13 (27299) : jack liz tracy rock nbc
+| #14 (123839) : political movement anti government social
+| #15 (71259) : published work works wrote writing
+| #16 (149358) : storm damage hurricane winds rainfall
+| #17 (81605) : inch guns inches feet ships
+| #18 (72652) : battalion war following training units
+| #19 (83460) : city population area county largest
+| #20 (84349) : law court case act legal
+| #21 (146619) : episode series season viewers million
+| #22 (48003) : series television broadcast bbc episodes
+| #23 (81370) : government tax federal program organization
+| #24 (83584) : film million released release box
+| #25 (45438) : children age use drug human
+| #26 (342417) : said like good way people
+| #27 (27324) : california new_york new_york_city united_states american
+| #28 (144941) : men troops forces attack force
+| #29 (24891) : bank billion banks investment business
+| #30 (164170) : game player version players games
+| #31 (143601) : film films director movie production
+| #32 (50261) : design company product sales market
+| #33 (48906) : play theatre stage musical production
+| #34 (32032) : glee cyrus club rachel number
+| #35 (58944) : character relationship storyline love soap
+| #36 (16474) : parker stone south_park stan kyle
+| #37 (31854) : ride coaster train roller riders
+| #38 (7125) : johnson young jane doll brien
+| #39 (19666) : chess jones game fischer match
+| #40 (91105) : according known account century sources
+| #41 (75680) : party minister election government prime
+| #42 (26392) : factory iron machine mill mills
+| #43 (86308) : aircraft air squadron wing flying
+| #44 (95780) : character characters series batman man
+| #45 (74460) : species body like animals water
+| #46 (30798) : rock guitar music metal hero
+| #47 (138380) : war military control army power
+| #48 (102179) : division regiment brigade german infantry
+| #49 (97542) : match runs test innings england
+| #50 (43681) : art painting work museum collection
+| #51 (58356) : british massachusetts boston american militia
+| #52 (24335) : text john edition manuscript manuscripts
+| #53 (27541) : day time stop hand hold
+| #54 (180949) : tropical storm depression cyclone system
+| #55 (51838) : story stories comic series fiction
+| #56 (92400) : park building site opened area
+| #57 (23532) : scotland scottish james ireland wales
+| #58 (36784) : french france paris dutch italy
+| #59 (96351) : found known years described similar
+| #60 (58572) : century wall site stone roman
+| #61 (75884) : game points nba season team
+| #62 (56236) : god human nature world philosophy
+| #63 (37155) : olympics athletes games olympic summer
+| #64 (98824) : praised received reviews critics described
+| #65 (148854) : years percent year increased large
+| #66 (44021) : lap race second lead laps
+| #67 (187999) : number chart single week song
+| #68 (27234) : power formula electric frequency circuit
+| #69 (158531) : january december march november october
+| #70 (97522) : championship match team wrestling tag
+| #71 (62468) : police government people violence rights
+| #72 (19221) : canada canadian ontario montreal anderson
+| #73 (11889) : paul norway swedish norwegian sweden
+| #74 (38140) : class locomotives locomotive cars built
+| #75 (43349) : women men gay woman sex
+| #76 (96792) : war general military commander command
+| #77 (48313) : president bush presidential kennedy clinton
+| #78 (78022) : role appeared played starred career
+| #79 (80720) : lake mountain park area ice
+| #80 (39419) : west hip hop usher rap
+| #81 (112046) : building built tower buildings hall
+| #82 (79722) : game world games player japan
+| #83 (38550) : henry king england edward bishop
+| #84 (70412) : election campaign republican state vote
+| #85 (24852) : grant indiana lincoln davis war
+| #86 (24749) : virginia washington maryland pennsylvania philadelphia
+| #87 (49655) : war unit training brigade combat
+| #88 (66270) : line trains station service rail
+| #89 (35691) : harrison jackson beatles album world
+| #90 (78221) : season series episode episodes character
+| #91 (40037) : pressure air wind weather surface
+| #92 (90944) : game yard yards season touchdown
+| #93 (34458) : michael office jim dwight pam
+| #94 (72615) : london british england sir britain
+| #95 (16979) : peter fringe walter olivia fox
+| #96 (74598) : match event triple ring raw
+| #97 (41939) : boat submarine british sank german
+| #98 (74963) : shark species sharks long fin
+| #99 (36303) : tournament open final won round
+| #100 (37006) : war memorial statue monument cemetery
+| #101 (92879) : police murder trial case crime
+| #102 (32379) : clark bach movement movements major
+| #103 (26753) : chinese china singapore han indonesian
+| #104 (59643) : best award awards won year
+| #105 (26027) : contest final competition winner countries
+| #106 (28464) : space mission earth moon apollo
+| #107 (50080) : state congress states bill constitution
+| #108 (101203) : fleet german war ships ship
+| #109 (34098) : doctor episode amy series time
+| #110 (89461) : team season michigan coach big
+| #111 (63785) : race car team driver drivers
+| #112 (297952) : new time agreed considered following
+| #113 (37262) : nuclear research physics professor work
+| #114 (68037) : school students education schools university
+| #115 (326346) : family life years later father
+| #116 (32584) : mother family child father children
+| #117 (43924) : prison death prisoners killed people
+| #118 (27965) : evolution change study climate species
+| #119 (59286) : army battle cavalry troops war
+| #120 (30104) : horses horse breed breeding riding
+| #121 (26576) : poem poems poetry poet lines
+| #122 (201483) : second time end final fourth
+| #123 (68792) : king emperor son death reign
+| #124 (11861) : frank crash adam cameron tom
+| #125 (26407) : texas florida taylor iowa georgia
+| #126 (27619) : spanish latin mexico mexican spain
+| #127 (27563) : madonna like girl tour singer
+| #128 (36972) : island islands sea bay coast
+| #129 (33222) : language english word words languages
+| #130 (234507) : song album track songs music
+| #131 (22663) : japanese japan korean american philippines
+| #132 (47912) : plants plant species tree trees
+| #133 (192184) : character story find plot tells
+| #134 (111407) : south north area land west
+| #135 (36668) : music lewis blues recorded jazz
+| #136 (66899) : system computer use code systems
+| #137 (52047) : house property built room family
+| #138 (78974) : ship destroyer ships german war
+| #139 (27272) : hungary ottoman hungarian bulgarian andrew
+| #140 (29231) : india indian tamil telugu hindi
+| #141 (23376) : dog breed dogs hair breeds
+| #142 (80203) : ships ship british french fleet
+| #143 (44760) : race oxford cambridge boat blues
+| #144 (91811) : band album group rock live
+| #145 (49487) : native colony indian trade indians
+| #146 (107055) : road route highway north east
+| #147 (45224) : water river power oil dam
+| #148 (189856) : said time later man day
+| #149 (13842) : martin gold rush coins euro
+| #150 (66976) : game season innings era pitched
+| #151 (56127) : beyoncé tour gaga spears rihanna
+| #152 (28075) : persian greek alexander greece athens
+| #153 (38535) : match event impact joe team
+| #154 (89550) : company million business sold year
+| #155 (114696) : season home games baseball league
+| #156 (144121) : hurricane storm tropical september august
+| #157 (67770) : government military war forces country
+| #158 (42924) : music soundtrack game album tracks
+| #159 (57666) : castle century built castles tower
+| #160 (65873) : book published magazine editor isbn
+| #161 (48538) : stadium games sports held festival
+| #162 (76540) : governor state served president elected
+| #163 (70486) : episode mulder scully series files
+| #164 (37808) : church century chapel cathedral parish
+| #165 (14870) : marvel harry spider alice rogers
+| #166 (6664) : smith mark cult kate gordon
+| #167 (111405) : video music dance song remix
+| #168 (84790) : species cap fruit brown stem
+| #169 (89238) : game games video development player
+| #170 (31771) : fighter aircraft pilot squadron flying
+| #171 (165768) : fire time later day hours
+| #172 (28017) : australia australian miller new_zealand victoria
+| #173 (44874) : liquid surface chemical phase water
+| #174 (55199) : released manga series anime story
+| #175 (19950) : fight robinson round hughes boxing
+| #176 (29974) : bond gun shooting agent shot
+| #177 (94902) : love style theme themes use
+| #178 (43092) : temple tradition ritual religious spiritual
+| #179 (44949) : formula function space number matrix
+| #180 (48982) : disney animated animation voice simpsons
+| #181 (103970) : scene filming scenes production filmed
+| #182 (24161) : street avenue bus downtown business
+| #183 (30360) : chicago oregon illinois city portland
+| #184 (47775) : station line railway services trains
+| #185 (52063) : team world won gold medal
+| #186 (47219) : star episode trek enterprise series
+| #187 (36450) : medical hospital care treatment patient
+| #188 (142053) : said stated media public people
+| #189 (46751) : german war polish russian hitler
+| #190 (232820) : years great despite end little
+| #191 (34781) : species ants spiders insects bees
+| #192 (168349) : century early new known late
+| #193 (39540) : light red blue green white
+| #194 (86144) : aircraft engine production speed design
+| #195 (18479) : carey christmas perry mariah holiday
+| #196 (169405) : life time world people way
+| #197 (21621) : force units system newton mass
+| #198 (31059) : arab muslim israel egypt syria
+| #199 (119279) : highway route state road north
+|
+

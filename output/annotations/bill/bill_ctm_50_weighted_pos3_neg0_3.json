@@ -1,0 +1,1284 @@
+{
+  "0": {
+    "pos_docs": [
+      24434,
+      24646,
+      23406
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Tariff Schedule Amendments",
+      "description": "The documents discuss amendments to the Harmonized Tariff Schedule of the United States regarding the suspension of duties on specific chemical compounds.",
+      "evidence": {
+        "Document 1": [
+          "extends the temporary suspension of duty on Phosphinic acid, diethyl-, aluminum salt",
+          "with synergists and encapsulating agents"
+        ],
+        "Document 2": [
+          "modifies the article description of Desmodur RF-E",
+          "extend temporarily the suspension of duty on such article"
+        ],
+        "Document 3": [
+          "extends the temporary suspension of duty on Basic Violet 1"
+        ]
+      }
+    }
+  },
+  "1": {
+    "pos_docs": [
+      12525,
+      21165,
+      12343
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Veteran and Small Business Legislation",
+      "description": "Legislation aimed at supporting service-disabled veterans and small businesses through various federal programs and regulations.",
+      "evidence": {
+        "Document 1": [
+          "amends the Small Business Act to expand the definition of 'small business concern owned and controlled by service-disabled veterans'",
+          "making the eligibility requirements for participation in veteran-owned small business contracting programs consistent for both SBA programs and VA programs."
+        ],
+        "Document 2": [
+          "requires the Federal National Mortgage Association (Fannie Mae) and the Federal Home Loan Mortgage Corporation (Freddie Mac) to establish a program to provide for the refinancing of eligible mortgages.",
+          "defines eligible mortgage as an existing first mortgage made for purchase of, or refinancing of another first mortgage."
+        ],
+        "Document 3": [
+          "requires an offeror with respect to a contract let by a federal agency that is to be awarded pursuant to the negotiated method of procurement to notify the small business that the offeror intends to identify it as a potential subcontractor.",
+          "provides penalties against offerors failing to provide such notification."
+        ]
+      }
+    }
+  },
+  "2": {
+    "pos_docs": [
+      30360,
+      1838,
+      6117
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Regulatory Measures in Telecommunications and Fraud Prevention",
+      "description": "This topic encompasses legislative efforts aimed at regulating telecommunications spectrum usage and protecting vulnerable populations from fraud.",
+      "evidence": {
+        "Document 1": [
+          "Amends the National Telecommunications and Information Administration Organization Act to require the Assistant Secretary for Communications and Information at the Department of Commerce and the Federal Communications Commission (FCC) to inventory each broadband radio spectrum band of frequencies.",
+          "Directs the Assistant Secretary and the FCC to submit to Congress a biennial report containing a recommendation of which bands of inventoried frequencies should be reallocated or made available for shared access."
+        ],
+        "Document 2": [
+          "Amends the federal criminal code to make it a crime to knowingly publish personally identifiable information of another person with the intent to threaten, intimidate, harass, or stalk.",
+          "A violator is subject to criminal penalties\u2014a fine, a prison term of up to five years, or both\u2014and civil liability."
+        ],
+        "Document 3": [
+          "Establishes a separate office within the Federal Trade Commission (FTC) for the prevention of fraud targeting seniors.",
+          "Requires the FTC to disseminate to seniors and their families and caregivers information on mail, telemarketing, television, and Internet fraud targeting seniors."
+        ]
+      }
+    }
+  },
+  "3": {
+    "pos_docs": [
+      1921,
+      2588,
+      2509
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Education Reform Legislation",
+      "description": "This cluster focuses on legislative measures aimed at reforming various aspects of the education system in the United States.",
+      "evidence": {
+        "Document 1": [
+          "Amends the Elementary and Secondary Education Act of 1965 (ESEA) to allow states to include measures of individual or cohort growth over time in determining whether students are making adequate yearly progress (AYP)",
+          "Authorizes the Secretary of Education to award competitive grants to state educational agencies to develop or increase the capacity of data systems for accountability purposes."
+        ],
+        "Document 2": [
+          "Prohibits the Department of Education from providing education funding to any educational agency or institution that allows school personnel to inflict corporal punishment upon a student",
+          "Requires each state to submit a plan to ED that describes how the state eliminates the use of corporal punishment in schools."
+        ],
+        "Document 3": [
+          "Amends the Elementary and Secondary Education Act of 1965 (ESEA) to direct the Secretary of Education to award renewable competitive grants to certain eligible entities",
+          "Sets forth the attributes that are to give such entities grant priority, including their serving or planning to serve a large percentage of low-income students."
+        ]
+      }
+    }
+  },
+  "4": {
+    "pos_docs": [
+      28514,
+      2598,
+      1210
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Tax Relief Legislation",
+      "description": "This cluster encompasses various legislative acts aimed at providing tax relief and support for individuals in specific financial circumstances, particularly related to retirement, education, and professional expenses.",
+      "evidence": {
+        "Document 1": [
+          "Retirement Fairness and Emergency Relief Act of 2008",
+          "waives the 10% additional tax (penalty) under the Internal Revenue Code for early distributions"
+        ],
+        "Document 2": [
+          "amends the Internal Revenue Code",
+          "allow the deduction of professional development expenses"
+        ],
+        "Document 3": [
+          "amends the Internal Revenue Code",
+          "exclude from an employee's gross income, for income tax purposes, qualified student loan payment assistance"
+        ]
+      }
+    }
+  },
+  "5": {
+    "pos_docs": [
+      5108,
+      27123,
+      27899
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Environmental Legislation and Safety",
+      "description": "This cluster focuses on U.S. legislative efforts aimed at improving environmental safety and management through technology and regulatory frameworks.",
+      "evidence": {
+        "Document 1": [
+          "Reducing America's Destructive Atmospheric Risks Act or the RADAR Act",
+          "ensure that each radar conforms with the same standards that apply to radars operated through the National Oceanic and Atmospheric Administration"
+        ],
+        "Document 2": [
+          "Green Chemistry Research and Development Act of 2008",
+          "promote and coordinate federal research, development, education, and technology transfer activities related to green chemistry"
+        ],
+        "Document 3": [
+          "Flood Insurance Market Parity and Modernization Act of 2014",
+          "redefine 'private flood insurance' to include a policy issued by an insurance company"
+        ]
+      }
+    }
+  },
+  "6": {
+    "pos_docs": [
+      18128,
+      16299,
+      16875
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Energy Tax Credits and Regulations",
+      "description": "This cluster discusses various amendments to the Internal Revenue Code related to tax incentives for energy-efficient technologies and fuels.",
+      "evidence": {
+        "Document 1": [
+          "reduces the excise tax on diesel fuel",
+          "reimbusement from the Treasury to the Highway Trust Fund"
+        ],
+        "Document 2": [
+          "tax credit for 10% of the cost of a qualified plug-in hybrid vehicle",
+          "terminates such credit after 2014"
+        ],
+        "Document 3": [
+          "energy tax credit for investment in waste heat to power property",
+          "defines 'waste heat to power property' as property generating electricity through recovery of waste heat"
+        ]
+      }
+    }
+  },
+  "7": {
+    "pos_docs": [
+      31136,
+      27950,
+      26672
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Community Safety and Support Programs",
+      "description": "Legislative measures aimed at enhancing community involvement and support in addressing social issues like gang violence, emergency preparedness, and child welfare.",
+      "evidence": {
+        "Document 1": [
+          "acknowledge and address social conditions such as poverty, homelessness, inadequate educational systems, and limited economic opportunities",
+          "require the Office of Juvenile Justice and Delinquency Prevention to award grants to nonprofit community-based gang intervention agencies"
+        ],
+        "Document 2": [
+          "establish a Community Preparedness Division in the Department of Homeland Security",
+          "coordinate efforts to strengthen community involvement in emergency preparedness, planning, mitigation, response, and recovery"
+        ],
+        "Document 3": [
+          "condition eligibility to receive a state grant for child abuse or neglect prevention and treatment programs on inclusion in the state plan",
+          "train representatives of the state child protective services about identifying and assessing such children"
+        ]
+      }
+    }
+  },
+  "8": {
+    "pos_docs": [
+      29862,
+      30627,
+      6400
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Veterans and Military Affairs",
+      "description": "This topic encompasses issues related to the recognition, benefits, and representation of military personnel and veterans.",
+      "evidence": {
+        "Document 1": [
+          "Honors as a veteran any person entitled to retired pay for nonregular (reserve) service",
+          "Provides that such person shall not be entitled to any benefit by reason of such recognition."
+        ],
+        "Document 2": [
+          "Authorizes a military chaplain, if called upon to lead a prayer outside of a religious service",
+          "to close the prayer according to the dictates of the chaplain's conscience."
+        ],
+        "Document 3": [
+          "Service Members and Communities Count Act of 2012",
+          "Requires the Secretary of Commerce, beginning with the 2020 census, to ensure that all members of the Armed Forces deployed abroad are fully and accurately counted."
+        ]
+      }
+    }
+  },
+  "9": {
+    "pos_docs": [
+      1425,
+      8407,
+      1509
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Abortion Legislation and Rights",
+      "description": "This cluster focuses on various legislative measures related to abortion rights, parental involvement, and protections for vulnerable populations.",
+      "evidence": {
+        "Document 1": [
+          "human life shall be deemed to exist from conception",
+          "protects the rights of human persons between conception and birth"
+        ],
+        "Document 2": [
+          "prohibits, limits, or regulates the performance of abortions",
+          "protect the lives of unborn children"
+        ],
+        "Document 3": [
+          "prohibit transporting a minor child across a state line to obtain an abortion",
+          "requires parental involvement in the minor's abortion decision"
+        ]
+      }
+    }
+  },
+  "10": {
+    "pos_docs": [
+      30238,
+      26274,
+      27007
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Telecommunications Regulation",
+      "description": "This topic encompasses legislative measures aimed at regulating various aspects of telecommunications services and devices in the United States.",
+      "evidence": {
+        "Document 1": [
+          "Interference Protection for Existing Television Band Devices Act of 2007",
+          "requires the FCC to permit fixed location, certified unlicensed devices to use non-licensed television broadcast channels"
+        ],
+        "Document 2": [
+          "Passenger Fee Restructuring Exemptions Act of 2014",
+          "revises aviation security service fee requirements"
+        ],
+        "Document 3": [
+          "Fair Telephone Billing Act of 2012",
+          "amends the Communications Act of 1934 to prohibit local exchange carriers from placing third-party charges on customer bills"
+        ]
+      }
+    }
+  },
+  "11": {
+    "pos_docs": [
+      13857,
+      14114,
+      13463
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Land Conservation Legislation",
+      "description": "Legislation focused on the designation, expansion, and protection of wilderness areas and natural resources in the United States.",
+      "evidence": {
+        "Document 1": [
+          "Expands the boundaries of the Hakalau Forest National Wildlife Refuge in Hawaii",
+          "Permits the Secretary of the Interior to acquire such lands by donation, purchase with donated or appropriated funds, or exchange."
+        ],
+        "Document 2": [
+          "Vests title to real property and equipment acquired using funds provided by a grant",
+          "in accordance with the compensation provisions in this Act."
+        ],
+        "Document 3": [
+          "Designates the following areas in California as wilderness areas",
+          "as components of the National Wilderness Preservation System"
+        ]
+      }
+    }
+  },
+  "12": {
+    "pos_docs": [
+      27972,
+      28006,
+      28020
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Intelligence Authorization Acts",
+      "description": "Legislation authorizing budget and personnel for U.S. intelligence activities across various agencies.",
+      "evidence": {
+        "Document 1": [
+          "Authorizes appropriations for FY2009 for the conduct of intelligence and intelligence-related activities",
+          "Specifies that the amounts authorized and the authorized personnel ceilings as of September 30, 2009, for such activities are those specified in the classified Schedule of Authorizations."
+        ],
+        "Document 2": [
+          "Authorizes appropriations for FY2013 for the conduct of intelligence and intelligence-related activities",
+          "Allows the Director of National Intelligence (DNI), with the approval of the Director of the Office of Management and Budget (OMB), to authorize employment of civilian personnel in excess (by up to 3%) of the number authorized for FY2013."
+        ],
+        "Document 3": [
+          "Authorizes appropriations for FY2013 for the conduct of intelligence and intelligence-related activities",
+          "Specifies that the amounts authorized above and the authorized personnel ceilings for such activities are those specified in the classified Schedule of Authorizations."
+        ]
+      }
+    }
+  },
+  "13": {
+    "pos_docs": [
+      32133,
+      2828,
+      4596
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Sustainable Water Management",
+      "description": "This cluster of documents focuses on legislative measures aimed at promoting sustainable practices in water resource management and aquaculture.",
+      "evidence": {
+        "Document 1": [
+          "establish an Office of Sustainable Offshore Aquaculture",
+          "conduct a research program to guide the sustainable development of offshore aquaculture"
+        ],
+        "Document 2": [
+          "complete a feasibility study of alternatives to augment water supplies",
+          "include any required environmental reviews"
+        ],
+        "Document 3": [
+          "authorize the Bureau of Reclamation to participate in projects to benefit eligible communities",
+          "capture and treat wastewater and to distribute recycled water"
+        ]
+      }
+    }
+  },
+  "14": {
+    "pos_docs": [
+      16364,
+      30316,
+      30371
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Public Transportation and Safety Legislation",
+      "description": "Legislation focused on enhancing public transportation, safety services, and regulatory frameworks for communication and transportation sectors.",
+      "evidence": {
+        "Document 1": [
+          "Authorizes appropriations for public transportation formula grants for urbanized areas",
+          "Requires the federal share of the costs for which such grants are made to be 100%."
+        ],
+        "Document 2": [
+          "Requires a satellite carrier whose secondary transmissions are subject to statutory licensing to deposit a filing fee semiannually",
+          "Declares that a secondary transmission is not an infringement in certain circumstances related to preparing for, responding to, or recovering from a major disaster."
+        ],
+        "Document 3": [
+          "Increases the allocation of electromagnetic spectrum for use by public safety entities",
+          "Authorizes the establishment of a private, nonprofit Public Safety Broadband Corporation to deploy a nationwide, interoperable public safety broadband network."
+        ]
+      }
+    }
+  },
+  "15": {
+    "pos_docs": [
+      19414,
+      17979,
+      23944
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Legislative Measures on Public Policy",
+      "description": "This cluster encompasses various legislative acts addressing public policy issues related to health, environmental management, and trade regulations.",
+      "evidence": {
+        "Document 1": [
+          "prohibit the provision of federal education funding to state or local educational agencies",
+          "postcoital emergency contraception or prescriptions for such contraception"
+        ],
+        "Document 2": [
+          "makes permanent the authority of Washington, Oregon, and California to adopt and enforce state laws governing fishing",
+          "Dungeness crab fishery for which there is no fishery management plan"
+        ],
+        "Document 3": [
+          "suspend temporarily the duty on certain ice cream makers",
+          "Amends the Harmonized Tariff Schedule of the United States"
+        ]
+      }
+    }
+  },
+  "16": {
+    "pos_docs": [
+      17715,
+      6054,
+      17486
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Social Security and Veteran Benefits",
+      "description": "Legislation related to the administration and protection of Social Security and veteran pension benefits.",
+      "evidence": {
+        "Document 1": [
+          "Amends title II (Old Age, Survivors and Disability Insurance)",
+          "increases the normal retirement age"
+        ],
+        "Document 2": [
+          "Excludes from annual income for purposes of eligibility for pensions",
+          "for veterans and their surviving spouses and children"
+        ],
+        "Document 3": [
+          "Amends title II (Old Age, Survivors and Disability Insurance)",
+          "require the Commissioner of Social Security to notify an individual"
+        ]
+      }
+    }
+  },
+  "17": {
+    "pos_docs": [
+      5320,
+      2196,
+      2168
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Veterans and Youth Programs",
+      "description": "This topic encompasses initiatives aimed at supporting veterans' benefits and enhancing educational and developmental opportunities for youth through various programs.",
+      "evidence": {
+        "Document 1": [
+          "conduct outreach, take applications from veterans for benefits",
+          "determine the status of veterans' benefits claims"
+        ],
+        "Document 2": [
+          "award grants to local educational agencies, educational service agencies",
+          "improve, expand, or establish rural after-school programs"
+        ],
+        "Document 3": [
+          "award competitive matching grants to nonprofit organizations",
+          "carry out summertime learning pilot programs for students"
+        ]
+      }
+    }
+  },
+  "18": {
+    "pos_docs": [
+      27144,
+      27109,
+      1062
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Federal Science Policy and Funding",
+      "description": "The documents discuss legislation related to federal funding, oversight, and policy for science and technology research, particularly in nanotechnology and STEM fields.",
+      "evidence": {
+        "Document 1": [
+          "Amends the 21st Century Nanotechnology Research and Development Act to expand the scope of the National Nanotechnology Program",
+          "Requires issuing guidance to agencies that describes a strategy for transitioning research into commercial products"
+        ],
+        "Document 2": [
+          "Authorizes appropriations to the National Science Foundation (NSF) for FY2008-FY2010",
+          "Sets minimum and maximum amounts of awards under the Major Research Instrumentation program"
+        ],
+        "Document 3": [
+          "Directs the Office of Science and Technology Policy (OSTP) to provide federal science agencies with guidance on establishing specified policies",
+          "Requires each federal science agency to annually collect and submit to the National Science Foundation (NSF) institution-level data on demographics"
+        ]
+      }
+    }
+  },
+  "19": {
+    "pos_docs": [
+      18641,
+      7361,
+      10893
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Federal Legislation on Resource Management",
+      "description": "This topic encompasses federal laws and acts aimed at managing natural resources, including energy, taxation, and recreational opportunities.",
+      "evidence": {
+        "Document 1": [
+          "Amends the Gulf of Mexico Energy Security Act of 2006 to repeal the moratorium on oil and gas leasing",
+          "Directs the Secretary to establish and implement a competitive oil and gas leasing program for the exploration, development, and production of oil and gas resources"
+        ],
+        "Document 2": [
+          "Grants the consent of Congress to the Streamlined Sales and Use Tax Agreement",
+          "Provides for judicial review of Governing Board determinations by the United States Court of Federal Claims"
+        ],
+        "Document 3": [
+          "Requires federal public land management officials to facilitate the use of, and access to, federal public lands",
+          "Prohibits actions taken under this Act from being considered to be a major federal action significantly affecting the quality of the human environment"
+        ]
+      }
+    }
+  },
+  "20": {
+    "pos_docs": [
+      16934,
+      23172,
+      17137
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Drug Regulation and Reform",
+      "description": "Legislation aimed at regulating substances and reforming drug-related penalties and practices.",
+      "evidence": {
+        "Document 1": [
+          "Makes it unlawful to knowingly manufacture, market, sell, ship, or otherwise provide to another individual any product with the intent to assist such individual to use such product to defraud a drug test.",
+          "Grants the Federal Trade Commission (FTC) enforcement powers as a violation of an unfair or deceptive act or practice."
+        ],
+        "Document 2": [
+          "Bans the use of food containers that can release bisphenol A into food as a container composed of a poisonous or deleterious substance.",
+          "Requires any product for which the Secretary grants a waiver to display a prominent warning on its label of the potential health effects associated with bisphenol A."
+        ],
+        "Document 3": [
+          "Amends the Controlled Substances Act (CSA) to reduce penalties for simple possession of a controlled substance.",
+          "Provides for the reduction of the term of imprisonment of a defendant who was convicted and sentenced before such date for an offense for which the penalty is amended by this Act."
+        ]
+      }
+    }
+  },
+  "21": {
+    "pos_docs": [
+      22190,
+      22054,
+      23004
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "U.S. Terrorism Policy and Accountability",
+      "description": "The documents discuss U.S. policies aimed at seeking justice for victims of terrorism and holding state sponsors of terrorism accountable.",
+      "evidence": {
+        "Document 1": [
+          "U.S. policy to seek justice for U.S. victims of terrorism",
+          "U.S. law regarding victims of terrorism supersedes the Algiers Accords"
+        ],
+        "Document 2": [
+          "Amends the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996",
+          "require the government of Cuba to prove its respect for the democratic rule of law"
+        ],
+        "Document 3": [
+          "restrict the travel of officials and representatives of countries designated as state sponsors of terrorism",
+          "defines 'state sponsor of terrorism'"
+        ]
+      }
+    }
+  },
+  "22": {
+    "pos_docs": [
+      1011,
+      1381,
+      459
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Higher Education Accessibility",
+      "description": "This topic encompasses legislative efforts aimed at improving access to affordable and innovative educational programs for students, particularly focusing on financial relief and alternative learning methods.",
+      "evidence": {
+        "Document 1": [
+          "awarding 5-year grants to institutions of higher education to carry out new or existing high-quality programs designed to graduate students with certificates or degrees at significantly lower student costs",
+          "use online instruction; use direct assessments rather than credit hours or clock hours as the measure of student learning"
+        ],
+        "Document 2": [
+          "if a veteran is forced to discontinue a course as a result of an educational institution's permanent closure and did not receive credit or lost training time toward completion of the education program",
+          "the VA may continue to pay educational assistance and subsistence allowances to eligible veterans and eligible persons enrolled in specified courses for up to 4 weeks in any 12-month period when schools are temporarily closed"
+        ],
+        "Document 3": [
+          "Amends the Higher Education Act of 1965 with respect to the meaning of economic hardship under the Federal Family Education Loan or Perkins Loan",
+          "Considers borrowers under such programs to be suffering economic hardship if they are working full-time, have a federal educational debt burden equal to at least 20% of their adjusted gross income"
+        ]
+      }
+    }
+  },
+  "23": {
+    "pos_docs": [
+      13751,
+      13905,
+      14559
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Land Designation and Management",
+      "description": "Legislation focused on the designation and management of natural resources and public lands in the United States.",
+      "evidence": {
+        "Document 1": [
+          "Amends the Wild and Scenic Rivers Act to designate specified segments of Fossil Creek as components of the national wild and scenic rivers system.",
+          "to be administered by the Secretary of Agriculture."
+        ],
+        "Document 2": [
+          "Designates peak 12,240 located 0.6 miles northeast of Donahue Peak as Mt. Andrea Lawrence.",
+          "on the northern border of the Ansel Adams Wilderness and Yosemite National Park in California."
+        ],
+        "Document 3": [
+          "directs the Department of the Interior to convey, without consideration, to SEND North in Anchorage, Alaska.",
+          "for the purpose of unencumbering its title and enabling its economic development."
+        ]
+      }
+    }
+  },
+  "24": {
+    "pos_docs": [
+      32484,
+      31407,
+      30887
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Environmental Regulation and Oversight",
+      "description": "This topic encompasses federal agency decision-making and regulatory measures related to environmental impact assessments and the management of radioactive materials.",
+      "evidence": {
+        "Document 1": [
+          "federal agency decisions to issue a permit, license, or approval for a highway or public transportation capital project",
+          "prepare supplemental environmental impact statements"
+        ],
+        "Document 2": [
+          "prohibit the Nuclear Regulatory Commission from issuing a license authorizing the importation into the United States of low-level radioactive waste",
+          "authorize the President to waive such prohibition and authorize the grant of a specific license to import materials"
+        ],
+        "Document 3": [
+          "prohibits the obligation or expenditure of federal funds for travel outside the United States by the Administrator of the Environmental Protection Agency",
+          "EPA conducts public listening sessions on rulemaking targeting carbon dioxide emissions from existing power plants"
+        ]
+      }
+    }
+  },
+  "25": {
+    "pos_docs": [
+      8271,
+      8091,
+      8719
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "U.S. Immigration Reform",
+      "description": "Legislative efforts aimed at amending the Immigration and Nationality Act to address various aspects of immigration policy, including family-sponsored immigration, H-1B visa regulations, and protections for immigrant workers.",
+      "evidence": {
+        "Document 1": [
+          "Amends the Immigration and Nationality Act (INA) to provide increased protections and eligibility for family-sponsored immigrants.",
+          "Authorizes the Secretary to adjust the status of aliens who would otherwise be inadmissible."
+        ],
+        "Document 2": [
+          "Amends the Immigration and Nationality Act to require employers of H-1B (specialty occupations) nonimmigrants to use one of three specified methods to determine wages.",
+          "Prohibits such employers from outsourcing or otherwise contracting for the placement of an H-1B nonimmigrant with another employer."
+        ],
+        "Document 3": [
+          "Amends the Immigration and Nationality Act to establish an annual cap on H-1B visas (specialty occupations) at between 115,000 and 300,000 visas depending upon market conditions.",
+          "Eliminates the per country numerical limitation for employment-based immigrants and increases the per country family category limit."
+        ]
+      }
+    }
+  },
+  "26": {
+    "pos_docs": [
+      28538,
+      17854,
+      30185
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Family and Medical Leave Policies",
+      "description": "This topic encompasses legislation related to family and medical leave, including benefits and insurance programs for employees.",
+      "evidence": {
+        "Document 1": [
+          "Family Leave Insurance Act of 2007",
+          "entitles eligible employees to Program benefits for leave under the Family and Medical Leave Act"
+        ],
+        "Document 2": [
+          "amends title II of the Social Security Act",
+          "affects benefits related to retirement and disability which may intersect with family leave policies"
+        ],
+        "Document 3": [
+          "Federal Employees Paid Parental Leave Act of 2015",
+          "allows federal employees to substitute paid leave for parental leave"
+        ]
+      }
+    }
+  },
+  "27": {
+    "pos_docs": [
+      28284,
+      28147,
+      29919
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "U.S. National Security Legislation",
+      "description": "These documents discuss various legislative measures related to U.S. national security, military operations, and foreign relations.",
+      "evidence": {
+        "doc_id_1": [
+          "U.S. sanctions with respect to Iran, North Korea, or Syria",
+          "certifies to the appropriate congressional committees"
+        ],
+        "doc_id_2": [
+          "full redeployment of all U.S. Armed Forces from Iraq",
+          "regional diplomatic plan"
+        ],
+        "doc_id_3": [
+          "establish exchange programs for members of the National Guard",
+          "support the national interests and security cooperation goals"
+        ]
+      }
+    }
+  },
+  "28": {
+    "pos_docs": [
+      4919,
+      5896,
+      4983
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Mental Health and Support for Military Families",
+      "description": "This topic encompasses legislative measures aimed at improving mental health care access and recognizing the contributions of military families, particularly focusing on spouses and dependents of active-duty service members.",
+      "evidence": {
+        "Document 1": [
+          "Amends the TRICARE program to authorize referrals to licensed or certified mental health counselors for spouses and dependents of members of the Armed Forces.",
+          "Provides licensing and related requirements for such counselors practicing under TRICARE."
+        ],
+        "Document 2": [
+          "Directs that a lapel button be designed to recognize the spouse of a member of the Armed Forces serving in a combat zone.",
+          "Expresses the sense of Congress to encourage ceremonies recognizing the support provided by such spouses."
+        ],
+        "Document 3": [
+          "Requires the Secretary of Defense to develop a standard method for collecting, reporting, and assessing suicide data involving members of the National Guard and Reserves.",
+          "Develop and implement a program to track, retain, and analyze information regarding suicides involving dependents of members of the Armed Forces."
+        ]
+      }
+    }
+  },
+  "29": {
+    "pos_docs": [
+      3379,
+      25680,
+      3823
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Health Care Legislation",
+      "description": "Legislation focused on improving health care access, quality, and affordability in the United States.",
+      "evidence": {
+        "Document 1": [
+          "Amends title XVIII (Medicare) of the Social Security Act regarding physician payment update and geographic cost-of-practice indices.",
+          "Directs the Secretary of Health and Human Services to conduct a national public information campaign on initial preventive physical examinations for Medicare beneficiaries."
+        ],
+        "Document 2": [
+          "Amends the Public Health Service Act to set forth criteria for the certification of federally-qualified community behavioral health centers.",
+          "Authorizes the Secretary of Health and Human Services (HHS) to award matching grants to states or Indian tribes for mental health and substance abuse services."
+        ],
+        "Document 3": [
+          "Amends title XIX (Medicaid) of the Social Security Act with respect to a state's option to use Medicaid managed care organizations.",
+          "Requires a state to contract with an independent auditor to conduct biannual financial and performance-compliance audits of managed care entities."
+        ]
+      }
+    }
+  },
+  "30": {
+    "pos_docs": [
+      21531,
+      4990,
+      3154
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Regulatory Revisions in Public Policy",
+      "description": "This topic encompasses revisions to regulations and acts related to labor safety, mental health infrastructure, and environmental management.",
+      "evidence": {
+        "Document 1": [
+          "revise certain regulations under the Occupational Safety and Health Act of 1970",
+          "require site-controlling employers to keep a site log for all recordable injuries and illnesses"
+        ],
+        "Document 2": [
+          "amends Public Health Service Act",
+          "authorize the Secretary of Health and Human Services to award matching grants"
+        ],
+        "Document 3": [
+          "directs the Chief of the Army Corps of Engineers to revise the Missouri Mainstem Reservoir System Master Water Control Manual",
+          "elevate flood control as the highest priority of authorized purposes"
+        ]
+      }
+    }
+  },
+  "31": {
+    "pos_docs": [
+      15569,
+      19786,
+      22888
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Legislative Reforms on Accountability",
+      "description": "This cluster of documents discusses various legislative reforms aimed at enhancing accountability and transparency in government and business practices.",
+      "evidence": {
+        "Document 1": [
+          "Amends the Lobbying Disclosure Act of 1995 to apply mandatory lobbyist registration, reporting, disclosure and enforcement.",
+          "Require the Comptroller General to audit annually and report on compliance with that Act by political intelligence firms and consultants."
+        ],
+        "Document 2": [
+          "Amends the Equal Pay Act to revise remedies for enforcement of prohibitions against sex discrimination in the payment of wages.",
+          "Prohibits retaliation for inquiring about, discussing, or disclosing the wages of employees."
+        ]
+      }
+    }
+  },
+  "32": {
+    "pos_docs": [
+      29558,
+      29688,
+      16410
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Energy Efficiency and Innovation",
+      "description": "This cluster focuses on legislation and initiatives aimed at improving energy efficiency, modernizing energy infrastructure, and promoting alternative fuels.",
+      "evidence": {
+        "Document 1": [
+          "establish a federal energy efficiency resource standard for retail electricity and natural gas distributors",
+          "requires each retail electricity and natural gas distributor to submit a report annually demonstrating that it has achieved required savings"
+        ],
+        "Document 2": [
+          "requires the Department of Energy (DOE) to conduct a program of research and development of electric grid energy storage",
+          "incorporate consideration of electric grid resilience into its integrated resource planning"
+        ],
+        "Document 3": [
+          "direct the Secretary of Energy to establish a grants program for eligible entities to implement research, development, and demonstration projects relating to the use of cellulosic ethanol fuel",
+          "provide grants to eligible entities for use in installing infrastructure that would enable retail gas stations to sell and dispense ethanol fuel"
+        ]
+      }
+    }
+  },
+  "33": {
+    "pos_docs": [
+      14754,
+      15106,
+      23221
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "FDA Regulatory Reforms",
+      "description": "Legislation aimed at improving the regulatory processes and accountability of the Food and Drug Administration (FDA) regarding medical products.",
+      "evidence": {
+        "Document 1": [
+          "Amends the Federal Food, Drug, and Cosmetic Act (FFDCA) to require that all fees collected for the review of applications for human drugs, devices, animal drugs, or generic animal drugs be deposited in the general fund of the Treasury.",
+          "Requires the Secretary to establish the Center for Postmarket Drug, Device, and Biologic Safety and Effectiveness within the FDA to regulate approved drugs."
+        ],
+        "Document 2": [
+          "This bill amends the Public Health Service Act to require the FDA to conditionally approve certain cellular therapeutic products without initiation of large-scale clinical trials.",
+          "The FDA must not limit the use of these devices to only specific cell types unless unique to the use of the device."
+        ],
+        "Document 3": [
+          "Requires the Secretary of Health and Human Services (HHS) to develop a strategy and implementation plan for advancing regulatory science for medical products.",
+          "Expands reporting requirements related to FDA progress reports, generic drugs, and biosimilar products."
+        ]
+      }
+    }
+  },
+  "34": {
+    "pos_docs": [
+      4141,
+      18868,
+      3984
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Health Care Legislation",
+      "description": "This cluster focuses on various legislative acts aimed at improving health care access, coverage, and rights within the United States.",
+      "evidence": {
+        "Document 1": [
+          "amends the Patient Protection and Affordable Care Act (PPACA)",
+          "expedites the approval process for health-flex waiver"
+        ],
+        "Document 2": [
+          "require a group health plan to provide comprehensive coverage for routine immunizations",
+          "coverage without deductibles, coinsurance, or other cost-sharing"
+        ],
+        "Document 3": [
+          "requires a Medicare Advantage organization to remove a service provider only for cause",
+          "directs the Secretary of Health and Human Services to seek input from patient advocacy groups"
+        ]
+      }
+    }
+  },
+  "35": {
+    "pos_docs": [
+      6215,
+      11973,
+      4726
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Government Programs and Regulations",
+      "description": "This cluster discusses various government acts aimed at regulating and supporting specific sectors such as veterans' entrepreneurship, public housing agencies, and postal service improvements.",
+      "evidence": {
+        "Document 1": [
+          "Veterans Entrepreneurial Transition Act of 2011",
+          "establish a veterans small business entrepreneurship program"
+        ],
+        "Document 2": [
+          "Small Public Housing Agency Opportunity Act of 2016",
+          "subject a small public housing agency to the same requirements as a PHA"
+        ],
+        "Document 3": [
+          "U.S. Postal Service Improvements Act of 2011",
+          "requires OPM to redetermine the postal surplus or supplemental liability"
+        ]
+      }
+    }
+  },
+  "36": {
+    "pos_docs": [
+      24597,
+      24963,
+      25233
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Tariff Schedule Amendments",
+      "description": "The documents discuss amendments to the Harmonized Tariff Schedule of the United States regarding temporary duty suspensions on specific products.",
+      "evidence": {
+        "Document 1": [
+          "suspend temporarily the duty on nonenumerated footwear with textile uppers for women",
+          "valued $13/pair or higher."
+        ],
+        "Document 2": [
+          "extend the temporary suspension of duty on mixtures containing n-butyl-1,2-benzisothiazolin-3-one",
+          "application adjuvants."
+        ],
+        "Document 3": [
+          "extend the temporary suspension of duty on propanoic acid",
+          "compounds with trimethylamine."
+        ]
+      }
+    }
+  },
+  "37": {
+    "pos_docs": [
+      19280,
+      19196,
+      19187
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Public Health Initiatives",
+      "description": "Legislation aimed at improving health awareness, prevention, and services for specific populations in the United States.",
+      "evidence": {
+        "Document 1": [
+          "reauthorize through FY2019 the Young Women's Breast Health Education and Awareness Requires Learning Young Act",
+          "supports campaigns to educate the public and health care professionals about young women's breast health"
+        ],
+        "Document 2": [
+          "includes within authorized preventive health services available to veterans immunizations against infectious diseases",
+          "requires the inclusion in an annual report from the Secretary of Veterans Affairs on VA preventive health services"
+        ],
+        "Document 3": [
+          "authorizes the Director of the Office of Minority Health to make grants to public health agencies",
+          "conduct HIV/AIDS prevention, testing, and related outreach activities to reduce HIV/AIDS in the African-American community"
+        ]
+      }
+    }
+  },
+  "38": {
+    "pos_docs": [
+      9970,
+      13569,
+      9401
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Tribal Land Management and Rights",
+      "description": "Legislation focused on the management, transfer, and rights associated with tribal lands for federally recognized tribes.",
+      "evidence": {
+        "Document 1": [
+          "Requires the Secretary of the Interior to transfer land the federal government holds in trust for a federally recognized Indian tribe to such tribe as restricted fee tribal land.",
+          "Gives the laws of a federally recognized Indian tribe that establish a system of land tenure governing the use of the land the tribe holds precedence over any federal law or regulation."
+        ],
+        "Document 3": [
+          "Allows, subject to the provisions of this Act, the Coquille Indian Tribe of Oregon to transfer, lease, encumber, or otherwise convey, without further authorization or approval, all or any part of the Tribe's interest in any real property that is not held in trust by the United States for the benefit of the Tribe.",
+          "Prohibits anything in this Act from intending to authorize the Tribe to transfer, lease, encumber, or otherwise convey, any lands, or any interest in any lands, that are held in trust by the United States for the benefit of the Tribe."
+        ]
+      }
+    }
+  },
+  "39": {
+    "pos_docs": [
+      20006,
+      15371,
+      2245
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Federal Budget and Spending Reform",
+      "description": "Legislation focused on reforming federal budget practices and enhancing spending control measures.",
+      "evidence": {
+        "Document 1": [
+          "Amends the Congressional Budget Act of 1974 to require the concurrent budget resolution to include discretionary spending limit for five successive fiscal years.",
+          "Establishes the Federal Agency Sunset Commission to review and report to Congress on the efficiency and public need for each federal agency."
+        ],
+        "Document 2": [
+          "Amends the Federal Advisory Committee Act to require appointments to advisory committees to be made without regard to political affiliation or activity.",
+          "Requires the public disclosure of any conflict of interest."
+        ],
+        "Document 3": [
+          "Establishes the Grace Commission II to conduct a review of cost control in the federal government every two years.",
+          "Requires the Commission to submit final reports within 18 months after enactment of this Act and every two years thereafter."
+        ]
+      }
+    }
+  },
+  "40": {
+    "pos_docs": [
+      2137,
+      6554,
+      1056
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Student Safety and Support Legislation",
+      "description": "Legislation focused on ensuring the safety and support of students in educational settings, addressing issues such as physical restraint, sexual assault, and campus safety protocols.",
+      "evidence": {
+        "Document 1": [
+          "prohibit elementary and secondary school personnel from managing any student by using any mechanical or chemical restraint",
+          "require states to ensure that a sufficient number of school personnel receive state-approved crisis intervention training"
+        ],
+        "Document 2": [
+          "providing a Special Victims' Counsel to a victim of a sexual assault committed by a member of the Armed Forces",
+          "providing guidance and assistance for the military departments in addressing matters relating to sexual assault prevention and response"
+        ],
+        "Document 3": [
+          "require institutions of higher education to include in their annual campus security reports",
+          "identify domestic violence, dating violence, sexual assault, and stalking as crimes which will be reported"
+        ]
+      }
+    }
+  },
+  "41": {
+    "pos_docs": [
+      10332,
+      172,
+      25510
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Medicare Policy and Reform",
+      "description": "Legislation aimed at improving Medicare services, transparency, and patient care standards.",
+      "evidence": {
+        "Document 1": [
+          "Amends title XVIII (Medicare) of the Social Security Act to require each Medicare participating hospital to implement a hospital-wide staffing plan for nursing services.",
+          "Specifies civil monetary and other penalties for violation of the requirements of this Act."
+        ],
+        "Document 2": [
+          "This bill amends title XVIII (Medicare) of the Social Security Act to prohibit Medicare Prescription Drug Plan sponsors from retroactively reducing payment on clean claims submitted by pharmacies."
+        ],
+        "Document 3": [
+          "Amends part D (Voluntary Prescription Drug Benefit Program) of title XVIII (Medicare) of the Social Security Act to eliminate part D cost-sharing for certain non-institutionalized full-benefit dual eligible individuals."
+        ]
+      }
+    }
+  },
+  "42": {
+    "pos_docs": [
+      22722,
+      11723,
+      10446
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Financial Regulation Legislation",
+      "description": "This cluster of documents discusses various legislative acts aimed at regulating financial practices and ensuring consumer protection in credit and securities markets.",
+      "evidence": {
+        "Document 1": [
+          "Credit Card Minimum Payment Notification Act of 2009",
+          "require a credit card issuer to include in specified type a written statement in the following form: 'Minimum Payment Warning'"
+        ],
+        "Document 2": [
+          "CLEAR Plus Act of 2015",
+          "amends the Securities Exchange Act of 1934 to subject a savings and loan holding company to registration requirements"
+        ],
+        "Document 3": [
+          "Fairness in Class Action Litigation and Furthering Asbestos Claim Transparency Act of 2016",
+          "prohibit federal courts from certifying any proposed class seeking monetary relief for personal injury or economic loss"
+        ]
+      }
+    }
+  },
+  "43": {
+    "pos_docs": [
+      9223,
+      4420,
+      9292
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Maritime Transportation and Safety",
+      "description": "Legislation focused on the regulation, safety, and environmental impact of maritime transportation in the United States.",
+      "evidence": {
+        "Document 1": [
+          "Requires the Secretary of Transportation to report on the status of the nation's coastal and inland waterways infrastructure.",
+          "Establish a green ships program to improve environmental practices."
+        ],
+        "Document 2": [
+          "Requires measures to reduce the risk of oil spills, including Coast Guard inspections and regulations.",
+          "Establishes requirements for the promulgation of safety standards for towing vessels."
+        ],
+        "Document 3": [
+          "Authorizes appropriations for the Coast Guard for operation and maintenance, environmental compliance, and marine safety.",
+          "Research, development, test, and evaluation of technologies related to marine environmental protection."
+        ]
+      }
+    }
+  },
+  "44": {
+    "pos_docs": [
+      32070,
+      9590,
+      17388
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Community and Economic Development",
+      "description": "Legislation aimed at enhancing community service, self-governance for tribes, and support for beginning farmers and ranchers.",
+      "evidence": {
+        "Document 1": [
+          "Amends the National and Community Service Act of 1990 to revise programs and reauthorize appropriations.",
+          "Encouraging service by individuals age 55 or older and continued service by national service alumni."
+        ],
+        "Document 2": [
+          "Amends the Indian Self-Determination and Education Assistance Act to redefine 'self-determination contract'.",
+          "Establishes the Tribal Self-Governance Program."
+        ],
+        "Document 3": [
+          "Amends the Food Security Act of 1985 to extend conservation reserve and related programs.",
+          "Provides assistance for agricultural rehabilitation and vocational training for veterans."
+        ]
+      }
+    }
+  },
+  "45": {
+    "pos_docs": [
+      6860,
+      12224,
+      1280
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Tax Incentives for Homeownership and Small Business",
+      "description": "This topic encompasses legislative measures aimed at providing tax benefits and incentives for homeownership and small businesses in the United States.",
+      "evidence": {
+        "Document 1": [
+          "establish tax-exempt homeownership plans",
+          "tax deduction from gross income for cash contributions to such plans"
+        ],
+        "Document 2": [
+          "increase and make permanent the election to expense small business assets",
+          "reduce graduated tax rates for corporations with taxable incomes of less than $10 million"
+        ],
+        "Document 3": [
+          "exempt qualified 501(c)(3) bonds issued on behalf of a historically black college or university from state and local taxes",
+          "allow a tax credit for jurisdictions that forgo taxes with respect to the interest payments under such a bond"
+        ]
+      }
+    }
+  },
+  "46": {
+    "pos_docs": [
+      21782,
+      30677,
+      7576
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Tax and Regulatory Amendments",
+      "description": "Legislative changes related to tax credits and vehicle emission standards.",
+      "evidence": {
+        "Document 1": [
+          "increase the allowable amount of the railroad track maintenance tax credit",
+          "extend such credit through 2012"
+        ],
+        "Document 2": [
+          "amends the Clean Air Act",
+          "approve the application of the state of California for a waiver of federal preemption"
+        ],
+        "Document 3": [
+          "reduce from $18 to $9 the per-barrel tax on beer",
+          "allow a further reduction in such tax for brewers who produce not more than 2 million barrels annually"
+        ]
+      }
+    }
+  },
+  "47": {
+    "pos_docs": [
+      17241,
+      16779,
+      11330
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Regulatory Acts on Safety and Resources",
+      "description": "This cluster encompasses legislative measures aimed at enhancing safety standards and managing resources effectively within various sectors.",
+      "evidence": {
+        "Document 1": [
+          "Food Safety Enhancement Act of 2009 - Amends the Federal Food, Drug, and Cosmetic Act (FFDCA) to deem a food to be misbranded if it was manufactured, processed, packed, or held in a facility that is not registered.",
+          "Requires annual registration of food facilities, including food facilities that export food."
+        ],
+        "Document 2": [
+          "Helium Stewardship Act of 2013 - Requires that all proceeds received by the Secretary of the Interior from the sale or disposition of helium on federal land from sale or auction be credited to the Helium Production Fund.",
+          "Requires the Secretary to impose a fee that accurately reflects the economic value of helium storage, withdrawal, or transportation services."
+        ]
+      }
+    }
+  },
+  "48": {
+    "pos_docs": [
+      13078,
+      13102,
+      12811
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Post Office Designations",
+      "description": "Documents related to the designation of specific postal facilities and federal buildings in honor of individuals.",
+      "evidence": {
+        "Document 1": [
+          "Designates the facility of the United States Postal Service located at 4122 Madison Street, Elfers, Florida, as the 'Private First Class Felton Roger Fussell Memorial Post Office.'"
+        ],
+        "Document 2": [
+          "Designates the facility of the United States Postal Service located at 3957 2nd Avenue in Laurel Hill, Florida, as the 'Sergeant First Class William 'Kelly' Lacey Post Office.'"
+        ],
+        "Document 3": [
+          "Designates the federal building and U.S. courthouse located at 515 9th Street in Rapid City, South Dakota, as the 'Andrew W. Bogue Federal Building and United States Courthouse.'"
+        ]
+      }
+    }
+  },
+  "49": {
+    "pos_docs": [
+      31107,
+      11189,
+      13695
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Tax Legislation and Relief Funds",
+      "description": "This topic encompasses legislation related to tax exemptions and treatments for specific funds and industries, as well as studies on the management of natural resources.",
+      "evidence": {
+        "Document 1": [
+          "Excludes from gross income, for income tax purposes, any amount received from the Aurora Victim Relief Fund",
+          "paid on account of the mass shooting at the Century 16 Cinema in Aurora, Colorado"
+        ],
+        "Document 2": [
+          "Establishes the Commission on the Tax Treatment of Hedge Funds and Private Equity",
+          "to review and make recommendations to Congress on the tax treatment of the U.S. hedge fund and private equity industry"
+        ],
+        "Document 3": [
+          "Directs the Secretary of the Interior to study and report to Congress",
+          "on the suitability and feasibility of designating prehistoric, historic, and limestone forest sites"
+        ]
+      }
+    }
+  }
+}

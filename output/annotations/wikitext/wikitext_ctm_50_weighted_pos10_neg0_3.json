@@ -1,0 +1,2500 @@
+{
+  "0": {
+    "pos_docs": [
+      13378,
+      11620,
+      7803,
+      7727,
+      7429,
+      11656,
+      8399,
+      7732,
+      7754,
+      13107
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Video Game Adventures and Experiences",
+      "description": "This cluster encompasses various video games that feature unique adventures, gameplay mechanics, and character-driven narratives.",
+      "evidence": {
+        "Document 1": [
+          "White Plume Mountain is an adventure module for the Advanced Dungeons & Dragons fantasy role-playing game",
+          "the adventure focuses on problem solving."
+        ],
+        "Document 2": [
+          "ToeJam & Earl in Panic on Funkotron is a platform video game",
+          "The game concerns two alien protagonists, ToeJam and Earl."
+        ],
+        "Document 3": [
+          "Code Age Commanders is a Japan-exclusive action role-playing game",
+          "the story depicts the struggles of people surviving in a fictional 'intraglobular world'."
+        ],
+        "Document 4": [
+          "Heroes of Mana is a 2007 real-time strategy game for the Nintendo DS",
+          "the player gathers resources, constructs buildings and units, and fights enemy forces."
+        ],
+        "Document 5": [
+          "Super Mario Bros.: The Lost Levels is a 1986 side-scrolling, platformer action game",
+          "the game has no two-player option and Luigi is differentiated from his twin plumber brother."
+        ],
+        "Document 6": [
+          "Sonic the Hedgehog 2 is a platform video game developed by Sonic Team",
+          "the game is the second main entry in the Sonic the Hedgehog series."
+        ],
+        "Document 7": [
+          "Perfect Dark is an action video game developed by Rare",
+          "the gameplay revolves around shooting opponents and completing objectives."
+        ],
+        "Document 8": [
+          "Castlevania: Portrait of Ruin is a platform-adventure game",
+          "the game introduces new protagonists and antagonists to the Castlevania series."
+        ],
+        "Document 9": [
+          "Final Fantasy Crystal Chronicles: My Life as a King is a video game developed for the WiiWare service",
+          "the game is a city-building game set in the world of the action RPG Final Fantasy Crystal Chronicles."
+        ],
+        "Document 10": [
+          "Peter Molydeux is a Twitter account presented as a parody of the game designer Peter Molyneux",
+          "the account presents Molyneux as a tragicomic character with unrelenting, creative ideas."
+        ]
+      }
+    }
+  },
+  "1": {
+    "pos_docs": [
+      4808,
+      4823,
+      4753,
+      4783,
+      9302,
+      4772,
+      4775,
+      4784,
+      4813,
+      4828
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Cricket History and Players",
+      "description": "The documents discuss various cricketers, their careers, significant matches, and contributions to the sport of cricket.",
+      "evidence": {
+        "Document 1": [
+          "Edwin St Hill was a Trinidadian cricketer who played two Test matches for the West Indies in 1930.",
+          "He played regularly for the next five years but was not selected for any representative West Indian teams."
+        ],
+        "Document 2": [
+          "Stan McCabe was an Australian cricketer who played 39 Test matches for Australia from 1930 to 1938.",
+          "He was described by Wisden as one of Australia's greatest and most enterprising batsmen."
+        ],
+        "Document 3": [
+          "The England cricket team toured Bangladesh at the end of the 2009 \u2013 10 cricket season, playing three One Day Internationals (ODI) and two Test matches.",
+          "England whitewashed Bangladesh in both the Test and ODI series."
+        ],
+        "Document 4": [
+          "Bob Willis is an English former cricketer who played for Surrey, Warwickshire, Northern Transvaal and England.",
+          "He is currently England's fourth leading wicket taker."
+        ],
+        "Document 6": [
+          "Jack Fingleton was an Australian cricketer who represented Australia in 18 Tests between 1932 and 1938.",
+          "He became a prominent political commentator in Canberra, with links to Australian prime ministers."
+        ],
+        "Document 7": [
+          "Norman Yardley was an English cricketer who captained England on fourteen occasions between 1947 and 1950.",
+          "He was named Wisden Cricketer of the Year in 1948."
+        ],
+        "Document 8": [
+          "Alyssa Healy is a cricketer who plays for New South Wales and the Australian women's team.",
+          "She made her international debut in February 2010."
+        ],
+        "Document 9": [
+          "Ray Lindwall represented Australia in 61 Tests from 1946 to 1960 and is widely regarded as one of the greatest fast bowlers of all time.",
+          "He was known for his classical style and trademark outswinger."
+        ],
+        "Document 10": [
+          "The 2009 Women's Cricket World Cup Final was a cricket match between New Zealand and England played on 22 March 2009.",
+          "England won the final by four wickets, clinching their third World Cup title."
+        ]
+      }
+    }
+  },
+  "2": {
+    "pos_docs": [
+      10730,
+      10733,
+      10635,
+      10682,
+      10663,
+      10626,
+      10668,
+      10570,
+      10604,
+      10684
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Professional Wrestling Events",
+      "description": "These documents discuss various professional wrestling pay-per-view events produced by major wrestling promotions.",
+      "evidence": {
+        "doc_1": [
+          "professional wrestling pay-per-view event",
+          "tag team match"
+        ],
+        "doc_2": [
+          "professional wrestling pay-per-view event",
+          "I Quit match"
+        ],
+        "doc_3": [
+          "Japanese professional wrestler",
+          "signed to Pro Wrestling Noah"
+        ],
+        "doc_4": [
+          "professional wrestling pay-per-view event",
+          "Six Man Tag Team match"
+        ],
+        "doc_5": [
+          "professional wrestling pay-per-view event",
+          "Goldberg and The Rock"
+        ],
+        "doc_6": [
+          "Mexican Luchador",
+          "Asistencia Asesor\u00eda y Administraci\u00f3n"
+        ],
+        "doc_7": [
+          "professional wrestling pay-per-view event",
+          "WWF World Heavyweight Championship"
+        ],
+        "doc_8": [
+          "professional wrestler",
+          "signed to WWE"
+        ],
+        "doc_9": [
+          "professional wrestler",
+          "WWE television debut"
+        ],
+        "doc_10": [
+          "first annual SummerSlam",
+          "professional wrestling matches"
+        ]
+      }
+    }
+  },
+  "3": {
+    "pos_docs": [
+      4169,
+      112,
+      9781,
+      12,
+      13485,
+      13523,
+      13437,
+      34,
+      4917,
+      6451
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Notable Figures in History",
+      "description": "This topic encompasses significant historical figures known for their contributions to science, literature, and culture.",
+      "evidence": {
+        "Document 1": [
+          "Marie Curie was a Polish and naturalized-French physicist and chemist who conducted pioneering research on radioactivity.",
+          "She was the first woman to win a Nobel Prize."
+        ],
+        "Document 2": [
+          "Henry Wadsworth Longfellow was an American poet and educator whose works include 'Paul Revere's Ride'.",
+          "He became one of the most popular American poets of his day."
+        ],
+        "Document 4": [
+          "Honora Sneyd was an eighteenth-century English writer known for her associations with literary figures and work on children's education.",
+          "She is known for her stand on women's rights."
+        ]
+      }
+    }
+  },
+  "4": {
+    "pos_docs": [
+      5923,
+      4243,
+      4255,
+      5939,
+      4306,
+      5919,
+      5881,
+      5873,
+      5865,
+      4228
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "College Football and Basketball",
+      "description": "The documents discuss various college football and basketball teams, players, and seasons, highlighting their performances and achievements.",
+      "evidence": {
+        "Document 1": [
+          "2006 Oklahoma Sooners football team represented the University of Oklahoma in the 2006 NCAA Division I FBS football season",
+          "finished the regular season with an 11 \u2013 2 record"
+        ],
+        "Document 4": [
+          "2010 Michigan Wolverines football team represented the University of Michigan in the 2010 NCAA Division I FBS football season",
+          "finished with an overall record of 7 \u2013 6"
+        ],
+        "Document 3": [
+          "Duncan Robinson is an American college basketball player for the Michigan Wolverines",
+          "led the NCAA Division III Williams Ephs to the 2014 NCAA Men 's Division III Basketball Tournament championship game"
+        ],
+        "Document 10": [
+          "Steve Javie is an American retired professional basketball referee who refereed in the National Basketball Association (NBA)",
+          "respected within the officiating community for his game management skills"
+        ]
+      }
+    }
+  },
+  "5": {
+    "pos_docs": [
+      4359,
+      4353,
+      4269,
+      12856,
+      4212,
+      4226,
+      4344,
+      9301,
+      11237,
+      9295
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Basketball Legends and Events",
+      "description": "This topic encompasses the lives, careers, and significant events related to notable basketball players and the sport itself.",
+      "evidence": {
+        "1": [
+          "Wilt Chamberlain was an American basketball player.",
+          "He is widely considered one of the greatest and most dominant players in NBA history."
+        ],
+        "2": [
+          "Jeremy Lin is an American professional basketball player for the Brooklyn Nets.",
+          "He led a winning turnaround with the New York Knicks in 2012, known as 'Linsanity'."
+        ],
+        "3": [
+          "Lauren Jackson is an Australian former professional basketball player.",
+          "She was a member of the Australian Women's National Team that won a silver medal at the 2002 FIBA World Championship."
+        ],
+        "5": [
+          "Tony Parker is a French professional basketball player for the San Antonio Spurs.",
+          "He has helped the Spurs win four NBA championships."
+        ]
+      }
+    }
+  },
+  "6": {
+    "pos_docs": [
+      3870,
+      3758,
+      3770,
+      3778,
+      3868,
+      3883,
+      3816,
+      3796,
+      3851,
+      3831
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "The Boat Race History",
+      "description": "A historical overview of the annual rowing competition between the Universities of Oxford and Cambridge.",
+      "evidence": {
+        "Document 1": [
+          "The Boat Race is a side-by-side rowing race between crews from the Universities of Oxford and Cambridge along the River Thames.",
+          "The race was first held in 1829, and since 1845 has taken place on the 4.2-mile (6.8 km) Championship Course on the River Thames."
+        ],
+        "Document 2": [
+          "The Boat Race is a side-by-side rowing race between crews from the Universities of Oxford and Cambridge along the River Thames.",
+          "The race was first held in 1829, and since 1845 has taken place on the 4.2-mile (6.8 km) Championship Course on the River Thames."
+        ],
+        "Document 3": [
+          "The Boat Race is a side-by-side rowing race between crews from the Universities of Oxford and Cambridge along the River Thames.",
+          "The race was first held in 1829, and since 1845 has taken place on the 4.2-mile (6.8 km) Championship Course on the River Thames."
+        ],
+        "Document 4": [
+          "The Boat Race is a side-by-side rowing race between crews from the Universities of Oxford and Cambridge along the River Thames.",
+          "The race was first held in 1829, and since 1845 has taken place on the 4.2-mile (6.8 km) Championship Course on the River Thames."
+        ],
+        "Document 5": [
+          "The Boat Race is a side-by-side rowing race between crews from the Universities of Oxford and Cambridge along the River Thames.",
+          "The race was first held in 1829, and since 1845 has taken place on the 4.2-mile (6.8 km) Championship Course on the River Thames."
+        ],
+        "Document 6": [
+          "The Boat Race is an annual rowing eight competition between the University of Oxford and the University of Cambridge.",
+          "The race was first held in 1829, the competition is a 4.2-mile (6.8 km) race along The Championship Course on the River Thames."
+        ],
+        "Document 7": [
+          "The Boat Race is an annual side-by-side rowing race between crews from the Universities of Oxford and Cambridge along the River Thames.",
+          "The race was first held in 1829, and since 1845 has taken place on the 4.2-mile (6.8 km) Championship Course on the River Thames."
+        ],
+        "Document 8": [
+          "The Boat Race is a side-by-side rowing competition between the University of Oxford and the University of Cambridge along the River Thames.",
+          "The race was first held in 1829, and since 1845 has taken place on the 4.2-mile (6.8 km) Championship Course on the River Thames."
+        ],
+        "Document 9": [
+          "The Boat Race is a side-by-side rowing competition between the University of Oxford and the University of Cambridge.",
+          "First held in 1829, the competition is a 4.2-mile (6.8 km) race along the River Thames."
+        ],
+        "Document 10": [
+          "The Boat Race is a side-by-side rowing race between crews from the Universities of Oxford and Cambridge along the River Thames.",
+          "The race was first held in 1829, and since 1845 has taken place on the 4.2-mile (6.8 km) Championship Course on the River Thames."
+        ]
+      }
+    }
+  },
+  "7": {
+    "pos_docs": [
+      7908,
+      826,
+      4042,
+      848,
+      731,
+      718,
+      815,
+      736,
+      608,
+      784
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "State Highways in North America",
+      "description": "The documents discuss various state highways across North America, detailing their routes, histories, and characteristics.",
+      "evidence": {
+        "Document 1": [
+          "Ontario Highway 148, commonly referred to as Highway 148, is a provincially maintained highway in Ontario, Canada.",
+          "The highway acts as an extension of Route 148 in Quebec, once connecting it with Highway 17."
+        ],
+        "Document 2": [
+          "M-97 is a state trunkline highway in the U.S. state of Michigan.",
+          "It runs from Detroit to north of Mt. Clemens following Groesbeck Highway."
+        ],
+        "Document 3": [
+          "State Route 97 (SR 97) is a 10.91-mile-long state highway in the U.S. state of Arizona.",
+          "It runs from U.S. Route 93 (US 93) northwest of Congress northeast to SR 96 southeast of Bagdad."
+        ],
+        "Document 4": [
+          "State Route 257 (SR 257, OH 257) is a 26.19-mile north-south state highway in the central portion of the U.S. state of Ohio.",
+          "The highway's southern terminus is in the northwestern Columbus suburb of Dublin."
+        ],
+        "Document 5": [
+          "State Route 666 (SR 666) is a 14.17-mile state route that runs between Zanesville and Dresden in the US state of Ohio.",
+          "Most of the route is a rural two-lane highway and passes through both woodland and farmland."
+        ],
+        "Document 6": [
+          "M-150 is a state trunkline highway in the US state of Michigan that runs through Rochester Hills and Rochester.",
+          "It is more commonly known as Rochester Road."
+        ],
+        "Document 7": [
+          "M-100 is a north-south state trunkline highway in the central region of the U.S. state of Michigan.",
+          "It runs between Potterville and Grand Ledge, connecting Interstate 69 (I-69) and I-96."
+        ],
+        "Document 8": [
+          "M-51 is a north-south state trunkline highway in the southwestern portion of the US state of Michigan.",
+          "The southern terminus is at a connection with State Road 933 across the Michigan \u2013 Indiana state line."
+        ],
+        "Document 9": [
+          "M-221 is a short state trunkline highway in the Upper Peninsula (UP) of the US state of Michigan.",
+          "The highway connects M-28 with the community of Brimley and Brimley State Park."
+        ],
+        "Document 10": [
+          "K-179 is an 11.588-mile-long state highway in Harper County, Kansas.",
+          "It runs from Oklahoma State Highway 132 (SH-132) the Oklahoma state line north to the city of Anthony."
+        ]
+      }
+    }
+  },
+  "8": {
+    "pos_docs": [
+      12001,
+      5099,
+      11970,
+      12463,
+      14264,
+      12160,
+      11982,
+      12502,
+      1990,
+      2001
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "World War II Naval Warfare",
+      "description": "The documents discuss various naval vessels and their roles during World War II, highlighting the operations and engagements of different classes of warships.",
+      "evidence": {
+        "Document 1": [
+          "Gneisenau was a German capital ship of Nazi Germany's Kriegsmarine.",
+          "Gneisenau and Scharnhorst operated together for much of the early portion of World War II."
+        ],
+        "Document 2": [
+          "The G- and H-class destroyers were a group of 18 destroyers built for the Royal Navy during the 1930s.",
+          "They began to escort convoys and patrol for German submarines and commerce raiders."
+        ],
+        "Document 3": [
+          "Bl\u00fccher was the second of five Admiral Hipper-class heavy cruisers of Nazi Germany's Kriegsmarine.",
+          "Assigned to Group 5 during the invasion of Norway in April 1940."
+        ],
+        "Document 4": [
+          "Zuih\u014d was a light aircraft carrier of the Imperial Japanese Navy.",
+          "The ship participated in many operations during World War II."
+        ],
+        "Document 5": [
+          "A battlecruiser was a capital ship built in the first half of the 20th century.",
+          "They were intended to hunt down slower, older armoured cruisers."
+        ],
+        "Document 6": [
+          "Admiral Scheer was a Deutschland-class heavy cruiser which served with the Kriegsmarine of Nazi Germany during World War II.",
+          "The ship was nominally under the 10,000 long tons limitation on warship size imposed by the Treaty of Versailles."
+        ],
+        "Document 7": [
+          "Prinz Eugen was an Admiral Hipper-class heavy cruiser that served with Nazi Germany's Kriegsmarine during World War II.",
+          "She was named after Prince Eugene of Savoy, an 18th-century Austrian general."
+        ],
+        "Document 8": [
+          "The Kong\u014d-class battlecruiser was a class of four battlecruisers built for the Imperial Japanese Navy.",
+          "All four participated in the battles of Midway and Guadalcanal."
+        ],
+        "Document 9": [
+          "The Imperatritsa Mariya-class battleships were the first dreadnoughts built for the Black Sea Fleet of the Imperial Russian Navy.",
+          "Two ships were delivered in 1915 and saw some combat against ex-German warships."
+        ],
+        "Document 10": [
+          "Sevastopol was the first ship completed of the Gangut-class battleships of the Imperial Russian Navy.",
+          "Her role was to defend the mouth of the Gulf of Finland against the Germans."
+        ]
+      }
+    }
+  },
+  "9": {
+    "pos_docs": [
+      11263,
+      4438,
+      6197,
+      4601,
+      4561,
+      4553,
+      2389,
+      8017,
+      8165,
+      4589
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Historical Political Figures",
+      "description": "The documents discuss various historical political figures and their contributions to governance and society in the United States.",
+      "evidence": {
+        "Document 1": [
+          "The Virginia Argus documented the pursuit of fugitive slave Jacob Green by the Parsons family of Romney in 1856",
+          "Among the newspaper's proprietors was Alexander W. Monroe, a prominent Romney lawyer"
+        ],
+        "Document 2": [
+          "Moses Gill was a Massachusetts politician who briefly served as the state's Acting Governor",
+          "He served on the Massachusetts Provincial Congress's executive committee until the state adopted its constitution in 1780"
+        ],
+        "Document 4": [
+          "William Barrett Washburn served several terms in the United States House of Representatives",
+          "He was a major proponent of railroads in northern and western Massachusetts"
+        ],
+        "Document 5": [
+          "Julian Morton Carroll is an American politician from the state of Kentucky",
+          "He was the first Kentucky governor from the state's far-western Jackson Purchase region"
+        ],
+        "Document 10": [
+          "Joshua Soule Zimmerman served as the Prosecuting Attorney for Hampshire County and as a Democratic member of the West Virginia House of Delegates",
+          "He provided legal services to a number of companies and organizations including Capon Valley Bank"
+        ]
+      }
+    }
+  },
+  "10": {
+    "pos_docs": [
+      6937,
+      11268,
+      12917,
+      155,
+      239,
+      13334,
+      6926,
+      6902,
+      12531,
+      235
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Endemic Species of Animals and Plants",
+      "description": "The documents discuss various endemic species of animals and plants, highlighting their characteristics, habitats, and conservation statuses.",
+      "evidence": {
+        "1": [
+          "Myrmecia regularis is a species of ant endemic to Australia.",
+          "found in the south-western coastal regions, inhabiting eucalypt woodland and open forests."
+        ],
+        "2": [
+          "The wood turtle (Glyptemys insculpta) is a turtle endemic to North America.",
+          "It exists in a broad range extending from Nova Scotia in the north to Minnesota in the west and Virginia in the south."
+        ],
+        "6": [
+          "Banksia oligantha, commonly known as Wagin Banksia, is an endangered species in the plant family Proteaceae endemic to south west Western Australia.",
+          "It has been listed as Declared Rare Flora by the Western Australian Government."
+        ]
+      }
+    }
+  },
+  "11": {
+    "pos_docs": [
+      12586,
+      6227,
+      6222,
+      3599,
+      8599,
+      12631,
+      3551,
+      6210,
+      6165,
+      3572
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "U.S. Cities and Political Figures",
+      "description": "This cluster discusses various U.S. cities and notable political figures associated with them, highlighting their historical, cultural, and environmental significance.",
+      "evidence": {
+        "Document 1": [
+          "The Albany Pine Bush is one of the largest of the 20 inland pine barrens in the world.",
+          "The Pine Bush has been a historical, cultural, and environmental asset to the Capital District."
+        ],
+        "Document 2": [
+          "Isiah Leggett is an American politician from the U.S. state of Maryland, currently serving as the executive of Montgomery County.",
+          "Leggett was elected County Executive of Montgomery County in 2006, the first African-American to hold that office."
+        ],
+        "Document 3": [
+          "Steve Beshear is an American attorney and Democratic Party politician who was the 61st Governor of Kentucky from 2007 to 2015.",
+          "Beshear's initial rise to political prominence began in the Kentucky House of Representatives."
+        ],
+        "Document 4": [
+          "Burns is a city in and the county seat of Harney County, in the U.S. state of Oregon.",
+          "Cattle ranching and other forms of agriculture have dominated land use in the area."
+        ],
+        "Document 5": [
+          "The Chicago bid for the 2016 Summer Olympics was an unsuccessful bid recognized by the International Olympic Committee.",
+          "The bid plan emphasized use of Chicago Park District parks to host the games."
+        ],
+        "Document 6": [
+          "The Tualatin River National Wildlife Refuge is a 1,856 acres wetlands and lowlands sanctuary in Oregon.",
+          "The refuge is home to nearly 200 bird species and more than 70 other animal species."
+        ],
+        "Document 7": [
+          "Norman is a city in the U.S. state of Oklahoma, 20 miles south of downtown Oklahoma City.",
+          "The city serves as the county seat of Cleveland County and is home to the University of Oklahoma."
+        ],
+        "Document 8": [
+          "Hilda Solis is an American politician and a member of the Los Angeles County Board of Supervisors for District 1.",
+          "Solis previously served as the 25th United States Secretary of Labor from 2009 to 2013."
+        ],
+        "Document 9": [
+          "Richard Daley served as the 54th Mayor of Chicago, Illinois from 1989 to 2011.",
+          "Daley was a national leader in privatization and the lease and sale of public assets to private corporations."
+        ],
+        "Document 10": [
+          "Alamogordo is the county seat and economic center of Otero County in south-central New Mexico.",
+          "Tourism became an important economic factor with the creation of White Sands National Monument in 1934."
+        ]
+      }
+    }
+  },
+  "12": {
+    "pos_docs": [
+      7589,
+      11065,
+      11125,
+      11133,
+      11024,
+      11045,
+      10331,
+      10978,
+      11044,
+      11068
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Science Fiction Television Episodes",
+      "description": "The documents discuss various episodes from science fiction television series, primarily focusing on 'The X-Files' and 'Star Trek: Enterprise', exploring themes of the paranormal, extraterrestrial life, and complex narratives.",
+      "evidence": {
+        "Document 1": [
+          "The episode follows the adventures of the first Starfleet starship Enterprise.",
+          "Captain Jonathan Archer attempts to convince the Xindi Council not to use their superweapon on Earth."
+        ],
+        "Document 2": [
+          "The episode helped to explore the series' overarching mythology.",
+          "The show centers on FBI special agents Fox Mulder and Dana Scully who work on cases linked to the paranormal."
+        ],
+        "Document 3": [
+          "This episode is a 'Monster-of-the-Week' story, unconnected to the series' wider mythology.",
+          "Mulder and Scully investigate the supposed death and regeneration of an emergency medical technician."
+        ],
+        "Document 4": [
+          "The episode helped explore the series' overarching mythology.",
+          "Mulder goes to the Arecibo Observatory to continue his search for proof on extraterrestrial life."
+        ],
+        "Document 5": [
+          "The episode is a 'Monster-of-the-Week' story, unconnected to the series' wider mythology.",
+          "Mulder and Scully become targets of a rogue AI."
+        ],
+        "Document 6": [
+          "The episode helped to explore the series' overarching mythology.",
+          "Scully is found comatose in hospital after her abduction."
+        ],
+        "Document 7": [
+          "The narrative follows the activation of the doomsday device by the parallel universe.",
+          "The episode received generally positive reviews."
+        ],
+        "Document 8": [
+          "The episode is a 'Monster-of-the-Week' story, a stand-alone plot which is unconnected to the series' wider mythology.",
+          "A failed suicide attempt interests Mulder with the talk of a 'phantom soldier'."
+        ],
+        "Document 9": [
+          "The episode is a 'Monster-of-the-Week' story, unconnected to the series' wider mythology.",
+          "The series centers on FBI special agents Dana Scully and her new partner John Doggett."
+        ],
+        "Document 10": [
+          "The episode is a 'Monster-of-the-Week' story, unconnected to the series' wider mythology.",
+          "Mulder and Scully investigate several killings blamed on an Asian dog thought to be extinct."
+        ]
+      }
+    }
+  },
+  "13": {
+    "pos_docs": [
+      1031,
+      1137,
+      10500,
+      9906,
+      1112,
+      6872,
+      1078,
+      1116,
+      6866,
+      944
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Film and Television Personalities",
+      "description": "This topic encompasses notable actors, filmmakers, and their contributions to film and television across various genres and eras.",
+      "evidence": {
+        "Document 10": [
+          "Ronnie Barker was an English actor, comedian, and writer known for roles in British comedy television series.",
+          "He won a BAFTA for best light entertainment performance four times."
+        ]
+      }
+    }
+  },
+  "14": {
+    "pos_docs": [
+      13921,
+      9343,
+      13896,
+      13890,
+      2850,
+      13183,
+      13151,
+      13131,
+      13186,
+      6495
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Religious Practices and Beliefs",
+      "description": "The documents explore various religious traditions, their practices, and historical significance.",
+      "evidence": {
+        "Document 10": [
+          "Maximilian Kolbe was a Polish Conventual Franciscan friar who volunteered to die in place of a stranger.",
+          "He was canonized and declared a martyr of charity."
+        ]
+      }
+    }
+  },
+  "15": {
+    "pos_docs": [
+      6973,
+      7475,
+      14147,
+      6903,
+      14100,
+      6921,
+      5329,
+      13337,
+      6939,
+      6913
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Invasive and Endangered Species",
+      "description": "This topic covers various species, both invasive and endangered, highlighting their ecological impact, conservation status, and historical context.",
+      "evidence": {
+        "1": [
+          "Carcinus maenas is a common littoral crab, and a widespread invasive species, listed among the 100 'world's worst alien invasive species'.",
+          "Its successful dispersion has occurred via a variety of mechanisms, such as on ships' hulls, packing materials, and bivalves moved for aquaculture."
+        ],
+        "3": [
+          "The Boreray is the rarest breed of sheep in the United Kingdom.",
+          "It is the only breed classed as 'Category 2: Endangered' by the Rare Breeds Survival Trust, because fewer than 300-500 are known to exist."
+        ],
+        "4": [
+          "Hemigrapsus estellinensis is an extinct species of crab, formerly endemic to the Texas Panhandle.",
+          "It was discovered by Gordon C. Creel in 1962 and was probably already extinct before his description was published in 1964."
+        ]
+      }
+    }
+  },
+  "16": {
+    "pos_docs": [
+      5439,
+      4374,
+      3172,
+      3087,
+      5414,
+      3211,
+      5446,
+      3081,
+      5445,
+      4364
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "American Comedy Series Episodes",
+      "description": "The documents discuss specific episodes from popular American comedy television series, focusing on their plots, cast performances, and audience reception.",
+      "evidence": {
+        "1": [
+          "The One with the Cast of Night Court is the third episode of the third season of the American television comedy series 30 Rock.",
+          "The episode received mixed reception from television critics."
+        ],
+        "2": [
+          "Funeral is the twenty-first episode of the second season of the American musical television series Glee.",
+          "The episode received a wide range of reviews, from highly enthusiastic to harshly critical."
+        ],
+        "3": [
+          "Finale is the last episode of the American comedy television series The Office.",
+          "The episode features the return of many recurring characters."
+        ],
+        "4": [
+          "Lice is the tenth episode of the ninth season of the American comedy television series The Office.",
+          "The episode received mixed reviews from television critics."
+        ],
+        "5": [
+          "The Problem Solvers is the fifth episode of the fourth season of the American television comedy series 30 Rock.",
+          "The episode received generally positive reception from television critics."
+        ],
+        "6": [
+          "The Boat is the sixth episode of the ninth season of the American comedy television series The Office.",
+          "The episode received positive reviews from television critics."
+        ],
+        "7": [
+          "Sun Tea is the sixth episode of the fourth season of the American television comedy series 30 Rock.",
+          "The episode was watched by 5.858 million households during its original broadcast."
+        ],
+        "8": [
+          "Gettysburg is the eighth episode of the eighth season of the American comedy television series The Office.",
+          "The episode received mixed reviews, with commentators mainly criticizing the episode for recycling jokes."
+        ],
+        "9": [
+          "Apollo, Apollo is the sixteenth episode of the third season of American television comedy series 30 Rock.",
+          "The episode was nominated for four Primetime Emmy Awards."
+        ],
+        "10": [
+          "I Am Unicorn is the second episode of the third season of the American musical television series Glee.",
+          "The episode received mostly positive reviews, which ranged from okay to fabulous."
+        ]
+      }
+    }
+  },
+  "17": {
+    "pos_docs": [
+      7822,
+      3483,
+      6075,
+      7819,
+      9687,
+      8276,
+      2054,
+      11475,
+      6065,
+      5988
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Emotional Themes in Music",
+      "description": "The documents explore various songs that convey deep emotional themes such as love, loss, empowerment, and personal experiences.",
+      "evidence": {
+        "1": [
+          "Lyrically, the song has a theme of freedom.",
+          "the song received positive reviews from music critics who praised its instrumentation, Lee's vocals and the song's musical hook."
+        ],
+        "2": [
+          "A universal song about any kind of loss in life.",
+          "Lyrically it asks listeners to stand in a victim's position and try to understand the turmoil they go through."
+        ],
+        "3": [
+          "The song's lyrics concern a man's plea to his lover for sex.",
+          "it earned D'Angelo a number of awards."
+        ],
+        "4": [
+          "Beyonc\u00e9 expressing her endless love to her soul mate; the lyrics make strong statements about the power of the relationship.",
+          "It was also complimented for its subtle instrumentation, which provides emphasis on Beyonc\u00e9's vocals."
+        ],
+        "5": [
+          "The song received positive reviews from music critics, who complimented its club anthem-like nature and the synthpop associated with it.",
+          "The song has also achieved commercial success by topping charts in the United States."
+        ],
+        "6": [
+          "The track was added to BBC Radio 1 A Playlist in the United Kingdom, and was released in the United Kingdom on September 19, 2010.",
+          "The debut single received positive reviews from critics, who considered it a stand-out track on Doo-Wops & Hooligans."
+        ],
+        "7": [
+          "The main inspiration behind the song is female empowerment, urging women never to go for second-best and to always express their inner feelings.",
+          "The lyrics talk about rejecting material pleasures and only accepting the best for oneself."
+        ],
+        "8": [
+          "The soundtrack is credited as a Madonna album, despite her only performing four of the nine tracks on the album.",
+          "she felt that an uptempo song and a downtempo song were needed for the album."
+        ],
+        "9": [
+          "The teen pop ballad was written and produced by White, and features Spears singing about the loss of a first love and how breaking up can be hard.",
+          "received mixed to positive reviews from music critics, who noted the song as a classic hit."
+        ],
+        "10": [
+          "Lyrically, the song is written from a woman's point of view where she expresses her sense of relief with the end of her troubled relationship.",
+          "Critics also felt that it was one of the best pop songs in the last decade."
+        ]
+      }
+    }
+  },
+  "18": {
+    "pos_docs": [
+      6496,
+      6479,
+      3533,
+      12713,
+      70,
+      6368,
+      9124,
+      6499,
+      8054,
+      9273
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Religious Leaders and Movements",
+      "description": "This topic encompasses influential religious figures and the movements they founded or led, shaping their respective faiths and communities.",
+      "evidence": {
+        "1": [
+          "Swaminarayan was the central figure in a modern sect of Hinduism known as the Swaminarayan Hinduism.",
+          "He developed a good relationship with the British Raj and appointed 500 paramahamsas to spread his philosophy."
+        ],
+        "2": [
+          "Joseph Smith was an American religious leader and founder of Mormonism and the Latter Day Saint movement.",
+          "He published the Book of Mormon and organized the Church of Christ, calling it a restoration of the early Christian church."
+        ],
+        "8": [
+          "Swami Vivekananda was a key figure in the introduction of the Indian philosophies of Vedanta and Yoga to the Western world.",
+          "He was a major force in the revival of Hinduism in India and contributed to the concept of nationalism in colonial India."
+        ]
+      }
+    }
+  },
+  "19": {
+    "pos_docs": [
+      8587,
+      10256,
+      10270,
+      9835,
+      4312,
+      11323,
+      10253,
+      8642,
+      4224,
+      11360
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Olympic Participation and Achievements",
+      "description": "This cluster discusses various athletes and their performances at the Olympic Games, highlighting their achievements, backgrounds, and the significance of their participation.",
+      "evidence": {
+        "Document 1": [
+          "Egypt competed at the 2012 Summer Olympics in London, sending one of its largest delegations ever.",
+          "Egypt won two medals in London: Alaaeldin Abouelkassem earned silver in men's foil."
+        ],
+        "Document 2": [
+          "David Larson is an American former competition swimmer who is an Olympic gold medalist.",
+          "He was known for his success as a member of American relay teams in international competition at the Olympics."
+        ],
+        "Document 3": [
+          "The 2009 International Canoe Federation Canoe Sprint World Championships were held after the 2008 Summer Olympics.",
+          "Athlete comments ranged from disgust over the format adjustment made to the canoe sprint program for the 2012 Summer Olympics."
+        ],
+        "Document 5": [
+          "Mareike Adermann won a gold medal at the 2012 Summer Paralympics in London.",
+          "She has also played for the German national team, with which she won two European titles."
+        ],
+        "Document 6": [
+          "Li Jiawei is a Chinese-born Singaporean table tennis player who won a silver medal at the 2008 Summer Olympics.",
+          "Her team lost to China in the finals, marking Singapore's first Olympic medal since independence."
+        ],
+        "Document 9": [
+          "Kylie Gauci participated in the 2012 Summer Paralympics in London, where she won a second silver medal.",
+          "She has played over 180 international games."
+        ],
+        "Document 10": [
+          "Alicia Sacramone won a team silver medal at the 2008 Beijing Olympics.",
+          "She is the second most decorated U.S. gymnast in the history of the World Championships."
+        ]
+      }
+    }
+  },
+  "20": {
+    "pos_docs": [
+      3703,
+      12093,
+      5087,
+      2547,
+      5269,
+      2484,
+      5210,
+      11953,
+      7190,
+      11992
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Naval Warfare History",
+      "description": "The documents discuss various naval vessels and engagements primarily during World War I and the early 20th century.",
+      "evidence": {
+        "Document 1": [
+          "French battleship Vergniaud was built for the French Navy in the late 1900s.",
+          "Vergniaud spent most of the rest of the war blockading the Straits of Otranto."
+        ],
+        "Document 2": [
+          "SM UB-16 was a German Type UB I submarine in the German Imperial Navy during World War I.",
+          "UB-16 sank 23 merchant ships, about half of them British fishing vessels."
+        ],
+        "Document 3": [
+          "HMS Jamaica was a Crown Colony-class cruiser of the Royal Navy, named after the island of Jamaica.",
+          "Jamaica spent almost her entire wartime career on Arctic convoy duties."
+        ],
+        "Document 4": [
+          "The frigate action of 29 May 1794 was a minor naval engagement of the French Revolutionary Wars.",
+          "The action formed a minor part of the Atlantic campaign of May 1794."
+        ],
+        "Document 5": [
+          "HMS Foresight was one of nine F-class destroyers built for the Royal Navy during the 1930s.",
+          "The ship escorted numerous convoys to Malta in 1941."
+        ],
+        "Document 6": [
+          "The Raid on Genoa was a minor naval engagement fought in the harbour of the Italian city of Genoa during the first year of the French Revolutionary Wars.",
+          "The action had strategic consequences."
+        ],
+        "Document 7": [
+          "HMS Brilliant was a 36-gun Venus-class fifth-rate frigate of the Royal Navy which saw active service during the Seven Years' War with France.",
+          "She was one of the first Royal Navy vessels to be built to a classic frigate design."
+        ],
+        "Document 8": [
+          "German submarine U-43 was a Type IXA U-boat of Nazi Germany's Kriegsmarine during World War II.",
+          "U-43 conducted 14 combat patrols, sinking 21 merchant ships."
+        ],
+        "Document 9": [
+          "Napoli was a Regina Elena-class pre-dreadnought battleship built for the Italian Regia Marina.",
+          "She saw action in the Italo-Turkish War in 1911 and 1912."
+        ],
+        "Document 10": [
+          "The K\u00f6nigsberg class was a group of four light cruisers built for the German Imperial Navy.",
+          "The ships saw extensive service during World War I."
+        ]
+      }
+    }
+  },
+  "21": {
+    "pos_docs": [
+      8888,
+      8251,
+      9649,
+      8234,
+      2634,
+      7840,
+      11816,
+      9746,
+      8263,
+      5976
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Emotional Themes in Music",
+      "description": "The documents explore various emotional themes in contemporary music, including love, self-worth, and personal struggles.",
+      "evidence": {
+        "1": [
+          "The lyrics revolve around the idea of outing a cheating boyfriend publicly.",
+          "It was rumored that Carey had become pregnant and miscarried, though she never addressed it until late 2010."
+        ],
+        "2": [
+          "The lyrics of the song revolve around self-doubt over a lost relationship.",
+          "Critics praised Michele's vocals in the song."
+        ],
+        "3": [
+          "The song is lyrically about Gaga's experiences as a struggling artist in the Lower East Side.",
+          "Reviewers complimented the lyrics and the fun nature of the song."
+        ],
+        "4": [
+          "According to Diddy, the song is about loving someone so much that you forget about yourself.",
+          "Most complimented the song's production, Drake's cameo, and Harper and Richard's vocals."
+        ],
+        "9": [
+          "The song's lyrics revolve around self-worth and the love of God.",
+          "The song was written for the daughters of the band's members."
+        ],
+        "10": [
+          "The song describes Stefani's relationship with Rossdale.",
+          "The line 'You're really lovely underneath it all' comes from a journal entry."
+        ]
+      }
+    }
+  },
+  "22": {
+    "pos_docs": [
+      6788,
+      6737,
+      6733,
+      6765,
+      6759,
+      6772,
+      6682,
+      6608,
+      6782,
+      6667
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Tropical Cyclone Seasons",
+      "description": "The documents discuss various tropical cyclone seasons across different ocean basins, detailing the formation, intensity, impacts, and statistics of storms during those seasons.",
+      "evidence": {
+        "Document 1": [
+          "The 1986 Pacific typhoon season has no official bounds; it ran year-round in 1986, but most tropical cyclones tend to form in the northwestern Pacific Ocean between May and December.",
+          "A total of 32 tropical depressions formed in 1986 in the Western Pacific over an eleven-month time span."
+        ],
+        "Document 2": [
+          "The 2001 Atlantic hurricane season was a fairly active Atlantic hurricane season that produced 17 tropical cyclones, 15 named storms, nine hurricanes, and four major hurricanes.",
+          "The season officially lasted from June 1, 2001, to November 30, 2001."
+        ],
+        "Document 3": [
+          "The 1993 Atlantic hurricane season was a below average Atlantic hurricane season that produced ten tropical cyclones and tropical storms, four hurricanes, and one major hurricane.",
+          "It officially started on June 1 and ended on November 30, dates which conventionally delimit the period during which most tropical cyclones form in the Atlantic Ocean."
+        ],
+        "Document 4": [
+          "The 1972 Atlantic hurricane season had only four fully tropical named storms \u2013 the fewest since 1930.",
+          "It officially began on June 1, 1972, and lasted until November 30, 1972."
+        ],
+        "Document 5": [
+          "The 2001 North Indian Ocean cyclone season was fairly quiet, although activity was evenly spread between the Arabian Sea and the Bay of Bengal.",
+          "There were six depressions tracked by the India Meteorological Department (IMD)."
+        ],
+        "Document 6": [
+          "The 1989 Atlantic hurricane season featured the costliest tropical cyclone in the Atlantic basin at the time, Hurricane Hugo.",
+          "The season officially began on June 1, and ended on November 30."
+        ],
+        "Document 7": [
+          "The 1998 Atlantic hurricane season was one of the deadliest Atlantic hurricane seasons that featured the highest number of storm-related fatalities in over 200 years.",
+          "It officially began on June 1 and ended on November 30."
+        ],
+        "Document 8": [
+          "The 1973 Pacific hurricane season was an event in tropical cyclone meteorology.",
+          "The most important system this year was Hurricane Ava, which was the most intense Pacific hurricane known at the time."
+        ],
+        "Document 9": [
+          "The 1994 Pacific hurricane season was the final season of the eastern north Pacific's most recent active string of hurricane seasons.",
+          "The season officially started on May 15, 1994 in the eastern Pacific, and on June 1, 1994 in the central Pacific."
+        ],
+        "Document 10": [
+          "The 1906 Atlantic hurricane season was the eleventh-deadliest Atlantic hurricane season in recorded history, with 381 deaths.",
+          "The season was fairly active, with eleven storms, of which six became hurricanes and three became major hurricanes."
+        ]
+      }
+    }
+  },
+  "23": {
+    "pos_docs": [
+      1842,
+      1814,
+      9026,
+      6701,
+      8708,
+      10416,
+      1875,
+      7094,
+      1857,
+      1626
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Tropical Cyclones and Hurricanes",
+      "description": "The documents discuss various tropical cyclones and hurricanes, their development, impacts, and forecasting methods.",
+      "evidence": {
+        "Document 1": [
+          "Hurricane Isbell was the final hurricane to affect the United States during the 1964 season.",
+          "The storm produced strong winds throughout western Cuba."
+        ],
+        "Document 2": [
+          "Hurricane David was a Cape Verde-type hurricane that reached Category 5 hurricane status.",
+          "David remains the only storm of Category 5 intensity to make landfall on the Dominican Republic in the 20th century."
+        ],
+        "Document 3": [
+          "Hurricane Manuel was a destructive tropical cyclone that brought widespread flooding across much of Mexico in September 2013.",
+          "The storm caused extreme flooding in southern Mexico."
+        ],
+        "Document 4": [
+          "Tropical cyclone forecasting is the science of forecasting where a tropical cyclone's center, and its effects, are expected to be at some point in the future.",
+          "While skill is increasing in regard to track forecasting, intensity forecasting skill remains nearly unchanged."
+        ],
+        "Document 7": [
+          "Hurricane Ida was the strongest landfalling tropical cyclone during the 2009 Atlantic hurricane season.",
+          "The remnants of the storm became a powerful nor'easter that caused widespread damage along coastal areas of the Mid-Atlantic States."
+        ],
+        "Document 9": [
+          "Tropical Storm Amelia was a weak, poorly organized tropical storm that formed during the 1978 Atlantic hurricane season.",
+          "The storm caused a severe flooding disaster in Texas after it dissipated."
+        ]
+      }
+    }
+  },
+  "24": {
+    "pos_docs": [
+      12352,
+      7580,
+      14122,
+      12391,
+      13029,
+      12346,
+      12378,
+      12392,
+      11013,
+      14032
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Science Fiction Television Episodes",
+      "description": "This cluster encompasses significant episodes from various science fiction television series, highlighting themes of time travel, identity, and moral dilemmas.",
+      "evidence": {
+        "Document 1": [
+          "The episode follows the cliffhanger of 'The Almost People'... Alien time traveller the Doctor...",
+          "The episode reveals the recurring character River Song is Amy and Rory's child."
+        ],
+        "Document 2": [
+          "Set in the 24th century, the series follows the adventures of the crew of the Federation starship Enterprise.",
+          "Picard changes the past, but upon returning to the present he finds that it made him the man he became."
+        ],
+        "Document 3": [
+          "The series follows the adventures of the young Clark Kent in the fictional town of Smallville...",
+          "Clark finally realizes his true destiny, just in time to stop Darkseid's arrival on Earth."
+        ],
+        "Document 4": [
+          "The Doctor and Rose discover that the Editor and an alien are controlling the rest of humanity by way of the press.",
+          "Critics have pointed out that the story is a satire on the media."
+        ],
+        "Document 5": [
+          "The series takes place in the fictional seaside town of Storybrooke, Maine, in which the residents are actually characters from various fairy tales...",
+          "Jiminy Cricket was typically a character that appeared in other people's stories."
+        ],
+        "Document 6": [
+          "The Doctor, Amy and River Song travel through a stone labyrinth to reach the ship.",
+          "Moffat utilised the two-part episode to bring back a couple of his previous creations."
+        ],
+        "Document 7": [
+          "The episode and its sequel, 'The Poison Sky', were written by Helen Raynor...",
+          "ATMOS is later revealed to be part of a Sontaran plot to poison the atmosphere."
+        ],
+        "Document 8": [
+          "The serial was produced by the BBC and first broadcast in four weekly parts...",
+          "The plot concerns a scheme by an alien, Scaroth, to steal the Mona Lisa to finance experiments in time travel."
+        ],
+        "Document 9": [
+          "The episode aired on September 10, 1993 on the Fox network in the United States...",
+          "The episode follows FBI Special Agents Mulder and Scully on their first X-File case together."
+        ],
+        "Document 10": [
+          "Samuel Noel 'Sam' Strachan is a fictional character in the BBC medical drama Holby City...",
+          "The character has proven highly popular with fans of the show."
+        ]
+      }
+    }
+  },
+  "25": {
+    "pos_docs": [
+      13015,
+      2668,
+      12310,
+      12633,
+      12649,
+      2657,
+      5064,
+      11752,
+      2721,
+      12328
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Music Albums and Artists",
+      "description": "This cluster discusses various music albums and their artists, highlighting their styles, themes, and historical significance.",
+      "evidence": {
+        "Document 1": [
+          "Abbey Road is the eleventh studio album by English rock band the Beatles",
+          "the album was recorded amidst a more collegial atmosphere than the Get Back / Let It Be sessions"
+        ],
+        "Document 2": [
+          "New Amerykah Part One is the fourth studio album by American neo soul singer Erykah Badu",
+          "It features social commentary and themes related to the plight of the African-American community"
+        ],
+        "Document 3": [
+          "Who Can See It is a song by English musician George Harrison",
+          "the lyrics reflect Harrison's uneasy feelings towards the Beatles' legacy"
+        ],
+        "Document 6": [
+          "Late Registration is the second studio album by American hip hop producer and rapper Kanye West",
+          "the album features guest contributions from Adam Levine, Lupe Fiasco, Jamie Foxx, Common, Jay-Z, Brandy, and Nas"
+        ],
+        "Document 9": [
+          "Graduation is the third studio album by American hip hop recording artist and record producer Kanye West",
+          "the album's cover artwork was designed by Japanese contemporary artist Takashi Murakami"
+        ]
+      }
+    }
+  },
+  "26": {
+    "pos_docs": [
+      14109,
+      10789,
+      12936,
+      7060,
+      12595,
+      7067,
+      9346,
+      7497,
+      11392,
+      7504
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Ecological Studies and Biodiversity",
+      "description": "The documents discuss various aspects of ecology, biodiversity, and the interactions between organisms and their environments.",
+      "evidence": {
+        "1": [
+          "Ecology is the scientific analysis and study of interactions among organisms and their environment.",
+          "Topics of interest to ecologists include the diversity, distribution, amount (biomass), and number (population) of particular organisms."
+        ],
+        "3": [
+          "The Chittenango ovate amber snail is a species of small air-breathing land snail...",
+          "There is only one population of this species at Chittenango Falls State Park in central New York."
+        ],
+        "4": [
+          "K\u012blauea is a currently active shield volcano in the Hawaiian Islands...",
+          "K\u012blauea's eruptive history has been a long and active one."
+        ],
+        "5": [
+          "John Day Fossil Beds National Monument is known for its well-preserved layers of fossil plants and mammals...",
+          "Paleontologists have been unearthing and studying the fossils in the region since 1864."
+        ],
+        "6": [
+          "Mount Kenya is the highest mountain in Kenya and the second-highest in Africa...",
+          "The forested slopes are an important source of water for much of Kenya."
+        ],
+        "8": [
+          "The house sparrow is a bird of the sparrow family found in most parts of the world.",
+          "It is strongly associated with human habitations, and can live in urban or rural settings."
+        ]
+      }
+    }
+  },
+  "27": {
+    "pos_docs": [
+      13309,
+      6243,
+      87,
+      6157,
+      6126,
+      3729,
+      13301,
+      9536,
+      14271,
+      2250
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Political Figures and Activism",
+      "description": "The documents discuss various political figures and their roles in activism, leadership, and social change throughout history.",
+      "evidence": {
+        "1": [
+          "Zachary Taylor was the 12th President of the United States, serving from March 1849 until his death in July 1850.",
+          "His top priority as president was preserving the Union, but he died seventeen months into his term."
+        ],
+        "2": [
+          "Chrystal Macmillan was a Scottish Liberal politician, barrister, feminist, and pacifist.",
+          "She was an activist for women's right to vote, and for other women's causes."
+        ],
+        "3": [
+          "Andrea Dworkin was an American radical feminist and writer best known for her criticism of pornography.",
+          "She maintained a dialogue with political conservatives and wrote a topically-related book, Right-Wing Women."
+        ],
+        "4": [
+          "Ann Romney is the wife of American businessman and politician, Mitt Romney.",
+          "She was involved in a number of children's charities, including Operation Kids."
+        ],
+        "5": [
+          "Geert Wilders is a Dutch politician and the founder and leader of the Dutch Party for Freedom.",
+          "Wilders is best known for his criticism of Islam; his views have made him a controversial figure."
+        ],
+        "6": [
+          "New Labour refers to a period in the history of the British Labour Party from the mid-1990s to the early 2010s.",
+          "The branding was used to communicate the party's modernisation to the public."
+        ],
+        "7": [
+          "Vazgen Sargsyan was an Armenian military commander and politician.",
+          "He served as Armenia's Prime Minister from 11 June 1999 until his assassination on 27 October of that year."
+        ],
+        "8": [
+          "Day of Rage (Bahrain) is the name given by protesters in Bahrain to 14 February 2011, the first day of their national uprising.",
+          "Inspired by the successful uprisings in Egypt and Tunisia, Bahraini youth organised protests using social media websites."
+        ],
+        "9": [
+          "Michelle Obama is an American lawyer and writer, married to the 44th President of the United States, Barack Obama.",
+          "As First Lady, she has become a fashion icon, a role model for women, and an advocate for poverty awareness."
+        ],
+        "10": [
+          "Oskar Gr\u00f6ning is a German former SS junior squad leader who was stationed at Auschwitz concentration camp.",
+          "He has since openly criticised those who deny the events that he witnessed."
+        ]
+      }
+    }
+  },
+  "28": {
+    "pos_docs": [
+      5601,
+      6593,
+      6584,
+      5524,
+      5567,
+      6590,
+      3946,
+      5548,
+      12452,
+      6574
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Military and Civil Aircraft",
+      "description": "The documents discuss various military and civil aircraft, their development, specifications, and operational use.",
+      "evidence": {
+        "Document 1": [
+          "Boeing E-3 Sentry, commonly known as AWACS, is an airborne early warning and control aircraft developed by Boeing.",
+          "The E-3 is distinguished by the distinctive rotating radar dome above the fuselage."
+        ],
+        "Document 4": [
+          "The Panavia Tornado is a family of twin-engine, variable-sweep wing multirole combat aircraft.",
+          "It first flew on 14 August 1974 and was introduced into service in 1979 \u2013 1980."
+        ],
+        "Document 5": [
+          "The Saab JAS 39 Gripen is a light single-engine multirole fighter aircraft manufactured by the Swedish aerospace company Saab.",
+          "It was designed to replace the Saab 35 Draken and 37 Viggen in the Swedish Air Force."
+        ],
+        "Document 8": [
+          "The Fairchild Republic A-10 Thunderbolt II is a single seat, twin turbofan engine, straight wing jet aircraft developed by Fairchild-Republic for the United States Air Force.",
+          "The A-10 was designed for close-in support of ground troops, close air support (CAS)."
+        ]
+      }
+    }
+  },
+  "29": {
+    "pos_docs": [
+      2981,
+      3034,
+      2903,
+      2974,
+      3067,
+      3050,
+      2913,
+      2982,
+      2951,
+      3023
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Major League Baseball Players",
+      "description": "The documents discuss various professional baseball players in Major League Baseball (MLB) and their careers.",
+      "evidence": {
+        "Document 1": [
+          "Aurelio L\u00f3pez was a Mexican professional baseball player.",
+          "He spent eleven seasons in Major League Baseball (MLB)."
+        ],
+        "Document 2": [
+          "Willard Hershberger was an American baseball catcher for the Cincinnati Reds of Major League Baseball (MLB).",
+          "He is the only major league player to date to commit suicide during the season."
+        ],
+        "Document 3": [
+          "Matt Kemp is an American professional baseball outfielder for the San Diego Padres of Major League Baseball (MLB).",
+          "He has been named to two All-Star teams and has won two Gold Glove Awards."
+        ],
+        "Document 4": [
+          "Phil Hughes is an American right-handed professional baseball pitcher for the Minnesota Twins of Major League Baseball (MLB).",
+          "He was the Yankees' first-round pick in the 2004 MLB draft."
+        ],
+        "Document 5": [
+          "Sammy Vick was an American professional right fielder in Major League Baseball.",
+          "He played for the New York Yankees from 1917 to 1920."
+        ],
+        "Document 6": [
+          "Dave Bancroft was an American baseball shortstop and manager.",
+          "He played in Major League Baseball (MLB) from 1915 to 1930."
+        ],
+        "Document 7": [
+          "Stephen Strasburg is an American professional baseball pitcher for the Washington Nationals of Major League Baseball (MLB).",
+          "He was selected by Washington with the first pick in the 2009 MLB Draft."
+        ],
+        "Document 8": [
+          "Ian Kinsler is an American professional baseball second baseman for the Detroit Tigers of Major League Baseball (MLB).",
+          "He is known as a five-tool player."
+        ],
+        "Document 9": [
+          "Danny Valencia is an American professional baseball third baseman for the Oakland Athletics of Major League Baseball (MLB).",
+          "He was drafted while he was a junior at the University of Miami."
+        ],
+        "Document 10": [
+          "Brad Hennessey is a former American professional baseball pitcher for the San Francisco Giants of Major League Baseball.",
+          "He played for the Giants from 2004 \u2013 08."
+        ]
+      }
+    }
+  },
+  "30": {
+    "pos_docs": [
+      13068,
+      13046,
+      14065,
+      10834,
+      10820,
+      11505,
+      11539,
+      11524,
+      4953,
+      10166
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Railway Systems and Infrastructure",
+      "description": "The documents discuss various aspects of railway systems, including locomotives, metro trains, and railway stations, highlighting their history, specifications, and operational details.",
+      "evidence": {
+        "Document 1": [
+          "British Rail Class 47 is a class of British railway diesel-electric locomotive",
+          "used on both passenger and freight trains on Britain's railways for over 50 years."
+        ],
+        "Document 2": [
+          "T2000 was an electric train formerly used on the Oslo Metro of Oslo, Norway",
+          "maximum speed was 100 km/h (62 mph)."
+        ],
+        "Document 3": [
+          "Sir John Fowler was an English civil engineer specialising in the construction of railways",
+          "engineer for the world's first underground railway, London's Metropolitan Railway."
+        ],
+        "Document 4": [
+          "The Triangle Link connects the islands of Stord and B\u00f8mlo to each other and to the mainland",
+          "includes the underwater B\u00f8mlafjord Tunnel and several bridges."
+        ],
+        "Document 5": [
+          "The A5 motorway connects Osijek to the Croatian motorway network",
+          "represents a significant north-south transportation corridor in Croatia."
+        ],
+        "Document 6": [
+          "Stapleton Road railway station is on the Severn Beach Line and Cross Country Route",
+          "It was opened in 1863 by the Bristol and South Wales Union Railway."
+        ],
+        "Document 7": [
+          "Parson Street railway station serves the western end of Bedminster in Bristol",
+          "opened in 1927 by the Great Western Railway."
+        ],
+        "Document 8": [
+          "Patchway railway station is on the South Wales Main Line",
+          "opened by the Bristol and South Wales Union Railway in 1863."
+        ],
+        "Document 9": [
+          "The Tennessee Coal, Iron and Railroad Company was a major American steel manufacturer with interests in railroad operations",
+          "it relocated most of its business to Alabama in the late nineteenth century."
+        ],
+        "Document 10": [
+          "The Oslo Metro is the rapid transit system of Oslo, Norway",
+          "the network consists of five lines that all run through the city centre."
+        ]
+      }
+    }
+  },
+  "31": {
+    "pos_docs": [
+      6365,
+      12180,
+      12186,
+      9238,
+      12198,
+      9245,
+      12251,
+      6384,
+      9183,
+      9248
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Byzantine Military History",
+      "description": "The documents discuss significant military events and figures in Byzantine history, focusing on conflicts involving the Byzantine Empire and its neighbors.",
+      "evidence": {
+        "1": [
+          "Eustathios Argyros was a Byzantine aristocrat and one of the most prominent generals under Emperor Leo VI.",
+          "He fought with distinction against the Arabs in the east."
+        ],
+        "2": [
+          "The First Arab Siege of Constantinople in 674 \u2013 678 was a major conflict of the Arab \u2013 Byzantine Wars.",
+          "The Byzantine victory was of major importance for the survival of the Byzantine state."
+        ],
+        "3": [
+          "Sviatoslav's invasion of Bulgaria refers to a conflict beginning in 967 / 968 and ending in 971, involving the Kievan Rus', Bulgaria, and the Byzantine Empire.",
+          "The ensuing military confrontation ended with a Byzantine victory."
+        ],
+        "8": [
+          "Theodore Komnenos Doukas was ruler of Epirus and Thessaly and the power behind the rule of his sons over Thessalonica.",
+          "He continued his brother's policy of territorial expansion, threatening the Latin Kingdom of Thessalonica."
+        ]
+      }
+    }
+  },
+  "32": {
+    "pos_docs": [
+      2288,
+      3396,
+      3305,
+      3282,
+      2402,
+      3257,
+      2413,
+      3277,
+      3312,
+      2317
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "World War II Aviation and Military Units",
+      "description": "The documents discuss various aspects of aviation and military units involved in World War II, focusing on their roles, operations, and notable figures.",
+      "evidence": {
+        "1": [
+          "Otto Kittel was a World War II Luftwaffe flying ace.",
+          "He flew 583 combat missions on the Eastern Front."
+        ],
+        "2": [
+          "No. 8 Service Flying Training School was a flying training school of the Royal Australian Air Force that operated during World War II.",
+          "It was responsible for intermediate and advanced instruction of pilots under the Empire Air Training Scheme."
+        ],
+        "3": [
+          "The 28th Battalion was an infantry battalion of the Australian Army, raised for service during the First World War and later in the Second World War.",
+          "During the Second World War, the 28th undertook defensive duties in Australia."
+        ],
+        "4": [
+          "The New Guinea Air Warning Wireless was a unique signals unit of the Australian Army formed in January 1942 during World War II.",
+          "It provided early warning of Japanese air attack."
+        ],
+        "5": [
+          "Herbert Loper was a United States Army major general who helped plan the Mariana and Palau Islands campaign during World War II.",
+          "He was involved with the planning of the Okinawa campaign."
+        ],
+        "6": [
+          "The 20th Engineer Brigade is a combat engineer brigade assigned to the XVIII Airborne Corps of the United States Army.",
+          "It has seen numerous overseas tours, including to Kuwait during the Gulf war."
+        ],
+        "7": [
+          "William McAloney was a senior engineering officer in the Royal Australian Air Force and an Australian exchange recipient of the George Cross.",
+          "During the Second World War, he was primarily involved in engine repair and engineering staff work in Australia."
+        ],
+        "8": [
+          "The 15th Battalion was mobilised for wartime service during the Second World War and initially undertook defensive duties in Australia.",
+          "It took part in the fighting against the Japanese in New Guinea and Bougainville."
+        ],
+        "9": [
+          "No. 4 Operational Training Unit was an operational conversion unit of the Royal Australian Air Force during World War II.",
+          "It trained pilots and wireless air gunners to operate Vultee Vengeance dive bombers."
+        ],
+        "10": [
+          "Arthur William Murphy was a senior engineer and aviator in the Royal Australian Air Force.",
+          "He served as a mechanic and then as a pilot with the Australian Flying Corps during World War I and World War II."
+        ]
+      }
+    }
+  },
+  "33": {
+    "pos_docs": [
+      13468,
+      2154,
+      2676,
+      13878,
+      13605,
+      11781,
+      2163,
+      2213,
+      2652,
+      2099
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Contemporary Music Albums",
+      "description": "The documents discuss various contemporary music albums across different genres and artists, highlighting their production, reception, and impact.",
+      "evidence": {
+        "Document 1": [
+          "Hasta la Ra\u00edz is the sixth studio album by Mexican recording artist Natalia Lafourcade.",
+          "The album received favorable reviews from music critics."
+        ],
+        "Document 2": [
+          "Right Thoughts, Right Words, Right Action is the fourth studio album by Scottish indie rock band Franz Ferdinand.",
+          "The album received generally favourable reviews from music critics upon its release."
+        ],
+        "Document 3": [
+          "Era Vulgaris is the fifth full length studio album by American rock band Queens of the Stone Age.",
+          "The album debuted at #14 on the US Billboard 200 charts."
+        ],
+        "Document 4": [
+          "Geet Ramayan is a collection of 56 Marathi language songs chronologically describing events from the Indian Hindu epic, the Ramayana.",
+          "It was acclaimed for its lyrics, music and singing."
+        ],
+        "Document 5": [
+          "'Baby, Please Don't Go' is a blues song which has been called 'one of the most played, arranged, and rearranged pieces in blues history.'",
+          "The song became an early blues standard with recordings by several blues musicians."
+        ],
+        "Document 6": [
+          "The Yes Album is the third studio album by the English progressive rock band Yes.",
+          "The album was a critical success and a major commercial breakthrough for Yes."
+        ],
+        "Document 7": [
+          "Stone Rollin' is the fourth studio album by American recording artist Raphael Saadiq.",
+          "The record was noted for its stylistic breadth, groove-based compositions, and varied subject matter."
+        ],
+        "Document 8": [
+          "Paramore is the self-titled fourth studio album by the American rock band Paramore.",
+          "The album received acclaim from music critics, who praised the band's maturity and experimentation."
+        ],
+        "Document 9": [
+          "Hey Venus! is the eighth album by Welsh band Super Furry Animals.",
+          "The album was conceived as a 'rowdy pop record'."
+        ],
+        "Document 10": [
+          "Enamorada de Ti is the second remix album by American Tejano singer Selena.",
+          "The album quickly caught media attention after its announcement."
+        ]
+      }
+    }
+  },
+  "34": {
+    "pos_docs": [
+      8184,
+      8250,
+      9748,
+      8186,
+      4689,
+      2059,
+      9686,
+      9729,
+      9490,
+      11741
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Contemporary Pop Music",
+      "description": "The documents discuss various contemporary pop songs and their artists, highlighting themes of love, relationships, and personal experiences in modern music.",
+      "evidence": {
+        "Document 1": [
+          "'Hello Good Morning' is a song by American rapper and producer Diddy",
+          "'The song's musical composition was inspired by Diddy 's experiences in Ibiza night clubs"
+        ],
+        "Document 2": [
+          "'Mine' is a song written and performed by American singer-songwriter Taylor Swift",
+          "'The song is about her tendency to run from love"
+        ],
+        "Document 3": [
+          "'Ave Maria' is a song by American R & B recording artist Beyonc\u00e9 Knowles",
+          "'Lyrically, it speaks about being surrounded by friends but still feeling alone"
+        ],
+        "Document 4": [
+          "'Your Love' is a song by Trinidadian-born recording artist Nicki Minaj",
+          "'Described as a 'rap ballad', the song is a change of tempo compared to Minaj 's previous work"
+        ],
+        "Document 5": [
+          "The Beyonc\u00e9 Experience Live is a live DVD by American recording artist Beyonc\u00e9",
+          "'The show featured on the album was broadcast on different channels"
+        ],
+        "Document 6": [
+          "'Burning Up' is a song written and recorded by American singer Madonna",
+          "'The lyrics talk of the singer 's lack of shame in declaring her passion for her lover"
+        ],
+        "Document 7": [
+          "'Picture to Burn' is a song recorded by American singer-songwriter Taylor Swift",
+          "'The lyrics concern setting fire to photographs of a former boyfriend"
+        ],
+        "Document 8": [
+          "'I Stay in Love' is a song by American singer and songwriter Mariah Carey",
+          "'The song was written and produced by Carey and Bryan-Michael Cox"
+        ],
+        "Document 9": [
+          "'Don't Judge Me' is a song by American recording artist Chris Brown",
+          "'The lyrics reportedly referred to Brown 's former relationships with aspiring American model and fashion designer Karrueche Tran"
+        ],
+        "Document 10": [
+          "I Am ... Yours: An Intimate Performance at Wynn Las Vegas is a live CD/DVD by American R & B recording artist, Beyonc\u00e9",
+          "'It features performances of over 30 songs, including her solo material, her recordings with the girl group Destiny 's Child"
+        ]
+      }
+    }
+  },
+  "35": {
+    "pos_docs": [
+      10942,
+      8078,
+      13495,
+      11736,
+      5311,
+      11724,
+      10361,
+      6549,
+      8097,
+      6149
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Historical Figures and Events",
+      "description": "The documents explore various historical figures and their contributions across different fields and eras.",
+      "evidence": {
+        "Document 2": [
+          "Hugh de Mapenor (or Hugh de Mapenore; died April 1219) was a medieval Bishop of Hereford.",
+          "During his short episcopate, he supported John's son and successor King Henry III of England."
+        ],
+        "Document 4": [
+          "Robert Quarles Marston (February 12, 1923 \u2013 March 14, 1999) was an American physician, research scientist, governmental appointee and university administrator.",
+          "Marston was a native of Virginia, and, after earning his bachelor's, medical and research degrees, he became a research scientist and medical professor."
+        ],
+        "Document 7": [
+          "Gan Eng Seng (simplified Chinese: \u989c\u6c38\u6210; traditional Chinese: \u984f\u6c38\u6210; pinyin: Y\u00e1n Y\u01d2ngch\u00e9ng; 1844 \u2013 1899) was a Chinese businessman and philanthropist who was one of the early pioneers of Singapore.",
+          "He is known for his generosity to many charitable causes in Malaya and Singapore during the British colonial era."
+        ],
+        "Document 8": [
+          "Wighard (or Wigheard; died between 664 and 667) was a medieval Archbishop-elect of Canterbury.",
+          "He died in Rome after travelling there for confirmation by the papacy of his elevation to the archbishopric."
+        ]
+      }
+    }
+  },
+  "36": {
+    "pos_docs": [
+      2480,
+      2522,
+      2565,
+      2509,
+      12714,
+      2448,
+      6332,
+      3233,
+      2595,
+      2585
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Sieges and Battles in History",
+      "description": "This topic encompasses significant military engagements and sieges throughout history, particularly focusing on the American Revolutionary War and other notable conflicts.",
+      "evidence": {
+        "Document 1": [
+          "The Battles of Saratoga marked the climax of the Saratoga campaign giving a decisive victory to the Americans over the British in the American Revolutionary War.",
+          "Burgoyne surrendered his entire army on October 17."
+        ],
+        "Document 2": [
+          "The Siege of St. Augustine was an action in Queen Anne's War during November and December 1702.",
+          "Moore lifted the siege the next day, and was forced to burn many of his boats before retreating to Charles Town in disgrace."
+        ],
+        "Document 3": [
+          "The Siege of Malta was a two-year siege and blockade of the French garrison in Valletta.",
+          "The blockade squadron under Rear-Admiral Lord Nelson intercepted the convoy within sight of the starving troops on Malta."
+        ],
+        "Document 4": [
+          "The Mount Hope Bay raids were a series of military raids conducted by British troops during the American Revolutionary War against communities on the shores of Mount Hope Bay.",
+          "The British destroyed military defenses in the area, including supplies that had been cached by the Continental Army."
+        ],
+        "Document 6": [
+          "The Battle of Green Spring took place during the American Revolutionary War.",
+          "Cornwallis anticipated Lafayette's idea, and laid an elaborate trap."
+        ],
+        "Document 10": [
+          "The Battle of Long Island was the first major battle of the American Revolutionary War after the United States declared its independence.",
+          "It was a victory for the British Army and the beginning of a successful campaign that gave them control of New York."
+        ]
+      }
+    }
+  },
+  "37": {
+    "pos_docs": [
+      10029,
+      10092,
+      10080,
+      10023,
+      10065,
+      9898,
+      9993,
+      10007,
+      10033,
+      10059
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Formula One Racing",
+      "description": "The documents discuss various Formula One races, drivers, and events in the context of the sport's history and notable performances.",
+      "evidence": {
+        "Document 1": [
+          "2015 Russian Grand Prix was a Formula One motor race",
+          "Lewis Hamilton won the race for the second season in a row"
+        ],
+        "Document 3": [
+          "1995 Brazilian Grand Prix was a Formula One motor race",
+          "Michael Schumacher won the race for the Benetton team"
+        ],
+        "Document 5": [
+          "2007 Malaysian Grand Prix was a Formula One motor race",
+          "Fernando Alonso won the race from second on the grid"
+        ],
+        "Document 7": [
+          "2011 Canadian Grand Prix was a Formula One motor race",
+          "Jenson Button won after starting from seventh position"
+        ],
+        "Document 10": [
+          "2015 Bahrain Grand Prix was a Formula One motor race",
+          "Lewis Hamilton managed to win from Kimi R\u00e4ikk\u00f6nen and Nico Rosberg"
+        ]
+      }
+    }
+  },
+  "38": {
+    "pos_docs": [
+      11400,
+      8511,
+      11213,
+      11219,
+      8461,
+      5853,
+      5814,
+      14045,
+      9554,
+      6224
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Legal and Social Controversies",
+      "description": "This cluster discusses various legal and social controversies in the United States, including public health debates, criminal investigations, civil rights issues, and taxation arguments.",
+      "evidence": {
+        "1": [
+          "The abortion \u2013 breast cancer hypothesis posits that having an induced abortion can increase the risk of getting breast cancer.",
+          "the scientific community has concluded that abortion does not cause breast cancer and that breast cancer should not be a concern for women who are considering having an abortion."
+        ],
+        "2": [
+          "The International Criminal Court investigation in Kenya or the situation in the Republic of Kenya is an on-going investigation by the International Criminal Court (ICC) into the responsibility for the 2007 \u2013 2008 post-election violence in Kenya.",
+          "After failed attempts to conduct a criminal investigation of the key perpetrators in Kenya, the matter was referred to the International Criminal Court in The Hague."
+        ],
+        "3": [
+          "Occupy is a short study of the Occupy movement written by the American academic and political activist Noam Chomsky.",
+          "With the birth of the Occupy Movement \u2013 devoted to socio-political change \u2013 in 2011, Chomsky became a vocal supporter for the protesters."
+        ],
+        "4": [
+          "John Frank Stossel is an American consumer television personality, author, and libertarian pundit.",
+          "Stossel's style combines reporting and commentary. It reflects a libertarian political philosophy and views on economics which are largely supportive of the free market."
+        ],
+        "5": [
+          "The legal history of cannabis in the United States relates to the regulation of cannabis (legal term marijuana) use for medical, recreational or industrial purposes in the United States.",
+          "By the mid-1930s marijuana was regulated as a drug in every state."
+        ],
+        "6": [
+          "Several statutes, mostly codified in Title 18 of the United States Code, provide for federal prosecution of public corruption in the United States.",
+          "The statutes most often used to prosecute public corruption are the Hobbs Act, Travel Act, RICO, the program bribery statute, and mail and wire fraud statutes."
+        ],
+        "7": [
+          "Tax protesters in the United States advance a number of constitutional arguments asserting that the imposition, assessment and collection of the federal income tax violates the United States Constitution.",
+          "Some protesters argue that imposition of income taxes violates the First Amendment freedom of speech because it requires the subject of the tax to write information on a tax return."
+        ],
+        "8": [
+          "The Court of King 's Bench was an English court of common law in the English legal system.",
+          "Although not immediately stemming the tide, in the long term it helped the King 's Bench not only recover but increase its workload."
+        ],
+        "9": [
+          "The dismissal of the Port Macquarie-Hastings Council on 27 February 2008 marked the end of a series of events involving a project which was initiated in 2001.",
+          "The inquiry reported its findings in February 2008."
+        ],
+        "10": [
+          "Kimberly Jean Davis is the county clerk for Rowan County, Kentucky who gained international attention in August 2015 when she defied a U.S. federal court order to issue marriage licenses to same-sex couples.",
+          "Her defiance led to her jail sentence, while both supporters and detractors hotly debated her stance in the national media."
+        ]
+      }
+    }
+  },
+  "39": {
+    "pos_docs": [
+      9942,
+      12943,
+      12949,
+      12897,
+      11320,
+      6863,
+      4900,
+      12681,
+      14218,
+      9934
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Horror and Science Fiction Media",
+      "description": "The documents discuss various horror and science fiction films and series, highlighting their plots, characters, and cultural impact.",
+      "evidence": {
+        "Document 1": [
+          "Scream is a 1996 American slasher film",
+          "the film combined comedy and 'whodunit' mystery with the violence of the slasher genre"
+        ],
+        "Document 2": [
+          "The Marvel Cinematic Universe (MCU) is an American media franchise",
+          "the franchise has expanded to include comic books, short films, and television series"
+        ],
+        "Document 3": [
+          "Friday the 13th is an American horror franchise",
+          "the franchise mainly focuses on the fictional character Jason Voorhees"
+        ],
+        "Document 4": [
+          "Last Exile is a Japanese animated television series",
+          "the story is set on the fictional world of Prester"
+        ],
+        "Document 5": [
+          "Enterprise is a fictional spaceship which appeared in the American science fiction television series Star Trek: Enterprise",
+          "the ship was first seen in the pilot episode 'Broken Bow'"
+        ],
+        "Document 6": [
+          "Thunderbird 6 is a 1968 British science-fiction adventure film",
+          "the plot of Thunderbird 6 is based on Skyship One"
+        ],
+        "Document 7": [
+          "Your and My Secret follows the effeminate Akira Uehara",
+          "the series was first published in Enix's Monthly Stencil"
+        ],
+        "Document 8": [
+          "Squidward Tentacles is a fictional character voiced by actor Rodger Bumpass",
+          "the character is portrayed as ill-tempered, pretentious, and cynical"
+        ],
+        "Document 9": [
+          "Joe 90 is a 1960s British science-fiction television series",
+          "the series followed the adventures of a nine-year-old boy, Joe McClaine"
+        ],
+        "Document 10": [
+          "The Messenger: The Story of Joan of Arc is a 1999 French historical drama film",
+          "the film portrays the story of St. Joan of Arc, the French war heroine"
+        ]
+      }
+    }
+  },
+  "40": {
+    "pos_docs": [
+      13885,
+      1466,
+      8175,
+      1602,
+      249,
+      12840,
+      1495,
+      6999,
+      244,
+      1590
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Historic Religious Buildings",
+      "description": "This topic encompasses significant historic religious structures, including churches and synagogues, highlighting their architectural features, historical significance, and community roles.",
+      "evidence": {
+        "Document 1": [
+          "East Midwood Jewish Center is a Conservative synagogue located at 1625 Ocean Avenue, Midwood, Brooklyn, New York City.",
+          "The building has been unmodified architecturally since its construction, and in 2006 was added to the National Register of Historic Places."
+        ],
+        "Document 2": [
+          "St Peulan's Church, Llanbeulan is a disused medieval church in Llanbeulan, in Anglesey, north Wales.",
+          "It is a Grade II* listed building, a designation given to 'particularly important buildings of more than special interest'."
+        ],
+        "Document 4": [
+          "The Bishop's Palace and accompanying Bishops House at Wells in the English county of Somerset, is adjacent to Wells Cathedral and has been the home of the Bishops of the Diocese of Bath and Wells for 800 years.",
+          "It has been designated by English Heritage as a Grade I listed building."
+        ],
+        "Document 7": [
+          "Christ Church is a historic Episcopal church at 750 Main Street in Waltham, Massachusetts.",
+          "The church was named to the National Register of Historic Places in 1989."
+        ]
+      }
+    }
+  },
+  "41": {
+    "pos_docs": [
+      635,
+      767,
+      5736,
+      5794,
+      5746,
+      10860,
+      7960,
+      4125,
+      5721,
+      5775
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "U.S. and State Highways",
+      "description": "The documents discuss the history, routes, and characteristics of various U.S. and state highways across different states.",
+      "evidence": {
+        "Document 1": [
+          "There have been 10 business routes of US Highway 127 in the state of Michigan.",
+          "These various business routes were formerly part of the routing of US Highway 127 or its predecessor in Central Michigan."
+        ],
+        "Document 2": [
+          "US Highway 24 (US 24) is a United States Numbered Highway that runs from Minturn, Colorado, to Independence Township, Michigan.",
+          "The highway runs through three counties in southeastern Michigan, Monroe, Wayne and Oakland."
+        ],
+        "Document 3": [
+          "Maryland Route 97 (MD 97) is a state highway in the U.S. state of Maryland.",
+          "The route runs 55.27 mi from U.S. Route 29 in Silver Spring, Montgomery County north to the Pennsylvania border."
+        ],
+        "Document 4": [
+          "U.S. Route 9 (US 9) is a U.S. highway in the northeast United States, running from Laurel, Delaware north to Champlain, New York.",
+          "The highway runs from its western terminus at US 13 in Laurel to the Cape May-Lewes Ferry."
+        ],
+        "Document 5": [
+          "Maryland Route 32 (MD 32) is a state highway in the U.S. state of Maryland.",
+          "The road runs 51.79 miles from Interstate 97 and MD 3 in Millersville west and north to Washington Road in Westminster."
+        ],
+        "Document 6": [
+          "The Majura Parkway is an 11.5-kilometre-long parkway under construction in the Majura district of the Australian Capital Territory.",
+          "The parkway will provide a more efficient transport link in the area and convey large numbers of freight vehicles."
+        ],
+        "Document 7": [
+          "King's Highway 58, commonly referred to as Highway 58, is a provincially maintained highway in the Canadian province of Ontario.",
+          "The route is divided into two segments with a combined length of 15.5 km."
+        ],
+        "Document 8": [
+          "State Route 70 (SR 70) is a state highway in the U.S. state of California.",
+          "Connecting Sacramento with U.S. Route 395 near Beckwourth Pass."
+        ],
+        "Document 9": [
+          "Interstate 270 (abbreviated I-270) is a 34.70-mile auxiliary Interstate Highway in the U.S. state of Maryland.",
+          "It consists of the mainline as well as a spur that provides access to and from southbound I-495."
+        ],
+        "Document 10": [
+          "Maryland Route 30 (MD 30) is a state highway in the U.S. state of Maryland.",
+          "Known for most of its length as Hanover Pike, the highway runs 19.16 miles from MD 140 in Reisterstown north to the Pennsylvania state line."
+        ]
+      }
+    }
+  },
+  "42": {
+    "pos_docs": [
+      13422,
+      9401,
+      9097,
+      13990,
+      11335,
+      11196,
+      12413,
+      4156,
+      14061,
+      3943
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Interdisciplinary Connections in Knowledge",
+      "description": "The documents explore the intersections of language, mathematics, philosophy, and science, highlighting how these fields influence and inform one another.",
+      "evidence": {
+        "1": [
+          "Language is the ability to acquire and use complex systems of communication",
+          "The scientific study of language is called linguistics."
+        ],
+        "2": [
+          "Mathematics has itself been described as an art motivated by beauty",
+          "Mathematics can be discerned in arts such as music, dance, painting, architecture."
+        ],
+        "3": [
+          "Karma is the basic principle within an overarching psycho-cosmology in Jainism",
+          "Human moral actions form the basis of the transmigration of the soul."
+        ],
+        "4": [
+          "Digital forensics is a branch of forensic science encompassing the recovery and investigation of material found in digital devices",
+          "The technical aspect of an investigation is divided into several sub-branches."
+        ],
+        "5": [
+          "The decompression of a diver is the reduction in ambient pressure experienced during ascent from depth",
+          "It is also the process of elimination of dissolved inert gases from the diver's body."
+        ],
+        "6": [
+          "In number theory, a Wieferich prime is a prime number p such that p2 divides 2p \u2212 1 \u2212 1",
+          "Wieferich primes were first described by Arthur Wieferich in 1909."
+        ],
+        "7": [
+          "Newton's theorem of revolving orbits identifies the type of central force needed to multiply the angular speed of a particle",
+          "Isaac Newton derived this theorem in Propositions 43 \u2013 45 of Book I of his Philosophi\u00e6 Naturalis Principia Mathematica."
+        ],
+        "8": [
+          "Arthur Holly Compton was an American physicist who won the Nobel Prize in Physics in 1927",
+          "He is also known for his leadership of the Manhattan Project's Metallurgical Laboratory."
+        ],
+        "9": [
+          "Vitold Belevitch was a Belgian mathematician and electrical engineer",
+          "Belevitch is responsible for a number of circuit theorems and introduced the now well-known scattering parameters."
+        ],
+        "10": [
+          "A signal travelling along an electrical transmission line will be partly, or wholly, reflected back",
+          "Reflections cause several undesirable effects, including modifying frequency responses."
+        ]
+      }
+    }
+  },
+  "43": {
+    "pos_docs": [
+      9856,
+      7307,
+      3600,
+      12593,
+      9762,
+      13175,
+      6486,
+      9361,
+      2759,
+      8813
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Cultural and Historical Contributions",
+      "description": "The documents highlight various cultural, historical, and artistic contributions from diverse individuals and regions.",
+      "evidence": {
+        "1": [
+          "Pah Wongso was a social worker popular within the ethnic Chinese community of what was initially the Dutch East Indies, and subsequently became Indonesia.",
+          "He began his social work in the early 1930s, using traditional arts such as wayang golek to promote such causes as monogamy and abstinence."
+        ],
+        "2": [
+          "A Man Will Rise is an uncompleted comedy western film directed by Tony Jaa, set in 1950s Thailand.",
+          "The film entered production in April 2013, but came to an abrupt halt after three months of filming."
+        ],
+        "3": [
+          "McConnell Island is one of the San Juan Islands in San Juan County, Washington, and is currently a nature preserve.",
+          "The island was originally known as Brown Island, named by Charles Wilkes for members of his expedition crew."
+        ],
+        "4": [
+          "Haddam Island State Park is an undeveloped 14-acre island in the lower Connecticut River, originally used by the Wangunk tribe.",
+          "The island was purchased by the State of Connecticut and made a state park in 1944."
+        ],
+        "5": [
+          "Fursuits are animal costumes typically worn by members of the furry fandom, representing stand-alone characters.",
+          "Most fursuits are created by specialized online businesses if they are not self-made."
+        ],
+        "6": [
+          "Du Friedef\u00fcrst, Herr Jesu Christ, BWV 116 is a church cantata written by Johann Sebastian Bach in 1724.",
+          "The cantata matches the Sunday\u2019s prescribed gospel reading in a general way."
+        ],
+        "7": [
+          "Richard Swinefield was a medieval Bishop of Hereford, England, who worked to secure the canonisation of his predecessor.",
+          "He held a number of ecclesiastical offices before being named bishop."
+        ],
+        "8": [
+          "I Can See the Whole Room ... and There's Nobody in It ! is a 1961 painting by Roy Lichtenstein, based on a comic panel.",
+          "The painting focuses on themes of vision and mechanized vision."
+        ],
+        "9": [
+          "Surrounded is a box set by Icelandic musician Bj\u00f6rk, released in 2006, showcasing her studio albums.",
+          "The box set includes remastered versions of her albums in surround sound."
+        ],
+        "10": [
+          "Even the Stars Look Lonesome is a book of essays by Maya Angelou discussing a wide range of topics including Africa and aging.",
+          "The book was an immediate bestseller, prompting an increase in its first printing."
+        ]
+      }
+    }
+  },
+  "44": {
+    "pos_docs": [
+      5227,
+      5130,
+      5286,
+      7180,
+      3691,
+      5128,
+      3635,
+      3700,
+      12000,
+      5186
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Naval Warships History",
+      "description": "The documents discuss various historical naval warships from different countries, focusing on their design, specifications, and service history.",
+      "evidence": {
+        "Document 1": [
+          "HMS Brazen was a B-class destroyer built for the Royal Navy around 1930.",
+          "The ship escorted convoys and conducted anti-submarine patrols early in World War II."
+        ],
+        "Document 2": [
+          "HMS Cyclops was the lead ship of the Cyclops-class breastwork monitors built for the Royal Navy during the 1870s.",
+          "The ship spent most of her career in reserve; her only sustained period in commission was four months in Portland Harbour."
+        ],
+        "Document 3": [
+          "HMS Northumberland was the last of the three Minotaur-class armoured frigates built for the Royal Navy during the 1860s.",
+          "She had a different armour scheme and heavier armament than her sister ships."
+        ],
+        "Document 4": [
+          "Lepanto was an Italian ironclad battleship built for the Italian Regia Marina.",
+          "She was armed with a main battery of four 17 in (432 mm) guns mounted in a central barbette."
+        ],
+        "Document 5": [
+          "Mass\u00e9na was a pre-dreadnought battleship of the French Navy, built in the 1890s.",
+          "She served in both the Northern and Mediterranean Squadrons during her career."
+        ],
+        "Document 6": [
+          "HMS Perseus was a Colossus-class light fleet aircraft carrier built for the Royal Navy during World War II.",
+          "She was completed in 1945, after the end of World War II."
+        ],
+        "Document 7": [
+          "R\u00e9publique was a pre-dreadnought battleship of the French Navy built in the early 1900s.",
+          "She was outclassed by Dreadnought by the time she entered service."
+        ],
+        "Document 8": [
+          "Marengo was a wooden-hulled, armored frigate of the Oc\u00e9an class, built for the French Navy in the mid to late 1860s.",
+          "She was flagship of the Northern Squadron in 1891."
+        ],
+        "Document 9": [
+          "SM UB-3 was a German Type UB I submarine or U-boat in the German Imperial Navy during World War I.",
+          "She disappeared on her first patrol in May 1915."
+        ],
+        "Document 10": [
+          "HMS Lord Clyde was the name ship of the wooden-hulled Lord Clyde class of armoured frigates built for the Royal Navy during the 1860s.",
+          "She was initially assigned to the Channel Fleet in 1866."
+        ]
+      }
+    }
+  },
+  "45": {
+    "pos_docs": [
+      1365,
+      1308,
+      1225,
+      1296,
+      1267,
+      1305,
+      1270,
+      1203,
+      1345,
+      1221
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Fungal Species Descriptions",
+      "description": "This cluster focuses on the detailed descriptions and classifications of various fungal species, including their morphology, habitat, and taxonomy.",
+      "evidence": {
+        "Document 1": [
+          "commonly known as the black velvet bolete",
+          "grows solitarily, scattered, or in groups on the ground"
+        ],
+        "Document 2": [
+          "commonly known as the zoned Crinipellis",
+          "grows on the dead wood of deciduous trees"
+        ],
+        "Document 3": [
+          "characterized by their thick, red to brown caps",
+          "may be poisonous, and is not recommended for consumption"
+        ],
+        "Document 4": [
+          "found in North America and Europe",
+          "grows on the ground in deciduous forests"
+        ],
+        "Document 5": [
+          "found in Tasmania",
+          "fruits on the ground of wet sclerophyll forests"
+        ],
+        "Document 6": [
+          "commonly known as the short-stemmed russula",
+          "grows in a mycorrhizal association with trees"
+        ],
+        "Document 7": [
+          "commonly known as the lentil shanklet",
+          "growing in dense clusters on species of Lactarius and Russula"
+        ],
+        "Document 8": [
+          "a species of psychedelic mushroom",
+          "used by Mazatec Indians for entheogenic purposes"
+        ],
+        "Document 9": [
+          "commonly known as the velvety milk cap",
+          "oozes a whitish latex when it is cut"
+        ],
+        "Document 10": [
+          "commonly known as the silky sheath",
+          "grows singly or in clusters, often appearing in old knotholes"
+        ]
+      }
+    }
+  },
+  "46": {
+    "pos_docs": [
+      8722,
+      8766,
+      10230,
+      8755,
+      6598,
+      13980,
+      5551,
+      12433,
+      10950,
+      8678
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Roller Coaster Attractions",
+      "description": "The documents discuss various roller coasters, their histories, and characteristics across different amusement parks worldwide.",
+      "evidence": {
+        "10": [
+          "Green Lantern Coaster is a steel roller coaster at Warner Bros. Movie World on the Gold Coast, Queensland, Australia.",
+          "The ride is themed after DC Comics ' Green Lantern and is located within the park 's DC Comics superhero hub."
+        ]
+      }
+    }
+  },
+  "47": {
+    "pos_docs": [
+      11429,
+      11470,
+      11579,
+      7758,
+      7800,
+      11616,
+      7440,
+      11438,
+      7780,
+      10114
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Video Game Music Compositions",
+      "description": "The documents discuss the compositions and soundtracks of various video games, highlighting the contributions of specific composers and the impact of music on the gaming experience.",
+      "evidence": {
+        "1": [
+          "The music for the MMORPG Final Fantasy XIV was composed by Nobuo Uematsu",
+          "Several other composers including Masayoshi Soken and Naoshi Mizuta contributed music for updates to the game."
+        ],
+        "2": [
+          "The music of Chrono Trigger was mainly composed by Yasunori Mitsuda",
+          "The Chrono Trigger soundtrack has inspired four official album releases by Square Enix."
+        ],
+        "8": [
+          "The music of the video game Final Fantasy X-2 was composed by Noriko Matsueda and Takahito Eguchi",
+          "The Final Fantasy X-2 Original Soundtrack was released on two Compact Discs in 2003 by Avex."
+        ]
+      }
+    }
+  },
+  "48": {
+    "pos_docs": [
+      10384,
+      12735,
+      1369,
+      10400,
+      10456,
+      12829,
+      10397,
+      3978,
+      13938,
+      11663
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Water Management and Infrastructure",
+      "description": "The documents discuss various aspects of water management, including rivers, canals, and drainage systems, along with their historical and environmental significance.",
+      "evidence": {
+        "1": [
+          "The River Rother flows for 35 miles through the English counties of East Sussex and Kent.",
+          "Scots Float sluice is used to control levels."
+        ],
+        "2": [
+          "The Westonzoyland Pumping Station Museum is dedicated to steam powered machinery.",
+          "Early attempts to control the water levels were possibly made by the Romans."
+        ],
+        "5": [
+          "The River Hull is a navigable river in the East Riding of Yorkshire.",
+          "Regular flooding has been a long-standing problem along the waterway."
+        ],
+        "7": [
+          "The River Torrens is the most significant river of the Adelaide Plains.",
+          "Flood reduction works have been constructed due to variable flow."
+        ],
+        "4": [
+          "The Gowanus Canal is one of the most polluted bodies of water in the United States.",
+          "There has been a call for environmental cleanup."
+        ]
+      }
+    }
+  },
+  "49": {
+    "pos_docs": [
+      9006,
+      9043,
+      1904,
+      1748,
+      1895,
+      1630,
+      1723,
+      1665,
+      1808,
+      8987
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Pacific and Atlantic Hurricanes",
+      "description": "The documents discuss various hurricanes that formed in the Pacific and Atlantic oceans, detailing their development, impact, and historical significance.",
+      "evidence": {
+        "Document 1": [
+          "Hurricane Erick brought minor impact to the western coastline of Mexico in July 2013.",
+          "numerous tropical cyclone warnings and watches were issued for various portions of the coastline of Mexico."
+        ],
+        "Document 2": [
+          "Hurricane Barbara was the easternmost landfalling Pacific hurricane on record.",
+          "Many homes were damaged, roads were flooded, and several trees were downed."
+        ],
+        "Document 3": [
+          "Hurricane Dean was the fourth named storm and second hurricane of the 1989 Atlantic hurricane season.",
+          "the storm left $8.9 million (1989 USD, $17 million 2016 USD) and sixteen injuries across Bermuda."
+        ],
+        "Document 4": [
+          "The 1949 Florida hurricane was the second recorded storm and the strongest and most intense tropical cyclone of the 1949 Atlantic hurricane season.",
+          "It was the costliest storm of the season."
+        ],
+        "Document 5": [
+          "Hurricane Arlene was the first named storm and longest-lived tropical cyclone of the 1987 Atlantic hurricane season.",
+          "little damage resulted from the storm."
+        ],
+        "Document 6": [
+          "The 1903 Jamaica hurricane devastated Martinique, Jamaica, and the Cayman Islands in August 1903.",
+          "hundreds of homes were deroofed in Fort-de-France."
+        ],
+        "Document 7": [
+          "Hurricane Able was a rare hurricane that formed outside of the typical North Atlantic hurricane season.",
+          "Hurricane Able did not affect land significantly."
+        ],
+        "Document 8": [
+          "The 1812 Louisiana Hurricane was a major hurricane that struck New Orleans, Louisiana, during the War of 1812.",
+          "There were around 100 deaths, many of them due to drowning."
+        ],
+        "Document 9": [
+          "Tropical Storm Gilda in 1973 was the first documented tropical cyclone on record to transition into a subtropical cyclone.",
+          "The storm first brought heavy rainfall to Jamaica, causing six deaths and some damage from mudslides."
+        ],
+        "Document 10": [
+          "Hurricane Lester was the first Pacific tropical cyclone to enter the United States as a tropical storm since 1967.",
+          "The hurricane resulted in $3 million in damage (1992 USD, $4.7 million 2011 USD)."
+        ]
+      }
+    }
+  }
+}

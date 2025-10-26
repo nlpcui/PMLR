@@ -1,0 +1,91 @@
+<Basic Info>
+| LDAModel (current version: 0.13.0)
+| 32661 docs, 3420422 words
+| Total Vocabs: 14990, Used Vocabs: 14990
+| Entropy of words: 7.78247
+| Entropy of term-weighted words: 7.78247
+| Removed Vocabs: <NA>
+|
+<Training Info>
+| Iterations: 760, Burn-in steps: 0
+| Optimization Interval: 10
+| Log-likelihood per word: -7.54766
+|
+<Initial Parameters>
+| tw: TermWeight.ONE
+| min_cf: 0 (minimum collection frequency of words)
+| min_df: 0 (minimum document frequency of words)
+| rm_top: 0 (the number of top words to be removed)
+| k: 50 (the number of topics between 1 ~ 32767)
+| alpha: [0.1] (hyperparameter of Dirichlet distribution for document-topic, given as a single `float` in case of symmetric prior and as a list with length `k` of `float` in case of asymmetric prior.)
+| eta: 0.01 (hyperparameter of Dirichlet distribution for topic-word)
+| seed: 406574160 (random seed)
+| trained in version 0.13.0
+|
+<Parameters>
+| alpha (Dirichlet prior on the per-document topic distributions)
+|  [0.00934089 0.05571863 0.01045404 0.01439326 0.03438121 0.02062793
+|   0.02568899 0.01749432 0.00740734 0.01547231 0.01742312 0.00873216
+|   0.02281725 0.01329203 0.02010059 0.0340482  0.05317005 0.0127157
+|   0.01162515 0.01621048 0.01173385 0.00956027 0.01161339 0.01063757
+|   0.03629222 0.01144371 0.05695173 0.0224793  0.01652213 0.07742792
+|   0.00979795 0.0097885  0.01038286 0.01072955 0.01081899 0.01627194
+|   0.02652823 0.02021533 0.01542122 0.0103312  0.01432068 0.01941359
+|   0.01441447 0.01737664 0.01323525 0.01520287 0.01267887 0.01138343
+|   0.01630624 0.01799031]
+| eta (Dirichlet prior on the per-topic word distribution)
+|  0.01
+|
+<Topics>
+| #0 (45927) : vessel coast_guard act vessels secretary
+| #1 (170187) : grants program programs grant assistance
+| #2 (55342) : oil gas secretary lease act
+| #3 (19941) : measure amended summary version repeated
+| #4 (111257) : court act action federal state
+| #5 (87239) : medicare act title services social
+| #6 (76886) : act benefits compensation plan individual
+| #7 (68560) : education student higher students program
+| #8 (36461) : air faa airport aircraft flight
+| #9 (69834) : violence sexual law enforcement attorney
+| #10 (74917) : energy fuel renewable electric secretary
+| #11 (34978) : employee act employer employees labor
+| #12 (75344) : health care veterans secretary medical
+| #13 (42974) : act permit project state environmental
+| #14 (61853) : act criminal federal person law
+| #15 (106156) : information act consumer requires entity
+| #16 (122059) : tax revenue credit code internal
+| #17 (63593) : projects water project restoration resources
+| #18 (43908) : foreign united_states person country act
+| #19 (70228) : research program development technology requires
+| #20 (36649) : assistance act foreign countries president
+| #21 (49435) : program secretary food agricultural act
+| #22 (40114) : indian tribe tribal tribes native
+| #23 (53102) : president congress nuclear iran government
+| #24 (91552) : rule act agency bill shall
+| #25 (31144) : tax state irs taxpayer treasury
+| #26 (116150) : act funds year federal fiscal
+| #27 (67145) : health care child coverage act
+| #28 (62039) : health secretary act requires treatment
+| #29 (239469) : requires report congress directs federal
+| #30 (28439) : act united_states iraq cuba prohibits
+| #31 (34230) : transportation secretary safety rail vehicle
+| #32 (53247) : water project secretary act construction
+| #33 (53979) : administrator epa water carbon act
+| #34 (30659) : act discrimination prohibits federal employee
+| #35 (82955) : alien act immigration united_states status
+| #36 (82492) : military secretary members member dod
+| #37 (28486) : united_states duty amends schedule harmonized_tariff
+| #38 (117553) : sec title authorizes appropriations report
+| #39 (34153) : service fcc act communications services
+| #40 (45218) : act political federal committee election
+| #41 (130071) : school education schools students state
+| #42 (67185) : land act secretary wilderness lands
+| #43 (72750) : financial act company institution insurance
+| #44 (48887) : security dhs secretary border directs
+| #45 (71879) : drug product act secretary food
+| #46 (25977) : contract contracts acquisition act services
+| #47 (43479) : small business sba businesses program
+| #48 (72509) : housing mortgage loan act credit
+| #49 (71831) : land secretary federal property requires
+|
+

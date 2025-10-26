@@ -1,0 +1,2026 @@
+{
+  "0": {
+    "pos_docs": [
+      4738,
+      4815,
+      4762,
+      4792,
+      4759,
+      4789,
+      4794
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Australian Cricket History",
+      "description": "The documents discuss notable players and events from Australian cricket, particularly focusing on the 1948 tour of England known as 'The Invincibles'.",
+      "evidence": {
+        "1": [
+          "Don Tallon was a key member of Donald Bradman 's famous Australian cricket team tour of England in 1948",
+          "this unprecedented feat by a Test side touring England earned them the sobriquet The Invincibles."
+        ],
+        "3": [
+          "Bill Brown was a member of Donald Bradman 's famous Australian cricket team, which toured England in 1948",
+          "this unprecedented feat by a Test side touring England earned them the sobriquet The Invincibles."
+        ],
+        "5": [
+          "Ron Saggers was a member of Donald Bradman 's famous Australian cricket team of 1948",
+          "This unprecedented feat by a Test side touring England earned them the sobriquet The Invincibles."
+        ]
+      }
+    }
+  },
+  "1": {
+    "pos_docs": [
+      8671,
+      8698,
+      8656,
+      8764,
+      8746,
+      8691,
+      8660
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Bolliger & Mabillard Roller Coasters",
+      "description": "This cluster discusses various roller coasters designed by Bolliger & Mabillard, highlighting their specifications and historical context.",
+      "evidence": {
+        "Document 1": [
+          "Tatsu is a steel flying roller coaster designed by Bolliger & Mabillard",
+          "the roller coaster is also the world 's tallest and fastest flying coaster"
+        ],
+        "Document 2": [
+          "Goliath is a steel coaster roller coaster at La Ronde designed by Bolliger & Mabillard",
+          "Goliath was the tallest and fastest roller coaster in Canada until it was surpassed"
+        ],
+        "Document 3": [
+          "Silver Bullet is a western-themed steel inverted roller coaster designed by Bolliger & Mabillard",
+          "the roller coaster was announced on December 1, 2003 and opened on December 7, 2004"
+        ],
+        "Document 4": [
+          "Batman : The Dark Knight is a steel floorless roller coaster designed by Bolliger & Mabillard",
+          "the ride officially opened on April 20, 2002"
+        ],
+        "Document 5": [
+          "Nitro is a steel Floorless Coaster at Adlabs Imagica manufactured by Bolliger & Mabillard",
+          "Nitro opened to the public in October 2013"
+        ],
+        "Document 6": [
+          "Sky Scrapper is a flying roller coaster designed by Bolliger & Mabillard",
+          "Sky Scrapper was one of World Joyland 's opening day attractions"
+        ],
+        "Document 7": [
+          "D\u00e6monen is a steel Floorless Coaster roller coaster designed by Bolliger & Mabillard",
+          "D\u00e6monen replaced Slangen, a family roller coaster"
+        ]
+      }
+    }
+  },
+  "2": {
+    "pos_docs": [
+      8453,
+      8439,
+      8500,
+      8157,
+      8469,
+      8459,
+      8523
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "High-Profile Murders and Controversies",
+      "description": "This topic encompasses notable murder cases that sparked significant political, social, or legal controversies, highlighting issues of justice and accountability.",
+      "evidence": {
+        "1": [
+          "Cerro Maravilla murders ... two young Puerto Rican pro-independence activists were murdered in a Puerto Rico Police ambush.",
+          "The incident and subsequent events sparked a series of political controversies."
+        ],
+        "2": [
+          "The Ipswich serial murders took place ... during which time the bodies of five murdered women were discovered.",
+          "Suffolk Police linked the killings and launched a murder investigation codenamed Operation Sumac."
+        ],
+        "4": [
+          "Regina Mart\u00ednez P\u00e9rez ... was a Mexican journalist ... known for its critical reporting of the social and political establishment.",
+          "Mart\u00ednez P\u00e9rez faced several challenges of censorship by the political establishment for her direct reporting."
+        ],
+        "5": [
+          "Maurice Clemmons was responsible for the November 29, 2009, murder of four police officers in Parkland, Washington.",
+          "Clemmons' murder of four police officers represented the largest number of law enforcement officers killed by one man in a single incident in U.S. history."
+        ],
+        "6": [
+          "Joran van der Sloot is the murderer of Stephany Flores Ram\u00edrez ... and the primary suspect in the 2005 disappearance of Natalee Holloway.",
+          "The Holloway and Flores cases both attracted widespread media attention."
+        ],
+        "7": [
+          "The Schenecker double homicide occurred on January 27, 2011 ... found dead by police at their home in Tampa, Florida.",
+          "Julie Schenecker was charged with two counts of first degree murder and indicted by grand jury."
+        ]
+      }
+    }
+  },
+  "3": {
+    "pos_docs": [
+      5846,
+      5839,
+      5830,
+      8434,
+      5827,
+      5840,
+      5812
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Constitutional and Administrative Law in Singapore",
+      "description": "The documents discuss various aspects of constitutional and administrative law in Singapore, including the powers of the President, judicial review, and rights guaranteed under the Constitution.",
+      "evidence": {
+        "Document 1": [
+          "The Constitution of the Republic of Singapore Tribunal was established in 1994 pursuant to Article 100 of the Constitution of the Republic of Singapore.",
+          "Questions referred to the Tribunal may concern the validity of enacted laws or of bills that have not yet been passed by Parliament."
+        ],
+        "Document 3": [
+          "Article 14 of the Constitution of the Republic of Singapore guarantees to Singapore citizens the rights to freedom of speech and expression, peaceful assembly without arms, and association.",
+          "the enjoyment of these rights may be restricted by laws imposed by the Parliament of Singapore on the grounds stated in Article 14 (2) of the Constitution."
+        ],
+        "Document 5": [
+          "the doctrine of legitimate expectation in Singapore protects both procedural and substantive rights.",
+          "the recognition of substantive legitimate expectations is somewhat controversial as it requires a balancing of the requirements of fairness against the reasons for any change in the authority's policy."
+        ],
+        "Document 6": [
+          "Threshold issues are legal requirements in Singapore administrative law that must be satisfied by applicants before their claims for judicial review of acts or decisions of public authorities can be dealt with by the High Court.",
+          "Applicants must establish they have private standing if they seek to represent personal interests."
+        ],
+        "Document 7": [
+          "Exclusion of judicial review has been attempted by the Parliament of Singapore to protect the exercise of executive power.",
+          "In contrast, Singapore cases suggest that ouster clauses cannot prevent the High Court from exercising supervisory jurisdiction over the exercise of executive power where authorities have committed jurisdictional errors of law."
+        ]
+      }
+    }
+  },
+  "4": {
+    "pos_docs": [
+      5956,
+      5955,
+      5885,
+      4321,
+      5859,
+      4281,
+      5884
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "College Football Teams",
+      "description": "The documents discuss various college football teams and their seasons, highlighting key players, coaches, and game outcomes.",
+      "evidence": {
+        "Document 1": [
+          "1990 Toledo Rockets football team represented the University of Toledo during the 1990 NCAA Division I-A football season",
+          "led by first-year head coach Nick Saban"
+        ],
+        "Document 2": [
+          "1966 Liberty Bowl was a post-season American college football bowl game between the Virginia Tech Hokies and the Miami Hurricanes",
+          "ended in a 14 \u2013 7 victory for the Miami Hurricanes"
+        ],
+        "Document 3": [
+          "2011 Alabama Crimson Tide football team represented the University of Alabama in the 2011 NCAA Division I FBS football season",
+          "led by head coach Nick Saban"
+        ],
+        "Document 5": [
+          "2010 Alabama Crimson Tide football team represented the University of Alabama in the 2010 NCAA Division I FBS football season",
+          "led by head coach Nick Saban"
+        ],
+        "Document 7": [
+          "2012 Alabama Crimson Tide football team represented the University of Alabama in the 2012 National Collegiate Athletic Association (NCAA) Division I Football Bowl Subdivision (FBS) football season",
+          "led by head coach Nick Saban"
+        ]
+      }
+    }
+  },
+  "5": {
+    "pos_docs": [
+      12978,
+      12974,
+      13324,
+      13911,
+      13317,
+      13316,
+      13320
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Fictional Characters in Television",
+      "description": "This topic encompasses the analysis and development of various fictional characters from popular television series, highlighting their roles, relationships, and character arcs.",
+      "evidence": {
+        "Document 1": [
+          "Diana Marshall is a fictional character from the Australian soap opera Neighbours",
+          "Diana is a highly ambitious and very driven businesswoman"
+        ],
+        "Document 2": [
+          "Paul Stewart Robinson is a fictional character from the Australian television soap opera Neighbours",
+          "Paul has an evil persona which has long been admired by Dennis for the entertainment value it creates"
+        ],
+        "Document 3": [
+          "Ellen Harvelle is a fictional character on The CW Television Network 's Supernatural",
+          "Ellen provides advice and assistance to Sam and Dean Winchester"
+        ],
+        "Document 4": [
+          "Benjamin 'Ben' Linus is a fictional character portrayed by Michael Emerson on the ABC television series Lost",
+          "Ben was the leader of a group of island natives called the Others"
+        ],
+        "Document 5": [
+          "Robert Steven 'Bobby' Singer is a fictional character in The CW Television Network 's drama / horror television series Supernatural",
+          "Bobby has evolved over time into a father-figure for series protagonists Sam and Dean Winchester"
+        ],
+        "Document 6": [
+          "'Dream a Little Dream of Me' is the tenth episode of the paranormal drama television series Supernatural",
+          "The narrative follows series protagonists Sam and Dean Winchester as they enter the dreamscape to rescue the comatose Bobby Singer"
+        ],
+        "Document 7": [
+          "Castiel is a fictional character portrayed by Misha Collins on the CW Television Network 's American television series Supernatural",
+          "Castiel brings Dean Winchester back from Hell and frequently helps him and his brother Sam in their battles with various demons and angels"
+        ]
+      }
+    }
+  },
+  "6": {
+    "pos_docs": [
+      9400,
+      2841,
+      2803,
+      2845,
+      2836,
+      9371,
+      9318
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "19th Century Art and Poetry",
+      "description": "The documents explore the themes and characteristics of 19th-century art and poetry, focusing on notable works and their artistic philosophies.",
+      "evidence": {
+        "Document 1": [
+          "The painting was rejected both at the Royal Academy and at the Salon in Paris, but eventually accepted at the Salon des Refus\u00e9s in 1863.",
+          "Whistler intended to emphasize his 'art for art's sake' philosophy."
+        ],
+        "Document 2": [
+          "The poem explores themes of nature, transience and mortality, the latter being particularly personal to Keats.",
+          "'Ode to a Nightingale' is a personal poem that describes Keats's journey into the state of negative capability."
+        ],
+        "Document 3": [
+          "Sonnet 86 is notable within the Rival Poet subsection of sonnets because it allegedly provides important clues as to the historical identity of this Rival Poet.",
+          "The sonnet is written in the typical Shakespearean sonnet form, containing 14 lines of iambic pentameter."
+        ],
+        "Document 4": [
+          "The Eolian Harp also contains a discussion on 'One Life', Coleridge's idea that humanity and nature are united along with his desire to try to find the divine within nature.",
+          "The poem discusses Coleridge's anticipation of a marriage with Sara Fricker along with the pleasure of conjugal love."
+        ],
+        "Document 5": [
+          "Frost at Midnight expresses hope that Coleridge's son, Hartley, would be able to experience a childhood that his father could not and become a true 'child of nature'.",
+          "The poem discusses Coleridge's childhood experience in a negative manner and emphasizes the need to be raised in the countryside."
+        ],
+        "Document 6": [
+          "The painting shows Gauguin against a red background with a halo above his head and apples hanging beside him as he holds a snake in his hand.",
+          "The religious symbolism and the stylistic influence of Japanese wood-block prints and cloisonnism are apparent."
+        ],
+        "Document 7": [
+          "By referring to his work in such abstract terms, he intended to emphasize his 'art for art's sake' philosophy.",
+          "The original frame carried a poem written by Whistler's friend Algernon Charles Swinburne \u2013 titled Before the Mirror."
+        ]
+      }
+    }
+  },
+  "7": {
+    "pos_docs": [
+      10413,
+      10427,
+      10378,
+      10401,
+      10455,
+      10442,
+      10433
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Pennsylvania Tributaries",
+      "description": "The documents discuss various tributaries located in Pennsylvania, detailing their characteristics, courses, and ecological significance.",
+      "evidence": {
+        "Document 1": [
+          "Hammersley Fork is a tributary of Kettle Creek in Potter County and Clinton County, Pennsylvania.",
+          "Wild trout naturally reproduce in the stream throughout its entire length."
+        ],
+        "Document 2": [
+          "Hunlock Creek is a tributary of the Susquehanna River in Luzerne County, Pennsylvania.",
+          "It has one named tributary, which is known as Roaring Brook."
+        ],
+        "Document 3": [
+          "Little Wapwallopen Creek is a tributary of the Susquehanna River in Luzerne County, Pennsylvania.",
+          "Wild trout naturally reproduce in the creek."
+        ],
+        "Document 4": [
+          "Messers Run is a tributary of Catawissa Creek in Schuylkill County, Pennsylvania.",
+          "The creek is a High-Quality Coldwater Fishery and Class A Wild Trout Waters in some places."
+        ],
+        "Document 5": [
+          "Harveys Creek is a tributary of the Susquehanna River in Luzerne County, Pennsylvania.",
+          "The creek's watershed has an area of 46.3 square miles."
+        ],
+        "Document 6": [
+          "Shickshinny Creek is a tributary of the Susquehanna River in the Wyoming Valley in Luzerne County, Pennsylvania.",
+          "The creek is designated as a Coldwater Fishery and a Migratory Fishery."
+        ],
+        "Document 7": [
+          "Little Catawissa Creek is a tributary of Catawissa Creek in Columbia County and Schuylkill County, Pennsylvania.",
+          "The creek is a High-Quality Coldwater Fishery and Class A Wild Trout Waters in some places."
+        ]
+      }
+    }
+  },
+  "8": {
+    "pos_docs": [
+      9288,
+      1580,
+      1526,
+      1524,
+      1591,
+      1565,
+      11844
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Hindu and Aksumite Temples",
+      "description": "The documents explore the significance, history, and architectural features of various temples and religious sites in the context of Hinduism and the Aksumite civilization.",
+      "evidence": {
+        "Document 1": [
+          "Aksumite currency was coinage produced and used within the Kingdom of Aksum centered in present-day Ethiopia and Eritrea.",
+          "It served as a vessel of propaganda demonstrating the kingdom's wealth and promoting the national religion."
+        ],
+        "Document 2": [
+          "Badrinath is a Hindu temple dedicated to Vishnu and is one of the four Char Dham pilgrimage sites.",
+          "It is one of the most visited pilgrimage centres of India, having recorded 1,060,000 visits."
+        ],
+        "Document 3": [
+          "The Vimala Temple is a Hindu temple dedicated to goddess Vimala located within the Jagannath Temple complex in Puri.",
+          "It is generally regarded as a Shakti Pitha, among the holiest temples dedicated to the Hindu Goddess."
+        ],
+        "Document 4": [
+          "Kataragama temple is a temple complex in Sri Lanka dedicated to Kataragama deviyo, venerated by multiple religious groups.",
+          "It is a collection of modest shrines, with the one dedicated to Kataragama deviyo being the most important."
+        ],
+        "Document 5": [
+          "Munneswaram temple is an important regional Hindu temple complex in Sri Lanka, dedicated to Shiva.",
+          "It has been in existence at least since 1000 CE and is one of the ancient Pancha Ishwarams."
+        ],
+        "Document 6": [
+          "Pundarikakshan Perumal Temple is dedicated to the Hindu god Vishnu and constructed in the Dravidian style of architecture.",
+          "It is one of the 108 Divyadesam dedicated to Vishnu, glorified in the early medieval Tamil canon."
+        ],
+        "Document 7": [
+          "Codex Carolinus is a Gothic-Latin diglot uncial manuscript of the New Testament on parchment, dated to the 6th or 7th century.",
+          "It is one of very few manuscripts of Wulfilas Gothic Bible."
+        ]
+      }
+    }
+  },
+  "9": {
+    "pos_docs": [
+      12447,
+      10352,
+      9286,
+      8067,
+      9892,
+      9886,
+      9569
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Historical Figures and Events",
+      "description": "This topic encompasses significant historical figures and events, including space missions, financial speculators, political conferences, and notable athletes.",
+      "evidence": {
+        "1": [
+          "Mercury-Atlas 8 was the fifth United States manned space mission, part of NASA's Mercury program.",
+          "This was the longest U.S. manned orbital flight yet achieved in the Space Race."
+        ],
+        "2": [
+          "Jacob Little was an early 19th-century Wall Street investor and the first and one of the greatest speculators in the history of the stock market.",
+          "Little was known at the time as the 'Great Bear of Wall Street.'"
+        ],
+        "3": [
+          "The Geneva Conference took place in Geneva, Switzerland during the Rhodesian Bush War.",
+          "The purpose of the conference was to attempt to agree on a new constitution for Rhodesia."
+        ],
+        "4": [
+          "Henri L 'Estrange was an Australian successful funambulist and accident prone aeronautical balloonist.",
+          "He remains the only tightrope performer ever to have walked across a part of Sydney Harbour."
+        ],
+        "5": [
+          "St. Gatien was a British Thoroughbred racehorse and sire, involved in the second and final dead heat in the history of the Epsom Derby.",
+          "He was regarded by contemporary experts as one of the greatest horses of the 19th century."
+        ],
+        "6": [
+          "Paradox was a British Thoroughbred racehorse and sire, winning six races in a career that lasted from October 1884 until October 1885.",
+          "His only defeat came when he was narrowly beaten by Melton in the Epsom Derby."
+        ],
+        "7": [
+          "The 2009 Royal Mail industrial disputes is an industrial dispute in the United Kingdom involving Royal Mail and members of the Communication Workers Union.",
+          "The strike action began on a local level after postal workers accused their bosses of cutting jobs and services."
+        ]
+      }
+    }
+  },
+  "10": {
+    "pos_docs": [
+      13469,
+      12641,
+      2783,
+      5970,
+      2159,
+      2797,
+      12990
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Evolution of Rock Music",
+      "description": "The documents discuss various aspects of rock music, including its subgenres, notable albums, and influential artists over time.",
+      "evidence": {
+        "Document 1": [
+          "Moog for Love is the seventh extended play recorded by British electronic music duo Disclosure",
+          "the duo were developing their skills of writing material while on the road"
+        ],
+        "Document 2": [
+          "Hard rock or heavy rock is a loosely defined subgenre of rock music that began in the mid-1960s",
+          "It is typified by a heavy use of aggressive vocals, distorted electric guitars, bass guitar, drums, and often accompanied with pianos and keyboards"
+        ],
+        "Document 3": [
+          "Free is the second album by American progressive rock band OSI",
+          "Critics noted that the album was different from its predecessor, focusing more on Moore's keyboards than Matheos' guitars"
+        ],
+        "Document 4": [
+          "Son of Three is a song by the American group the Breeders",
+          "Critics have praised both the album and single versions of 'Son of Three'"
+        ],
+        "Document 5": [
+          "Move Like This is the seventh, and, to date, final studio album by American rock band The Cars",
+          "The album reached the top ten of the Billboard 200"
+        ],
+        "Document 6": [
+          "10 is a greatest hits album by American Christian rock band MercyMe",
+          "The album contains twelve of the band\u2019s number-one singles from five studio albums"
+        ],
+        "Document 7": [
+          "Electric Mud is the fifth studio album by Muddy Waters",
+          "It was controversial for its fusion of electric blues with psychedelic elements"
+        ]
+      }
+    }
+  },
+  "11": {
+    "pos_docs": [
+      5374,
+      5334,
+      8545,
+      8550,
+      5324,
+      8551,
+      8539
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Horse Breeds and Characteristics",
+      "description": "This topic covers various horse breeds, their origins, characteristics, and classifications.",
+      "evidence": {
+        "Document 1": [
+          "The Kentucky Mountain Saddle Horse is a horse breed from the US state of Kentucky.",
+          "Horses registered with the Kentucky Mountain Saddle Horse Association (KMSHA) may be found in all solid colors."
+        ],
+        "Document 2": [
+          "The Breton is a breed of draft horse.",
+          "There are three distinct subtypes of the Breton, each coming from a different area of Brittany."
+        ],
+        "Document 5": [
+          "The Welara is a part-Arabian pony breed developed from the Arabian horse and the Welsh pony.",
+          "Welara stallions average 14 to 15 hands tall and mares 13.1 to 14.3 hands high."
+        ]
+      }
+    }
+  },
+  "12": {
+    "pos_docs": [
+      2965,
+      3062,
+      3021,
+      3064,
+      2882,
+      2954,
+      2936
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Dominican and Venezuelan Baseball Players",
+      "description": "The documents discuss the careers and statistics of various professional baseball players from the Dominican Republic and Venezuela.",
+      "evidence": {
+        "Document 1": [
+          "Guillermo Mota is a former Dominican professional baseball relief pitcher in Major League Baseball.",
+          "Mota was originally signed by the New York Mets in 1990 as an infielder."
+        ],
+        "Document 2": [
+          "Ram\u00f3n Ram\u00edrez is a Dominican relief pitcher for the Tigres de Quintana Roo of the Mexican Baseball League.",
+          "Ram\u00edrez was signed by the Texas Rangers in 1996, as an infielder."
+        ],
+        "Document 4": [
+          "Ram\u00f3n A. Ram\u00edrez is a Venezuelan pitcher.",
+          "Ram\u00edrez was signed by the San Diego Padres in 2000 as an outfielder."
+        ]
+      }
+    }
+  },
+  "13": {
+    "pos_docs": [
+      8953,
+      9728,
+      7814,
+      9658,
+      563,
+      8231,
+      9644
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "R&B Pop Songs",
+      "description": "This cluster focuses on R&B and pop songs from various artists, highlighting their musical styles, compositions, and chart performances.",
+      "evidence": {
+        "Document 1": [
+          "mid-tempo, and merges teen pop and R & B elements",
+          "chart success in Canada and the United States"
+        ],
+        "Document 2": [
+          "mid-tempo R & B song about the power of love",
+          "reached the top twenty in thirteen countries"
+        ],
+        "Document 3": [
+          "musically, 'Breathing' is a Eurodance song that displays influences of electro and house",
+          "peaked inside the top-ten on the singles charts in Australia, Austria, Bulgaria, Germany, Slovakia and Switzerland"
+        ],
+        "Document 4": [
+          "slow soul ballad and contains similarities to Stevie Wonder's music",
+          "nominated for the Best Male R & B Vocal Performance award at the 51st Grammy Awards"
+        ],
+        "Document 5": [
+          "R & B ballad, with gospel music and funk influences",
+          "received mainly positive reviews from music critics"
+        ],
+        "Document 6": [
+          "pop ballad, and instrumentation consists of guitars and synthesizers",
+          "achieved a peak position of number three on the UK R & B Chart"
+        ],
+        "Document 7": [
+          "R & B song that contains elements of dance-pop",
+          "peaked at number one on the Billboard Hot 100 chart"
+        ]
+      }
+    }
+  },
+  "14": {
+    "pos_docs": [
+      5485,
+      5412,
+      5431,
+      5469,
+      5468,
+      5497,
+      5423
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "30 Rock Episodes Overview",
+      "description": "A summary of various episodes from the television series 30 Rock, focusing on character dynamics and comedic storylines.",
+      "evidence": {
+        "Document 1": [
+          "Jack Meets Dennis is the sixth episode of the first season of the American television comedy series 30 Rock.",
+          "In the episode, Liz Lemon takes back her sleazy ex-boyfriend Dennis Duffy."
+        ],
+        "Document 2": [
+          "Rosemary's Baby is the fourth episode of the second season of 30 Rock.",
+          "The episode focuses on Liz Lemon's escapade with her idol, Rosemary Howard."
+        ],
+        "Document 3": [
+          "Corporate Crush is the nineteenth episode of the first season of 30 Rock.",
+          "In this episode, Liz Lemon becomes annoyed when Jack Donaghy seemingly becomes obsessed with Floyd."
+        ],
+        "Document 4": [
+          "Believe in the Stars is the second episode of the third season of 30 Rock.",
+          "The episode's plot concerns a feud between Tracy Jordan and Jenna Maroney over royalties."
+        ],
+        "Document 5": [
+          "Tracy Does Conan is the seventh episode of the first season of 30 Rock.",
+          "This episode revolves around Liz Lemon and Pete Hornberger trying to get Tracy Jordan to make a successful appearance on Late Night with Conan O'Brien."
+        ],
+        "Document 6": [
+          "Cutbacks is the seventeenth episode of the third season of 30 Rock.",
+          "In the episode, joy about the fiftieth episode for the fictitious show turns to worry about budget cuts."
+        ],
+        "Document 7": [
+          "The Head and The Hair is the eleventh episode of the first season of 30 Rock.",
+          "In the episode, two men capture the attention of Liz Lemon and Jenna Maroney."
+        ]
+      }
+    }
+  },
+  "15": {
+    "pos_docs": [
+      10149,
+      11493,
+      13050,
+      11533,
+      10184,
+      11491,
+      10223
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Norwegian Rail Transport",
+      "description": "The documents discuss various aspects of rail transport systems in Norway, including specific railway lines, stations, and rolling stock.",
+      "evidence": {
+        "Document 1": [
+          "32-kilometer long, single track railway line between Roa and H\u00f8nefoss in Norway",
+          "The line was electrified in 1961."
+        ],
+        "Document 2": [
+          "Oslo Airport Station is a railway station located in the airport terminal building of Oslo Airport",
+          "It opened in 1998, along with the new airport."
+        ],
+        "Document 3": [
+          "NSB Class 92 is a class of 15 diesel multiple units built by Duewag for the Norwegian State Railways",
+          "The trains were refurbished in 2005 and 2006."
+        ],
+        "Document 5": [
+          "Oslo Commuter Rail is a commuter rail centered in Oslo, Norway",
+          "The network spans eight routes and 128 stations, with Oslo Central Station as the central hub."
+        ],
+        "Document 7": [
+          "The Rodel\u00f8kka Line was a former line of the Oslo Tramway of Norway",
+          "It was in use from 1900 to 1961, serving the neighborhood of Rodel\u00f8kka."
+        ]
+      }
+    }
+  },
+  "16": {
+    "pos_docs": [
+      4411,
+      4420,
+      4391,
+      13403,
+      13402,
+      4377,
+      13401
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Glee Episode Summaries",
+      "description": "A collection of summaries and analyses of various episodes from the television series Glee, focusing on character developments and musical performances.",
+      "evidence": {
+        "Document 1": [
+          "The Rhodes Not Taken is the fifth episode of the American television series Glee.",
+          "The episode features glee club director Will Schuester recruiting former star April Rhodes."
+        ],
+        "Document 2": [
+          "Ballad is the tenth episode of the American television series Glee.",
+          "The episode premiered on the Fox network on November 18, 2009, and was written and directed by series creator Brad Falchuk."
+        ],
+        "Document 3": [
+          "Preggers is the fourth episode of the American television series Glee.",
+          "The episode sees glee club member Kurt join the football team and admit his homosexuality to his father."
+        ],
+        "Document 6": [
+          "Throwdown is the seventh episode of the American television series Glee.",
+          "The episode includes a clash between glee club director Will Schuester and cheerleading coach Sue Sylvester."
+        ]
+      }
+    }
+  },
+  "17": {
+    "pos_docs": [
+      10712,
+      10683,
+      10686,
+      10664,
+      10642,
+      10710,
+      10740
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "WWE Pay-Per-View Events",
+      "description": "The documents discuss various professional wrestling pay-per-view events produced by World Wrestling Entertainment (WWE), detailing match results, participants, and event backgrounds.",
+      "evidence": {
+        "Document 1": [
+          "One Night Stand (2007) was the third annual One Night Stand professional wrestling pay-per-view event produced by World Wrestling Entertainment (WWE)",
+          "The main match on the Raw brand was John Cena versus The Great Khali in a Pinfalls Count Anywhere match for the WWE Championship."
+        ],
+        "Document 2": [
+          "Unforgiven (2007) was the tenth annual Unforgiven pay-per-view event produced by World Wrestling Entertainment (WWE)",
+          "The predominant match on the Raw brand was John Cena versus Randy Orton for the WWE Championship."
+        ],
+        "Document 3": [
+          "The Great American Bash (2004) was the 15th Great American Bash professional wrestling pay-per-view event",
+          "The main event was a Handicap match between The Dudley Boyz and The Undertaker."
+        ],
+        "Document 4": [
+          "Survivor Series (2004) was the 18th annual Survivor Series professional wrestling pay-per-view event produced by World Wrestling Entertainment (WWE)",
+          "The main match on the Raw brand was a 4 on 4 Survivor Series match."
+        ],
+        "Document 6": [
+          "Vengeance: Night of Champions was the seventh annual professional wrestling pay-per-view event produced by World Wrestling Entertainment (WWE)",
+          "The main event featured the Raw brand."
+        ],
+        "Document 7": [
+          "Judgment Day (2007) was the ninth annual Judgment Day professional wrestling pay-per-view event produced by World Wrestling Entertainment (WWE)",
+          "The main match on the Raw brand was John Cena versus The Great Khali for the WWE Championship."
+        ]
+      }
+    }
+  },
+  "18": {
+    "pos_docs": [
+      8164,
+      11263,
+      2376,
+      13709,
+      6290,
+      8088,
+      4582
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Scottish American Pioneers",
+      "description": "The documents discuss the lives and contributions of prominent Scottish American figures in Virginia, focusing on their roles as merchants, military officers, and politicians during the colonial and early American periods.",
+      "evidence": {
+        "Document 1": [
+          "Andrew Wodrow was a prominent Scottish American merchant, militia officer, clerk of court, lawyer, and landowner in the colony of Virginia.",
+          "Wodrow served as a lieutenant colonel in command of cavalry in the Continental Army."
+        ],
+        "Document 3": [
+          "Angus McDonald was a prominent Scottish American military officer, frontiersman, sheriff and landowner in Virginia.",
+          "McDonald served in the French and Indian War under General John Forbes."
+        ],
+        "Document 4": [
+          "Robert White was an early American physician, military officer, pioneer, and planter in the Colony of Virginia.",
+          "White was part of a larger wave of Scottish physicians who settled in Virginia prior to the American Revolutionary War."
+        ],
+        "Document 6": [
+          "Lawrence Berry Washington was an American lawyer, military officer, author, Forty-niner, and Border Ruffian.",
+          "Washington practiced law and served as a second lieutenant in the Virginia Volunteers during the Mexican \u2013 American War."
+        ],
+        "Document 7": [
+          "Isaac Parsons was an American planter, politician, and militia officer in the U.S. state of Virginia.",
+          "Parsons served as a member of the Virginia House of Delegates representing Hampshire County."
+        ]
+      }
+    }
+  },
+  "19": {
+    "pos_docs": [
+      3436,
+      3313,
+      3376,
+      3319,
+      3299,
+      3359,
+      2391
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Royal Australian Air Force History",
+      "description": "The documents discuss the formation, organization, and operations of various units within the Royal Australian Air Force (RAAF) during World War II.",
+      "evidence": {
+        "Document 1": [
+          "No. 1 Elementary Flying Training School ( No. 1 EFTS ) was a Royal Australian Air Force ( RAAF ) pilot training unit that operated during World War II.",
+          "It was one of twelve elementary flying training schools employed by the RAAF to provide introductory flight instruction to new pilots."
+        ],
+        "Document 2": [
+          "Southern Area Command was one of several geographically based commands raised by the Royal Australian Air Force ( RAAF ) during World War II.",
+          "It was formed in March 1940 , and initially controlled units based in Victoria , Tasmania , South Australia and southern New South Wales."
+        ],
+        "Document 3": [
+          "Western Area Command was one of several geographically based commands raised by the Royal Australian Air Force ( RAAF ) during World War II.",
+          "It was formed in January 1941 , and controlled RAAF units located in Western Australia."
+        ],
+        "Document 4": [
+          "No. 86 Wing is a Royal Australian Air Force ( RAAF ) transport and air-to-air refuelling wing.",
+          "Formed in the last year of World War II to undertake ground attack missions with de Havilland Mosquitos and Bristol Beaufighters."
+        ],
+        "Document 5": [
+          "No. 1 Initial Flying Training School ( No. 1 IFTS ) was a flying training school of the Royal Australian Air Force ( RAAF ).",
+          "It was formed in 1951 as No. 1 Initial Training School , in response to increased demand for aircrew during the Korean War and Malayan Emergency."
+        ],
+        "Document 6": [
+          "No. 84 Wing is a Royal Australian Air Force ( RAAF ) transport wing.",
+          "Formed in 1944 for army co-operation duties in the South West Pacific theatre of World War II."
+        ],
+        "Document 7": [
+          "Wilhelm Lemke was a Luftwaffe flying ace of World War II.",
+          "Lemke was credited with 131 aerial victories \u2014 that is , 131 aerial combat encounters resulting in the destruction of the enemy aircraft."
+        ]
+      }
+    }
+  },
+  "20": {
+    "pos_docs": [
+      7601,
+      12442,
+      7596,
+      7594,
+      12449,
+      7632,
+      7566
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Star Trek: Enterprise Episodes",
+      "description": "This cluster discusses various episodes of the American science fiction television series Star Trek: Enterprise, focusing on plot summaries and character developments within the series.",
+      "evidence": {
+        "Document 1": [
+          "The episode is the first of a two-part story, which concludes with 'Divergence'.",
+          "The episode sought to answer the question of why Klingons looked different in Star Trek: The Original Series than in other series of the franchise."
+        ],
+        "Document 3": [
+          "This installment was developed to be a sequel to The Original Series episode 'The Tholian Web' and a prequel to 'Mirror, Mirror'.",
+          "These installments feature a mirror universe Jonathan Archer and evil counterparts of the normal characters."
+        ],
+        "Document 4": [
+          "Set in the 22nd century, the series follows the adventures of the first Starfleet starship Enterprise, registration NX-01.",
+          "In this episode, the Enterprise is attacked by an Osaarian vessel, and in pursuit they discover that the aliens have information on the Xindi."
+        ],
+        "Document 6": [
+          "In this episode, while investigating a planet visited by the Xindi, several crewmembers including Captain Jonathan Archer become infected with a virus that mutates them into another species.",
+          "The episode was written by story editor Andr\u00e9 Bormanis and directed by Star Trek: The Next Generation alumnus LeVar Burton."
+        ],
+        "Document 7": [
+          "The episode featured several guest actors, including those playing members of the Xindi Council.",
+          "In this episode, the crew track a Xindi superweapon down to a planet and Captain Jonathan Archer seeks to destroy the weapon in a suicide attack."
+        ]
+      }
+    }
+  },
+  "21": {
+    "pos_docs": [
+      12032,
+      11926,
+      7131,
+      12007,
+      3705,
+      11922,
+      11943
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Imperial Navy Ships",
+      "description": "The documents discuss various ships of the Imperial German Navy and their specifications, histories, and roles in naval warfare.",
+      "evidence": {
+        "Document 1": [
+          "SMS Frithjof was the third vessel of the six-member Siegfried class of coastal defense ships built for the German Imperial Navy.",
+          "She served in the German fleet throughout the 1890s and was rebuilt in 1900 - 1902."
+        ],
+        "Document 2": [
+          "SMS Jagd was an aviso of the Imperial German Navy, the second and final member of the Wacht class.",
+          "She served in the German fleet for the next fifteen years, until she was withdrawn from active duty in 1904."
+        ],
+        "Document 4": [
+          "SMS Nymphe was the third member of the ten-ship Gazelle class, built by the Imperial German Navy.",
+          "She served as a coastal defense ship during the first two years of World War I."
+        ],
+        "Document 6": [
+          "SMS Heimdall was the fourth vessel of the six-member Siegfried class of coastal defense ships built for the German Imperial Navy.",
+          "She served in the German fleet throughout the 1890s and was rebuilt in 1900 \u2013 1902."
+        ],
+        "Document 7": [
+          "The Wiesbaden class of light cruisers was a class of ships built by the German Kaiserliche Marine shortly before the outbreak of World War I.",
+          "Wiesbaden saw only one major action, the Battle of Jutland, on 31 May \u2013 1 June 1916."
+        ]
+      }
+    }
+  },
+  "22": {
+    "pos_docs": [
+      3171,
+      3204,
+      3145,
+      9089,
+      13887,
+      9103,
+      9122
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "The Office Episodes",
+      "description": "The documents discuss various episodes of the American comedy television series The Office, highlighting character interactions and plot developments during significant events.",
+      "evidence": {
+        "Document 1": [
+          "A Benihana Christmas is the tenth and eleventh episode of the third season of The Office.",
+          "Michael, Andy, Dwight, and Jim then go to a local Benihana restaurant."
+        ],
+        "Document 2": [
+          "Dwight's Speech is the seventeenth episode of the second season of The Office.",
+          "Michael Scott helps Dwight Schrute with an important speech."
+        ],
+        "Document 3": [
+          "Initiation is the fifth episode of the third season of The Office.",
+          "Ryan is taken by Dwight on what he believes is a sales call."
+        ]
+      }
+    }
+  },
+  "23": {
+    "pos_docs": [
+      9377,
+      8266,
+      13429,
+      8843,
+      13870,
+      4690,
+      4716
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Pop Culture and Celebrity Influence",
+      "description": "The documents explore the impact of pop culture and celebrity figures on art, music, and social interactions.",
+      "evidence": {
+        "Document 1": [
+          "Demi 's Birthday Suit was a trompe-l '\u0153il body painting by Joanne Gair photographed by Annie Leibovitz that was featured on the cover of Vanity Fair.",
+          "The work is considered to be groundbreaking by some, although there is controversy surrounding its originality."
+        ],
+        "Document 2": [
+          "'The Way You Love Me' surfaced online on November 7, 2010; its explicit lyrics fueled controversy.",
+          "Hilson clarified in several interviews that the song was not just sexual but also had a message for empowerment of women."
+        ],
+        "Document 4": [
+          "Sex is a coffee table book written by American singer Madonna, with photographs taken by Steven Meisel.",
+          "The book had a range of influences, from punk rock to earlier fashion iconoclasts such as Guy Bourdin and his surrealism."
+        ],
+        "Document 6": [
+          "Madonna: Tears of a Clown was a one-off concert held at the Forum Theatre in Melbourne, Australia.",
+          "The show received positive reviews from critics who appreciated the stripped down, confessional nature of the singer's performance."
+        ]
+      }
+    }
+  },
+  "24": {
+    "pos_docs": [
+      1523,
+      1594,
+      1513,
+      1554,
+      1568,
+      1544,
+      1467
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Historic Churches in Anglesey",
+      "description": "The documents discuss various historic churches located in Anglesey, Wales, detailing their architecture, history, and current status.",
+      "evidence": {
+        "Document 1": [
+          "19th-century parish church in Llanddona",
+          "Grade II listed building"
+        ],
+        "Document 2": [
+          "medieval church near Aberffraw",
+          "Grade I listed building"
+        ],
+        "Document 3": [
+          "Anglican parish church in Newbold Astbury",
+          "Grade I listed building"
+        ],
+        "Document 4": [
+          "former parish church in Anglesey",
+          "Grade II listed building"
+        ],
+        "Document 5": [
+          "12th-century parish church in Aberffraw",
+          "Grade II* listed building"
+        ],
+        "Document 6": [
+          "small medieval parish church near Llanbedrgoch",
+          "Grade II* listed building"
+        ],
+        "Document 7": [
+          "small medieval church dating from the 15th century",
+          "Grade II listed building"
+        ]
+      }
+    }
+  },
+  "25": {
+    "pos_docs": [
+      2569,
+      12226,
+      2609,
+      12190,
+      2562,
+      2478,
+      12192
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Historical Battles and Sieges",
+      "description": "The documents discuss significant battles and sieges throughout history, highlighting military engagements and their impacts on various conflicts.",
+      "evidence": {
+        "Document 1": [
+          "The Battle of Oriskany, fought on August 6, 1777, was one of the bloodiest battles in the North American theater of the American Revolutionary War.",
+          "An American party trying to relieve the siege of Fort Stanwix was ambushed by a party of Loyalists and allies of several Native American tribes."
+        ],
+        "Document 2": [
+          "The Siege of Eretria took place in 490 BC, during the first Persian invasion of Greece.",
+          "The siege lasted six days before a fifth column of Eretrian nobles betrayed the city to the Persians."
+        ],
+        "Document 3": [
+          "The Battle of Rowton Heath, occurred on 24 September 1645 during the English Civil War.",
+          "It was a significant defeat for the Royalists, with heavy losses and Charles prevented from relieving the Siege of Chester."
+        ],
+        "Document 4": [
+          "The Battle of Mycale was one of the two major battles that ended the second Persian invasion of Greece during the Greco-Persian Wars.",
+          "The battle was fought between an alliance of the Greek city-states, including Sparta, Athens and Corinth, and the Persian Empire of Xerxes I."
+        ],
+        "Document 5": [
+          "The Battle of Sant Esteve d'en Bas took place on 10 March 1695 in the Catalan front of the War of the Grand Alliance.",
+          "Juign\u00e9's force was in a punitive expedition to burn the village of Sant Esteve d'en Bas, when it was attacked by the Catalan militia."
+        ],
+        "Document 6": [
+          "The 1757 Battle on Snowshoes was a skirmish fought between Rogers' Rangers and French and Indian troops during the French and Indian War.",
+          "The battle was given this name because the British combatants were wearing snowshoes."
+        ],
+        "Document 7": [
+          "The Battle of Gythium was fought in 195 BC between Sparta and the coalition of Rome, Rhodes, the Achaean League and Pergamum.",
+          "The result of this battle forced Nabis, the tyrant of Sparta, to abandon the surrounding land and withdraw to the city of Sparta."
+        ]
+      }
+    }
+  },
+  "26": {
+    "pos_docs": [
+      4996,
+      4934,
+      4944,
+      5018,
+      5017,
+      5022,
+      4936
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Financial Services and Investments",
+      "description": "The documents discuss various financial services and investment firms, their operations, and historical developments within the industry.",
+      "evidence": {
+        "Document 1": [
+          "Dean Witter Reynolds was an American stock brokerage and securities firm catering to retail clients.",
+          "The company provided debt and equity underwriting and brokerage as well as mutual funds and other saving and investment products."
+        ],
+        "Document 2": [
+          "Apollo Global Management, LLC is an American private equity firm, founded in 1990.",
+          "Apollo specializes in leveraged buyout transactions and purchases of distressed securities."
+        ],
+        "Document 3": [
+          "Public Storage is an American international self storage company run as a real estate investment trust (REIT).",
+          "It is the largest brand of self-storage services in the US."
+        ],
+        "Document 4": [
+          "The International Finance Corporation (IFC) is an international financial institution that offers investment, advisory, and asset management services.",
+          "The IFC's stated aim is to create opportunities for people to escape poverty and achieve better living standards."
+        ],
+        "Document 5": [
+          "CSG International provides Business Support Systems (BSS) software and services, primarily to the telecommunications industry.",
+          "CSG went public in 1996."
+        ],
+        "Document 6": [
+          "The International Finance Corporation (IFC) is a member of the World Bank Group.",
+          "It was established in 1956 as the private sector arm of the World Bank Group."
+        ],
+        "Document 7": [
+          "Salesforce Marketing Cloud is a provider of digital marketing automation and analytics software and services.",
+          "It was founded in 2000 under the name ExactTarget."
+        ]
+      }
+    }
+  },
+  "27": {
+    "pos_docs": [
+      5580,
+      5533,
+      5599,
+      5595,
+      5583,
+      5534,
+      5553
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Soviet Military Aircraft Development",
+      "description": "This topic covers the design, development, and historical context of various military aircraft produced in the Soviet Union after World War II.",
+      "evidence": {
+        "Document 1": [
+          "The Sukhoi Su-9 was an early jet fighter built in the Soviet Union shortly after World War II.",
+          "The design began in 1944 and was intended to use Soviet-designed turbojet engines."
+        ],
+        "Document 2": [
+          "The Tupolev Tu-75 was a military transport variant of the Tu-4 bomber.",
+          "The Tupolev OKB began work in September 1946 on a military transport version of the Tupolev Tu-70 airliner."
+        ],
+        "Document 4": [
+          "The Alekseyev I-212 was a twin-engined, jet fighter designed in the USSR in 1947.",
+          "It was a two-seat variant of the I-21 designed in response to a requirement for a very long-range fighter."
+        ],
+        "Document 5": [
+          "The Polikarpov VIT-1 was a Soviet twin-engined multi-purpose aircraft developed before World War II.",
+          "The VIT-1 was reasonably successful, but it was decided to give it more powerful engines and modify its structure."
+        ],
+        "Document 6": [
+          "The Tupolev Tu-80 was a Soviet prototype for a longer-ranged version of the Tupolev Tu-4 bomber built after World War II.",
+          "It was canceled in 1949 in favor of the Tupolev Tu-85 program."
+        ],
+        "Document 7": [
+          "The Ilyushin Il-6 was a Soviet long-range bomber developed from the Ilyushin Il-4 during 1942.",
+          "Further development was canceled in 1944."
+        ]
+      }
+    }
+  },
+  "28": {
+    "pos_docs": [
+      9225,
+      8117,
+      8030,
+      8031,
+      8056,
+      8119,
+      8042
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Medieval English Nobility",
+      "description": "The documents discuss various figures in medieval English nobility and their roles, relationships, and political activities during the 11th and 12th centuries.",
+      "evidence": {
+        "1": [
+          "Domnall mac Taidc was the ruler of the Kingdom of the Isles, the Kingdom of Thomond, and perhaps the Kingdom of Dublin.",
+          "Domnall was a member of the Meic Taidc, a branch of the U\u00ed Briain."
+        ],
+        "2": [
+          "Henry de Cornhill was a medieval English royal official and sheriff who served King Henry II of England.",
+          "Henry was appointed sheriff of three jurisdictions."
+        ],
+        "3": [
+          "Peter de Maulay was a nobleman and administrator who served King John of England.",
+          "Maulay supported the king and was given custody of the king's younger son."
+        ],
+        "4": [
+          "Hugh Nonant was a medieval Bishop of Coventry in England.",
+          "Nonant supported Prince John's efforts to seize power in England."
+        ],
+        "5": [
+          "William de Chesney was an Anglo-Norman magnate during the reign of King Stephen of England and King Henry II of England.",
+          "Chesney controlled a number of royal castles and served Stephen during military campaigns."
+        ],
+        "6": [
+          "Robert of Ghent was Lord Chancellor of England and Dean of York in the 12th century.",
+          "He became dean at York Minster around 1147."
+        ],
+        "7": [
+          "Gilbert de Lacy was a medieval Anglo-Norman baron in England.",
+          "Gilbert became a Templar and went to the Holy Land, where he was one of the commanders against Nur ad-Din."
+        ]
+      }
+    }
+  },
+  "29": {
+    "pos_docs": [
+      1196,
+      1273,
+      1210,
+      1208,
+      1248,
+      1211,
+      1205
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Mycena Fungi Species",
+      "description": "The documents discuss various species of mushrooms belonging to the Mycena genus, highlighting their taxonomy, morphology, and habitats.",
+      "evidence": {
+        "Document 1": [
+          "Mycena maculata, commonly known as the reddish-spotted Mycena, is a species of fungus in the Mycenaceae family.",
+          "The saprobic fungus is found in Europe and North America."
+        ],
+        "Document 2": [
+          "Mycena adscendens, commonly known as the frosty bonnet, is a species of fungus in the family Mycenaceae.",
+          "It is distributed in the United States, Europe, and Turkey."
+        ],
+        "Document 3": [
+          "Mycena fonticola is a species of fungus in the Mycenaceae family.",
+          "It grows on dead leaves and twigs in low-elevation forests dominated by oak trees."
+        ],
+        "Document 4": [
+          "Mycena multiplicata is a species of mushroom in the Mycenaceae family.",
+          "The mushroom is known only from Kanagawa, Japan."
+        ],
+        "Document 5": [
+          "Mycena fuscoaurantiaca is a species of mushroom in the Mycenaceae family.",
+          "It grows on dead fallen twigs in lowland forests dominated by hornbeam carpinus and Chinese evergreen oak trees."
+        ],
+        "Document 6": [
+          "Mycena clariviolacea is a mushroom in the Mycenaceae family.",
+          "It is known only from Kanagawa, Japan."
+        ],
+        "Document 7": [
+          "Mycena intersecta is a species of mushroom in the Mycenaceae family.",
+          "It is found growing solitarily or scattered, on dead leaves in lowland forests dominated by oak."
+        ]
+      }
+    }
+  },
+  "30": {
+    "pos_docs": [
+      8591,
+      8623,
+      8615,
+      8647,
+      8605,
+      8637,
+      8653
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Participation of African Nations in Olympics",
+      "description": "This topic covers the participation and performance of various African nations in the Summer Olympics, highlighting their history, athletes, and achievements.",
+      "evidence": {
+        "Document 1": [
+          "Sierra Leone competed at the 2012 Summer Olympics in London",
+          "no Sierra Leonean athlete has ever won a medal at the Olympics."
+        ],
+        "Document 2": [
+          "S\u00e3o Tom\u00e9 and Pr\u00edncipe competed at the 2012 Summer Olympic Games in London",
+          "No S\u00e3o Tom\u00e9 and Pr\u00edncipe athlete has ever won a medal at the Olympics."
+        ],
+        "Document 3": [
+          "Haiti sent a delegation to compete in the 2008 Summer Olympics",
+          "there were no Haitian medalists in Beijing."
+        ],
+        "Document 4": [
+          "Mauritania competed at the 2004 Summer Olympics in Athens",
+          "Neither of the Mauritanians progressed beyond the heats."
+        ],
+        "Document 5": [
+          "Benin took part in the 2008 Summer Olympics",
+          "None of the Benin athletes progressed further than the heat round."
+        ],
+        "Document 6": [
+          "Mauritania competed at the 2008 Summer Olympics which was held in Beijing",
+          "Neither of the Mauritanians progressed beyond the heats."
+        ],
+        "Document 7": [
+          "Mauritania competed at the 2012 Summer Olympics in London",
+          "Neither of the two athletes progressed beyond the heats."
+        ]
+      }
+    }
+  },
+  "31": {
+    "pos_docs": [
+      13167,
+      13125,
+      13152,
+      13178,
+      13169,
+      13175,
+      13128
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Bach's Church Cantatas",
+      "description": "The documents discuss various sacred cantatas composed by Johann Sebastian Bach, highlighting their historical context, musical structure, and textual sources.",
+      "evidence": {
+        "Document 1": [
+          "sacred cantata by Johann Sebastian Bach",
+          "composed it in Leipzig in 1731 for Ratswechsel"
+        ],
+        "Document 2": [
+          "church cantata by Johann Sebastian Bach",
+          "composed the chorale cantata in Leipzig for the Second Sunday after Epiphany"
+        ],
+        "Document 3": [
+          "early cantata by Johann Sebastian Bach",
+          "based on Psalm 146 and from Jakob Ebert's hymn"
+        ],
+        "Document 4": [
+          "church cantata by Johann Sebastian Bach",
+          "composed the dialogue cantata in Leipzig for the Sunday after New Year's Day"
+        ],
+        "Document 5": [
+          "church cantata by Johann Sebastian Bach",
+          "composed the cantata in 1723 in Leipzig to be used for the eighth Sunday after Trinity"
+        ],
+        "Document 6": [
+          "church cantata written by Johann Sebastian Bach in 1724 in Leipzig",
+          "based upon Jakob Ebert's hymn"
+        ],
+        "Document 7": [
+          "cantata by Johann Sebastian Bach for the second Sunday after Easter",
+          "based on the hymn by Wolfgang Meuslin, a paraphrase of Psalm 23."
+        ]
+      }
+    }
+  },
+  "32": {
+    "pos_docs": [
+      13447,
+      995,
+      893,
+      937,
+      873,
+      1064,
+      1005
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Film Industry Personalities",
+      "description": "The documents discuss notable figures in the film industry, highlighting their careers and contributions to cinema.",
+      "evidence": {
+        "Document 1": [
+          "Appian Way Productions is a film production company established by actor and producer Leonardo DiCaprio.",
+          "The company released several critically and commercially successful films."
+        ],
+        "Document 2": [
+          "Mani Ratnam is an acclaimed Indian film director credited with revolutionizing the Tamil film industry.",
+          "His films are noted for their realism, technical finesse, and craft."
+        ],
+        "Document 3": [
+          "Manoj Bajpayee is an Indian film actor who has received two National Film Awards and two Filmfare Awards.",
+          "He is known for his breakthrough role in the crime drama Satya."
+        ],
+        "Document 4": [
+          "Amanda Seyfried is an American actress, model, and singer who began her career as a model.",
+          "She starred in notable films such as Mean Girls and Mamma Mia!."
+        ],
+        "Document 5": [
+          "T. Arthur Cottam is a screenwriter, actor, producer and film director based in Los Angeles.",
+          "His film Pornographic Apathetic received critical acclaim and several awards."
+        ],
+        "Document 6": [
+          "Taapsee Pannu is an Indian actress who works mainly in the South Indian film industry.",
+          "She has appeared in critically acclaimed films and won several awards."
+        ],
+        "Document 7": [
+          "Vishal Bhardwaj is an Indian film director, screenwriter, producer, and music composer known for his adaptations of Shakespeare's tragedies.",
+          "He has received multiple National Film Awards and a Filmfare Award."
+        ]
+      }
+    }
+  },
+  "33": {
+    "pos_docs": [
+      13678,
+      8825,
+      13668,
+      13931,
+      13680,
+      13675,
+      13677
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Ethical and Philosophical Theories",
+      "description": "This cluster explores various ethical frameworks and philosophical arguments related to morality, existence, and the nature of knowledge.",
+      "evidence": {
+        "Document 1": [
+          "Kantian ethics refers to a deontological ethical theory ascribed to the German philosopher Immanuel Kant.",
+          "Central to Kant's construction of the moral law is the categorical imperative, which acts on all people, regardless of their interests or desires."
+        ],
+        "Document 2": [
+          "It investigates the essential characteristics of anarchist theory, which holds that government and hierarchy are undesirable forms of social organisation.",
+          "By applying post-structuralist theory to anarchism, Newman presents an account of post-anarchism."
+        ],
+        "Document 3": [
+          "Philosophy of science is a branch of philosophy concerned with the foundations, methods, and implications of science.",
+          "There is no consensus among philosophers about many of the central problems concerned with the philosophy of science."
+        ],
+        "Document 5": [
+          "An ontological argument is a philosophical argument for the existence of God that uses ontology.",
+          "The first ontological argument in the Western Christian tradition was proposed by Anselm of Canterbury."
+        ],
+        "Document 6": [
+          "Eliminative materialism is a materialist position in the philosophy of mind.",
+          "Its primary claim is that people's common-sense understanding of the mind (or folk psychology) is false."
+        ],
+        "Document 7": [
+          "The argument from morality is an argument for the existence of God.",
+          "German philosopher Immanuel Kant devised an argument from morality based on practical reason."
+        ]
+      }
+    }
+  },
+  "34": {
+    "pos_docs": [
+      11721,
+      8091,
+      4183,
+      13744,
+      13743,
+      8052,
+      13714
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Notable Historical Figures",
+      "description": "The documents discuss the lives and contributions of various notable historical figures from diverse fields such as education, medicine, and politics.",
+      "evidence": {
+        "Document 1": [
+          "George E. Crothers was instrumental in putting Stanford University on solid legal and financial footing.",
+          "He served as a member of Stanford's board of trustees."
+        ],
+        "Document 2": [
+          "Lucy Mercer Rutherfurd was best known for her affair with US President Franklin D. Roosevelt.",
+          "She worked as the social secretary of Eleanor Roosevelt."
+        ],
+        "Document 3": [
+          "Hilde Levi was a pioneer of the use of radioactive isotopes in biology and medicine.",
+          "She published a biography of George de Hevesy."
+        ],
+        "Document 4": [
+          "Aniru Conteh was an expert on the clinical treatment of Lassa fever.",
+          "He ran the only dedicated Lassa fever ward in the world."
+        ],
+        "Document 5": [
+          "Frances McConnell-Mills was the first woman to be appointed Denver's city toxicologist.",
+          "She specialized in toxicology and forensic pathology."
+        ],
+        "Document 6": [
+          "Hedwig Potthast was the private secretary and mistress of Heinrich Himmler.",
+          "She had two children with Himmler."
+        ],
+        "Document 7": [
+          "Helen Mayo was an Australian medical doctor and medical educator.",
+          "She co-founded the School for Mothers."
+        ]
+      }
+    }
+  },
+  "35": {
+    "pos_docs": [
+      11199,
+      3963,
+      11181,
+      11193,
+      3949,
+      3971,
+      11179
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Mathematical Concepts in Engineering",
+      "description": "This topic encompasses various mathematical frameworks and analogies utilized in engineering, particularly in the analysis of systems and signals.",
+      "evidence": {
+        "Document 6": [
+          "An antimetric electrical network is an electrical network that exhibits anti-symmetrical electrical properties.",
+          "References to symmetry and antimetry of a network usually refer to the input impedances of a two-port network when correctly terminated."
+        ],
+        "Document 7": [
+          "The derivative of a function of a real variable measures the sensitivity to change of a quantity which is determined by another quantity.",
+          "Derivatives are a fundamental tool of calculus."
+        ]
+      }
+    }
+  },
+  "36": {
+    "pos_docs": [
+      5259,
+      2452,
+      2507,
+      2619,
+      2471,
+      2617,
+      5268
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Naval Engagements of the French Revolutionary Wars",
+      "description": "This topic encompasses the various naval battles and engagements involving British and French naval forces during the French Revolutionary Wars, highlighting key ships, tactics, and outcomes.",
+      "evidence": {
+        "Document 1": [
+          "HMS Concorde was a 32-gun frigate of the French Navy, capturing HMS Minerva in the West Indies.",
+          "She played an important part in the Action of 23 April 1794, capturing the French frigate Engageante."
+        ],
+        "Document 2": [
+          "The Action of 21 October 1794 was a minor naval engagement between Great Britain and France.",
+          "Pellew ordered his ships to give chase, as Th\u00e9venard fled towards the French coast before the British numerical supremacy."
+        ],
+        "Document 3": [
+          "The Action of 5 May 1794 was a minor naval engagement fought in the Indian Ocean during the French Revolutionary Wars.",
+          "The British squadron gave chase to the new arrivals, which fled."
+        ],
+        "Document 4": [
+          "The Action of 10 April 1795 was a minor naval engagement during the French Revolutionary Wars.",
+          "The French squadron split up in the face of superior British numbers."
+        ],
+        "Document 5": [
+          "The Action of 26 April 1797 was a minor naval engagement during the French Revolutionary Wars.",
+          "The British vessels were significantly more powerful than the Spanish frigates."
+        ],
+        "Document 6": [
+          "The Action of 9 February 1799 was a minor naval engagement of the French Revolutionary Wars between a British Royal Navy frigate and a French privateer frigate.",
+          "Prudente was forced to surrender."
+        ],
+        "Document 7": [
+          "HMS Adamant served during the French Revolutionary Wars and the Napoleonic Wars.",
+          "She took part in the destruction of the French commerce raider Preneuse."
+        ]
+      }
+    }
+  },
+  "37": {
+    "pos_docs": [
+      3899,
+      3767,
+      10008,
+      10085,
+      3836,
+      3839,
+      3792
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "The Boat Race History",
+      "description": "The documents discuss the historical events and outcomes of the annual Boat Race between the Universities of Oxford and Cambridge.",
+      "evidence": {
+        "Document 1": [
+          "The 83rd Boat Race took place on 21 March 1931.",
+          "Cambridge won by two and a half lengths."
+        ],
+        "Document 2": [
+          "The 35th Boat Race took place on 13 April 1878.",
+          "Oxford won by a margin of 10 lengths."
+        ],
+        "Document 5": [
+          "The 30th Boat Race took place on the 29 March 1873.",
+          "Cambridge won by three lengths in a time of 19 minutes and 35 seconds."
+        ],
+        "Document 6": [
+          "The 53rd Boat Race took place on 28 March 1896.",
+          "Oxford won by two-fifths of a length."
+        ],
+        "Document 7": [
+          "The 63rd Boat Race took place on 7 April 1906.",
+          "Cambridge won by three-and-a-half lengths."
+        ]
+      }
+    }
+  },
+  "38": {
+    "pos_docs": [
+      5621,
+      5761,
+      5699,
+      5659,
+      5633,
+      693,
+      5763
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Delaware State Highways",
+      "description": "The documents discuss various state highways in Delaware, detailing their routes, intersections, and historical development.",
+      "evidence": {
+        "Document 1": [
+          "Delaware Route 26 is a state highway in Sussex County, Delaware.",
+          "The road was built as a state highway in various stages during the 1920s and 1930s."
+        ],
+        "Document 2": [
+          "Delaware Route 71 is a state highway in New Castle County, Delaware.",
+          "DE 71 was built as a state highway during the 1920s and 1930s."
+        ],
+        "Document 3": [
+          "Delaware Route 4 is a state highway in New Castle County, Delaware.",
+          "What is now DE 4 was originally a county road that was paved in the 1930s."
+        ],
+        "Document 4": [
+          "Delaware Route 24 is a state highway located in Sussex County, Delaware.",
+          "DE 24 was built as a state highway throughout the 1920s."
+        ],
+        "Document 5": [
+          "Delaware Route 30 is a state highway in Sussex County, Delaware.",
+          "What is now DE 30 was built as a state highway in various stages during the 1920s and 1930s."
+        ],
+        "Document 7": [
+          "Delaware Route 404 is a major state highway in Sussex County, Delaware.",
+          "DE 404 was first designated by 1936 to run from the Maryland border to DE 18 southeast of Bridgeville."
+        ]
+      }
+    }
+  },
+  "39": {
+    "pos_docs": [
+      182,
+      228,
+      154,
+      195,
+      218,
+      170,
+      179
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Benthic Elasmobranch Species",
+      "description": "The documents discuss various species of benthic elasmobranchs, including rays and catsharks, highlighting their habitats, feeding behaviors, and reproductive methods.",
+      "evidence": {
+        "Document 1": [
+          "Tasmanian numbfish is a bottom-dwelling and sedentary species.",
+          "It prefers sand and mud habitats."
+        ],
+        "Document 2": [
+          "Izak catshark is bottom-dwelling and perhaps relatively active in nature.",
+          "It inhabits the outer continental shelf."
+        ],
+        "Document 3": [
+          "Quagga catshark is a bottom-dwelling predator.",
+          "It inhabits offshore waters of continental shelf."
+        ],
+        "Document 4": [
+          "Longtail butterfly ray is bottom-dwelling in nature.",
+          "It frequents sandy or muddy habitats."
+        ],
+        "Document 5": [
+          "Mangrove whipray is a benthic inhabitant of shallow inshore waters.",
+          "Juvenile mangrove whiprays favor mangrove and estuarine habitats."
+        ],
+        "Document 6": [
+          "Banded houndshark is found on or near the bottom.",
+          "It favors shallow coastal habitats."
+        ],
+        "Document 7": [
+          "Australian weasel shark inhabits shallow waters off northern Australia.",
+          "It mostly hunts near the sea floor."
+        ]
+      }
+    }
+  },
+  "40": {
+    "pos_docs": [
+      12509,
+      6894,
+      12934,
+      12914,
+      14111,
+      14112,
+      12916
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Plant and Animal Biology",
+      "description": "This topic encompasses the study of various organisms, including plants and invertebrates, their biology, interactions, and evolutionary adaptations.",
+      "evidence": {
+        "Document 1": [
+          "Botany, also called plant science, is the science of plant life and a branch of biology.",
+          "Botanists study approximately 400,000 species of living organisms."
+        ],
+        "Document 2": [
+          "The Hemiptera or true bugs are an order of insects comprising around 50,000 \u2013 80,000 species.",
+          "Most hemipterans feed on plants, using their sucking and piercing mouthparts to extract plant sap."
+        ],
+        "Document 3": [
+          "The Bryozoa, also known as the Polyzoa, are a phylum of aquatic invertebrate animals.",
+          "Typically about 0.5 millimetres long, they are filter feeders that sieve food particles out of the water."
+        ],
+        "Document 4": [
+          "The annelids, also known as ringed worms or segmented worms, are a large phylum, with over 17,000 extant species.",
+          "Annelids are considered members of the Lophotrochozoa, a 'super-phylum' of protostomes."
+        ],
+        "Document 5": [
+          "Worker policing is a behavior seen in colonies of social hymenopterans (ants, bees, and wasps).",
+          "Worker policing ensures that the offspring of the queen will predominate in the group."
+        ],
+        "Document 6": [
+          "Plant defense against herbivory describes a range of adaptations evolved by plants which improve their survival and reproduction.",
+          "Plants can sense being touched, and they can use several strategies to defend against damage caused by herbivores."
+        ],
+        "Document 7": [
+          "Entoprocta is a phylum of mostly sessile aquatic animals, ranging from 0.1 to 7 millimetres long.",
+          "Most families of entoprocts are colonial, and all but 2 of the 150 species are marine."
+        ]
+      }
+    }
+  },
+  "41": {
+    "pos_docs": [
+      3473,
+      3236,
+      3229,
+      3295,
+      3354,
+      3386,
+      3320
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Australian Army Infantry Battalions",
+      "description": "The documents discuss the history and service of various Australian Army infantry battalions during World War I and World War II.",
+      "evidence": {
+        "Document 1": [
+          "The 27th Battalion was an infantry battalion of the Australian Army.",
+          "It was initially raised in 1915 as part of the First Australian Imperial Force for service during World War I."
+        ],
+        "Document 2": [
+          "The 2/31st Battalion was an infantry battalion of the Australian Army that served during World War II.",
+          "It was raised in June 1940 and was assigned to the 25th Brigade, 7th Division."
+        ],
+        "Document 3": [
+          "The 23rd Battalion was an infantry battalion of the Australian Army.",
+          "It was raised in 1915 as part of the Australian Imperial Force for service during World War I."
+        ],
+        "Document 5": [
+          "The 32nd Battalion was an infantry battalion of the Australian Army.",
+          "It was first raised in 1915 as part of the Australian Imperial Force."
+        ]
+      }
+    }
+  },
+  "42": {
+    "pos_docs": [
+      11631,
+      13194,
+      7404,
+      11658,
+      8411,
+      7723,
+      8330
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Mario Video Game Franchise",
+      "description": "The documents discuss various games within the Mario franchise, highlighting their gameplay, development, and impact on the gaming industry.",
+      "evidence": {
+        "Document 1": [
+          "Super Mario World is a 1990 platform video game developed and published by Nintendo.",
+          "The game centers on the quest of Mario and Luigi to save Dinosaur Land from Bowser."
+        ],
+        "Document 2": [
+          "Mario Bros. is a platform game published and developed for arcades by Nintendo in 1983.",
+          "In the game, Mario is portrayed as an Italian-American plumber who, along with his younger brother Luigi, has to defeat creatures that have been coming from the sewers."
+        ],
+        "Document 4": [
+          "Dr. Mario is a 1990 Mario arcade-style action puzzle video game designed by Gunpei Yokoi.",
+          "The game focuses on the player character Mario, who assumes the role of a doctor and is tasked with eradicating deadly viruses."
+        ],
+        "Document 6": [
+          "Mario Kart DS is a 2005 go-kart racing game developed and published by Nintendo.",
+          "The game is the fifth installment in the Mario Kart series of video games, and the first to be playable via the Nintendo Wi-Fi Connection online service."
+        ]
+      }
+    }
+  },
+  "43": {
+    "pos_docs": [
+      9524,
+      9581,
+      9590,
+      9608,
+      3739,
+      9526,
+      9520
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Political Leadership Elections",
+      "description": "These documents discuss various leadership elections within political parties and government positions across different regions.",
+      "evidence": {
+        "doc_1": [
+          "New Zealand Labour Party leadership election",
+          "Phil Goff and Annette King resigned"
+        ],
+        "doc_2": [
+          "2014 Vermont gubernatorial election",
+          "Peter Shumlin ran for re-election"
+        ],
+        "doc_3": [
+          "Scottish Labour Party leadership election",
+          "Johann Lamont resigned as leader"
+        ],
+        "doc_4": [
+          "Liberal Party of Australia leadership spill",
+          "Tony Abbott defeated Malcolm Turnbull"
+        ],
+        "doc_6": [
+          "2013 Pittsburgh mayoral election",
+          "Bill Peduto was elected mayor"
+        ],
+        "doc_7": [
+          "Speaker of the U.S. House election",
+          "John Boehner's resignation prompted election"
+        ]
+      }
+    }
+  },
+  "44": {
+    "pos_docs": [
+      10942,
+      10950,
+      10956,
+      10930,
+      10958,
+      10939,
+      10931
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Pulp Science Fiction Magazines",
+      "description": "The documents discuss various pulp science fiction magazines published primarily in the mid-20th century, highlighting their publication history, content, and contributions to the genre.",
+      "evidence": {
+        "Document 1": [
+          "Dynamic Science Fiction was a pulp magazine which published six issues from December 1952 to January 1954.",
+          "It published stories by some well-known authors, including 'The Duplicated Man' by Lowndes and James Blish."
+        ],
+        "Document 2": [
+          "Wonder Story Annual was a science fiction pulp magazine which was launched in 1950 by Standard Magazines.",
+          "It lasted for four issues, succumbing in 1953 to competition from the growing market for paperback science fiction."
+        ],
+        "Document 3": [
+          "Dynamic Science Stories was a pulp magazine which published two issues, dated February and April 1939.",
+          "Among the better known authors who appeared in its pages were L. Sprague de Camp and Manly Wade Wellman."
+        ],
+        "Document 4": [
+          "A. Merritt's Fantasy Magazine was a pulp magazine which published five issues from December 1949 to October 1950.",
+          "It aimed to capitalize on Merritt's popularity."
+        ],
+        "Document 5": [
+          "Strange Stories was a pulp magazine which ran for thirteen issues from 1939 to 1941.",
+          "It was edited by Mort Weisinger, who was not credited."
+        ],
+        "Document 6": [
+          "Two Complete Science-Adventure Books was a pulp science fiction magazine, published by Fiction House, which lasted for eleven issues between 1950 and 1954.",
+          "Well-known contributors included Isaac Asimov, Robert A. Heinlein, Arthur C. Clarke."
+        ],
+        "Document 7": [
+          "Out of This World Adventures was a pulp magazine which published two issues, in July and December 1950.",
+          "Sales were weak, and after two issues Avon decided to cancel it."
+        ]
+      }
+    }
+  },
+  "45": {
+    "pos_docs": [
+      3934,
+      3970,
+      12411,
+      3981,
+      11324,
+      10250,
+      11335
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Manufacturing Processes",
+      "description": "The documents discuss various manufacturing processes including injection moulding, die casting, and the principles of continuous distillation.",
+      "evidence": {
+        "Document 1": [
+          "Injection moulding is a manufacturing process for producing parts by injecting material into a mould.",
+          "The versatility of injection moulding is facilitated by this breadth of design considerations and possibilities."
+        ],
+        "Document 2": [
+          "Continuous distillation, a form of distillation, is an ongoing separation in which a mixture is continuously fed into the process.",
+          "The process produces at least two output fractions."
+        ],
+        "Document 4": [
+          "Die casting is a metal casting process that is characterized by forcing molten metal under high pressure into a mold cavity.",
+          "Die castings are characterized by a very good surface finish and dimensional consistency."
+        ]
+      }
+    }
+  },
+  "46": {
+    "pos_docs": [
+      9281,
+      13287,
+      9280,
+      4488,
+      3723,
+      3726,
+      3448
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Post-Colonial Nationalism and Conflict",
+      "description": "This topic encompasses the political upheavals and nationalist movements in post-colonial states, particularly focusing on the Congo and Syria during the mid-20th century.",
+      "evidence": {
+        "Document 1": [
+          "The Congo Crisis was a period of political upheaval and conflict in the Republic of the Congo between 1960 and 1965.",
+          "It began almost immediately after the Congo became independent from Belgium and ended with the entire country under the rule of Joseph-D\u00e9sir\u00e9 Mobutu."
+        ],
+        "Document 2": [
+          "Shukri al-Quwatli was the first president of post-independence Syria.",
+          "He began his career as a dissident working towards the independence and unity of the Ottoman Empire's Arab territories."
+        ]
+      }
+    }
+  },
+  "47": {
+    "pos_docs": [
+      11091,
+      11008,
+      10969,
+      11021,
+      11093,
+      11127,
+      10977
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "The X-Files Episodes Overview",
+      "description": "A summary of various episodes from the science fiction television series The X-Files, highlighting their themes, characters, and reception.",
+      "evidence": {
+        "Document 1": [
+          "Wetwired is the twenty-third episode of the third season and the 72nd episode overall of The X-Files.",
+          "The episode centers on FBI special agents Fox Mulder and Dana Scully who work on cases linked to the paranormal."
+        ],
+        "Document 2": [
+          "Existence is the twenty-first episode and eighth season finale of The X-Files.",
+          "The episode centers on FBI special agents John Doggett and Dana Scully who work on cases linked to the paranormal."
+        ],
+        "Document 3": [
+          "Patience is the third episode of the eighth season of The X-Files.",
+          "The episode centers on FBI special agents Dana Scully and her new partner John Doggett who work on cases linked to the paranormal."
+        ],
+        "Document 4": [
+          "Anasazi is the twenty-fifth episode and season finale of the second season of The X-Files.",
+          "The episode centers on FBI special agents Fox Mulder and Dana Scully who work on cases linked to the paranormal."
+        ],
+        "Document 5": [
+          "The Beginning is the first episode of the sixth season of The X-Files.",
+          "The episode helps explore the series' overarching mythology."
+        ],
+        "Document 6": [
+          "This Is Not Happening is the fourteenth episode of the eighth season of The X-Files.",
+          "The episode centers on FBI special agents Dana Scully and her new partner John Doggett who work on cases linked to the paranormal."
+        ],
+        "Document 7": [
+          "William is the sixteenth episode of the ninth season of The X-Files.",
+          "The episode helps to explore the series' overarching mythology."
+        ]
+      }
+    }
+  },
+  "48": {
+    "pos_docs": [
+      6722,
+      6772,
+      6705,
+      6730,
+      9062,
+      6677,
+      6744
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Atlantic Hurricane Seasons",
+      "description": "The documents discuss various Atlantic hurricane seasons, detailing the storms, their impacts, and seasonal characteristics.",
+      "evidence": {
+        "1": [
+          "The 1965 Atlantic hurricane season was the first to use the modern-day bounds for an Atlantic hurricane season.",
+          "It was one of the least active seasons on record, with only 6 tropical cyclones developing."
+        ],
+        "2": [
+          "The 1989 Atlantic hurricane season featured the costliest tropical cyclone in the Atlantic basin at the time, Hurricane Hugo.",
+          "It was a near average season with 11 named storms."
+        ],
+        "3": [
+          "The 1968 Atlantic hurricane season was one of five Atlantic hurricane seasons during the satellite era not to feature a major hurricane.",
+          "It was a below average season in terms of tropical storms, with a total of eight nameable storms."
+        ],
+        "4": [
+          "The 1980 Atlantic hurricane season was tied with 1932, 1969, and 1994 for most named storms in Atlantic Ocean during the month of November.",
+          "The season was fairly active, with fifteen tropical cyclones forming."
+        ]
+      }
+    }
+  },
+  "49": {
+    "pos_docs": [
+      410,
+      438,
+      3561,
+      13800,
+      302,
+      292,
+      263
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Shopping Malls and Developments",
+      "description": "The documents discuss various shopping malls and their historical and developmental aspects in the United States, particularly in Minnesota and Oregon.",
+      "evidence": {
+        "Document 1": [
+          "Wayzata Bay Center was an enclosed shopping mall in Wayzata, Minnesota",
+          "the mall was shut and torn down to make way for a mixed-use retail and residential community center."
+        ],
+        "Document 2": [
+          "Southdale Center, colloquially known as Southdale, is a shopping mall located in Edina, Minnesota",
+          "the oldest fully enclosed, climate-controlled mall in the United States."
+        ],
+        "Document 5": [
+          "Willow Grove Park Mall is a three-story shopping mall located in the unincorporated community of Willow Grove",
+          "the third most profitable mall in the Philadelphia area."
+        ]
+      }
+    }
+  }
+}

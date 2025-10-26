@@ -1,0 +1,11 @@
+2025-10-21 00:16:39,596 - BERTopic - Dimensionality - Fitting the dimensionality reduction algorithm
+2025-10-21 00:16:53,655 - BERTopic - Dimensionality - Completed ✓
+2025-10-21 00:16:53,656 - BERTopic - Cluster - Start clustering the reduced embeddings
+2025-10-21 00:17:08,630 - BERTopic - Cluster - Completed ✓
+2025-10-21 00:17:08,631 - BERTopic - Representation - Extracting topics using c-TF-IDF for topic reduction.
+2025-10-21 00:17:13,256 - BERTopic - Representation - Completed ✓
+2025-10-21 00:17:13,257 - BERTopic - Topic reduction - Reducing number of topics
+2025-10-21 00:17:13,299 - BERTopic - Representation - Fine-tuning topics using representation models.
+2025-10-21 00:17:17,913 - BERTopic - Representation - Completed ✓
+2025-10-21 00:17:17,916 - BERTopic - Topic reduction - Reduced number of topics from 238 to 11
+  0%|          | 0/15 [00:00<?, ?it/s]  7%|▋         | 1/15 [00:03<00:42,  3.07s/it] 13%|█▎        | 2/15 [00:05<00:37,  2.88s/it] 20%|██        | 3/15 [00:09<00:40,  3.37s/it] 27%|██▋       | 4/15 [00:13<00:36,  3.36s/it] 33%|███▎      | 5/15 [00:16<00:34,  3.46s/it] 40%|████      | 6/15 [00:20<00:31,  3.51s/it] 47%|████▋     | 7/15 [00:23<00:28,  3.53s/it] 53%|█████▎    | 8/15 [00:27<00:24,  3.55s/it] 60%|██████    | 9/15 [00:30<00:20,  3.46s/it] 67%|██████▋   | 10/15 [00:34<00:17,  3.51s/it] 73%|███████▎  | 11/15 [00:38<00:14,  3.66s/it] 80%|████████  | 12/15 [00:41<00:10,  3.44s/it] 87%|████████▋ | 13/15 [00:45<00:07,  3.60s/it] 93%|█████████▎| 14/15 [00:49<00:03,  3.71s/it]100%|██████████| 15/15 [00:50<00:00,  2.94s/it]100%|██████████| 15/15 [00:50<00:00,  3.36s/it]

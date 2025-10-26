@@ -1,0 +1,1147 @@
+{
+  "0": {
+    "pos_docs": [
+      5045,
+      5043,
+      5042,
+      5037,
+      5036,
+      5035,
+      5034,
+      5033,
+      5030,
+      14288
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Performing Arts and Cultural Productions",
+      "description": "This cluster encompasses various forms of performing arts including ballet, theatre, musicals, and concert performances, highlighting their cultural significance and historical context.",
+      "evidence": {
+        "1": [
+          "Giselle is a romantic ballet in two acts.",
+          "The ballet became hugely popular and was staged at once across Europe, Russia, and the United States."
+        ],
+        "2": [
+          "Kami, Perempuan is a 1943 stage play in one act by Armijn Pane.",
+          "The six-character drama revolves around a conflict between two couples."
+        ],
+        "3": [
+          "Keating! is a musical which portrays the political career of former Australian Prime Minister Paul Keating.",
+          "The musical takes a humorous, satirical tone and presents a positive image of Keating."
+        ],
+        "4": [
+          "Lady Gaga Presents the Monster Ball Tour is a concert special documenting her worldwide concert.",
+          "The special received critical acclaim; critics praised Gaga's performance and the onstage theatrics."
+        ],
+        "5": [
+          "K Foundation Burn a Million Quid was an action in which the K Foundation burned cash in the amount of one million pounds.",
+          "The incineration was recorded on a Hi-8 video camera."
+        ],
+        "6": [
+          "Kinky Boots is a Broadway musical with music and lyrics by Cyndi Lauper.",
+          "The musical tells the story of Charlie Price, who inherits a shoe factory from his father."
+        ],
+        "7": [
+          "Chose Promise is a one-man show performed by the French comedian Arnaud Tsamere.",
+          "The show deals with the theme of death."
+        ],
+        "8": [
+          "Bristol Old Vic is a British theatre company based at the Theatre Royal, Bristol.",
+          "The present company was established in 1946 as an offshoot of the Old Vic in London."
+        ],
+        "9": [
+          "Edward Scissorhands is a contemporary dance adaptation of the 1990 American romance fantasy film.",
+          "The story is told entirely through music and dance with no discourse."
+        ],
+        "10": [
+          "Transport in the Soviet Union was an important part of the nation\u2019s economy.",
+          "The economic centralisation led to the development of infrastructure at a massive scale."
+        ]
+      }
+    }
+  },
+  "1": {
+    "pos_docs": [
+      12022,
+      12104,
+      12124,
+      12160,
+      12463,
+      12470,
+      12485,
+      12488,
+      12491,
+      12504
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "German and Japanese Naval History",
+      "description": "The documents discuss various classes of warships from the Imperial German Navy and Imperial Japanese Navy, focusing on their designs, service histories, and roles during significant naval conflicts in the early 20th century.",
+      "evidence": {
+        "1": [
+          "The Scharnhorst class was the last traditional class of armored cruisers built by the Kaiserliche Marine.",
+          "Both ships had short careers; shortly before the outbreak of World War I, the ships departed the German colony at Tsingtao."
+        ],
+        "2": [
+          "The Prinz Adalbert class was a type of armored cruiser built for the Imperial German Navy in the early 1900s.",
+          "Both ships saw extensive service with the German Navy; Prinz Adalbert was used as a gunnery training ship for the entirety of her peacetime career."
+        ],
+        "4": [
+          "Admiral Scheer was a Deutschland-class heavy cruiser which served with the Kriegsmarine of Nazi Germany during World War II.",
+          "She was laid down at the Reichsmarinewerft shipyard in Wilhelmshaven in June 1931 and completed by November 1934."
+        ],
+        "5": [
+          "Zuih\u014d was a light aircraft carrier of the Imperial Japanese Navy.",
+          "The ship participated in many operations and played a secondary role in the Battle of Midway."
+        ],
+        "6": [
+          "Satsuma was a semi-dreadnought battleship built for the Imperial Japanese Navy in the first decade of the 20th century.",
+          "She was the first battleship built in Japan."
+        ],
+        "7": [
+          "The Japanese aircraft carrier Unry\u016b was the lead ship of her class of fleet aircraft carriers built for the Imperial Japanese Navy during World War II.",
+          "She was commissioned in mid-1944, but fuel and aircrew shortages limited her use to Japanese waters."
+        ],
+        "8": [
+          "The Asama-class cruisers were a pair of armored cruisers built for the Imperial Japanese Navy in the late 1890s.",
+          "They were part of the 'Six-Six Fleet' expansion program that began after the defeat of China during the First Sino-Japanese War."
+        ],
+        "9": [
+          "Mikasa is a pre-dreadnought battleship built for the Imperial Japanese Navy in the late 1890s.",
+          "The ship served as the flagship of Admiral T\u014dg\u014d Heihachir\u014d throughout the Russo-Japanese War of 1904 \u2013 1905."
+        ],
+        "10": [
+          "The Zuih\u014d class was a group of two aircraft carriers built for the Imperial Japanese Navy before World War II.",
+          "Both ships were originally built as submarine tenders, but were subsequently converted into carriers."
+        ]
+      }
+    }
+  },
+  "2": {
+    "pos_docs": [
+      859,
+      860,
+      861,
+      862,
+      863,
+      864,
+      865,
+      866,
+      868,
+      13961
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "State Highways and Roads",
+      "description": "The documents discuss various state highways and county roads in the United States, focusing on their routes, history, and geographical significance.",
+      "evidence": {
+        "Document 1": [
+          "County Road 510 is a primary county road in Marquette County, Michigan, that connects Marquette with the community of Big Bay.",
+          "The road runs through rural forests as a paved and dirt road in northern Marquette County."
+        ],
+        "Document 2": [
+          "K-26 is a 3.601-mile-long state highway located entirely within Cherokee County, Kansas.",
+          "The highway is maintained by the Kansas Department of Transportation (KDOT)."
+        ],
+        "Document 3": [
+          "Interstate 194 is a north-south freeway between downtown Battle Creek and I-94 in the southern portion of the city.",
+          "The highway has been designated the Sojourner Truth Downtown Parkway by the state."
+        ],
+        "Document 4": [
+          "M-311 is a 13.7-mile-long state trunkline highway in Calhoun County in the US state of Michigan.",
+          "It was previously an unsigned state trunkline, meaning that no reassurance markers were used to identify the highway."
+        ],
+        "Document 5": [
+          "State Route 368 is a short north-south state highway in western Ohio.",
+          "SR 368 travels from its southern terminus at SR 366 to its northern terminus on Seminole Island."
+        ],
+        "Document 6": [
+          "M-201 is a state trunkline highway in Michigan that serves as a spur route for the village of Northport.",
+          "The trunkline zig-zags through to provide a path through the village."
+        ],
+        "Document 7": [
+          "State Route 372 is a very short, two-lane east-west state highway in the southern part of the U.S. state of Ohio.",
+          "The primary function of SR 372 has been to provide access to the state forest."
+        ],
+        "Document 8": [
+          "M-188 is a 4.559-mile-long state trunkline highway in the US state of Michigan.",
+          "The highway follows Water Street southeasterly along the river through residential neighborhoods."
+        ],
+        "Document 9": [
+          "M-209 was a state trunkline highway in the lower peninsula of the US state of Michigan.",
+          "M-209 started at M-109 and went 0.543 miles to Glen Haven."
+        ]
+      }
+    }
+  },
+  "3": {
+    "pos_docs": [
+      2735,
+      2739,
+      2740,
+      2741,
+      2742,
+      2743,
+      2745,
+      2746,
+      2748,
+      13977
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Contemporary Music Albums",
+      "description": "This cluster discusses various contemporary music albums across different genres and artists, highlighting their themes, production, and reception.",
+      "evidence": {
+        "Document 1": [
+          "debut studio album by Japanese band Sakanaction",
+          "mixed electronic and rock music conventions"
+        ],
+        "Document 2": [
+          "fifth studio album by American singer Usher",
+          "inspired by love for his new wife"
+        ],
+        "Document 3": [
+          "ninth studio album by American progressive metal/rock band Dream Theater",
+          "lyrics written about fictional, political, and personal topics"
+        ],
+        "Document 4": [
+          "second studio album by American singer-songwriter Justin Timberlake",
+          "infuses R & B and pop with techno, funk, and elements of rock"
+        ],
+        "Document 5": [
+          "third video album by American metal band Slipknot",
+          "features live performances, music videos, and unmasked interviews"
+        ],
+        "Document 6": [
+          "debut solo album of Irish singer R\u00f3is\u00edn Murphy",
+          "mixes electronic music with jazz and pop styles"
+        ],
+        "Document 7": [
+          "second studio album by the Canadian rock band Arcade Fire",
+          "recorded at a church the band bought and renovated"
+        ],
+        "Document 8": [
+          "sixth studio album by American recording artist Britney Spears",
+          "incorporating electropop and dance-pop styles"
+        ],
+        "Document 9": [
+          "first Christmas album by American Christian rock band MercyMe",
+          "produced a rock-oriented album of Christmas songs"
+        ],
+        "Document 10": [
+          "non-commercial organization dedicated to preserving video game music",
+          "offers thousands of free fan-made video game music arrangements"
+        ]
+      }
+    }
+  },
+  "4": {
+    "pos_docs": [
+      4819,
+      4820,
+      4825,
+      4827,
+      4830,
+      4831,
+      4832,
+      4834,
+      10572,
+      5938
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Historical Cricketers",
+      "description": "This topic encompasses the lives and careers of notable cricketers from various countries and eras, highlighting their contributions to the sport.",
+      "evidence": {
+        "Document 1": [
+          "Andy Ganteaume was a Trinidadian cricketer who played one Test match for the West Indies in 1948.",
+          "He scored 112 in his only Test innings, which left him with the highest Test batting average in history."
+        ],
+        "Document 2": [
+          "Ron Hamence was a cricketer who played for South Australia and Australia.",
+          "He played 99 first-class matches from 1935 until 1951, which brought him a career total of 5,285 runs."
+        ],
+        "Document 3": [
+          "Ray Harvey is a former Australian first-class cricketer who played for Victoria in the 1940s and 1950s.",
+          "He was the brother of Australian Test batsmen Merv and Neil."
+        ],
+        "Document 4": [
+          "Alan Kippax was a cricketer for New South Wales and Australia, regarded as one of the great stylists of Australian cricket.",
+          "He toured England twice and was a prolific scorer for NSW."
+        ],
+        "Document 5": [
+          "Arnold Fothergill was an English professional cricketer who played first-class cricket for Somerset and the Marylebone Cricket Club.",
+          "He appeared for England in two Test matches in 1889."
+        ],
+        "Document 6": [
+          "Virat Kohli is an Indian international cricketer and is often rated as one of the best batsmen in the world.",
+          "He captained India Under-19s to victory at the 2008 Under-19 World Cup."
+        ],
+        "Document 7": [
+          "George Dewhurst was a Trinidadian cricketer who played for West Indies before the team attained Test match status.",
+          "He was a highly regarded wicket-keeper and an influential member of the Trinidad and West Indian sides."
+        ],
+        "Document 8": [
+          "Somerset County Cricket Club made their debut in first-class cricket in the 1882 English cricket season.",
+          "The season was described as 'disastrous' by Wisden Cricketers' Almanack."
+        ]
+      }
+    }
+  },
+  "5": {
+    "pos_docs": [],
+    "neg_docs": [],
+    "topic": {
+      "name": "Sustainable Urban Development",
+      "description": "The documents discuss strategies and practices for promoting sustainability in urban environments.",
+      "evidence": {
+        "doc1": [
+          "sustainable practices in city planning",
+          "green architecture and urban spaces"
+        ],
+        "doc2": [
+          "impact of urbanization on the environment",
+          "community involvement in sustainability initiatives"
+        ],
+        "doc3": [
+          "renewable energy solutions for cities",
+          "transportation systems and sustainability"
+        ]
+      }
+    }
+  },
+  "6": {
+    "pos_docs": [
+      1856,
+      1859,
+      1862,
+      1863,
+      1864,
+      1865,
+      1866,
+      1867,
+      1855,
+      6622
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Historical Atlantic Hurricanes",
+      "description": "This topic encompasses significant historical hurricanes that impacted the Atlantic region, detailing their formation, path, and effects on various coastal areas.",
+      "evidence": {
+        "Document 1": [
+          "The 1903 Florida hurricane was an Atlantic hurricane that caused extensive wind and flood damage on the Florida peninsula",
+          "The cyclone caused severe wind damage in present-day Broward and Palm Beach counties."
+        ],
+        "Document 2": [
+          "Hurricane Carol in 1953 was the strongest storm of the 1953 Atlantic hurricane season",
+          "At least 40 people required rescue, and four people were killed."
+        ],
+        "Document 3": [
+          "Hurricane Charlie was the deadliest tropical cyclone of the 1951 Atlantic hurricane season",
+          "It produced Jamaica's deadliest natural disaster of the 20th century, causing more than 152 deaths."
+        ],
+        "Document 4": [
+          "Tropical Storm Chris caused minor flooding along the Gulf Coast of the United States in September 1982",
+          "By September 13, Chris dissipated over Arkansas."
+        ],
+        "Document 5": [
+          "The 1893 New York hurricane, also known as the Midnight Storm, was a powerful and destructive tropical cyclone",
+          "The storm inflicted severe damage with storm tides as high as 30 ft."
+        ],
+        "Document 6": [
+          "Hurricane Gabrielle was a North Atlantic hurricane that caused flooding in both Florida and Newfoundland",
+          "The storm caused about $230 million in damage in Florida."
+        ],
+        "Document 7": [
+          "Tropical Storm Bonnie was a weak tropical storm that brought squally weather to the northern Caribbean Sea and Gulf Coast of the United States",
+          "Damage as a result of the storm and its remnants totaled $1.5 million."
+        ],
+        "Document 8": [
+          "Tropical Storm Debra was the second of two tropical storms to hit the United States in the 1978 Atlantic hurricane season",
+          "Two deaths were caused by the storm."
+        ],
+        "Document 9": [
+          "Tropical Storm Danny was a weak and disorganized tropical cyclone that formed in August 2009",
+          "Localized flooding was reported, particularly in Pennsylvania."
+        ],
+        "Document 10": [
+          "The effects of Hurricane Dean in Mexico were more severe than anywhere else in the storm's path",
+          "Dean caused MXN $2 billion of damage and killed 13 people."
+        ]
+      }
+    }
+  },
+  "7": {
+    "pos_docs": [
+      1194,
+      1195,
+      1196,
+      1197,
+      1198,
+      1199,
+      1200,
+      1203,
+      1262,
+      14101
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Fungal Species Diversity",
+      "description": "This cluster encompasses various species of fungi, detailing their taxonomy, morphology, habitat, and ecological significance.",
+      "evidence": {
+        "Document 1": [
+          "Sarcosphaera is a fungal genus within the Pezizaceae family",
+          "commonly found in the mountains in coniferous woods under humus on the forest floor"
+        ],
+        "Document 2": [
+          "Spongiforma thailandica is a species of fungus in the Boletaceae family",
+          "found in soil in old-growth forests"
+        ],
+        "Document 3": [
+          "Mycena maculata, commonly known as the reddish-spotted Mycena",
+          "found in Europe and North America, where it grows in groups or clusters on the rotting wood"
+        ],
+        "Document 4": [
+          "Lactifluus piperatus, commonly known as the peppery milk-cap, is a semi-edible basidiomycete fungus",
+          "forms a symbiotic relationship with various species of deciduous tree"
+        ],
+        "Document 5": [
+          "Pilophorus acicularis, commonly known as the nail lichen",
+          "grows directly on silicate rocks in dense clusters"
+        ],
+        "Document 6": [
+          "Amanita abrupta, commonly known as the American abrupt-bulbed Lepidella",
+          "grows in mixed woods in eastern North America and eastern Asia"
+        ],
+        "Document 7": [
+          "Psilocybe allenii is a species of agaric fungus in the family Hymenogastraceae",
+          "contains the psychoactive compounds psilocin and psilocybin"
+        ],
+        "Document 8": [
+          "Psilocybe yungensis is a species of psychedelic mushroom in the Strophariaceae family",
+          "used by Mazatec Indians in the Mexican State of Oaxaca for entheogenic purposes"
+        ],
+        "Document 9": [
+          "Podoserpula is a genus of fungi in the family Amylocorticiaceae",
+          "produces fruit bodies consisting of up to a dozen caps arranged in overlapping shelves"
+        ]
+      }
+    }
+  },
+  "8": {
+    "pos_docs": [
+      12774,
+      12770,
+      12768,
+      12765,
+      12763,
+      5398,
+      5388,
+      1590,
+      12797,
+      12851
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Medieval Castles in England and Wales",
+      "description": "The documents discuss the history, architecture, and significance of various medieval castles located in England and Wales.",
+      "evidence": {
+        "Document 1": [
+          "Okehampton Castle is a medieval motte and bailey castle in Devon, England.",
+          "It continued in use as a fortification until the late 13th century."
+        ],
+        "Document 2": [
+          "York Castle in the city of York, England, is a fortified complex comprising a sequence of castles.",
+          "The first motte and bailey castle on the site was built in 1068 following the Norman conquest of York."
+        ],
+        "Document 3": [
+          "Loughor Castle is a ruined, medieval fortification located in the town of Loughor, Wales.",
+          "The castle was built around 1106 by the Anglo-Norman lord Henry de Beaumont."
+        ],
+        "Document 4": [
+          "Nunney Castle is a medieval castle at Nunney in the English county of Somerset.",
+          "Built in the late 14th century by Sir John Delamare on the profits of his involvement in the Hundred Years War."
+        ],
+        "Document 5": [
+          "Sandsfoot Castle, also known historically as Weymouth Castle, is an artillery fort constructed by Henry VIII.",
+          "It formed part of the King's Device programme to protect against invasion from France and the Holy Roman Empire."
+        ]
+      }
+    }
+  },
+  "9": {
+    "pos_docs": [],
+    "neg_docs": [],
+    "topic": {
+      "name": "Sustainable Urban Development",
+      "description": "This topic encompasses strategies and practices aimed at promoting environmentally friendly and socially responsible urban growth.",
+      "evidence": {
+        "doc1": [
+          "sustainable practices in city planning",
+          "green building initiatives"
+        ],
+        "doc2": [
+          "impact of urbanization on local ecosystems",
+          "community engagement in sustainable projects"
+        ],
+        "doc3": [
+          "renewable energy solutions for urban areas",
+          "transportation innovations for reducing carbon footprint"
+        ]
+      }
+    }
+  },
+  "10": {
+    "pos_docs": [
+      7745,
+      7742,
+      7741,
+      7739,
+      7738,
+      7735,
+      7734,
+      7730,
+      7768,
+      14254
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Video Game Genres and Innovations",
+      "description": "This cluster encompasses various video games across multiple genres, highlighting their unique gameplay mechanics and innovations.",
+      "evidence": {
+        "1": [
+          "Guitar Hero III : Legends of Rock is a music rhythm game",
+          "the player uses a guitar-shaped controller to simulate the playing of lead, bass, and rhythm guitar parts in rock songs"
+        ],
+        "2": [
+          "Scribblenauts is an emergent puzzle action video game",
+          "the objective of Scribblenauts is to complete puzzles to collect 'Starites'"
+        ],
+        "3": [
+          "Transformers : Revenge of the Fallen is a third-person shooter video game",
+          "The series of games loosely follow the plot of their movie counterpart"
+        ],
+        "4": [
+          "School Days is a Japanese visual novel",
+          "the story follows Makoto Ito, a high school student who becomes the ambivalent love-interest of several girls"
+        ],
+        "5": [
+          "Metroid Prime Pinball is a pinball video game themed after the Metroid series",
+          "uses the basic mechanics of pinball, along with typical pinball items"
+        ],
+        "6": [
+          "Bionic Commando Rearmed is an enhanced remake of the 1988 Nintendo Entertainment System version",
+          "follows Nathan Spencer, a commando with a bionic left arm"
+        ],
+        "7": [
+          "Tomb Raider : Underworld is an action-adventure video game",
+          "the story continues from the events in Tomb Raider : Legend"
+        ],
+        "8": [
+          "Guitar Hero Smash Hits is a music rhythm game",
+          "features 48 songs originally featured in five previous games in the series"
+        ],
+        "9": [
+          "Kingdom Hearts 358 / 2 Days is an action role-playing video game",
+          "the story is told from the perspective of Roxas"
+        ],
+        "10": [
+          "South Park is an American adult animated sitcom",
+          "the show revolves around four boys and their bizarre adventures in and around the titular Colorado town"
+        ]
+      }
+    }
+  },
+  "11": {
+    "pos_docs": [
+      6155,
+      974,
+      4562,
+      4600,
+      4633,
+      9552,
+      13870
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "American Political Figures",
+      "description": "The documents discuss various notable American political figures, their careers, and contributions to politics.",
+      "evidence": {
+        "Document 1": [
+          "Gary Johnson is an American businessman, politician and the Libertarian Party nominee for President of the United States in the 2016 election.",
+          "He served as the 29th Governor of New Mexico from 1995 to 2003."
+        ],
+        "Document 2": [
+          "Jane Fonda is an American actress, writer, political activist, former fashion model and fitness guru.",
+          "Fonda is known for her political activism throughout her career."
+        ],
+        "Document 3": [
+          "General Joel Palmer was an American pioneer of the Oregon Territory.",
+          "He served as a member of the Indiana House of Representatives."
+        ],
+        "Document 4": [
+          "Thomas Cushing III was an American lawyer, merchant, and statesman from Boston, Massachusetts.",
+          "He represented Massachusetts in the First and Second Continental Congresses."
+        ],
+        "Document 5": [
+          "William Jason Fields was a politician from the U.S. state of Kentucky.",
+          "He served in the U.S. House of Representatives and became the state's 41st governor."
+        ]
+      }
+    }
+  },
+  "12": {
+    "pos_docs": [],
+    "neg_docs": [],
+    "topic": {
+      "name": "sustainable energy solutions",
+      "description": "This topic encompasses various approaches and technologies aimed at promoting renewable energy sources and reducing environmental impact.",
+      "evidence": {
+        "doc1": [
+          "discussion on solar panel efficiency",
+          "analysis of wind energy potential"
+        ],
+        "doc2": [
+          "overview of geothermal energy systems",
+          "case studies on biofuel production"
+        ]
+      }
+    }
+  },
+  "13": {
+    "pos_docs": [
+      5900,
+      5883,
+      5880,
+      5874,
+      5863,
+      5523,
+      5480,
+      5469,
+      4340,
+      14289
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "American Football History",
+      "description": "This cluster documents the history and notable figures in American football, highlighting players' achievements and significant games.",
+      "evidence": {
+        "1": [
+          "Paul Des Jardien was an American football, baseball and basketball player.",
+          "He was inducted into the College Football Hall of Fame in 1955."
+        ],
+        "2": [
+          "The 2007 Navy vs. North Texas football game holds the record for the most combined points scored in a NCAA Division I FBS regulation game.",
+          "The teams combined to score 63 points in the second quarter, setting records."
+        ],
+        "3": [
+          "Venric Mark is an American football running back, return specialist and wide receiver.",
+          "He was a 2012 College Football All-America Team first team punt returner selection."
+        ],
+        "4": [
+          "Everett Strupper was an American football player who played halfback for Georgia Tech.",
+          "Strupper was selected as an All-American in 1917."
+        ],
+        "5": [
+          "Jordan Kovacs is an American football safety who played college football at Michigan.",
+          "He earned All-Big Ten honors during his college career."
+        ]
+      }
+    }
+  },
+  "14": {
+    "pos_docs": [
+      8121,
+      8108,
+      8107,
+      8106,
+      8098,
+      8095,
+      8087,
+      3300,
+      3283,
+      4
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Historical Figures and Events",
+      "description": "The documents discuss various significant historical figures and their contributions or actions during pivotal moments in history.",
+      "evidence": {
+        "Document 1": [
+          "John Benbow was an English officer in the Royal Navy.",
+          "He achieved fame during campaigns against Sal\u00e9 and Moor pirates."
+        ],
+        "Document 2": [
+          "Josef Mengele was a German Schutzstaffel officer and physician in Auschwitz concentration camp during World War II.",
+          "Mengele was notorious for performing deadly human experiments on prisoners."
+        ],
+        "Document 3": [
+          "Zdenko Bla\u017eekovi\u0107 was a Croatian fascist official during World War II.",
+          "He was involved in the Usta\u0161e regime in the Independent State of Croatia."
+        ],
+        "Document 4": [
+          "Sally Hemings was an enslaved woman of mixed race owned by President Thomas Jefferson.",
+          "She is believed to have had a long-term relationship with Jefferson."
+        ],
+        "Document 5": [
+          "Reginald Fitz Jocelin was a medieval Bishop of Bath and an Archbishop of Canterbury-elect in England.",
+          "He was involved in significant church and political conflicts."
+        ],
+        "Document 6": [
+          "Louis Howe was an American reporter best known for acting as an early political advisor to President Franklin D. Roosevelt.",
+          "He oversaw Roosevelt's campaign for the New York State Senate."
+        ],
+        "Document 7": [
+          "Franz von Hipper was an admiral in the German Imperial Navy during World War I.",
+          "He is most famous for commanding the German battlecruisers at the Battle of Jutland."
+        ],
+        "Document 8": [
+          "I Corps is a major formation of the United States Army involved in various military operations.",
+          "It was activated in World War I and served in subsequent conflicts."
+        ],
+        "Document 9": [
+          "The 25th Battalion was an infantry battalion of the New Zealand Military Forces during World War II.",
+          "It participated in significant campaigns such as the North African Campaign."
+        ],
+        "Document 10": [
+          "Gabriel Garc\u00eda M\u00e1rquez was a Colombian novelist and journalist known for his significant literary contributions.",
+          "He was awarded the Nobel Prize in Literature."
+        ]
+      }
+    }
+  },
+  "15": {
+    "pos_docs": [
+      8747,
+      10165,
+      10161,
+      10160,
+      10156,
+      10155,
+      10154,
+      10149,
+      10163,
+      10213
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Transportation Infrastructure",
+      "description": "The documents discuss various forms of transportation infrastructure, including roller coasters, railways, and tram systems across different regions.",
+      "evidence": {
+        "1": [
+          "Intimidator is a steel roller coaster built by Bolliger & Mabillard at Carowinds.",
+          "It is currently one of the tallest, fastest and longest roller coasters in the Southeast."
+        ],
+        "2": [
+          "The Bergen Line is a 371-kilometre long standard gauge railway line between Bergen and H\u00f8nefoss, Norway.",
+          "It is the highest mainline railway line in Northern Europe."
+        ],
+        "3": [
+          "The Sognsvann Line is a rapid transit line on the Oslo Metro of Norway.",
+          "The line opened on 10 October 1934 as a light rail."
+        ],
+        "4": [
+          "Edinburgh Trams is a tramway in Edinburgh, Scotland, operated by Transport for Edinburgh.",
+          "Construction began in June 2008, and it opened on 31 May 2014."
+        ],
+        "5": [
+          "The Follo Line is a planned 22.5-kilometer high-speed railway between Oslo and Ski, Norway.",
+          "Construction is estimated to start in 2014, and may be completed by 2020/21."
+        ],
+        "6": [
+          "Shore Line East is a commuter rail service which operates along the Northeast Corridor through southern Connecticut, US.",
+          "The service was introduced in 1990 as a temporary measure to reduce congestion."
+        ],
+        "7": [
+          "The Mountaineer was a passenger train operated by Amtrak between Norfolk, Virginia, and Chicago, Illinois.",
+          "Service began in 1975 and ended in 1977."
+        ],
+        "8": [
+          "The Roa \u2013 H\u00f8nefoss Line is a 32-kilometer long, single track railway line between Roa and H\u00f8nefoss in Norway.",
+          "The line was built by the Norwegian State Railways."
+        ],
+        "9": [
+          "The Gardermoen Line is a high-speed railway line between Oslo and Eidsvoll, Norway.",
+          "The line was opened in 1998, at the same time as the airport that gave the line its name."
+        ],
+        "10": [
+          "The Capitol Limited was an American passenger train run by the Baltimore and Ohio Railroad.",
+          "It was the B & O's flagship passenger train, noted for personalized service and innovation."
+        ]
+      }
+    }
+  },
+  "16": {
+    "pos_docs": [
+      5936,
+      5893,
+      2733,
+      4968,
+      4380,
+      4207,
+      6593,
+      4167,
+      8515,
+      9623
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "American Sports and Entertainment",
+      "description": "The documents discuss various aspects of American sports, including collegiate football, professional athletics, and entertainment related to music and television.",
+      "evidence": {
+        "1": [
+          "The Washington & Jefferson Presidents football team represents Washington & Jefferson College in collegiate level football.",
+          "The team competes in NCAA Division III and is affiliated with the Presidents ' Athletic Conference ( PAC )."
+        ],
+        "2": [
+          "George Campbell IV is an American football wide receiver for the Florida State Seminoles.",
+          "He is rated as the tenth best player by ESPN and as a top-10 wide receiver by Scout.com and Rivals.com."
+        ],
+        "5": [
+          "On My Way is the fourteenth episode and winter finale of the third season of the American musical television series Glee.",
+          "The episode features New Directions competing against the Dalton Academy Warblers at the Regionals show choir competition."
+        ]
+      }
+    }
+  },
+  "17": {
+    "pos_docs": [
+      5345,
+      5346,
+      5348,
+      5349,
+      5350,
+      5351,
+      5353,
+      5354,
+      5338,
+      14147
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Endangered Animal Breeds",
+      "description": "This cluster discusses various animal breeds that are endangered or have faced extinction, highlighting their histories, characteristics, and conservation efforts.",
+      "evidence": {
+        "1": [
+          "The Florida Cracker Horse...considered breed numbers to be at a critical point.",
+          "Through the efforts of several private families and the Florida government, the breed was saved from extinction."
+        ],
+        "3": [
+          "The Newfoundland pony...was brought almost to the point of extinction by mechanization and slaughter.",
+          "The population rebounded slightly after the formation of a breed registry in 1980, but still remains low."
+        ],
+        "4": [
+          "The French Spaniel...nearly became extinct by the turn of the 20th century but was saved by the efforts of Father Fournier.",
+          "The breed is recognized by Canadian and international kennel clubs but not by The Kennel Club (UK)."
+        ],
+        "5": [
+          "The Dandie Dinmont Terrier...is registered as a Vulnerable Native Breed by the Kennel Club due to its low number of puppy registrations on a yearly basis.",
+          "The breed has a very long body, short legs, and a distinctive 'top-knot' of hair on the head."
+        ],
+        "7": [
+          "The Narragansett Pacer...had become extinct by the late 19th century.",
+          "It was known as the first breed of horse developed in America."
+        ],
+        "9": [
+          "The Canadian horse...was nearly brought to the point of extinction, prompting the formation of a studbook and the passage of a law against further export.",
+          "Experimental breeding programs...succeeded in re-establishing the breed to some extent."
+        ],
+        "10": [
+          "The Boreray is a breed of sheep...classed as 'Category 2: Endangered' by the Rare Breeds Survival Trust.",
+          "The breed is the rarest breed of sheep in the United Kingdom."
+        ]
+      }
+    }
+  },
+  "18": {
+    "pos_docs": [
+      8549,
+      8558,
+      8559,
+      8561,
+      8562,
+      8574,
+      8578,
+      13272,
+      8556,
+      14280
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Innovative Snack Foods",
+      "description": "These documents discuss various unique and creative snack foods and their origins, highlighting modern culinary trends.",
+      "evidence": {
+        "doc_1": [
+          "Deep-fried butter is a snack food",
+          "invented by Abel Gonzales Jr."
+        ],
+        "doc_2": [
+          "A BLT is a type of bacon sandwich",
+          "the essential ingredients are bacon, lettuce, tomato and bread"
+        ],
+        "doc_4": [
+          "Bacon ice cream is a modern invention",
+          "created by adding bacon to egg custard"
+        ],
+        "doc_9": [
+          "A Bacon Explosion is a pork dish",
+          "consists of bacon wrapped around a filling of spiced sausage"
+        ]
+      }
+    }
+  },
+  "19": {
+    "pos_docs": [
+      8864,
+      9319,
+      9339,
+      9361,
+      10483,
+      10923,
+      14266,
+      10925,
+      10932,
+      14283
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Science Fiction and Fantasy Media",
+      "description": "This cluster discusses various forms of science fiction and fantasy media, including television shows, films, and visual arts.",
+      "evidence": {
+        "1": [
+          "Captain John Hart, played by James Marsters, is a fictional character from the BBC science fiction television programme Torchwood.",
+          "John Hart is as a rogue Time Agent and former partner of the series' lead male character Jack Harkness."
+        ],
+        "5": [
+          "The Terminator is a 1984 American science fiction action-thriller film written and directed by James Cameron.",
+          "It stars Arnold Schwarzenegger as the Terminator, a cyborg assassin sent back in time from 2029 to 1984."
+        ]
+      }
+    }
+  },
+  "20": {
+    "pos_docs": [
+      3931,
+      3964,
+      11176,
+      11179,
+      11181,
+      11182,
+      11193,
+      11204,
+      12414,
+      13416
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Electrical Engineering Concepts",
+      "description": "The documents discuss various fundamental concepts in electrical engineering and mathematics that are applicable to electronic circuits and their analysis.",
+      "evidence": {
+        "1": [
+          "Negative resistance is a property of some electrical circuits and devices",
+          "Negative resistance produces power and can amplify an electrical signal."
+        ],
+        "2": [
+          "Foster's reactance theorem is important in electrical network analysis and synthesis",
+          "The theorem states that the reactance of a passive, lossless two-terminal network always strictly monotonically increases with frequency."
+        ],
+        "3": [
+          "The derivative measures the sensitivity to change of a quantity",
+          "Derivatives are a fundamental tool of calculus."
+        ],
+        "4": [
+          "The Dirac delta function is a generalized function that is zero everywhere except at zero",
+          "It represents the density of an idealized point mass or point charge."
+        ],
+        "5": [
+          "A matrix is a rectangular array of numbers, symbols, or expressions",
+          "Matrices are used to represent linear transformations."
+        ]
+      }
+    }
+  },
+  "21": {
+    "pos_docs": [
+      13125,
+      12894,
+      12676,
+      11854,
+      11853,
+      11848,
+      11847,
+      11845,
+      13143,
+      14080
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Religious Music and Texts",
+      "description": "The documents explore the intersection of religious themes, music compositions, and biblical texts, particularly focusing on works by Johann Sebastian Bach and significant manuscripts of the New Testament.",
+      "evidence": {
+        "1": [
+          "church cantata by Johann Sebastian Bach",
+          "meditation on Jesus as a comforter in distress"
+        ],
+        "2": [
+          "chronicles the life of Jesus Christ",
+          "using scientific and contemporary historical evidence"
+        ],
+        "9": [
+          "musical setting of the Latin text of the Magnificat",
+          "Bach's setting was written for a performance on 2 July, celebrating the Marian feast of the Visitation"
+        ],
+        "4": [
+          "fifth-century Greek manuscript of the Bible",
+          "contains material from every New Testament book except Second Thessalonians and Second John"
+        ],
+        "5": [
+          "Greek uncial manuscript of the Pauline epistles",
+          "cited in all critical editions of the Greek New Testament"
+        ],
+        "6": [
+          "Greek minuscule manuscript of the New Testament",
+          "prepared for liturgical use"
+        ],
+        "7": [
+          "uncial manuscript of the four Gospels in Greek",
+          "text of the codex represents the majority of the text (Byzantine text-type)"
+        ],
+        "8": [
+          "Greek minuscule manuscript of the New Testament",
+          "contains text of the four Gospels with unusual grammar forms and numerous errors"
+        ]
+      }
+    }
+  },
+  "22": {
+    "pos_docs": [
+      5852,
+      5851,
+      5849,
+      5848,
+      5846,
+      5845,
+      5844,
+      5843,
+      6149,
+      14262
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Legal Rights and Protections",
+      "description": "This cluster discusses various legal rights and protections, particularly in relation to constitutional amendments and landmark court cases in the United States.",
+      "evidence": {
+        "Document 1": [
+          "The Court struck down the Stolen Valor Act, a federal law that criminalized false statements about having a military medal.",
+          "a 6-3 majority of the Supreme Court agreed that the law was unconstitutional under the First Amendment's free speech protections."
+        ],
+        "Document 3": [
+          "The First Amendment prohibits the making of any law respecting an establishment of religion, impeding the free exercise of religion, abridging the freedom of speech.",
+          "Beginning with Gitlow v. New York (1925), the Supreme Court applied the First Amendment to states."
+        ],
+        "Document 4": [
+          "The International Covenant on Economic, Social and Cultural Rights commits its parties to work toward the granting of economic, social, and cultural rights.",
+          "The ICESCR is part of the International Bill of Human Rights."
+        ],
+        "Document 6": [
+          "The Fourth Amendment prohibits unreasonable searches and seizures and requires any warrant to be judicially sanctioned and supported by probable cause.",
+          "It was adopted in response to the abuse of the writ of assistance."
+        ],
+        "Document 7": [
+          "The Twenty-fifth Amendment deals with succession to the Presidency and establishes procedures both for filling a vacancy in the office of the Vice President.",
+          "The Twenty-fifth Amendment was adopted on February 10, 1967."
+        ]
+      }
+    }
+  },
+  "23": {
+    "pos_docs": [
+      1588,
+      1598,
+      2407,
+      4477,
+      4655,
+      6218,
+      6461,
+      13926,
+      6527,
+      13927
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Historical Religious Sites and Figures",
+      "description": "The documents discuss various historical religious sites, figures, and movements, highlighting their significance in Christianity and related cultural contexts.",
+      "evidence": {
+        "Document 1": [
+          "medieval church in the 1st arrondissement of Paris",
+          "first building dedicated to Protestant worship in the history of Paris"
+        ],
+        "Document 2": [
+          "10th-century fortified Armenian Apostolic Church monastery",
+          "famous for its highly artistic frescoes"
+        ],
+        "Document 4": [
+          "American suffragist, social activist, abolitionist",
+          "initiating the first organized women 's rights and women 's suffrage movements"
+        ],
+        "Document 8": [
+          "Christian movement established in Besan\u00e7on, France",
+          "belongs to the Pentecostal movement"
+        ]
+      }
+    }
+  },
+  "24": {
+    "pos_docs": [
+      5006,
+      5003,
+      5002,
+      4999,
+      4998,
+      4996,
+      4993,
+      4990,
+      5040,
+      249
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Corporate History and Development",
+      "description": "The documents discuss the history, growth, and development of various companies across different industries.",
+      "evidence": {
+        "1": [
+          "Guthy-Renker was founded in 1988 by Bill Guthy and Greg Renker.",
+          "The company also created seven subsidiaries in the late 1990s for different products and advertising channels."
+        ],
+        "2": [
+          "SAS Institute started as a project at North Carolina State University to create a statistical analysis system.",
+          "SAS grew from $10 million in revenues in 1980 to $1.1 billion by 2000."
+        ],
+        "3": [
+          "Swiss Bank Corporation was a large integrated financial services company located in Switzerland.",
+          "In 1998, SBC merged with Union Bank of Switzerland to form UBS."
+        ],
+        "4": [
+          "The Olympus scandal was precipitated on 14 October 2011 when British-born Michael Woodford was suddenly ousted as chief executive.",
+          "Olympus defended itself against allegations of impropriety."
+        ],
+        "5": [
+          "The Grameen Bank is a Nobel Peace Prize-winning microfinance organization and community development bank founded in Bangladesh.",
+          "Grameen Bank originated in 1976, in the work of Professor Muhammad Yunus."
+        ],
+        "6": [
+          "Dean Witter Reynolds was an American stock brokerage and securities firm catering to retail clients.",
+          "In 1997, Dean Witter's parent company merged with investment banking house Morgan Stanley."
+        ],
+        "7": [
+          "Pixar Animation Studios began in 1979 as the Graphics Group, part of the Lucasfilm computer division.",
+          "Disney purchased Pixar in 2006 at a valuation of $7.4 billion."
+        ],
+        "8": [
+          "NuScale Power is a private limited liability company headquartered in Tigard, Oregon that designs and markets small modular reactors.",
+          "NuScale was founded based on research funded by the Department of Energy from 2000 to 2003."
+        ]
+      }
+    }
+  }
+}

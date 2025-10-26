@@ -1,0 +1,65 @@
+=====================================================================
+TOPIC MODEL PERFORMANCE COMPARISON
+=====================================================================
+
+───────────────────────────────────────────────────────────────────
+WIKITEXT DATASET
+───────────────────────────────────────────────────────────────────
+
+K = 10:
+lda        wikitext   K=10    Purity: 0.1810  Inv: 0.8986  Harmonic: 0.3013 
+ctm        wikitext   K=10    Purity: 0.1613  Inv: 0.7555  Harmonic: 0.2658 
+bertopic   wikitext   K=10    Purity: 0.3246  Inv: 0.8985  Harmonic: 0.4769 
+
+K = 25:
+lda        wikitext   K=25    Purity: 0.3255  Inv: 0.8134  Harmonic: 0.4650 
+ctm        wikitext   K=25    Purity: 0.2617  Inv: 0.7013  Harmonic: 0.3811 
+bertopic   wikitext   K=25    Purity: 0.3446  Inv: 0.6919  Harmonic: 0.4600 
+
+K = 50:
+lda        wikitext   K=50    Purity: 0.4032  Inv: 0.7766  Harmonic: 0.5308 
+ctm        wikitext   K=50    Purity: 0.3504  Inv: 0.6252  Harmonic: 0.4491 
+bertopic   wikitext   K=50    Purity: 0.3739  Inv: 0.5974  Harmonic: 0.4599 
+
+K = 100:
+lda        wikitext   K=100   Purity: 0.5049  Inv: 0.7053  Harmonic: 0.5885 
+ctm        wikitext   K=100   Purity: 0.4096  Inv: 0.5360  Harmonic: 0.4644 
+bertopic   wikitext   K=100   Purity: 0.4275  Inv: 0.5636  Harmonic: 0.4862 
+
+K = 200:
+lda        wikitext   K=200   Purity: 0.5258  Inv: 0.5873  Harmonic: 0.5549 
+ctm        wikitext   K=200   Purity: 0.4443  Inv: 0.4533  Harmonic: 0.4488 
+bertopic   wikitext   K=200   Purity: 0.4647  Inv: 0.4654  Harmonic: 0.4651 
+
+───────────────────────────────────────────────────────────────────
+BILL DATASET
+───────────────────────────────────────────────────────────────────
+
+K = 10:
+lda        bill       K=10    Purity: 0.4479  Inv: 0.5679  Harmonic: 0.5008 
+ctm        bill       K=10    Purity: 0.3386  Inv: 0.4852  Harmonic: 0.3989 
+bertopic   bill       K=10    Purity: 0.3686  Inv: 0.6394  Harmonic: 0.4676 
+
+K = 25:
+lda        bill       K=25    Purity: 0.5123  Inv: 0.4619  Harmonic: 0.4858 
+ctm        bill       K=25    Purity: 0.4608  Inv: 0.4103  Harmonic: 0.4341 
+bertopic   bill       K=25    Purity: 0.4796  Inv: 0.4179  Harmonic: 0.4466 
+
+K = 50:
+lda        bill       K=50    Purity: 0.5820  Inv: 0.3501  Harmonic: 0.4372 
+ctm        bill       K=50    Purity: 0.5146  Inv: 0.3184  Harmonic: 0.3934 
+bertopic   bill       K=50    Purity: 0.4892  Inv: 0.3125  Harmonic: 0.3814 
+
+K = 100:
+lda        bill       K=100   Purity: 0.5977  Inv: 0.2663  Harmonic: 0.3685 
+ctm        bill       K=100   Purity: 0.5406  Inv: 0.2200  Harmonic: 0.3128 
+bertopic   bill       K=100   Purity: 0.5333  Inv: 0.2218  Harmonic: 0.3133 
+
+K = 200:
+lda        bill       K=200   Purity: 0.5962  Inv: 0.2081  Harmonic: 0.3085 
+ctm        bill       K=200   Purity: 0.0000  Inv: 0.0000  Harmonic: 0.0000 
+bertopic   bill       K=200   Purity: 0.5525  Inv: 0.1858  Harmonic: 0.2780 
+
+=====================================================================
+BEST PERFORMANCE PER METRIC
+=====================================================================

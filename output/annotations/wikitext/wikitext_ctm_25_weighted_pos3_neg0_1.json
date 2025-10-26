@@ -1,0 +1,628 @@
+{
+  "0": {
+    "pos_docs": [
+      12823,
+      1387,
+      3602
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Historical Significance of Locations",
+      "description": "The documents discuss the historical importance and development of various cities and landmarks in the United States and Scotland.",
+      "evidence": {
+        "Document 1": [
+          "Dirleton Castle is a medieval fortress in the village of Dirleton, East Lothian, Scotland.",
+          "The oldest parts of the castle date to the 13th century, and it was abandoned by the end of the 17th century."
+        ],
+        "Document 2": [
+          "African Americans in Omaha, Nebraska are central to the development and growth of the 43rd largest city in the United States.",
+          "In 1894 black residents of Omaha organized the first fair in the United States for African-American exhibitors and attendees."
+        ],
+        "Document 3": [
+          "Harrisburg is a city in and the county seat of Saline County, Illinois, United States.",
+          "The city was one of the leading bituminous coal mining distribution hubs of the American Midwest between 1900 and 1937."
+        ]
+      }
+    }
+  },
+  "1": {
+    "pos_docs": [
+      1225,
+      7117,
+      1179
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Fungi and Mycology",
+      "description": "The documents discuss various species of fungi, their characteristics, taxonomy, and geographical distribution.",
+      "evidence": {
+        "Document 1": [
+          "Suillellus amygdalinus is a fungus of the bolete family found in western North America.",
+          "The edibility of the mushroom is not known with certainty, it may be poisonous."
+        ],
+        "Document 3": [
+          "Tylopilus tabacinus is a species of bolete fungus in the Boletaceae family.",
+          "It is a mycorrhizal species, and associates with oak and beech trees."
+        ]
+      }
+    }
+  },
+  "2": {
+    "pos_docs": [
+      9677,
+      11766,
+      7839
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Music Industry Releases",
+      "description": "The documents discuss various music releases, including singles and video albums, by notable artists and their commercial reception.",
+      "evidence": {
+        "Document 1": [
+          "'Now That You Got It' is a song by American singer and songwriter Gwen Stefani from her second solo studio album, The Sweet Escape (2006).",
+          "The song's music video was directed by The Saline Project and was shot in Puerto Rico and Jamaica."
+        ],
+        "Document 2": [
+          "(sic) nesses is the fourth video album by American metal band Slipknot, released on September 28, 2010.",
+          "The album peaked at number one on four charts: the Australian Top 40 Music DVD Chart, the Finland Top10 Music DVDs, the UK Top10 Music DVD Chart, and the US Top Music Video Chart."
+        ],
+        "Document 3": [
+          "'Sale el Sol' is a song recorded by Colombian singer-songwriter Shakira for her ninth studio album of the same name.",
+          "Critical reception towards the song was positive, with many critics praising its composition and placement as the opening track of the album."
+        ]
+      }
+    }
+  },
+  "3": {
+    "pos_docs": [
+      3941,
+      5567,
+      5248
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Military and Aerospace Technology",
+      "description": "This topic encompasses advancements in military aircraft and naval vessels, focusing on design, operational capabilities, and technological innovations.",
+      "evidence": {
+        "Document 3": [
+          "The Queen Elizabeth class is a class of two supercarriers currently under construction for the Royal Navy",
+          "The first, HMS Queen Elizabeth, was named on 4 July 2014, with her ship commissioning planned for 2017."
+        ]
+      }
+    }
+  },
+  "4": {
+    "pos_docs": [
+      4207,
+      2885,
+      3011
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Professional Sports Figures",
+      "description": "This topic encompasses notable athletes and their careers in professional sports, particularly in baseball and basketball.",
+      "evidence": {
+        "Document 1": [
+          "David Falk is an American sports agent who primarily works with basketball players in the National Basketball Association.",
+          "Falk is generally considered to be the most influential player agent the NBA has seen."
+        ],
+        "Document 2": [
+          "Michael Pineda is a Dominican professional baseball starting pitcher for the New York Yankees of Major League Baseball.",
+          "Pineda was named an All-Star in his rookie season."
+        ]
+      },
+      "Document 3": [
+        "Manny Ram\u00edrez is a Dominican-American professional baseball outfielder who played in Major League Baseball for parts of 19 seasons.",
+        "Ram\u00edrez is recognized for having had great batting skill and power."
+      ]
+    }
+  },
+  "5": {
+    "pos_docs": [
+      7909,
+      10204,
+      10812
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Transportation Infrastructure",
+      "description": "The documents discuss various aspects of transportation infrastructure, including highways and railways, and their historical development and significance in different regions.",
+      "evidence": {
+        "Document 1": [
+          "Ontario Highway 406 is a 400-series highway in Ontario.",
+          "Construction of Highway 406 began in 1963."
+        ],
+        "Document 2": [
+          "Rail transport in Victoria, Australia, is provided by a number of railway operators.",
+          "Passenger services today are operated by Metro Trains Melbourne in suburban Melbourne."
+        ],
+        "Document 3": [
+          "Whitechapel Road is a major arterial road in Whitechapel, Tower Hamlets.",
+          "The road is part of the historic Roman Road from London to Colchester."
+        ]
+      }
+    }
+  },
+  "6": {
+    "pos_docs": [
+      6172,
+      13257,
+      13280
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "American Political Figures",
+      "description": "This cluster discusses notable American politicians, their backgrounds, political careers, and contributions to the United States.",
+      "evidence": {
+        "Document 1": [
+          "Rand Paul has served in the United States Senate as a member of the Republican Party representing Kentucky.",
+          "Paul has described himself as a Constitutional conservative and a supporter of the Tea Party movement."
+        ],
+        "Document 2": [
+          "George W. Bush served as the 43rd President of the United States from 2001 to 2009.",
+          "He is the second president to have been the son of a former president."
+        ],
+        "Document 3": [
+          "Abraham Lincoln was the 16th President of the United States, serving from March 1861 until his assassination in April 1865.",
+          "Lincoln led the United States through its Civil War."
+        ]
+      }
+    }
+  },
+  "7": {
+    "pos_docs": [
+      11927,
+      5187,
+      1955
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Naval Vessels in Warfare",
+      "description": "The documents discuss various naval vessels and their roles during significant historical conflicts, particularly World War II and earlier naval engagements.",
+      "evidence": {
+        "Document 1": [
+          "German submarine U-64 was a Type IXB U-boat of Nazi Germany's Kriegsmarine during World War II.",
+          "U-64 had a very short career and sank no enemy vessels."
+        ],
+        "Document 2": [
+          "HMS Amazon was a frigate of the Royal Navy.",
+          "She served during the French Revolutionary and Napoleonic Wars under several notable naval commanders."
+        ],
+        "Document 3": [
+          "Molotov was a Project 26bis Kirov-class cruiser of the Soviet Navy that served during World War II.",
+          "She supported Soviet troops during the Siege of Sevastopol."
+        ]
+      }
+    }
+  },
+  "8": {
+    "pos_docs": [
+      3847,
+      4277,
+      4310
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Sports Events and Rivalries",
+      "description": "This cluster discusses notable sports events and the rivalries associated with them, highlighting specific competitions and athletes.",
+      "evidence": {
+        "Document 1": [
+          "The Boat Race is a side-by-side rowing competition between the University of Oxford and the University of Cambridge.",
+          "The rivalry is a major point of honour between the two universities."
+        ],
+        "Document 2": [
+          "Amber Merritt represented Australia at the 2012 Summer Paralympics in London, where she won a silver medal.",
+          "She has played for the Gliders in a number of international series including the 2010 U23 World Championship."
+        ]
+      }
+    }
+  },
+  "9": {
+    "pos_docs": [
+      651,
+      718,
+      7908
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Michigan Highways",
+      "description": "The documents discuss various state trunkline highways in Michigan, detailing their routes, history, and significance.",
+      "evidence": {
+        "Document 1": [
+          "M-54 is a north \u2013 south state trunkline highway in the US state of Michigan",
+          "The modern highway runs for 30.276 miles through Genesee and Saginaw counties"
+        ],
+        "Document 2": [
+          "M-150 is a state trunkline highway in the US state of Michigan",
+          "M-150 has been a state trunkline since around 1930"
+        ]
+      }
+    }
+  },
+  "10": {
+    "pos_docs": [
+      7328,
+      6854,
+      947
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Film Analysis and Genres",
+      "description": "This cluster discusses various films, their themes, and the evolution of cinematic styles across different genres.",
+      "evidence": {
+        "Document 1": [
+          "Fast Five follows Dominic Toretto, Brian O'Conner, and Mia Toretto as they plan a heist to steal $100 million.",
+          "Universal Studios deliberately departed from the street racing theme prevalent in previous films."
+        ],
+        "Document 2": [
+          "The Warped Ones is a 1960 Japanese Sun Tribe film directed by Koreyoshi Kurahara.",
+          "It achieved success in Japan and was followed by Black Sun, featuring many of the same cast, crew and characters."
+        ]
+      }
+    }
+  },
+  "11": {
+    "pos_docs": [
+      13570,
+      10733,
+      10706
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Entertainment Events",
+      "description": "The documents discuss significant events in the fields of poker and professional wrestling, highlighting key performances and outcomes.",
+      "evidence": {
+        "Document 1": [
+          "Joe Cada is an American professional poker player best known as the winner of the Main Event at the 2009 World Series of Poker.",
+          "Cada became a representative of Team PokerStars in 2009."
+        ],
+        "Document 2": [
+          "Judgment Day (2005) was a professional wrestling pay-per-view event produced by World Wrestling Entertainment (WWE).",
+          "The main event was an 'I Quit' match featuring John Cena defeating JBL to retain his championship."
+        ],
+        "Document 3": [
+          "Extreme Rules (2012) was a professional wrestling pay-per-view event produced by WWE.",
+          "In the main event, John Cena defeated Brock Lesnar in an Extreme Rules match."
+        ]
+      }
+    }
+  },
+  "12": {
+    "pos_docs": [
+      3104,
+      3122,
+      3214
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "The Office Episodes",
+      "description": "This cluster discusses various episodes of the American comedy television series The Office, highlighting their plots, characters, and production details.",
+      "evidence": {
+        "Document 1": [
+          "Local Ad is the ninth episode of the fourth season of The Office",
+          "the employees of the Scranton branch of Dunder Mifflin can create a better commercial."
+        ],
+        "Document 2": [
+          "Email Surveillance is the ninth episode of the second season of The Office",
+          "the everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company."
+        ],
+        "Document 3": [
+          "Christmas Wishes is the tenth episode of the eighth season of The Office",
+          "depicts the everyday lives of office employees in the Scranton, Pennsylvania, branch of the fictional Dunder Mifflin Paper Company."
+        ]
+      }
+    }
+  },
+  "13": {
+    "pos_docs": [
+      6925,
+      12334,
+      12511
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Biological and Evolutionary Concepts",
+      "description": "This topic encompasses various aspects of biology including species characteristics, genetic processes, and the historical development of life on Earth.",
+      "evidence": {
+        "Document 1": [
+          "Sirex woodwasp is an invasive species in many parts of the world",
+          "the female wasp lays two eggs with or without a mucoid substance"
+        ],
+        "Document 2": [
+          "Genetic drift is the change in the frequency of a gene variant in a population due to random sampling of organisms",
+          "genetic drift may cause gene variants to disappear completely and thereby reduce genetic variation"
+        ],
+        "Document 3": [
+          "the history of paleontology traces the history of the effort to understand the history of life on Earth",
+          "the systematic study of fossils emerged as an integral part of the changes in natural philosophy"
+        ]
+      }
+    }
+  },
+  "14": {
+    "pos_docs": [
+      2838,
+      5047,
+      9211
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Historical Literary Analysis",
+      "description": "This topic encompasses the examination of historical texts and literary works, focusing on their cultural significance and character portrayal.",
+      "evidence": {
+        "Document 1": [
+          "medieval Welsh poem consisting of a series of elegies",
+          "ascribed to the bard Aneirin"
+        ],
+        "Document 2": [
+          "book of criticism of Shakespeare's plays",
+          "first book to cover all of Shakespeare's plays"
+        ],
+        "Document 3": [
+          "popular nickname of Gaius Julius Caesar Augustus Germanicus",
+          "described as a noble and moderate ruler"
+        ]
+      }
+    }
+  },
+  "15": {
+    "pos_docs": [
+      12316,
+      9443,
+      8185
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Songs and Their Contexts",
+      "description": "This topic encompasses songs and their creation, themes, and cultural significance as reflected in the artists' personal experiences and historical backgrounds.",
+      "evidence": {
+        "Document 1": [
+          "The song was written and composed by Andrew Lloyd Webber and Tim Rice while they were researching the life of Argentinian leader Eva Per\u00f3n.",
+          "Lyrically consists of platitudes where Eva tries to win the favour of the people of Argentina."
+        ],
+        "Document 2": [
+          "Carey revealed that she wrote the song during difficult and personal experiences in her life.",
+          "Its lyrics convey a message of self-worth and perseverance, with Carey urging listeners to 'Reach for the stars / Be all that you are.'"
+        ],
+        "Document 3": [
+          "Written by Minaj, co-written and produced by Garrett and Alex da Kid.",
+          "The song was a distinct change in Minaj's previous work on mixtapes and features, thus receiving mixed to positive reviews from critics."
+        ]
+      }
+    }
+  },
+  "16": {
+    "pos_docs": [
+      11615,
+      11653,
+      11633
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Classic Video Games",
+      "description": "These documents discuss various classic video games and their development, gameplay, and reception.",
+      "evidence": {
+        "doc_id_1": [
+          "platform video game developed by Sonic Team",
+          "released for the Sega Genesis"
+        ],
+        "doc_id_2": [
+          "construction and management simulation video game",
+          "build and manage a tower"
+        ],
+        "doc_id_3": [
+          "platforming video game developed by Rare",
+          "navigate the obstacles in each level"
+        ]
+      }
+    }
+  },
+  "17": {
+    "pos_docs": [
+      329,
+      9397,
+      10936
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Cultural Heritage and Education",
+      "description": "This topic encompasses the historical significance and educational roles of notable institutions and artworks within communities.",
+      "evidence": {
+        "Document 1": [
+          "historic school located in Fillmore County, Nebraska",
+          "listed on the National Register of Historic Places"
+        ],
+        "Document 2": [
+          "outdoor marble sculpture and fountain",
+          "represents man's eternal search for brotherhood and enlightenment"
+        ],
+        "Document 3": [
+          "British pulp science fiction magazine",
+          "published stories by notable authors"
+        ]
+      }
+    }
+  },
+  "18": {
+    "pos_docs": [
+      1887,
+      1873,
+      9079
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Hurricanes in the Atlantic and Pacific",
+      "description": "This topic encompasses the formation, impact, and meteorological history of significant hurricanes in both the Atlantic and Pacific regions.",
+      "evidence": {
+        "Document 1": [
+          "Hurricane Kyle was the eleventh tropical storm and sixth hurricane of the 2008 Atlantic hurricane season.",
+          "It made landfall in Nova Scotia as a Category 1 hurricane late on September 28."
+        ],
+        "Document 2": [
+          "The 1909 Greater Antilles hurricane was a rare, late-season tropical cyclone that caused extensive damage and loss of life in Jamaica and Haiti.",
+          "The storm made landfall in northwest Haiti with winds of 85 mph (140 km/h)."
+        ],
+        "Document 3": [
+          "Hurricane Jimena was the tenth named storm and second hurricane of the 2003 Pacific hurricane season.",
+          "Jimena brushed past the Hawaiian Islands before becoming a tropical depression."
+        ]
+      }
+    }
+  },
+  "19": {
+    "pos_docs": [
+      3423,
+      12214,
+      6395
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Military History of the United States",
+      "description": "The documents discuss key historical events and figures related to the military history of the United States, including divisions, invasions, and notable leaders.",
+      "evidence": {
+        "Document 1": [
+          "The 26th Infantry Division was an infantry division of the United States Army.",
+          "The division saw extensive combat in France."
+        ],
+        "Document 2": [
+          "The second Persian invasion of Greece occurred during the Greco-Persian Wars.",
+          "The Athenians and Spartans led the Greek resistance."
+        ],
+        "Document 3": [
+          "Ethan Allen was an American Revolutionary War patriot.",
+          "He is best known as one of the founders of the U.S. state of Vermont."
+        ]
+      }
+    }
+  },
+  "20": {
+    "pos_docs": [
+      9978,
+      10049,
+      10002
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Formula One Racing",
+      "description": "The documents discuss various Formula One Grand Prix events, detailing race outcomes, driver performances, and championship standings.",
+      "evidence": {
+        "Document 1": [
+          "2000 Spanish Grand Prix was a Formula One motor race held on 7 May 2000",
+          "Mika H\u00e4kkinen won the race, putting him into second place in the World Drivers' Championship."
+        ],
+        "Document 2": [
+          "2015 Singapore Grand Prix was a Formula One motor race held on 20 September 2015",
+          "Vettel won the race from pole position, ahead of Red Bull's Daniel Ricciardo."
+        ],
+        "Document 3": [
+          "2007 Toyota / Save Mart 350 was the sixteenth stock car race of the 2007 NASCAR Nextel Cup Series",
+          "Montoya got ahead of McMurray for the lead after a seven-lap battle and held it to win the race."
+        ]
+      }
+    }
+  },
+  "21": {
+    "pos_docs": [
+      6603,
+      6748,
+      6691
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Tropical Cyclone Seasons",
+      "description": "Documents discuss various tropical cyclone seasons across different ocean basins, highlighting their formation, intensity, and impacts.",
+      "evidence": {
+        "Document 1": [
+          "1973 Atlantic hurricane season was the first season to use the Saffir \u2013 Simpson hurricane scale",
+          "produced 24 tropical and subtropical cyclones, of which only 8 reached storm intensity"
+        ],
+        "Document 2": [
+          "1998 North Indian Ocean cyclone season was an active season in annual cycle of tropical cyclone formation",
+          "caused a large loss of life, most of which was from one storm"
+        ],
+        "Document 3": [
+          "2004 Atlantic hurricane season was the costliest Atlantic hurricane season on record",
+          "activity was above average due to a Modoki El Ni\u00f1o"
+        ]
+      }
+    }
+  },
+  "22": {
+    "pos_docs": [
+      14055,
+      6366,
+      6461
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Historical Scandals and Figures",
+      "description": "The documents discuss significant historical events and figures, highlighting controversies, military leadership, and political influences.",
+      "evidence": {
+        "Document 1": [
+          "Hello Pappy scandal",
+          "technical error occurred during the final jackpot round"
+        ],
+        "Document 2": [
+          "nephew of the Byzantine emperor Phocas",
+          "general in the East during his uncle's reign"
+        ],
+        "Document 3": [
+          "politician and Presbyterian minister",
+          "involved in a number of theological debates"
+        ]
+      }
+    }
+  },
+  "23": {
+    "pos_docs": [
+      2133,
+      2793,
+      2095
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Music Albums Overview",
+      "description": "The documents discuss various music albums, detailing their production, release, and significance in the artists' careers.",
+      "evidence": {
+        "Document 1": [
+          "Indicud is the third studio album by American hip hop recording artist Kid Cudi.",
+          "The album features guest appearances from fellow American rappers King Chip, Kendrick Lamar, Too Short, RZA and ASAP Rocky."
+        ],
+        "Document 2": [
+          "Black Ice is an album by Australian hard rock band AC / DC.",
+          "It marked the band's first original recordings since 2000's Stiff Upper Lip."
+        ],
+        "Document 3": [
+          "Dance Again ... the Hits is the first greatest hits album of American entertainer Jennifer Lopez.",
+          "The album comprises eleven previously released tracks, and two new recordings."
+        ]
+      }
+    }
+  },
+  "24": {
+    "pos_docs": [
+      12888,
+      4419,
+      4374
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Television Series Analysis",
+      "description": "This topic encompasses the analysis and discussion of various television series, focusing on their plotlines, character development, and audience reception.",
+      "evidence": {
+        "Document 1": [
+          "Australian crime television drama series Underbelly",
+          "loosely based on the real events of the 1995 \u2013 2004 gangland war in Melbourne"
+        ],
+        "Document 2": [
+          "the fifteenth episode of the third season of the American musical television series Glee",
+          "received mixed to positive reviews"
+        ],
+        "Document 3": [
+          "the twenty-first episode of the second season of the American musical television series Glee",
+          "received a wide range of reviews, from highly enthusiastic to harshly critical"
+        ]
+      }
+    }
+  }
+}

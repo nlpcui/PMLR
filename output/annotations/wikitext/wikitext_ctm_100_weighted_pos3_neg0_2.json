@@ -1,0 +1,2476 @@
+{
+  "0": {
+    "pos_docs": [
+      13168,
+      4842,
+      13127
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Bach's Church Cantatas",
+      "description": "The documents discuss various church cantatas composed by Johann Sebastian Bach, highlighting their historical context, musical structure, and thematic content.",
+      "evidence": {
+        "Document 1": [
+          "BWV 183 is a church cantata by Johann Sebastian Bach.",
+          "Bach wrote the cantata in his second year in Leipzig for the Sunday Exaudi."
+        ],
+        "Document 3": [
+          "Nur jedem das Seine, BWV 163, is a church cantata by Johann Sebastian Bach.",
+          "The text, written by the court poet Salomon Franck, is based on the prescribed gospel reading for the Sunday."
+        ]
+      }
+    }
+  },
+  "1": {
+    "pos_docs": [
+      5599,
+      12012,
+      5190
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "World War II Military Technology",
+      "description": "This topic encompasses various military technologies and vehicles used during World War II, including drones, submarines, and destroyers.",
+      "evidence": {
+        "Document 1": [
+          "The Radioplane RP-77 was a small target drone missile",
+          "The RP-77D could be equipped with reconnaissance or meteorological sensors"
+        ],
+        "Document 2": [
+          "German submarine U-105 was a Type IXB U-boat of Nazi Germany's Kriegsmarine",
+          "U-105 sank 23 vessels for a total loss of 125,470 gross register tons"
+        ],
+        "Document 3": [
+          "HMS Highlander was an H-class destroyer",
+          "The ship was assigned to convoy escort duties in June with the Western Approaches Command"
+        ]
+      }
+    }
+  },
+  "2": {
+    "pos_docs": [
+      13337,
+      1364,
+      1357
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Plant and Fungal Species",
+      "description": "The documents discuss various species of plants and fungi, detailing their characteristics, habitats, and uses.",
+      "evidence": {
+        "Document 1": [
+          "Tephrosia apollinea is a legume species, native to southwest Asia and northeast Africa.",
+          "It can be used to make indigo dyes."
+        ],
+        "Document 2": [
+          "Sarcoscypha occidentalis, commonly known as the stalked scarlet cup, is a species of fungus.",
+          "It is found growing on hardwood twigs, particularly those that are partially buried in moist and shaded humus-rich soil."
+        ],
+        "Document 3": [
+          "Lactarius deterrimus, also known as false saffron milkcap, is a species of fungus in the family Russulaceae.",
+          "The fungus produces medium-sized fruit bodies with orangish caps."
+        ]
+      }
+    }
+  },
+  "3": {
+    "pos_docs": [
+      7176,
+      5279,
+      5254
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Naval Warfare in World War II",
+      "description": "The documents discuss various naval vessels and their roles during World War II, highlighting their engagements and operational histories.",
+      "evidence": {
+        "Document 1": [
+          "Vittorio Veneto was the second member of the Littorio class of battleships that served in the Italian Regia Marina during World War II.",
+          "She participated in the Battle of Cape Spartivento in November 1940 and the Battle of Cape Matapan in March 1941."
+        ],
+        "Document 2": [
+          "The Indefatigable class were the second class built of British battlecruisers which served in the Royal Navy and the Royal Australian Navy during World War I.",
+          "They spent most of the war patrolling the North Sea, and participated in most of the battles there."
+        ]
+      },
+      "Document 3": [
+        "HMS Garland was a G-class destroyer built for the Royal Navy in the mid-1930s.",
+        "She was assigned to the Mediterranean Fleet afterwards and escorted convoys there before being assigned to the Western Approaches Command."
+      ]
+    }
+  },
+  "4": {
+    "pos_docs": [
+      8317,
+      11595,
+      14153
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Video Game Development and Design",
+      "description": "This topic encompasses the development, design, and gameplay mechanics of various video games across different genres.",
+      "evidence": {
+        "Document 1": [
+          "Banjo-Tooie is a platform video game developed by Rare and published by Nintendo for the Nintendo 64.",
+          "The story of the game follows series protagonists Banjo and Kazooie as they attempt to stop the plans of antagonist Gruntilda."
+        ],
+        "Document 2": [
+          "F-Zero is a futuristic racing video game developed by Nintendo EAD and published by Nintendo for the Super Nintendo Entertainment System.",
+          "F-Zero is acknowledged by critics to be the game that set a standard for the racing genre."
+        ]
+      }
+    }
+  },
+  "5": {
+    "pos_docs": [
+      13086,
+      14259,
+      12693
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Television Drama Series",
+      "description": "This cluster focuses on the pilot episodes and initial series of various television drama series, exploring character development, narrative structure, and critical reception.",
+      "evidence": {
+        "Document 1": [
+          "'Pilot' is the pilot episode of the American television police procedural fantasy drama Awake",
+          "the episode has generally received positive reviews, with many critics commenting on the episode's unique script"
+        ],
+        "Document 2": [
+          "The first series of the British comedy-drama television series Cold Feet was first broadcast on the ITV network",
+          "Critical reaction to the first episodes was negative, with many reviewers not liking the characters"
+        ],
+        "Document 3": [
+          "The first series of the British spy drama television series Spooks began broadcasting on 13 May 2002",
+          "the producers were advised by former intelligence officers from the Security Service, KGB and Central"
+        ]
+      }
+    }
+  },
+  "6": {
+    "pos_docs": [
+      1865,
+      1806,
+      9038
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Hurricanes and Their Impacts",
+      "description": "This topic encompasses the formation, intensity, and consequences of various hurricanes across different regions and time periods.",
+      "evidence": {
+        "Document 1": [
+          "Hurricane Gabrielle was a North Atlantic hurricane that caused flooding in both Florida and Newfoundland",
+          "The storm caused about $230 million in damage in Florida."
+        ],
+        "Document 2": [
+          "Hurricane Joan was a powerful hurricane that caused death and destruction in over a dozen countries in the Caribbean and Central America",
+          "Widespread flooding and over 200 deaths after moving into Central America."
+        ],
+        "Document 3": [
+          "Hurricane Patricia was the second-most intense tropical cyclone on record worldwide",
+          "Patricia grew from a tropical storm to a Category 5 hurricane in just 24 hours."
+        ]
+      }
+    }
+  },
+  "7": {
+    "pos_docs": [
+      6961,
+      161,
+      121
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Endemic Species and Conservation",
+      "description": "The documents discuss various endemic species and their conservation status, highlighting their unique traits and ecological significance.",
+      "evidence": {
+        "Document 1": [
+          "Myrmecia inquilina is a species of ant endemic to Australia",
+          "the ant is 'vulnerable' according to the IUCN Red List."
+        ],
+        "Document 2": [
+          "endemic to the temperate waters off southern Namibia and western South Africa",
+          "The International Union for Conservation of Nature (IUCN) has listed the dark shyshark under Least Concern."
+        ],
+        "Document 3": [
+          "found in temperate and tropical oceans worldwide",
+          "This species is caught by commercial fisheries across its range."
+        ]
+      }
+    }
+  },
+  "8": {
+    "pos_docs": [
+      10589,
+      10547,
+      10727
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Professional Wrestling History",
+      "description": "The documents discuss notable figures and events in the history of professional wrestling, highlighting careers, championships, and significant matches.",
+      "evidence": {
+        "Document 1": [
+          "Sherri Martel was an American professional wrestler and manager, better known by her ring names, Sherri Martel and Sensational Sherri.",
+          "Martel joined the American Wrestling Association (AWA) in the mid-1980s and held its AWA World Women's Championship three times."
+        ],
+        "Document 2": [
+          "Mephisto is the ring name of a Mexican luchador enmascarado, or masked professional wrestler.",
+          "Mephisto has won multiple CMLL championships and currently holds part of the Mexican National Trios Championship."
+        ],
+        "Document 3": [
+          "Royal Rumble (2005) was the eighteenth annual Royal Rumble professional wrestling pay-per-view event produced by World Wrestling Entertainment (WWE).",
+          "The main event was the annual 30-man Royal Rumble match, which featured wrestlers from both brands."
+        ]
+      }
+    }
+  },
+  "9": {
+    "pos_docs": [
+      10060,
+      10080,
+      10028
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Formula One Racing",
+      "description": "The documents discuss various Formula One races, highlighting key events, drivers, and outcomes from specific Grand Prix races.",
+      "evidence": {
+        "Document 1": [
+          "The 2000 Malaysian Grand Prix was a Formula One motor race held on 22 October 2000.",
+          "Michael Schumacher held off a challenge from Coulthard in the closing stages of the Grand Prix to secure victory."
+        ],
+        "Document 2": [
+          "The 1995 Brazilian Grand Prix was a Formula One motor race held on 26 March 1995.",
+          "Schumacher's win came despite Benetton encountering steering problems with his car during Friday practice."
+        ],
+        "Document 3": [
+          "The 2001 German Grand Prix was a Formula One motor race held on 29 July 2001.",
+          "Ralf Schumacher thus inherited the lead and held it to win his third victory of the season."
+        ]
+      }
+    }
+  },
+  "10": {
+    "pos_docs": [
+      12980,
+      8531,
+      12981
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Characters from Neighbours",
+      "description": "The documents discuss various fictional characters from the Australian soap opera Neighbours, detailing their backgrounds, storylines, and character development.",
+      "evidence": {
+        "Document 1": [
+          "Carmella Cammeniti is a fictional character from the Australian Network Ten soap opera Neighbours",
+          "She was created as a replacement for Nina Tucker, portrayed by Delta Goodrem."
+        ],
+        "Document 3": [
+          "Daphne Rose Clarke is a fictional character from the Australian soap opera Neighbours",
+          "Daphne was created by Reg Watson as one of Neighbours' twelve original characters."
+        ]
+      }
+    }
+  },
+  "11": {
+    "pos_docs": [
+      9416,
+      10793,
+      5401
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Cultural Artifacts and Innovations",
+      "description": "This topic encompasses the exploration of significant cultural artifacts and innovative creations that reflect historical and contemporary societal influences.",
+      "evidence": {
+        "Document 1": [
+          "Kwakiutl is a totem sculpture by Aboriginal Canadian artist Simon Charlie",
+          "The figure depicted by the statue is that of a nearly-naked Aboriginal man"
+        ],
+        "Document 2": [
+          "A BLT cocktail is a cocktail made out of the contents of a BLT sandwich",
+          "The drink gained popularity in the United States in 2009"
+        ],
+        "Document 3": [
+          "Horse rings are remnants of a time when horses and horse-drawn vehicles provided the primary mode of transportation",
+          "The rings and art installations have become a tourist attraction"
+        ]
+      }
+    }
+  },
+  "12": {
+    "pos_docs": [
+      6816
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "British Television Game Shows",
+      "description": "This topic encompasses the format, production, and cultural impact of British television game shows, specifically focusing on high-budget, interactive formats like 'Red or Black?'.",
+      "evidence": {
+        "Document 1": [
+          "Red or Black ? is a British television game show which was broadcast on ITV",
+          "the most expensive game show in television history , with a \u00a3 15 million budget"
+        ]
+      }
+    }
+  },
+  "13": {
+    "pos_docs": [
+      1323,
+      1261,
+      1237
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "North American Mushroom Species",
+      "description": "The documents discuss various species of mushrooms found in North America, focusing on their taxonomy, physical characteristics, and habitat.",
+      "evidence": {
+        "Document 1": [
+          "Amanita atkinsoniana is a species of fungus in the Amanitaceae family.",
+          "It is found in the northeastern, southeastern, and southern United States as well as southern Canada."
+        ],
+        "Document 2": [
+          "Amanita daucipes is a species of fungus in the Amanitaceae family of the Agaricales order of mushrooms.",
+          "Found exclusively in North America."
+        ],
+        "Document 3": [
+          "Volvariella surrecta, commonly known as the piggyback rosegill, is an agaric fungus in the family Pluteaceae.",
+          "the species is widely distributed, having been reported from Asia, North America, Northern Africa, Europe, and New Zealand."
+        ]
+      }
+    }
+  },
+  "14": {
+    "pos_docs": [
+      1006,
+      1057,
+      963
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Classic Hollywood Actresses",
+      "description": "This topic encompasses prominent female film stars from the mid-20th century, highlighting their careers, iconic roles, and cultural impact.",
+      "evidence": {
+        "Document 1": [
+          "Mansfield became a major Broadway star in 1955, a major Hollywood star in 1956, and a leading celebrity in 1957.",
+          "She was a major Hollywood sex symbol of the 1950s and early 1960s."
+        ],
+        "Document 2": [
+          "Crawford became one of Hollywood's most prominent movie stars and one of the highest paid women in the United States.",
+          "In 1999, the American Film Institute ranked Crawford tenth on their list of the greatest female stars of Classic Hollywood Cinema."
+        ],
+        "Document 3": [
+          "Cardinale became one of the best known actresses in Italy after roles in films such as Rocco and His Brothers (1960).",
+          "From 1963, Cardinale became known in the United States and Britain following her role in The Pink Panther."
+        ]
+      }
+    }
+  },
+  "15": {
+    "pos_docs": [
+      4919,
+      4863,
+      12897
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Japanese Manga and Anime",
+      "description": "This topic encompasses the creation, adaptation, and cultural impact of Japanese manga and anime series.",
+      "evidence": {
+        "Document 1": [
+          "A Town Where You Live is a manga series by Kouji Seo.",
+          "The series was licensed for Crunchyroll Manga."
+        ],
+        "Document 2": [
+          "Gin Tama is a Japanese manga written and illustrated by Hideaki Sorachi.",
+          "The series has been adapted into an original video animation (OVA) by Sunrise."
+        ],
+        "Document 3": [
+          "Last Exile is a Japanese animated television series created by Gonzo.",
+          "A sequel series, Last Exile -Fam, The Silver Wing-, aired between October 15, 2011 and March 23, 2012."
+        ]
+      }
+    }
+  },
+  "16": {
+    "pos_docs": [
+      13919,
+      13504,
+      9569
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Political Lobbying and Advocacy",
+      "description": "This topic encompasses the influence of organized groups on public policy and regulation, particularly regarding environmental issues and national security.",
+      "evidence": {
+        "Document 1": [
+          "The Global Climate Coalition (GCC) was an international lobbyist group of businesses that opposed action to reduce greenhouse gas emissions",
+          "The GCC was involved in opposition to the Kyoto Protocol, and played a role in blocking ratification by the United States."
+        ],
+        "Document 2": [
+          "The Commission to Assess the Ballistic Missile Threat to the United States was an independent commission formed by the US Congress to evaluate the ballistic missile threat",
+          "This contrasted with the views of previous US intelligence estimates, which stated that the threat of ballistic missiles was still 10 to 20 years away."
+        ]
+      }
+    }
+  },
+  "17": {
+    "pos_docs": [
+      5006,
+      11243,
+      8096
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Celebrity Influence and Activism",
+      "description": "This topic encompasses the intersection of celebrity culture, marketing, and social activism, highlighting how public figures and their endorsements can impact consumer behavior and social causes.",
+      "evidence": {
+        "Document 1": [
+          "Guthy-Renker has an emphasis on celebrity-endorsed beauty products.",
+          "The company began distributing the acne treatment Proactiv, which became responsible for more than half its revenues by 2005."
+        ],
+        "Document 2": [
+          "The article is often considered one of the greatest celebrity profiles ever written.",
+          "Sinatra's relationship with 20-year-old Mia Farrow was constantly in the news."
+        ],
+        "Document 3": [
+          "Sagan was a human rights activist best known for her work with Amnesty International on behalf of prisoners of conscience.",
+          "Amnesty International founded an annual Ginetta Sagan Award for activists in her honor."
+        ]
+      }
+    }
+  },
+  "18": {
+    "pos_docs": [
+      10776,
+      3931,
+      11176
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Mathematics and Programming Concepts",
+      "description": "This cluster discusses foundational concepts in mathematics and programming, including the Python programming language, negative resistance in electronics, and Taylor series in calculus.",
+      "evidence": {
+        "Document 1": [
+          "Python is a widely used high-level, general-purpose, interpreted, dynamic programming language.",
+          "Python supports multiple programming paradigms, including object-oriented, imperative and functional programming. "
+        ],
+        "Document 2": [
+          "Negative resistance is a property of some electrical circuits and devices in which an increase in voltage across the device's terminals results in a decrease in electric current through it.",
+          "Negative resistance produces power and can amplify an electrical signal. "
+        ],
+        "Document 3": [
+          "A Taylor series is a representation of a function as an infinite sum of terms calculated from the values of the function's derivatives at a single point.",
+          "A function may not be equal to its Taylor series, even if its Taylor series converges at every point. "
+        ]
+      }
+    }
+  },
+  "19": {
+    "pos_docs": [
+      6959,
+      7504,
+      12859
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Insects and Birds",
+      "description": "The documents discuss various species of insects and birds, highlighting their characteristics, habitats, and behaviors.",
+      "evidence": {
+        "Document 1": [
+          "Cockroaches are insects of the order Blattodea",
+          "they have chewing mouthparts and are likely among the most primitive of living neopteran insects."
+        ],
+        "Document 2": [
+          "The Eurasian eagle-owl is a species of eagle-owl that resides in much of Eurasia.",
+          "It is a mostly nocturnal predator, hunting for a range of different prey species."
+        ]
+      }
+    }
+  },
+  "20": {
+    "pos_docs": [
+      2610,
+      3400,
+      6414
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Military History and Warfare",
+      "description": "The documents discuss various aspects of military history, including strategies, units, and influential figures in warfare from different periods.",
+      "evidence": {
+        "Document 1": [
+          "Warfare in early modern Scotland includes all forms of military activity in Scotland or by Scottish forces",
+          "Scottish armies were assembled on the basis of common service, feudal obligations and money contracts of bonds of manrent."
+        ],
+        "Document 2": [
+          "The 2nd Ranger Infantry Company specialized in irregular warfare",
+          "The company was highly regarded for its actions capturing and holding Hill 581 during the Battle of the Soyang River."
+        ],
+        "Document 3": [
+          "Jacob L. Devers was a general in the United States Army who commanded the 6th Army Group in the European Theater during World War II",
+          "He was an articulate proponent of the emerging tactical doctrine of combined arms."
+        ]
+      }
+    }
+  },
+  "21": {
+    "pos_docs": [
+      5785,
+      709,
+      5764
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "State Highways in the U.S.",
+      "description": "This topic encompasses the descriptions and characteristics of various state highways across the United States.",
+      "evidence": {
+        "Document 1": [
+          "Delaware Route 100 is a state highway in New Castle County, Delaware.",
+          "The route runs from DE 4 near Elsmere to the Pennsylvania border."
+        ],
+        "Document 2": [
+          "M-139 is a state trunkline highway entirely within Berrien County in the US state of Michigan.",
+          "The highway starts at US Highway 12 southwest of Niles and runs through rural areas of the county."
+        ],
+        "Document 3": [
+          "State Highway 8, also abbreviated as SH-8 or OK-8, is a highway maintained by the U.S. state of Oklahoma.",
+          "Highway 8 runs from U.S. Highway 277 in Cyril, Oklahoma to the state line south of Kiowa, Kansas."
+        ]
+      }
+    }
+  },
+  "22": {
+    "pos_docs": [
+      2431,
+      8941,
+      9501
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Music Awards and Performances",
+      "description": "The documents discuss various aspects of music awards and performances, including specific Grammy categories and songs by Alexandra Stan.",
+      "evidence": {
+        "Document 1": [
+          "The Grammy Award for Best Soul Gospel Performance, Male or Female was an award presented at the 32nd Annual Grammy Awards in 1990 for quality soul gospel performances.",
+          "Prior to the Grammy Award for Best Soul Gospel Performance, Male or Female, there were two categories separated by gender."
+        ],
+        "Document 2": [
+          "Lollipop (Param Pam Pam) is the debut song recorded by Romanian recording artist Alexandra Stan for her debut studio album, Saxobeats.",
+          "The track was written by Marcel Prodan and Andrei Nemirschi, and produced by Prodan."
+        ]
+      }
+    }
+  },
+  "23": {
+    "pos_docs": [
+      8394,
+      7455,
+      4711
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Japanese Role-Playing Games",
+      "description": "The documents discuss various Japanese role-playing games (JRPGs) and their adaptations across different media.",
+      "evidence": {
+        "1": [
+          "Air is a Japanese adult visual novel developed by Key",
+          "The gameplay in Air follows a branching plot line which offers pre-determined scenarios"
+        ],
+        "2": [
+          "Ni no Kuni is a series of role-playing games developed by Level-5",
+          "The games utilize several magic elements, allowing players to use magical abilities during gameplay"
+        ],
+        "3": [
+          "Final Fantasy is a media franchise created by Hironobu Sakaguchi",
+          "The original Final Fantasy video game, published in 1987, is a role-playing video game"
+        ]
+      }
+    }
+  },
+  "24": {
+    "pos_docs": [
+      7293,
+      991,
+      999
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Independent and International Cinema",
+      "description": "The documents discuss notable figures and films in the realm of independent and international cinema, highlighting unique cultural narratives and artistic expressions.",
+      "evidence": {
+        "Document 1": [
+          "2012 Israeli drama film written and directed by Rama Burshtein",
+          "well received by critics for its depiction of Orthodox Jews and their lifestyle."
+        ],
+        "Document 2": [
+          "established Sevigny's reputation as 'Queen of the Indies'",
+          "roles in generally well-received independent and often experimental films"
+        ],
+        "Document 3": [
+          "achieve pan-Indian appeal",
+          "notable roles in two of 2001's highest grossing Tamil films"
+        ]
+      }
+    }
+  },
+  "25": {
+    "pos_docs": [
+      5632,
+      619,
+      5690
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "State Highways in Rural Areas",
+      "description": "The documents discuss various state highways in rural regions of the United States, detailing their routes, historical context, and geographical significance.",
+      "evidence": {
+        "Document 1": [
+          "Farm to Market Road 1528 is located in the western and central portions of Delta County in Texas.",
+          "The roadway travels through mainly rural portions of Delta County."
+        ],
+        "Document 2": [
+          "M-156 is a state trunkline highway in Lenawee County, Michigan.",
+          "The highway runs through farm land along Lime Creek."
+        ],
+        "Document 3": [
+          "Delaware Route 11 runs from Maryland Route 302 at the Maryland border near Templeville.",
+          "The road passes through the farmland of western Kent County."
+        ]
+      }
+    }
+  },
+  "26": {
+    "pos_docs": [
+      157,
+      11279,
+      232
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Marine and Terrestrial Fauna",
+      "description": "The documents discuss various species of marine and terrestrial animals, highlighting their characteristics, habitats, and dietary habits.",
+      "evidence": {
+        "Document 1": [
+          "Dusky shark is a species of requiem shark, occurring in tropical and warm-temperate continental seas worldwide.",
+          "Adult dusky sharks have a broad and varied diet, consisting mostly of bony fishes, sharks and rays, and cephalopods."
+        ],
+        "Document 2": [
+          "The forest cobra is an elapid native to Africa, mostly the central and western parts of the continent.",
+          "The forest cobra is a generalist in its feeding habits, having a highly varied diet: anything from large insects to small mammals and other reptiles."
+        ],
+        "Document 3": [
+          "The great northern tilefish is the largest species in the family Malacanthidae, which grows to an average length between 38 and 44 inches.",
+          "Juveniles and adults feed upon various benthic invertebrates, crustaceans and fish."
+        ]
+      }
+    }
+  },
+  "27": {
+    "pos_docs": [
+      3584,
+      3549,
+      3575
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Urban Development and History",
+      "description": "The documents discuss the urban development, history, and demographics of various cities and neighborhoods in North America.",
+      "evidence": {
+        "Document 1": [
+          "Hilton Head Island is a Lowcountry resort town located on an island of the same name in Beaufort County, South Carolina.",
+          "The island features 12 miles of beachfront on the Atlantic Ocean and is a popular vacation destination."
+        ],
+        "Document 2": [
+          "Coquitlam is a city in the Lower Mainland of British Columbia, Canada.",
+          "The Coast Salish people were the first to live in this area, and archaeology confirms continuous occupation of the territory for at least 9,000 years."
+        ],
+        "Document 3": [
+          "Streeterville is a neighborhood in the Near North Side community area of Chicago, Illinois, United States.",
+          "The neighborhood contains a combination of hotels, restaurants, professional office centers, residential high rises, universities, medical facilities, and cultural venues."
+        ]
+      }
+    }
+  },
+  "28": {
+    "pos_docs": [
+      8783,
+      13040,
+      10940
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Cookbooks and Culinary Literature",
+      "description": "The documents focus on notable cookbooks and their contributions to culinary literature and culture.",
+      "evidence": {
+        "Document 1": [
+          "I Love Bacon ! is a cookbook with over fifty recipes devoted to bacon and bacon dishes",
+          "Rockmill conceived the book as a way to help raise money for their work"
+        ],
+        "Document 2": [
+          "Modern Cookery for Private Families is an English cookery book by Eliza Acton",
+          "It was one of the first cookery books to provide lists of ingredients, exact quantities, and cooking times"
+        ]
+      }
+    }
+  },
+  "29": {
+    "pos_docs": [
+      2786,
+      4673,
+      2729
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Music Albums and Labels",
+      "description": "The documents discuss various music albums and their production, as well as independent record labels associated with specific music genres or themes.",
+      "evidence": {
+        "Document 1": [
+          "Seeing Sounds is the third studio album by American funk rock band N.E.R.D",
+          "The album was produced solely by record production duo The Neptunes"
+        ],
+        "Document 2": [
+          "Key Sounds Label is a Japanese independent record label formed in 2001",
+          "The majority of releases on the label all have a basis from one of Key 's titles"
+        ],
+        "Document 3": [
+          "Blood is the third studio album by American progressive rock band OSI",
+          "Critical reception of Blood was generally positive"
+        ]
+      }
+    }
+  },
+  "30": {
+    "pos_docs": [
+      3043,
+      2991,
+      2893
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Early 20th Century Baseball Players",
+      "description": "This topic covers notable baseball players from the early to mid-20th century, highlighting their careers and contributions to Major League Baseball.",
+      "evidence": {
+        "Document 1": [
+          "Mickey Micelotta is a former American shortstop in Major League Baseball (MLB) who played 13 total seasons.",
+          "He played two seasons in the National League with the Philadelphia Phillies."
+        ],
+        "Document 2": [
+          "Jeff Heath was a Canadian-born American left fielder in Major League Baseball who played most of his career for the Cleveland Indians.",
+          "He was one of the American League's most promising power hitters of the late 1930s and early 1940s."
+        ],
+        "Document 3": [
+          "Oyster Burns was a professional baseball player whose career spanned 15 seasons.",
+          "He predominantly played as an outfielder and compiled a career batting average of .300."
+        ]
+      }
+    }
+  },
+  "31": {
+    "pos_docs": [
+      13084,
+      7224,
+      14127
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "American Mystery Television Episodes",
+      "description": "This topic encompasses episodes from various American television series that revolve around mystery, crime, and detective work.",
+      "evidence": {
+        "Document 1": [
+          "the American police procedural drama television series Awake",
+          "Michael deals with a case involving a serial killer"
+        ],
+        "Document 2": [
+          "the American mystery television series Veronica Mars",
+          "Veronica is hired by Max, a student who is looking for his beloved"
+        ],
+        "Document 3": [
+          "the American comedy-drama television series White Collar",
+          "Neal and Peter are approached by a student about missing scholarship funds"
+        ]
+      }
+    }
+  },
+  "32": {
+    "pos_docs": [
+      7659,
+      14150,
+      8391
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Video Game Development and Design",
+      "description": "This topic encompasses various aspects of video game development, including design, gameplay mechanics, and adaptations of existing media.",
+      "evidence": {
+        "Document 1": [
+          "action-adventure game developed and published by Nintendo",
+          "features 3D cel-shaded graphics with an overhead camera perspective"
+        ],
+        "Document 2": [
+          "role-playing video game created by indie developer Toby Fox",
+          "the player navigates through mini-bullet hell attacks by the opponent cyclically"
+        ],
+        "Document 3": [
+          "action / hack and slash video game developed by EA Redwood Shores",
+          "an adaptation of Peter Jackson 's 2002 film The Lord of the Rings : The Two Towers"
+        ]
+      }
+    }
+  },
+  "33": {
+    "pos_docs": [
+      12428,
+      3956,
+      3960
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Optical Measurement Techniques",
+      "description": "This topic encompasses various methods and devices that utilize optical principles for measurement and analysis in scientific and engineering applications.",
+      "evidence": {
+        "Document 1": [
+          "Interferometry is an important investigative technique in the fields of astronomy, fiber optics, engineering metrology, optical metrology, oceanography, seismology, spectroscopy, quantum mechanics, nuclear and particle physics, plasma physics, remote sensing, biomolecular interactions, surface profiling, microfluidics, mechanical stress/strain measurement, velocimetry, and optometry.",
+          "Interferometers are widely used in science and industry for the measurement of small displacements, refractive index changes and surface irregularities."
+        ],
+        "Document 2": [
+          "A reflector sight or reflex sight is an optical device that allows the user to look through a partially reflecting glass element and see an illuminated projection of an aiming point or some other image superimposed on the field of view.",
+          "These sights work on the simple optical principle that anything at the focus of a lens or curved mirror will look like it is sitting in front of the viewer at infinity."
+        ]
+      }
+    }
+  },
+  "34": {
+    "pos_docs": [
+      13041,
+      10155,
+      10150
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Railway Systems and Services",
+      "description": "The documents discuss various railway systems, including locomotives and commuter rail services, primarily in Norway and the United States.",
+      "evidence": {
+        "Document 1": [
+          "NSB Di 3 is a class of 35 diesel-electric locomotives built by NOHAB for the Norwegian State Railways",
+          "The class was the dominant locomotive on NSB's unelectrified lines."
+        ],
+        "Document 2": [
+          "Shore Line East (SLE) is a commuter rail service which operates along the Northeast Corridor through southern Connecticut",
+          "The service was introduced in 1990 as a temporary measure to reduce congestion during construction work on I-95."
+        ]
+      },
+      "Document 3": [
+        "The R\u00f8a Line is a rapid transit line of the Oslo Metro, Norway",
+        "The first part of the line, originally a light rail, was from Majorstuen to Smestad, and opened in 1912."
+      ]
+    }
+  },
+  "35": {
+    "pos_docs": [
+      12360,
+      13831,
+      7636
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Science Fiction Television Episodes",
+      "description": "The documents discuss individual episodes from various science fiction television series, highlighting their plots, production details, and viewer reception.",
+      "evidence": {
+        "Document 1": [
+          "The Lodger is the eleventh episode of the fifth series of the British science fiction television series Doctor Who",
+          "The episode features the Doctor stranded on Earth and separated from his companion Amy Pond."
+        ],
+        "Document 2": [
+          "Be All My Sins Remember'd is the 71st episode of the science fiction television series Stargate Atlantis",
+          "The episode is the second installment of a three-episode arc that began with the mid-season finale."
+        ],
+        "Document 3": [
+          "Storm Front is the first and second episodes of the fourth season of the American science fiction television series Star Trek: Enterprise",
+          "The episodes resolved the cliffhanger at the end of the third season finale, Zero Hour."
+        ]
+      }
+    }
+  },
+  "36": {
+    "pos_docs": [
+      11403,
+      13032,
+      18
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "British Travel and Culinary Literature",
+      "description": "The documents explore the contributions of British authors to travel and culinary literature, highlighting their personal experiences and cultural insights.",
+      "evidence": {
+        "Document 1": [
+          "autobiographical account of his adventures in the Hindu Kush",
+          "described as a comic masterpiece, intensely English, and understated"
+        ],
+        "Document 2": [
+          "published eight books in the 34 years between 1950 and 1984",
+          "contained recipes interspersed with literary quotation and descriptions of people and places"
+        ]
+      }
+    }
+  },
+  "37": {
+    "pos_docs": [
+      11868,
+      6873,
+      10756
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Classic Film Productions",
+      "description": "This topic encompasses notable classic films, their production details, and significant contributions to cinema.",
+      "evidence": {
+        "Document 1": [
+          "1959 American epic historical drama film",
+          "largest budget ($15.175 million) as well as the largest sets built of any film produced at the time."
+        ],
+        "Document 2": [
+          "1966 English-language Spanish-Swiss co-produced film directed by and starring Orson Welles",
+          "the core of the film's story was 'the betrayal of friendship.'"
+        ],
+        "Document 3": [
+          "1935 American screwball musical comedy film",
+          "Top Hat remains, to this day, the partnership's best-known work."
+        ]
+      }
+    }
+  },
+  "38": {
+    "pos_docs": [
+      7811,
+      8258,
+      8891
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Contemporary Pop Music Singles",
+      "description": "This topic encompasses the analysis and details of popular singles released by contemporary artists in the pop and R&B genres.",
+      "evidence": {
+        "Document 1": [
+          "California King Bed is a song by Barbadian singer Rihanna from her fifth studio album, Loud (2010).",
+          "The song had a moderate effect on music charts, leading the tables Slovakia, Poland and reaching the five best-selling bands in Germany."
+        ],
+        "Document 2": [
+          "Somebody to Love is a song performed by Canadian recording artist Justin Bieber.",
+          "The song served as the second single from his album, My World 2.0."
+        ],
+        "Document 3": [
+          "Sweet Dreams is a song by American singer and songwriter Beyonc\u00e9 from her third studio album I Am... Sasha Fierce (2008).",
+          "The song was critically acclaimed by contemporary music critics, who praised its beats, synthpop sound and Knowles' vocals."
+        ]
+      }
+    }
+  },
+  "39": {
+    "pos_docs": [
+      2649,
+      13608,
+      9649
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Pop Music Evolution",
+      "description": "The documents explore the evolution and impact of pop music through various artists and their works.",
+      "evidence": {
+        "Document 1": [
+          "Headstrong is the debut studio album by American singer-songwriter Ashley Tisdale",
+          "The album also lyrically explores themes in teen pop."
+        ],
+        "Document 2": [
+          "Your Cheatin ' Heart is regarded as one of country 's most important standards.",
+          "the song - for all intents and purposes - defines country music."
+        ],
+        "Document 3": [
+          "Beautiful , Dirty , Rich is an uptempo dance-pop song",
+          "The song was met with critical acclaim, with reviewers complimenting the lyrics and the fun nature of the song."
+        ]
+      }
+    }
+  },
+  "40": {
+    "pos_docs": [
+      12009,
+      5229,
+      14009
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Naval Vessels of World War Era",
+      "description": "The documents discuss various naval vessels from different nations that served during the early 20th century, particularly around the time of World War I and World War II.",
+      "evidence": {
+        "Document 1": [
+          "SMS Berlin was the third member of the seven-vessel Bremen class, built by the Imperial German Navy.",
+          "She served in the reconnaissance forces of the High Seas Fleet from her commissioning to 1911."
+        ],
+        "Document 2": [
+          "HMS Gipsy was a G-class destroyer built for the Royal Navy during the 1930s.",
+          "She spent most of the pre-war period as part of the Mediterranean Fleet."
+        ],
+        "Document 3": [
+          "The Reina Victoria Eugenia class was a class of three battleships of the Spanish Navy.",
+          "The ships were never built due to Britain's involvement in World War I."
+        ]
+      }
+    }
+  },
+  "41": {
+    "pos_docs": [
+      13777,
+      9303,
+      9297
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Sports and Traditions",
+      "description": "The documents discuss the cultural significance of sports and traditions within specific communities, highlighting the importance of school spirit at Texas A & M University and the achievements of professional tennis players.",
+      "evidence": {
+        "3": [
+          "Andy Murray is a Scottish professional tennis player currently ranked world No. 2 in singles.",
+          "Murray is the 2012 Olympic Gold Medalist, having defeated Roger Federer."
+        ]
+      }
+    }
+  },
+  "42": {
+    "pos_docs": [
+      11326,
+      4199,
+      10271
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Paralympic and Olympic Athletes",
+      "description": "This cluster focuses on the achievements and backgrounds of athletes who have competed in the Paralympic and Olympic Games.",
+      "evidence": {
+        "Document 1": [
+          "Sam Oldham is an English artistic gymnast who represented Great Britain at the 2012 Summer Olympics.",
+          "He was part of the British men's team at the 2012 Summer Olympics that won bronze in the team competition."
+        ],
+        "Document 2": [
+          "Leanne Del Toso represented Australia at the 2012 Summer Paralympics in London, where she won a silver medal.",
+          "Diagnosed with chronic inflammatory demyelinating polyneuropathy at the age of nineteen, Del Toso started playing wheelchair basketball in 2006."
+        ],
+        "Document 3": [
+          "Maddison Elliott became the youngest Australian Paralympic medallist by winning bronze medals at the 2012 Summer Paralympics.",
+          "She has been selected to represent Australia at the 2016 Rio Paralympics."
+        ]
+      }
+    }
+  },
+  "43": {
+    "pos_docs": [
+      5406,
+      10831,
+      12812
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Historical Architecture and Construction",
+      "description": "This topic encompasses the history, construction techniques, and architectural styles of notable buildings and structures in various regions, particularly focusing on bricks and fortifications.",
+      "evidence": {
+        "Document 1": [
+          "Dutch brick is a type of brick made in the Netherlands",
+          "Traditional Dutch brick architecture is characterized by rounded or stepped gables."
+        ],
+        "Document 2": [
+          "Piccadilly has been a main road since at least medieval times",
+          "Some of the most notable stately homes in London were built on the northern side of the street during this time."
+        ],
+        "Document 3": [
+          "Conwy Castle is a medieval fortification in Conwy",
+          "It was built by Edward I, during his conquest of Wales."
+        ]
+      }
+    }
+  },
+  "44": {
+    "pos_docs": [
+      13924,
+      13680,
+      6498
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Parody and Philosophy in Religion",
+      "description": "This topic encompasses the interplay between parody religions, philosophical arguments for the existence of God, and mystical expressions within religious contexts.",
+      "evidence": {
+        "Document 1": [
+          "The Church of the SubGenius is a parody religion that satirizes better known belief systems.",
+          "SubGenius leaders have developed detailed narratives about Dobbs and his relationship to various gods and conspiracies."
+        ],
+        "Document 2": [
+          "An ontological argument is a philosophical argument for the existence of God that uses ontology.",
+          "Many arguments fall under the category of the ontological, and they tend to involve arguments about the state of being or existing."
+        ],
+        "Document 3": [
+          "Angelus Silesius was a German Catholic priest and physician, known as a mystic and religious poet.",
+          "He is now remembered chiefly for his religious poetry."
+        ]
+      }
+    }
+  },
+  "45": {
+    "pos_docs": [
+      13958,
+      10375,
+      10405
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Geographical Features and Their History",
+      "description": "The documents discuss various geographical features, including skerries, rivers, and bays, along with their historical significance and ecological importance.",
+      "evidence": {
+        "Document 1": [
+          "Dubh Artach is a remote skerry of basalt rock off the west coast of Scotland",
+          "The rock is subject to extraordinary sea conditions with waves of 92 feet being encountered by the keepers."
+        ],
+        "Document 2": [
+          "The River Rother flows from Empshott in Hampshire, England, to Stopham in West Sussex",
+          "The upper river has been used to power watermills, with the earliest recorded use being in 1086."
+        ],
+        "Document 3": [
+          "Nueces Bay is a northwestern extension of Corpus Christi Bay in Texas",
+          "The bay is fed by the Nueces River, forming a natural estuary, which renders it ecologically and economically vital to the surrounding area."
+        ]
+      }
+    }
+  },
+  "46": {
+    "pos_docs": [
+      6723,
+      6789,
+      13232
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Meteorological Phenomena and Research",
+      "description": "This topic encompasses the study of complex weather systems, their formation, and the experimental attempts to influence or understand them.",
+      "evidence": {
+        "Document 1": [
+          "A mesoscale convective system (MCS) is a complex of thunderstorms that becomes organized on a scale larger than the individual thunderstorms.",
+          "Mesoscale convective systems are important to the United States rainfall climatology over the Great Plains."
+        ],
+        "Document 2": [
+          "Project Stormfury was an attempt to weaken tropical cyclones by flying aircraft into them and seeding with silver iodide.",
+          "The observational data and storm lifecycle research generated by Stormfury helped improve meteorologists' ability to forecast the movement and intensity of future hurricanes."
+        ],
+        "Document 3": [
+          "Wind shear is a difference in wind speed and / or direction over a relatively short distance in the atmosphere.",
+          "Wind shear has a significant effect during take-off and landing of aircraft due to its effects on control of the aircraft."
+        ]
+      }
+    }
+  },
+  "47": {
+    "pos_docs": [
+      3083,
+      3107,
+      7246
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "The Office Holiday Episodes",
+      "description": "The documents discuss specific holiday-themed episodes from the American television series The Office, highlighting their plots, characters, and reception.",
+      "evidence": {
+        "Document 1": [
+          "'Spooked' is the fifth episode of the eighth season of The Office",
+          "the episode originally aired on NBC in the United States on October 27, 2011"
+        ],
+        "Document 2": [
+          "'Dwight Christmas' is the ninth episode of the ninth season of The Office",
+          "The episode was written by Robert Padnick and directed by Charles McDougall"
+        ]
+      }
+    }
+  },
+  "48": {
+    "pos_docs": [
+      10352,
+      1387,
+      1374
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Historical Figures and Events",
+      "description": "The documents discuss significant historical figures and events that shaped various aspects of American society and economy.",
+      "evidence": {
+        "Document 1": [
+          "Jacob Little was an early 19th-century Wall Street investor and the first and one of the greatest speculators in the history of the stock market.",
+          "Little amassed an enormous fortune, becoming one of the richest men in America."
+        ],
+        "Document 2": [
+          "African Americans in Omaha, Nebraska are central to the development and growth of the 43rd largest city in the United States.",
+          "In 1894 black residents of Omaha organized the first fair in the United States for African-American exhibitors and attendees."
+        ],
+        "Document 3": [
+          "The history of human activity in Indiana began with migratory tribes of Native Americans.",
+          "The territory grew in population and development until it was admitted to the Union in 1816 as the nineteenth state."
+        ]
+      }
+    }
+  },
+  "49": {
+    "pos_docs": [
+      3701,
+      3636,
+      7189
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Early 20th Century Naval Warfare",
+      "description": "This topic encompasses the design, construction, and operational history of naval vessels during the early 20th century, particularly focusing on battleships and submarines used in World War I and the interwar period.",
+      "evidence": {
+        "Document 1": [
+          "French battleship Voltaire was one of the six Danton class semi-dreadnought battleships built for the French Navy in the late 1900s.",
+          "Voltaire participated in the Battle of Antivari in the Adriatic Sea and helped to sink an Austro-Hungarian protected cruiser."
+        ],
+        "Document 2": [
+          "The French submarine Mariotte was built for the French Navy prior to World War I.",
+          "During the war, she participated in the Dardanelles Campaign."
+        ]
+      }
+    }
+  },
+  "50": {
+    "pos_docs": [
+      2418,
+      9268,
+      7992
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Historical Figures and Events",
+      "description": "This cluster discusses notable historical figures and their significant contributions or events in their respective eras.",
+      "evidence": {
+        "Document 1": [
+          "John Kourkouas was one of the most important generals of the Byzantine Empire.",
+          "His success in battles against the Muslim states in the East definitively reversed the course of the centuries-long Byzantine \u2013 Arab Wars."
+        ],
+        "Document 2": [
+          "\u00d3l\u00e1fr Gu\u00f0r\u00f8\u00f0arson, commonly known as Olaf the Black, was a mid 13th century sea-king who ruled the Isle of Man.",
+          "\u00d3l\u00e1fr was a younger son of his father; his elder brother R\u00f6gnvaldr more than likely had a different mother."
+        ],
+        "Document 3": [
+          "Sir Everard Digby was a member of the group of provincial English Catholics who planned the failed Gunpowder Plot of 1605.",
+          "Digby was tried on 27 January 1606."
+        ]
+      }
+    }
+  },
+  "51": {
+    "pos_docs": [
+      638,
+      4016,
+      5775
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "State Highways in the U.S.",
+      "description": "This topic covers various state highways across the United States, detailing their routes, historical significance, and regional connections.",
+      "evidence": {
+        "Document 1": [
+          "County Road 492 is a primary county road in Marquette County, Michigan.",
+          "The road serves as an alternate route between Negaunee and Marquette."
+        ],
+        "Document 2": [
+          "State Route 509 is a 35.17-mile-long state highway in the U.S. state of Washington.",
+          "The highway travels north from Interstate 705 in Tacoma to SR 99 south of downtown Seattle."
+        ],
+        "Document 3": [
+          "Maryland Route 30 is a state highway in the U.S. state of Maryland.",
+          "MD 30 connects Reisterstown and Baltimore with Hanover, Pennsylvania."
+        ]
+      }
+    }
+  },
+  "52": {
+    "pos_docs": [
+      2133,
+      11433,
+      2128
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Contemporary Music Albums",
+      "description": "The documents discuss various contemporary music albums by American artists, highlighting their production, themes, and collaborations.",
+      "evidence": {
+        "Document 1": [
+          "third studio album by American hip hop recording artist Kid Cudi",
+          "features guest appearances from fellow American rappers King Chip, Kendrick Lamar, Too Short, RZA and ASAP Rocky"
+        ],
+        "Document 2": [
+          "soundtrack album from the film of the same name",
+          "the album was a complete musical departure from any of Carey 's previous releases"
+        ],
+        "Document 3": [
+          "second studio album by American R & B recording artist Miguel",
+          "the music on Kaleidoscope Dream draws on R & B, pop, funk, rock and soul styles"
+        ]
+      }
+    }
+  },
+  "53": {
+    "pos_docs": [
+      312,
+      12733,
+      441
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Public Spaces and Cultural Heritage",
+      "description": "The documents discuss historical libraries and public spaces that serve as cultural landmarks in urban settings.",
+      "evidence": {
+        "Document 1": [
+          "historic library in the Ballard neighborhood in Seattle",
+          "listed on the National Register of Historic Places"
+        ],
+        "Document 2": [
+          "Boeing Galleries are a pair of outdoor exhibition spaces",
+          "fund a space for use as open-air gallery spaces"
+        ],
+        "Document 3": [
+          "public square located in the northwest section of Millennium Park",
+          "contains the Millennium Monument"
+        ]
+      }
+    }
+  },
+  "54": {
+    "pos_docs": [
+      9730,
+      2083,
+      4720
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Popular Music Releases and Tours",
+      "description": "The documents discuss notable music releases and concert tours by various artists, highlighting their impact and reception in the music industry.",
+      "evidence": {
+        "Document 1": [
+          "Lovers in Japan is a song by British alternative rock band Coldplay.",
+          "The song was well received by music critics, who praised the track's general sound."
+        ],
+        "Document 2": [
+          "Teenage Dream: The Complete Confection is a reissue of American singer Katy Perry's third studio album Teenage Dream.",
+          "Upon its release, Teenage Dream: The Complete Confection was met with generally mixed reviews from music critics."
+        ],
+        "Document 3": [
+          "The Metamorfosis World Tour was a worldwide concert tour by Guatemalan singer-songwriter Ricardo Arjona.",
+          "The tour broke several records."
+        ]
+      }
+    }
+  },
+  "55": {
+    "pos_docs": [
+      10652,
+      10633,
+      10568
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Professional Wrestling Personalities",
+      "description": "This topic encompasses notable figures in professional wrestling, highlighting their careers, achievements, and contributions to the industry.",
+      "evidence": {
+        "Document 1": [
+          "Candice Michelle is an American model, actress, and retired professional wrestler best known for her time with World Wrestling Entertainment.",
+          "She won her first WWE Women's Championship and became the first former Diva Search contestant to win a WWE title."
+        ],
+        "Document 2": [
+          "Michel Pigeon was a Canadian professional wrestler better known by his ring name, Jos LeDuc.",
+          "LeDuc competed as a singles wrestler and involved in a heated feud with Dusty Rhodes."
+        ],
+        "Document 3": [
+          "Michael Shawn Hickenbottom, better known by his ring name Shawn Michaels, is an American professional wrestling personality and retired professional wrestler.",
+          "Michaels headlined major pay-per-view events between 1989 and 2010."
+        ]
+      }
+    }
+  },
+  "56": {
+    "pos_docs": [
+      4662,
+      4701,
+      12642
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Music Performance and Culture",
+      "description": "This topic encompasses the various aspects of music performances, including concert tours, bootleg recordings, and the evolution of musical genres.",
+      "evidence": {
+        "Document 1": [
+          "The Working on a Dream Tour was a concert tour by Bruce Springsteen and the E Street Band",
+          "the tour was shorter than a typical Springsteen outing, but for the first time in his career, it placed an emphasis on performing at music festivals"
+        ],
+        "Document 2": [
+          "A bootleg recording is an audio or video recording of a performance that was not officially released by the artist",
+          "the concept of releasing unauthorized performances had been established before the 20th century"
+        ]
+      }
+    }
+  },
+  "57": {
+    "pos_docs": [
+      5361,
+      5360,
+      5371
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Spaniel Dog Breeds",
+      "description": "The documents discuss various breeds of spaniel dogs, focusing on their characteristics, history, and health conditions.",
+      "evidence": {
+        "Document 1": [
+          "The Russian Spaniel is a type of spaniel first standardised in 1951",
+          "Developed and used as hunting dogs"
+        ],
+        "Document 3": [
+          "The Welsh Springer Spaniel is a breed of dog and a member of the spaniel family",
+          "They are a working dog, bred for hunting"
+        ]
+      }
+    }
+  },
+  "58": {
+    "pos_docs": [
+      1423,
+      4518,
+      3728
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "American Political History",
+      "description": "This topic encompasses significant events and figures in American political history, particularly during the Revolutionary War and the antebellum period.",
+      "evidence": {
+        "Document 1": [
+          "Staten Island Peace Conference was a brief meeting held in the hope of bringing an end to the American Revolutionary War",
+          "The participants were the British Admiral Lord Richard Howe, and members of the Second Continental Congress John Adams, Benjamin Franklin, and Edward Rutledge."
+        ],
+        "Document 2": [
+          "Edward Everett was an American politician, pastor, educator, diplomat, and orator from Massachusetts",
+          "Everett served as U.S. Representative, U.S. Senator, the 15th Governor of Massachusetts, Minister to Great Britain, and United States Secretary of State."
+        ]
+      }
+    }
+  },
+  "59": {
+    "pos_docs": [
+      1556,
+      1522,
+      1598
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Historic Churches and Monasteries",
+      "description": "This topic encompasses the history, architecture, and cultural significance of historic churches and monasteries across various regions.",
+      "evidence": {
+        "Document 1": [
+          "Baclayon Church is a Roman Catholic Church in the municipality of Baclayon, Bohol, Philippines.",
+          "The church was declared a National Cultural Treasure by the National Museum of the Philippines."
+        ],
+        "Document 2": [
+          "St Ceidio's Church is a rural 19th-century church near Llannerch-y-medd, in Anglesey, north Wales.",
+          "The church is dedicated to St Ceidio, a 6th-century British saint who established a number of churches in Wales."
+        ],
+        "Document 3": [
+          "Akhtala is a 10th-century fortified Armenian Apostolic Church monastery located in the town of Akhtala.",
+          "The main church at the compound is famous for its highly artistic frescoes, which cover the inside walls."
+        ]
+      }
+    }
+  },
+  "60": {
+    "pos_docs": [
+      10245,
+      8590,
+      8628
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Olympic Participation and Achievements",
+      "description": "This topic covers the participation and achievements of various countries and athletes in the Olympic Games, highlighting individual records and historical contexts.",
+      "evidence": {
+        "Document 1": [
+          "Michael Phelps is an American competition swimmer and the most decorated Olympian of all time, with a total of 22 medals in three Olympiads.",
+          "Phelps holds the all-time records for Olympic gold medals (18) and Olympic medals in individual events for a male (13)."
+        ],
+        "Document 2": [
+          "Grenada competed in the 2008 Summer Olympics, held in Beijing, represented by eight track and field athletes and one boxer.",
+          "Grenada's Beijing delegation held the largest number of athletes yet sent from Grenada, marking its seventh consecutive appearance at the Summer Olympics."
+        ],
+        "Document 3": [
+          "The Cayman Islands sent a delegation to compete at the 2008 Summer Olympics in Beijing, China.",
+          "The Cayman Islands' appearance at the Beijing Olympics marked its ninth appearance since its debut at the 1976 Summer Olympics."
+        ]
+      }
+    }
+  },
+  "61": {
+    "pos_docs": [
+      6715,
+      6714,
+      6795
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Historical Tropical Cyclone Seasons",
+      "description": "These documents discuss various historical seasons of tropical cyclones in the Pacific and Atlantic regions.",
+      "evidence": {
+        "doc_id_1": [
+          "1985 Pacific hurricane season",
+          "third most active Pacific hurricane season"
+        ],
+        "doc_id_2": [
+          "1951 Atlantic hurricane season",
+          "first hurricane season with official naming"
+        ],
+        "doc_id_3": [
+          "1982 Pacific typhoon season",
+          "year-round in 1982"
+        ]
+      }
+    }
+  },
+  "62": {
+    "pos_docs": [
+      6236,
+      9796,
+      6548
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Controversial Figures and Beliefs",
+      "description": "This topic encompasses individuals who have navigated complex moral, religious, and ideological landscapes, often challenging established norms and institutions.",
+      "evidence": {
+        "Document 1": [
+          "Mansour was given a choice from the Vatican in 1983 to end her religious vows or to resign from her position as the director of the Michigan Department of Social Services.",
+          "Mansour refused to make such a statement, and two months after her confirmation as director she was required by the Vatican to decide whether she was to continue as director or as a nun."
+        ],
+        "Document 2": [
+          "Freemasonry and women have a complex relationship, which can be readily divided into many phases.",
+          "The admission of women is now recognised in Continental (Grand Orient) jurisdictions."
+        ],
+        "Document 3": [
+          "Christensen developed her anarcho-syndicalist sympathies while living in Copenhagen.",
+          "She recognized the excessive Jewish control of the Western socio-political establishment."
+        ]
+      }
+    }
+  },
+  "63": {
+    "pos_docs": [
+      13494,
+      13376,
+      9783
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "LGBT Representation in Speculative Fiction",
+      "description": "This topic explores the incorporation and representation of LGBT themes and characters within speculative fiction genres such as science fiction and fantasy.",
+      "evidence": {
+        "Document 1": [
+          "LGBT themes in speculative fiction refer to the incorporation of lesbian, gay, bisexual, or transgender themes into science fiction, fantasy, horror fiction and related genres.",
+          "Speculative fiction also gives authors and readers the freedom to imagine societies that are different from real-life cultures."
+        ]
+      }
+    }
+  },
+  "64": {
+    "pos_docs": [
+      8074,
+      2844,
+      6819
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Cultural Heritage and Traditions",
+      "description": "This topic encompasses historical figures, traditional nursery rhymes, and culinary competitions that reflect cultural practices and values.",
+      "evidence": {
+        "Document 1": [
+          "Old Jock was a famous Fox Terrier during the late 19th and early 20th centuries.",
+          "He was involved in the early formation of the Jack Russell Terrier and the Dandie Dinmont Terrier breeds."
+        ],
+        "Document 2": [
+          "As I was going by Charing Cross is an English language nursery rhyme.",
+          "The rhyme refers to the equestrian statue of King Charles I in Charing Cross, London."
+        ],
+        "Document 3": [
+          "Beat the Chefs is an American television cooking game show.",
+          "The series features contestants preparing a home-cooked family recipe."
+        ]
+      }
+    }
+  },
+  "65": {
+    "pos_docs": [
+      4450,
+      4563,
+      6232
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "American Political Figures",
+      "description": "The documents discuss prominent American politicians who have significantly influenced U.S. politics in the 20th century.",
+      "evidence": {
+        "Document 1": [
+          "United States Senator from Massachusetts",
+          "the youngest brother of President John F. Kennedy"
+        ],
+        "Document 2": [
+          "served as Housing Secretary in the administration of President George H. W. Bush",
+          "Republican Party's nominee for Vice President in the 1996 election"
+        ],
+        "Document 3": [
+          "served for 30 years as a United States Senator from Oregon",
+          "served as chairman of the Senate Appropriations Committee"
+        ]
+      }
+    }
+  },
+  "66": {
+    "pos_docs": [
+      7858,
+      453,
+      2013
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Power Ballads in Pop Music",
+      "description": "This topic encompasses the emotional and musical characteristics of power ballads in popular music, highlighting their themes of love, vulnerability, and social consciousness.",
+      "evidence": {
+        "Document 1": [
+          "'I Care' is an R & B power ballad, which also contains elements of soul music and rock music.",
+          "Beyonc\u00e9 admits her vulnerability to her indifferent love interest with both honesty and power."
+        ],
+        "Document 2": [
+          "'Earth Song' is a ballad that incorporates elements of blues, gospel and opera.",
+          "The song was the first that overtly dealt with the environment and animal welfare."
+        ],
+        "Document 3": [
+          "'It's All Coming Back to Me Now' is a power ballad written by Jim Steinman.",
+          "The song was inspired by Wuthering Heights and was an attempt to write 'the most passionate, romantic song' he could ever create."
+        ]
+      }
+    }
+  },
+  "67": {
+    "pos_docs": [
+      6579,
+      4977,
+      384
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Luxury Brands and Entertainment",
+      "description": "This topic encompasses luxury brands in the automotive and hospitality sectors, as well as major sports and entertainment companies.",
+      "evidence": {
+        "Document 1": [
+          "Lexus is the luxury vehicle division of Japanese automaker Toyota.",
+          "Lexus has ranked among the ten largest Japanese global brands in market value."
+        ],
+        "Document 2": [
+          "MLSE is the largest sports and entertainment company in Canada.",
+          "It includes franchises in three of the six major professional sports leagues in the United States and Canada."
+        ],
+        "Document 3": [
+          "Caesars Palace is a AAA Four Diamond luxury hotel and casino.",
+          "It is one of the most prestigious casino hotels in the world."
+        ]
+      }
+    }
+  },
+  "68": {
+    "pos_docs": [],
+    "neg_docs": [],
+    "topic": {
+      "name": "sustainable energy solutions",
+      "description": "This topic encompasses various approaches and technologies aimed at promoting renewable energy sources and reducing environmental impact.",
+      "evidence": {
+        "doc1": [
+          "focus on solar energy innovations",
+          "discussions on wind power efficiency"
+        ],
+        "doc2": [
+          "analysis of geothermal energy potential",
+          "case studies on sustainable energy policies"
+        ]
+      }
+    }
+  },
+  "69": {
+    "pos_docs": [
+      12415,
+      12280,
+      12279
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Languages and Measurement Systems",
+      "description": "This topic encompasses the development, structure, and usage of various languages and measurement systems across different cultures and historical contexts.",
+      "evidence": {
+        "Document 1": [
+          "The metric system is an internationally agreed decimal system of measurement.",
+          "the term is now often used as a synonym for 'SI' or the 'International System of Units'."
+        ],
+        "Document 2": [
+          "Quenya is a fictional language devised by J. R. R. Tolkien and used by the Elves in his legendarium.",
+          "Tolkien began devising the language around 1910 and restructured the grammar several times."
+        ],
+        "Document 3": [
+          "Central Atlas Tamazight language is a Berber language of the Afro-Asiatic language family.",
+          "Central Atlas Tamazight is one of the most-spoken Berber languages."
+        ]
+      }
+    }
+  },
+  "70": {
+    "pos_docs": [
+      12887,
+      13029,
+      13103
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "American Television Series",
+      "description": "The documents discuss various American television series, focusing on their plots, character development, and production details.",
+      "evidence": {
+        "Document 1": [
+          "12 oz. Mouse is an American animated television series created by Matt Maiellaro for Adult Swim.",
+          "The series revolves around Mouse Fitzgerald, nicknamed 'Fitz', an alcoholic mouse who performs odd jobs."
+        ],
+        "Document 2": [
+          "'That Still Small Voice' is the fifth episode of the American fairy tale/drama television series Once Upon a Time.",
+          "The series takes place in the fictional seaside town of Storybrooke, Maine."
+        ],
+        "Document 3": [
+          "'Tainted Obligation' is the fourth episode of the sixth season of the American television medical drama Grey's Anatomy.",
+          "The episode was originally broadcast on the American Broadcasting Company (ABC) in the United States."
+        ]
+      }
+    }
+  },
+  "71": {
+    "pos_docs": [
+      4395,
+      4398,
+      4379
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Glee Television Series Episodes",
+      "description": "The documents discuss various episodes of the American musical television series Glee, highlighting their plots, characters, and musical performances.",
+      "evidence": {
+        "Document 1": [
+          "the eighth episode of the second season of the American musical television series Glee",
+          "features a guest appearance by actress Carol Burnett"
+        ],
+        "Document 2": [
+          "the eleventh episode of the American television series Glee",
+          "introduces New Directions' rival glee clubs"
+        ],
+        "Document 3": [
+          "the twelfth episode of the third season of the American musical television series Glee",
+          "features special guest star Ricky Martin as a night-school Spanish teacher"
+        ]
+      }
+    }
+  },
+  "72": {
+    "pos_docs": [
+      11002,
+      11107,
+      11000
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "The X-Files Episodes",
+      "description": "This topic encompasses episodes of the American science fiction television series The X-Files, focusing on the paranormal investigations of FBI agents Fox Mulder and Dana Scully.",
+      "evidence": {
+        "Document 1": [
+          "Ascension is the sixth episode of the second season of The X-Files.",
+          "The show centers on FBI special agents Fox Mulder and Dana Scully who work on cases linked to the paranormal."
+        ],
+        "Document 2": [
+          "Tithonus is the tenth episode of the sixth season of The X-Files.",
+          "The episode centers on FBI special agents Fox Mulder and Dana Scully who work on cases linked to the paranormal."
+        ],
+        "Document 3": [
+          "Medusa is the twelfth episode of the eighth season of The X-Files.",
+          "The series centers on FBI special agents Dana Scully and her new partner John Doggett who work on cases linked to the paranormal."
+        ]
+      }
+    }
+  },
+  "73": {
+    "pos_docs": [
+      3361,
+      6407,
+      8090
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Military History and Leadership",
+      "description": "The documents discuss various aspects of military history, leadership, and the roles of significant figures and organizations in historical conflicts.",
+      "evidence": {
+        "Document 1": [
+          "The military of the Polish \u2013 Lithuanian Commonwealth evolved from the merger of the armies of the Kingdom of Poland and the Grand Duchy of Lithuania",
+          "Commonwealth forces were engaged in numerous conflicts in the south (against the Ottoman Empire), the east (against the Tsardom of Muscovy), and the north (the Kingdom of Sweden)"
+        ],
+        "Document 2": [
+          "Mom\u010dilo \u0110uji\u0107 was a Serbian Orthodox priest and self-appointed Chetnik commander",
+          "he defended local Serbs against the Usta\u0161e regime and collaborated with the Axis powers"
+        ],
+        "Document 3": [
+          "Horst Wessel was a Nazi Party activist known for writing the lyrics to the 'Horst-Wessel-Lied'",
+          "Wessel's death was used by the party for propaganda purposes"
+        ]
+      }
+    }
+  },
+  "74": {
+    "pos_docs": [
+      9924,
+      9969,
+      8004
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Historical Events in Film",
+      "description": "This topic encompasses films that depict significant historical events and figures, particularly focusing on war and political controversies.",
+      "evidence": {
+        "Document 1": [
+          "examines the events leading to the assassination of President John F. Kennedy",
+          "became embroiled in controversy"
+        ],
+        "Document 2": [
+          "set during the Invasion of Normandy in World War II",
+          "notable for its graphic portrayal of war"
+        ],
+        "Document 3": [
+          "famous after World War II for his work as a Nazi hunter",
+          "dedicated most of his life to tracking down Nazi war criminals"
+        ]
+      }
+    }
+  },
+  "75": {
+    "pos_docs": [
+      13238,
+      1793,
+      6766
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Tropical Cyclones and Weather Patterns",
+      "description": "The documents discuss the formation, characteristics, and impacts of tropical storms and the monsoon trough as key components of global weather systems.",
+      "evidence": {
+        "Document 1": [
+          "The monsoon trough is a portion of the Intertropical Convergence Zone",
+          "Depressions and tropical cyclones often form in the vicinity of the monsoon trough"
+        ],
+        "Document 2": [
+          "Tropical Storm Delta was a late-forming tropical storm",
+          "The storm gradually gained tropical characteristics and was briefly a subtropical storm"
+        ],
+        "Document 3": [
+          "The maximum sustained wind associated with a tropical cyclone is a common indicator of the intensity of the storm",
+          "This value helps determine damage expected from a tropical cyclone"
+        ]
+      }
+    }
+  },
+  "76": {
+    "pos_docs": [
+      11799,
+      12309,
+      12329
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Post-Beatles Solo Works",
+      "description": "This topic encompasses the solo musical endeavors of former Beatles members, highlighting their individual artistic contributions and influences in the early 1970s.",
+      "evidence": {
+        "Document 1": [
+          "Harrison's first solo work since the break-up of the Beatles",
+          "reflects the influence of his musical activities with artists such as Bob Dylan"
+        ],
+        "Document 2": [
+          "Hendrix recorded the song in live, studio, and impromptu settings several times between 1967 and 1970",
+          "considered one of his most memorable performances"
+        ],
+        "Document 3": [
+          "first solo single by a member of the band to sell a million copies",
+          "features contributions from George Harrison, Klaus Voormann, Alan White and Billy Preston"
+        ]
+      }
+    }
+  },
+  "77": {
+    "pos_docs": [
+      5897,
+      5908,
+      4222
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "American Sports Athletes",
+      "description": "The documents discuss prominent American athletes in football and basketball, highlighting their achievements and career milestones.",
+      "evidence": {
+        "Document 1": [
+          "Tyler Lockett is an American football wide receiver for the Seattle Seahawks.",
+          "He set numerous Kansas State football records."
+        ],
+        "Document 2": [
+          "The 2005 USC Trojans football team represented the University of Southern California.",
+          "Reggie Bush became the school 's seventh Heisman winner."
+        ],
+        "Document 3": [
+          "Jalen Brunson is an American basketball player for the Villanova Wildcats.",
+          "He earned the MVP of the 2015 FIBA Under-19 World Championship."
+        ]
+      }
+    }
+  },
+  "78": {
+    "pos_docs": [
+      2512,
+      2532,
+      2539
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Military Sieges in History",
+      "description": "This topic encompasses significant military sieges throughout history, highlighting the strategies, outcomes, and historical contexts of these events.",
+      "evidence": {
+        "Document 1": [
+          "The Siege of Klis was a siege of Klis Fortress in the Kingdom of Croatia within Habsburg Monarchy.",
+          "The siege lasted for more than two decades and was part of the Ottoman \u2013 Habsburg wars."
+        ],
+        "Document 2": [
+          "The Dutch Pacification Campaign on Formosa was a series of military actions and diplomatic moves undertaken in 1635 and 1636 by Dutch colonial authorities.",
+          "The campaign aimed at subduing hostile aboriginal villages in the southwestern region of the island."
+        ],
+        "Document 3": [
+          "The Siege of Mantua (1799) was a four-month effort by the Austrian army to regain a presence in northern Italy.",
+          "The Austrians placed a military blockade around Mantua as part of the War of the Second Coalition."
+        ]
+      }
+    }
+  },
+  "79": {
+    "pos_docs": [
+      12156,
+      2495,
+      11939
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "World War I Naval Warfare",
+      "description": "The documents discuss German submarines (U-boats) used during World War I, detailing their construction, operations, and historical significance.",
+      "evidence": {
+        "Document 1": [
+          "SM UB-50 was a German Type UB III submarine or U-boat in the German Imperial Navy during World War I.",
+          "UB-50 conducted seven patrols and sank 38 ships during the war."
+        ],
+        "Document 3": [
+          "SM UB-17 was a German Type UB I submarine or U-boat in the German Imperial Navy during World War I.",
+          "UB-17 spent her entire career in the Flanders Flotilla and sank 13 ships."
+        ]
+      }
+    }
+  },
+  "80": {
+    "pos_docs": [
+      5188,
+      1987,
+      12022
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Naval Warfare History",
+      "description": "The documents discuss various classes of warships and their roles in naval conflicts during the early 20th century, particularly around World War I and the Russo-Japanese War.",
+      "evidence": {
+        "Document 1": [
+          "Warrior-class cruiser was a class of four armoured cruisers built for the Royal Navy in the first decade of the 20th century",
+          "Warrior participated in the pursuit of the German battlecruiser SMS Goeben and light cruiser SMS Breslau"
+        ],
+        "Document 2": [
+          "Borodino was the lead ship of her class of pre-dreadnought battleships built for the Imperial Russian Navy",
+          "The ship was sunk during the Battle of Tsushima on 27 May 1905 due to explosions set off by a Japanese shell hitting a 6-inch magazine"
+        ],
+        "Document 3": [
+          "The Scharnhorst class was the last traditional class of armored cruisers built by the Kaiserliche Marine",
+          "Both ships had short careers; shortly before the outbreak of World War I, the ships departed the German colony at Tsingtao."
+        ]
+      }
+    }
+  },
+  "81": {
+    "pos_docs": [
+      1696,
+      1874,
+      1675
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Tropical Storms and Hurricanes",
+      "description": "The documents discuss various tropical storms and hurricanes that impacted different regions, detailing their formation, intensity, and effects.",
+      "evidence": {
+        "Document 1": [
+          "Tropical Storm Odette was a rare off-season tropical storm that affected the Caribbean Sea in December 2003.",
+          "The storm caused heavy damage throughout the Dominican Republic from unusually heavy rainfall in December."
+        ],
+        "Document 2": [
+          "Tropical Storm Christine was the easternmost forming Atlantic tropical cyclone on record.",
+          "Heavy rains from the storm, peaking at 11.74 in (298 mm), caused flooding in Puerto Rico."
+        ],
+        "Document 3": [
+          "The 1932 Freeport hurricane was an intense tropical cyclone that primarily affected areas of the Texas coast.",
+          "The storm caused $7.5 million in damages, mostly to crops, and 40 deaths."
+        ]
+      }
+    }
+  },
+  "82": {
+    "pos_docs": [
+      5839,
+      5826,
+      5827
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "U.S. Criminal Jurisprudence",
+      "description": "The documents discuss the principles and historical development of criminal procedure and appellate jurisdiction in the United States legal system.",
+      "evidence": {
+        "Document 1": [
+          "the Court held that it had no jurisdiction to hear appeals from criminal cases",
+          "ensured that the Court's criminal jurisprudence would be limited to writs of error from the state"
+        ],
+        "Document 2": [
+          "The United States Constitution contains several provisions regarding the law of criminal procedure",
+          "Several of these rights regulate pre-trial procedure"
+        ]
+      }
+    }
+  },
+  "83": {
+    "pos_docs": [
+      10900,
+      2956,
+      2882
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Major League Baseball Figures",
+      "description": "The documents discuss prominent rivalries and players within Major League Baseball, highlighting their historical significance and achievements.",
+      "evidence": {
+        "Document 1": [
+          "Yankees \u2013 Red Sox rivalry is one of the fiercest rivalries in sports.",
+          "the Red Sox owner Harry Frazee sold star player Babe Ruth to the Yankees"
+        ],
+        "Document 2": [
+          "Albert Pujols is a Dominican American professional baseball first baseman.",
+          "Pujols received three National League (NL) MVP awards and was a nine-time MLB All-Star."
+        ],
+        "Document 3": [
+          "Pat Burrell is an American former professional baseball outfielder.",
+          "Burrell was the first overall draft pick by the Phillies."
+        ]
+      }
+    }
+  },
+  "84": {
+    "pos_docs": [
+      2805,
+      13321,
+      13916
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Supernatural Themes in Literature and Media",
+      "description": "The documents explore the portrayal of supernatural elements and characters in both literature and television, highlighting the intersection of myth, morality, and personal journeys.",
+      "evidence": {
+        "Document 1": [
+          "Thalaba the Destroyer is an epic poem composed by Robert Southey.",
+          "Southey uses the poem to describe various superstitions and myths."
+        ],
+        "Document 2": [
+          "Bela Talbot uses knowledge of the supernatural world to her advantage.",
+          "She makes her living by stealing occult objects."
+        ],
+        "Document 3": [
+          "Mr. Eko became a priest after his brother was killed in a botched drug smuggle.",
+          "Flashbacks reveal that he became the leader of a gang of guerrillas."
+        ]
+      }
+    }
+  },
+  "85": {
+    "pos_docs": [
+      8746,
+      8699,
+      8706
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Theme Park Attractions",
+      "description": "This topic encompasses various types of thrill rides and attractions found in theme parks, focusing on roller coasters and immersive experiences.",
+      "evidence": {
+        "Document 1": [
+          "Nitro is a steel Floorless Coaster at the Adlabs Imagica amusement park located in Khopoli, Mumbai, India.",
+          "The coaster also features five inversions."
+        ],
+        "Document 2": [
+          "The Incredible Hulk is a launched roller coaster located in the Islands of Adventure theme park at Universal Orlando Resort.",
+          "Riders experience seven inversions throughout the course of the 3,700-foot-long ride."
+        ],
+        "Document 3": [
+          "Harry Potter and the Forbidden Journey is a motion-based dark ride located in The Wizarding World of Harry Potter themed areas.",
+          "The ride takes guests through scenes and environments in and around Hogwarts Castle from the Harry Potter series of books and films."
+        ]
+      }
+    }
+  },
+  "86": {
+    "pos_docs": [
+      11396,
+      5003,
+      13453
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Societal Structures and Systems",
+      "description": "This topic encompasses various societal frameworks, including family planning, corporate structures, and economic systems.",
+      "evidence": {
+        "Document 1": [
+          "Birth control, also known as contraception and fertility control, is a method or device used to prevent pregnancy.",
+          "Planning, making available, and use of birth control is called family planning."
+        ],
+        "Document 2": [
+          "SAS develops and markets a suite of analytics software, which helps access, manage, analyze and report on data to aid in decision-making.",
+          "SAS grew from $10 million in revenues in 1980 to $1.1 billion by 2000."
+        ],
+        "Document 3": [
+          "The euro is the official currency of the eurozone, which consists of 19 of the 28 member states of the European Union.",
+          "The euro is the second largest reserve currency as well as the second most traded currency in the world after the United States dollar."
+        ]
+      }
+    }
+  },
+  "87": {
+    "pos_docs": [
+      5631,
+      7948,
+      10802
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Major Transportation Infrastructure",
+      "description": "This topic encompasses significant roadways and bridges that facilitate transportation and connectivity in various regions.",
+      "evidence": {
+        "Document 1": [
+          "The Greenville Bridge is a cable-stayed bridge over the Mississippi River carrying US 82 and US 278",
+          "opened in 2010, it was the fourth longest cable-stayed bridge in North America."
+        ],
+        "Document 2": [
+          "King's Highway 400, commonly referred to as Highway 400, is a 400-series highway in the Canadian province of Ontario",
+          "the first fully controlled-access highway in Ontario when it was opened between North York and Barrie on July 1, 1952."
+        ],
+        "Document 3": [
+          "The A4232, also known as the Peripheral Distributor Road, is a distributor road in Cardiff",
+          "When fully completed, the road will form part of the Cardiff ring road system."
+        ]
+      }
+    }
+  },
+  "88": {
+    "pos_docs": [
+      5563,
+      3317,
+      5584
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Military Aircraft and Operations",
+      "description": "The documents discuss various military aircraft and their roles in historical military operations.",
+      "evidence": {
+        "Document 1": [
+          "The Republic F-105 Thunderchief was a supersonic fighter-bomber used by the United States Air Force.",
+          "The F-105 was one of the primary attack aircraft of the Vietnam War."
+        ],
+        "Document 3": [
+          "The United Kingdom operated the McDonnell Douglas F-4 Phantom II as one of its principal combat aircraft from the 1960s to the early 1990s.",
+          "The Phantom was procured to serve in both the Fleet Air Arm and Royal Air Force in several roles including air defence, close air support, low-level strike and tactical reconnaissance."
+        ]
+      }
+    }
+  },
+  "89": {
+    "pos_docs": [
+      3900,
+      3908,
+      3778
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "The Boat Race History",
+      "description": "A historical overview of the annual rowing competition between the Universities of Oxford and Cambridge on the River Thames.",
+      "evidence": {
+        "Document 1": [
+          "The 12th Boat Race took place on the River Thames on 8 April 1854.",
+          "The race was won by Oxford who triumphed over Cambridge by seven lengths."
+        ],
+        "Document 2": [
+          "The 108th Boat Race took place on 7 April 1962.",
+          "It was won by Cambridge by five lengths in a time of 19 minutes 46 seconds."
+        ],
+        "Document 3": [
+          "The 112th Boat Race took place on 26 March 1966.",
+          "The race was won by Oxford by three-and-three-quarter-lengths."
+        ]
+      }
+    }
+  },
+  "90": {
+    "pos_docs": [
+      3042,
+      3060,
+      4237
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Baseball History and Players",
+      "description": "This topic encompasses the history and notable figures in baseball, focusing on players from different eras and leagues.",
+      "evidence": {
+        "Document 1": [
+          "Joe Tipton was an American professional baseball player.",
+          "He played as a catcher in Major League Baseball (MLB) from 1948 through 1954."
+        ],
+        "Document 2": [
+          "Bullet Rogan was an American pitcher and outfielder for the Kansas City Monarchs in the Negro baseball leagues.",
+          "He was elected to the Baseball Hall of Fame in 1998."
+        ]
+      }
+    }
+  },
+  "91": {
+    "pos_docs": [
+      5704,
+      10508,
+      12955
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Transportation Infrastructure",
+      "description": "The topic encompasses various aspects of transportation infrastructure, including highways and bridges in the United States.",
+      "evidence": {
+        "Document 1": [
+          "Maryland Route 743 is a state highway in the U.S. state of Maryland.",
+          "MD 743 is the original alignment of US 40 through Eckhart Mines."
+        ],
+        "Document 3": [
+          "The Benjamin G. Humphreys Bridge was a two-lane cantilevered truss bridge carrying U.S. Route 82 / U.S. Route 278 across the Mississippi River.",
+          "It became functionally obsolete as vehicle and river traffic increased."
+        ]
+      }
+    }
+  },
+  "92": {
+    "pos_docs": [
+      3283,
+      3435,
+      6331
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Military History of World War II",
+      "description": "The documents discuss various military units and individuals involved in significant campaigns and battles during World War II.",
+      "evidence": {
+        "Document 1": [
+          "The 25th Battalion was an infantry battalion of the New Zealand Military Forces, which served during the Second World War",
+          "participated in the Italian Campaign, fighting in actions at Orsogna and later at Cassino."
+        ],
+        "Document 2": [
+          "No. 75 Squadron is a Royal Australian Air Force (RAAF) fighter unit based at RAAF Base Tindal",
+          "saw extensive action in the South West Pacific theatre of World War II, operating P-40 Kittyhawks."
+        ]
+      }
+    }
+  },
+  "93": {
+    "pos_docs": [
+      8043,
+      2270,
+      6566
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Historical Figures and Their Contributions",
+      "description": "The documents discuss notable historical figures from different periods and their significant contributions to society, politics, or religion.",
+      "evidence": {
+        "Document 1": [
+          "Casper Shafer was among the first settlers of the village of Stillwater along the Paulins Kill in Sussex County, New Jersey.",
+          "Shafer later served in the first sessions of the New Jersey Legislature during the American Revolution."
+        ],
+        "Document 2": [
+          "Vice Admiral Sir William Johnstone Hope was a prominent and controversial British Royal Navy officer and politician.",
+          "Hope served with Nelson, Duncan and Lord Keith through several campaigns, making connections which enabled him to secure a lengthy political career."
+        ],
+        "Document 3": [
+          "Roger de Pont L'\u00c9v\u00eaque was a contemporary of Thomas Becket and later Archbishop of York.",
+          "Roger succeeded William FitzHerbert as archbishop in 1154, and while at York rebuilt York Minster, which had been damaged by fire."
+        ]
+      }
+    }
+  },
+  "94": {
+    "pos_docs": [
+      10126,
+      8349,
+      4335
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Video Game Development and Impact",
+      "description": "This topic encompasses the development, challenges, and cultural impact of video games, focusing on notable studios and influential titles.",
+      "evidence": {
+        "Document 1": [
+          "Starbreeze Studios is a video game development studio and publisher",
+          "Notable games developed include The Chronicles of Riddick: Escape from Butcher Bay, Payday 2 and Brothers: A Tale of Two Sons."
+        ],
+        "Document 2": [
+          "Deus Ex is a cyberpunk-themed action role-playing video game",
+          "The game received universal critical acclaim, including repeatedly being named 'Best PC Game of All Time' in PC Gamer's 'Top 100 PC Games' in 2011."
+        ]
+      }
+    }
+  },
+  "95": {
+    "pos_docs": [
+      2466,
+      6290,
+      2565
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "American Revolutionary War Campaigns",
+      "description": "The documents discuss significant military engagements and figures during the American Revolutionary War, highlighting battles and strategic movements.",
+      "evidence": {
+        "Document 1": [
+          "Battle of White Marsh was a battle of the Philadelphia campaign of the American Revolutionary War",
+          "Washington monitored British troop movements in Philadelphia and evaluated his options."
+        ],
+        "Document 2": [
+          "George Rogers Clark was the highest ranking American military officer on the northwestern frontier during the American Revolutionary War",
+          "Clark is best known for his celebrated captures of Kaskaskia and Vincennes during the Illinois Campaign."
+        ]
+      }
+    }
+  },
+  "96": {
+    "pos_docs": [
+      11324,
+      13534,
+      12432
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Diving and Resource Management",
+      "description": "The documents discuss specialized practices in diving safety and the management of natural resources, particularly oil shale in Estonia.",
+      "evidence": {
+        "Document 1": [
+          "The practice of decompression by divers comprises the planning and monitoring of the profile indicated by the algorithms or tables of the chosen decompression model",
+          "Omission of decompression theoretically required for a dive profile exposes the diver to significantly higher risk of symptomatic decompression sickness."
+        ],
+        "Document 2": [
+          "Oil shale is a strategic energy resource that constitutes about 4 % of Estonia 's gross domestic product",
+          "The oil shale industry in Estonia is one of the most developed in the world."
+        ]
+      }
+    }
+  },
+  "97": {
+    "pos_docs": [
+      9438,
+      2004,
+      7848
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Iconic Pop Songs",
+      "description": "This topic encompasses influential pop songs and their cultural impact, highlighting key artists and their contributions to the genre.",
+      "evidence": {
+        "Document 1": [
+          "Gangnam Style became the first YouTube video to reach one billion views.",
+          "The song and its accompanying music video went viral in August 2012 and have influenced popular culture worldwide."
+        ],
+        "Document 2": [
+          "Open Your Heart is a love song, talking about innocent feelings of boy-meets-girl romance.",
+          "The song was well received by critics who commended it for being a simple love song."
+        ],
+        "Document 3": [
+          "Judas is a dance and electro house song about a woman in love with a man who betrayed her.",
+          "The song was generally well received by critics, who likened the song to 'Bad Romance'."
+        ]
+      }
+    }
+  },
+  "98": {
+    "pos_docs": [
+      4741,
+      4823,
+      4764
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Cricket History and Players",
+      "description": "This topic covers notable cricketers and significant events in cricket history, particularly focusing on individual players' careers and achievements.",
+      "evidence": {
+        "Document 1": [
+          "Malcolm Jardine was an English first-class cricketer who played 46 matches, mainly for Oxford University.",
+          "He scored 140 in the University Match of 1892 using an unorthodox batting method."
+        ],
+        "Document 2": [
+          "Stan McCabe was an Australian cricketer who played 39 Test matches for Australia from 1930 to 1938.",
+          "He was described by Wisden as 'one of Australia\u2019s greatest and most enterprising batsmen.'"
+        ],
+        "Document 3": [
+          "The Australian cricket team in England in 1948 was captained by Don Bradman, who was making his fourth and final tour of England.",
+          "The team is famous for being the first Test match side to play an entire tour of England without losing a match."
+        ]
+      }
+    }
+  },
+  "99": {
+    "pos_docs": [
+      3296,
+      3277,
+      14277
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "World War I Military Units",
+      "description": "The documents discuss various military units from Australia and New Zealand that participated in World War I, highlighting their formations, campaigns, and historical significance.",
+      "evidence": {
+        "Document 1": [
+          "Wellington Mounted Rifles Regiment was a mounted infantry regiment from New Zealand, raised for service during the First World War.",
+          "The regiment fought predominantly against the forces of the Ottoman Turkish Empire."
+        ],
+        "Document 2": [
+          "The 15th Battalion was an infantry battalion of the Australian Army, formed in 1914 as part of the all-volunteer Australian Imperial Force.",
+          "The battalion fought during the Gallipoli Campaign and on the Western Front during the First World War."
+        ],
+        "Document 3": [
+          "The military history of Australia during World War I details the country's involvement and the formation of the Australian Imperial Force.",
+          "The Australians and New Zealanders, grouped together as the Australian and New Zealand Army Corps (ANZAC), went ashore on 25 April 1915."
+        ]
+      }
+    }
+  }
+}

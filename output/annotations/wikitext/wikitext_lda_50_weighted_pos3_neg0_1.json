@@ -1,0 +1,1257 @@
+{
+  "0": {
+    "pos_docs": [
+      4773,
+      4741,
+      4837
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Cricket Players and History",
+      "description": "The documents discuss various cricket players and their contributions to the sport, highlighting their careers and achievements.",
+      "evidence": {
+        "Document 1": [
+          "Craig Kieswetter is an English former cricketer who appeared in 71 matches for England between 2010 and 2013.",
+          "He was considered a one-day specialist, and all his international appearances came in ODIs or Twenty20 Internationals."
+        ],
+        "Document 2": [
+          "Malcolm Jardine was an English first-class cricketer who played 46 matches, mainly for Oxford University.",
+          "He played first-class cricket in India for the Europeans after a successful legal career."
+        ],
+        "Document 3": [
+          "The Harvey brothers are six siblings from Victoria, Australia, known primarily for their success in cricket between the mid-1930s and the early 1960s.",
+          "Neil Harvey represented Australia in 79 Test matches between 1948 and 1963."
+        ]
+      }
+    }
+  },
+  "1": {
+    "pos_docs": [
+      8720,
+      8662,
+      8735
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Amusement Park Attractions",
+      "description": "The documents discuss various roller coasters and rides at amusement parks, highlighting their features, history, and significance.",
+      "evidence": {
+        "Document 1": [
+          "The Riddler 's Revenge is a Bolliger & Mabillard stand-up roller coaster at Six Flags Magic Mountain.",
+          "The ride is situated in The Movie Town area of the park and was the park 's eleventh roller coaster."
+        ],
+        "Document 2": [
+          "Griffon is a steel Dive Coaster roller coaster located at the Busch Gardens Williamsburg amusement park.",
+          "Designed by Bolliger & Mabillard, it is 205 feet (62 m) high, and is the second-fastest Dive Coaster built."
+        ],
+        "Document 3": [
+          "WindSeeker (known as SteelHawk at Worlds of Fun) is a 301-foot-tall swing ride at several Cedar Fair parks.",
+          "The rides are Wind Seeker models manufactured by Mondial."
+        ]
+      }
+    }
+  },
+  "2": {
+    "pos_docs": [
+      8507,
+      8452,
+      8469
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Criminal Behavior and Incidents",
+      "description": "This topic encompasses notable criminal cases involving individuals and their actions leading to significant legal consequences or public incidents.",
+      "evidence": {
+        "Document 1": [
+          "Mario Ram\u00edrez Trevi\u00f1o is an alleged Mexican drug lord and former leader of the Gulf Cartel.",
+          "In late 2012, the Gulf Cartel leaders Mario C\u00e1rdenas Guill\u00e9n and Jorge Eduardo Costilla S\u00e1nchez were arrested."
+        ],
+        "Document 2": [
+          "Ursula and Sabina Eriksson are Swedish twin sisters who came to national attention in the United Kingdom in May 2008 after an apparent episode of folie \u00e0 deux.",
+          "The twins had been in Ireland before travelling to England and boarding a coach for London at Liverpool."
+        ],
+        "Document 3": [
+          "Maurice Clemmons was responsible for the November 29, 2009, murder of four police officers in Parkland, Washington.",
+          "Clemmons had at least five felony convictions in Arkansas and at least eight felony charges in Washington."
+        ]
+      }
+    }
+  },
+  "3": {
+    "pos_docs": [
+      5811,
+      8461,
+      5839
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Legal and Governmental Frameworks",
+      "description": "This topic encompasses the structures and legal principles governing minority rights, cannabis regulation, and judicial jurisdiction in the United States.",
+      "evidence": {
+        "Document 1": [
+          "non-elected government body in Singapore",
+          "scrutinize most of the bills passed by Parliament to ensure that they do not discriminate against any racial or religious community."
+        ],
+        "Document 2": [
+          "regulation of cannabis use for medical, recreational or industrial purposes",
+          "outright prohibitions began in the 1920s."
+        ],
+        "Document 3": [
+          "held that it had no jurisdiction to hear appeals from criminal cases",
+          "ensured that the Court's criminal jurisprudence would be limited to writs of error from the state."
+        ]
+      }
+    }
+  },
+  "4": {
+    "pos_docs": [
+      4265,
+      4233,
+      5947
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Professional Basketball History",
+      "description": "This topic covers the history and achievements of professional basketball players and teams, particularly within the NBA.",
+      "evidence": {
+        "1": [
+          "Jos\u00e9 Juan Barea is a Puerto Rican professional basketball player for the Dallas Mavericks of the NBA.",
+          "He went on to win an NBA championship with the Mavericks in 2011."
+        ],
+        "2": [
+          "The Houston Rockets are an American professional basketball team based in Houston, Texas.",
+          "The team was established in 1967 and played in San Diego, California for four years before moving to Houston."
+        ]
+      }
+    }
+  },
+  "5": {
+    "pos_docs": [
+      14126,
+      4881,
+      13907
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Fictional Character Analysis",
+      "description": "This topic encompasses the exploration and development of fictional characters across various media, including television and manga.",
+      "evidence": {
+        "Document 1": [
+          "Lana Lang is a fictional character on the television series Smallville.",
+          "The character has also appeared in various literature based on the Smallville television series."
+        ],
+        "Document 2": [
+          "Hibiki's Magic is a Japanese manga series written by Jun Maeda.",
+          "The story centers on a young girl named Hibiki who is the apprentice to a very skilled wizard."
+        ],
+        "Document 3": [
+          "Rose and Bernard Nadler are fictional characters on the American Broadcasting Company (ABC) television series Lost.",
+          "Critics reacted positively to the couple, often hoping they would appear more frequently."
+        ]
+      }
+    }
+  },
+  "6": {
+    "pos_docs": [
+      9323,
+      6498,
+      13033
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Cultural Influences in Art and Literature",
+      "description": "This topic encompasses the exploration of artistic and literary works influenced by cultural and historical contexts.",
+      "evidence": {
+        "Document 1": [
+          "Artist 's Studio \u2014 Look Mickey is a 1973 painting by Roy Lichtenstein.",
+          "The series refers to a set of works by Henri Matisse, with this work specifically referring to L'Atelier Rouge."
+        ],
+        "Document 2": [
+          "Angelus Silesius was a German Catholic priest and physician, known as a mystic and religious poet.",
+          "Silesius's mystical beliefs caused tension between him and Lutheran authorities and led to his eventual conversion to Catholicism."
+        ],
+        "Document 3": [
+          "A New System of Domestic Cookery was the most popular English cookbook of the first half of the nineteenth century.",
+          "Mrs Rundell has been called 'the original domestic goddess' and her book 'a publishing sensation'."
+        ]
+      }
+    }
+  },
+  "7": {
+    "pos_docs": [
+      10427,
+      7105,
+      10443
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Geographical Features and Waterways",
+      "description": "This topic encompasses various geographical features, including rivers, mountains, and their ecological significance.",
+      "evidence": {
+        "Document 1": [
+          "Hunlock Creek is a tributary of the Susquehanna River in Luzerne County, Pennsylvania.",
+          "It has one named tributary, which is known as Roaring Brook."
+        ],
+        "Document 2": [
+          "Yamsay Mountain is a large shield volcano in the Cascade Range of south-central Oregon.",
+          "It is part of the Cascade Volcanic Arc but is located in a mountain range 30 to 50 miles behind the main Cascade volcanic front."
+        ],
+        "Document 3": [
+          "The Great Zab is an approximately 400-kilometre long river flowing through Turkey and Iraq.",
+          "The drainage basin of the Great Zab covers approximately 40,300 square kilometres."
+        ]
+      }
+    }
+  },
+  "8": {
+    "pos_docs": [
+      11855,
+      6994,
+      11844
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Historical Manuscripts and Codices",
+      "description": "The documents discuss significant historical manuscripts and codices that are important for biblical scholarship and cultural heritage.",
+      "evidence": {
+        "Document 1": [
+          "Codex Sinaiticus is one of the four great uncial codices, an ancient, handwritten copy of the Greek Bible.",
+          "Study of the Codex Sinaiticus has proven to be extremely useful to scholars for critical studies of biblical text."
+        ],
+        "Document 3": [
+          "Codex Carolinus is a Gothic-Latin diglot uncial manuscript of the New Testament on parchment, dated to the 6th or 7th century.",
+          "It is one of very few manuscripts of Wulfilas Gothic Bible."
+        ]
+      }
+    }
+  },
+  "9": {
+    "pos_docs": [
+      1019,
+      8050,
+      9823
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Historical Figures and Their Impact",
+      "description": "This topic explores notable historical figures and their contributions to society, including their achievements and the consequences of their actions.",
+      "evidence": {
+        "Document 1": [
+          "Michael Larson was a contestant on the American television game show Press Your Luck in 1984.",
+          "He was able to win by memorizing the patterns used on the Press Your Luck game board."
+        ],
+        "Document 2": [
+          "Kiliaen van Rensselaer was a Dutch diamond and pearl merchant from Amsterdam who was one of the founders and directors of the Dutch West India Company.",
+          "He founded the Manor of Rensselaerswyck in what is now mainly New York's Capital District."
+        ],
+        "Document 3": [
+          "In England and Wales a workhouse was a place where those unable to support themselves were offered accommodation and employment.",
+          "The origins of the workhouse can be traced to the Poor Law Act of 1388."
+        ]
+      }
+    }
+  },
+  "10": {
+    "pos_docs": [
+      2726,
+      2668,
+      13003
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Music Albums and Production",
+      "description": "This cluster discusses various music albums, their production processes, themes, and critical reception.",
+      "evidence": {
+        "Document 1": [
+          "Satisfied is the fourth studio album by American Christian rock band DecembeRadio",
+          "the album debuted at its peak positions of number 116 on the Billboard 200 and number three on the Billboard Top Christian Albums charts"
+        ],
+        "Document 2": [
+          "New Amerykah Part One ( 4th World War ) is the fourth studio album by American neo soul singer Erykah Badu",
+          "the record 's densely produced music incorporates funk , R & B , hip hop , soul , jazz , and electronica styles"
+        ],
+        "Document 3": [
+          "Unhalfbricking is the third album by the British folk rock band Fairport Convention",
+          "the album also gave the band their first UK chart success, reaching number 12 in the UK album chart"
+        ]
+      }
+    }
+  },
+  "11": {
+    "pos_docs": [
+      5312,
+      5355,
+      5314
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Dog and Pony Breeds",
+      "description": "This topic encompasses the characteristics, history, and development of specific dog and pony breeds in the United States, highlighting their unique traits and breeding standards.",
+      "evidence": {
+        "Document 1": [
+          "The American Cocker Spaniel is a breed of sporting dog.",
+          "It was not until 1970 that The Kennel Club in the UK recognised the American Cocker Spaniel as being separate from the English type."
+        ],
+        "Document 2": [
+          "The Pony of the Americas (POA) is a pony breed developed in the state of Iowa in the United States.",
+          "The registry is open, allowing blood from many other breeds, but has strict criteria for entry."
+        ]
+      }
+    }
+  },
+  "12": {
+    "pos_docs": [
+      2939,
+      3063,
+      2861
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Major League Baseball Players",
+      "description": "The documents discuss the careers and achievements of notable Major League Baseball players.",
+      "evidence": {
+        "Document 1": [
+          "Tris Speaker was an American baseball player.",
+          "Considered one of the best offensive and defensive center fielders in the history of Major League Baseball."
+        ],
+        "Document 2": [
+          "Denny Bautista is a Dominican professional baseball pitcher who is currently a free agent.",
+          "He played in Major League Baseball for the Baltimore Orioles, Kansas City Royals, Colorado Rockies, Detroit Tigers, Pittsburgh Pirates, and San Francisco Giants from 2004 to 2010."
+        ],
+        "Document 3": [
+          "Cole Hamels is an American professional baseball pitcher for the Texas Rangers of Major League Baseball.",
+          "He played in MLB for the Philadelphia Phillies from 2006 to 2015."
+        ]
+      }
+    }
+  },
+  "13": {
+    "pos_docs": [
+      2063,
+      7851,
+      8228
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Themes of Love in Pop Music",
+      "description": "The documents explore various interpretations and expressions of love in contemporary pop songs by different artists.",
+      "evidence": {
+        "Document 1": [
+          "built around the themes of love and relationship",
+          "speaks of Madonna's devotion to her lover"
+        ],
+        "Document 2": [
+          "The song is about 'not knowing what love is'",
+          "included on Lopez's seventh studio album Love?"
+        ],
+        "Document 3": [
+          "Lyrically, the song speaks of meeting a potential love interest at a nightclub",
+          "written about the feelings a club's environment can lead someone to believe"
+        ]
+      }
+    }
+  },
+  "14": {
+    "pos_docs": [
+      5454,
+      5416,
+      5469
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "30 Rock Episodes",
+      "description": "Analysis of specific episodes from the television series 30 Rock, focusing on character interactions and plot developments.",
+      "evidence": {
+        "Document 1": [
+          "Somebody to Love is the sixth episode of the second season of 30 Rock",
+          "The episode focuses on Jack Donaghy's first meeting with Celeste C.C. Cunningham"
+        ],
+        "Document 2": [
+          "Do-Over is the first episode of the third season of 30 Rock",
+          "Liz Lemon is being evaluated by Bev as a part of the adoption process"
+        ],
+        "Document 3": [
+          "Believe in the Stars is the second episode of the third season of 30 Rock",
+          "The episode's plot concerns a feud between Tracy Jordan and Jenna Maroney over royalties"
+        ]
+      }
+    }
+  },
+  "15": {
+    "pos_docs": [
+      13068,
+      4964,
+      13053
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "British Railway Locomotives",
+      "description": "The topic encompasses various classes of British railway locomotives, their history, development, and operational use.",
+      "evidence": {
+        "Document 1": [
+          "British Rail Class 47 is a class of British railway diesel-electric locomotive developed in the 1960s.",
+          "They have been used on both passenger and freight trains on Britain's railways for over 50 years."
+        ],
+        "Document 3": [
+          "NBR 224 and 420 Classes consisted of six steam locomotives built by the North British Railway in 1871 and 1873.",
+          "They handled express passenger trains on the Edinburgh \u2013 Glasgow, Edinburgh \u2013 Carlisle, and Burntisland \u2013 Dundee routes."
+        ]
+      }
+    }
+  },
+  "16": {
+    "pos_docs": [
+      13219,
+      12687,
+      4411
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Television Episode Analysis",
+      "description": "The documents analyze specific episodes from various television series, focusing on their themes, plots, and production details.",
+      "evidence": {
+        "Document 1": [
+          "'33' is the first episode of first season and the pilot episode of the reimagined military science fiction television program Battlestar Galactica",
+          "the episode was lauded by both cast and crew in addition to winning the 2005 Hugo Award for Best Dramatic Presentation, Short Form."
+        ],
+        "Document 2": [
+          "'On the Brink' is the fifth episode of series seven of the British espionage television series Spooks",
+          "the episode was filmed in May 2008, with a lot taking place in London 's Blue Fin building."
+        ],
+        "Document 3": [
+          "'The Rhodes Not Taken' is the fifth episode of the American television series Glee",
+          "it received mostly positive reviews from critics, with Chenoweth's appearance and the performance of Queen cover 'Somebody to Love' in particular receiving praise."
+        ]
+      }
+    }
+  },
+  "17": {
+    "pos_docs": [
+      10616,
+      10583,
+      10575
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Professional Wrestling Careers",
+      "description": "The documents discuss the careers of various professional wrestlers, highlighting their achievements, training, and contributions to the wrestling industry.",
+      "evidence": {
+        "Document 1": [
+          "Jillian Hall is an American retired professional wrestler and singer best known for her time in World Wrestling Entertainment (WWE).",
+          "Hall was trained by Dave Finlay at his professional wrestling school."
+        ],
+        "Document 2": [
+          "Yvon Cormier was a Canadian professional wrestler competing primarily under the ring name The Beast.",
+          "He wrestled in many countries but regularly returned to Canada, where he competed for the Eastern Sports Association (ESA)."
+        ],
+        "Document 3": [
+          "Carlos Edwin 'Carly' Col\u00f3n Jr. is a Puerto Rican professional wrestler better known internationally by his ring name Carlito.",
+          "Col\u00f3n debuted in his father's promotion, the World Wrestling Council (WWC), eventually winning the WWC Universal Heavyweight Championship 16 times."
+        ]
+      }
+    }
+  },
+  "18": {
+    "pos_docs": [
+      1426,
+      4495,
+      8144
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Early American Military History",
+      "description": "The documents discuss significant figures and events in early American military history, focusing on the roles of forts and military leaders during colonial and revolutionary periods.",
+      "evidence": {
+        "Document 1": [
+          "Apple River Fort was one of many frontier forts hastily completed by settlers in northern Illinois and southern Wisconsin following the onset of the 1832 Black Hawk War.",
+          "The fort suffered one militia man killed in action, and another wounded."
+        ],
+        "Document 2": [
+          "Robert White served in the Virginia militia and Continental Army during the American Revolutionary War.",
+          "White was a distinguished early American military officer, lawyer, judge, and politician in Virginia."
+        ],
+        "Document 3": [
+          "Francis Nicholson was a British military officer and colonial administrator.",
+          "He rose to the rank of Lieutenant-General, and died a bachelor in London in 1728."
+        ]
+      }
+    }
+  },
+  "19": {
+    "pos_docs": [
+      3315,
+      2410,
+      3408
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Royal Australian Air Force History",
+      "description": "These documents discuss the history, structure, and notable figures of the Royal Australian Air Force (RAAF) during and after World War II.",
+      "evidence": {
+        "doc_id_1": [
+          "No. 78 Wing is a Royal Australian Air Force operational training wing",
+          "operating the BAE Hawk 127 lead-in fighter"
+        ],
+        "doc_id_2": [
+          "Air Chief Marshal Sir Neville Patrick McNamara",
+          "served as Chief of the Air Staff"
+        ],
+        "doc_id_3": [
+          "Northern Area Command was one of several geographically based commands",
+          "responsible for air defence, aerial reconnaissance"
+        ]
+      }
+    }
+  },
+  "20": {
+    "pos_docs": [
+      7627,
+      13835,
+      7605
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Star Trek and Stargate Episodes",
+      "description": "This topic encompasses episodes from the Star Trek and Stargate franchises, focusing on their narrative themes, character developments, and significant plot points.",
+      "evidence": {
+        "Document 3": [
+          "The Pirates of Orion is the first episode of the second season of Star Trek: The Animated Series",
+          "Kirk and the Enterprise must contend with pirates who have stolen a load of cargo."
+        ]
+      }
+    }
+  },
+  "21": {
+    "pos_docs": [
+      12106,
+      11981,
+      12070
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "German Naval History",
+      "description": "This topic covers the design, operation, and historical significance of various German naval ships, particularly during the World Wars.",
+      "evidence": {
+        "Document 1": [
+          "K\u00f6ln was a light cruiser , the third member of the K\u00f6nigsberg class that was operated between 1929 and March 1945",
+          "She participated in the attack on Bergen during Operation Weser\u00fcbung in April 1940"
+        ],
+        "Document 2": [
+          "The German Imperial Navy created a series of fleet cruiser designs \u2014 designated Flottenkreuzer \u2014 in 1916",
+          "None of the designs were built , owing to shifting construction priorities in the German Navy in the last year of World War I"
+        ],
+        "Document 3": [
+          "The Jade class comprised a pair of passenger ships intended to be converted into auxiliary aircraft carriers by Nazi Germany 's Kriegsmarine during World War II",
+          "Work on Jade was not started and the conversion project was abandoned in November 1942"
+        ]
+      }
+    }
+  },
+  "22": {
+    "pos_docs": [
+      9091,
+      3152,
+      9096
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Lutheran Liturgical Practices",
+      "description": "The documents discuss various aspects of the Lutheran liturgical calendar and its significance in worship practices.",
+      "evidence": {
+        "Document 1": [
+          "The Lutheran liturgical calendar is a listing which details the primary annual festivals and events that are celebrated liturgically by various Lutheran churches.",
+          "The purpose of the liturgical calendar is to guide commemorations as a part of the daily worship of the Lutheran Church."
+        ],
+        "Document 3": [
+          "The Gospel of the Hebrews was a syncretic Jewish \u2013 Christian gospel, the text of which is lost; only fragments of it survive as brief quotations by the early Church Fathers."
+        ]
+      }
+    }
+  },
+  "23": {
+    "pos_docs": [
+      13566,
+      1106,
+      14238
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Cultural Representation in Media",
+      "description": "The documents discuss various individuals and their contributions to cultural representation in media through poker, vlogging, and television.",
+      "evidence": {
+        "Document 1": [
+          "Darvin Moon is an American self-employed logger and amateur poker player who was the runner-up of the 2009 World Series of Poker.",
+          "Moon was praised for his working stiff personality and self-deprecating manner."
+        ],
+        "Document 2": [
+          "Davin Tong, better known by his alias Peter Chao, is a Canadian comedic vlogger known for his unconventional portrayals of Asian stereotypes.",
+          "Tong described the character as born and raised in Hong Kong, and 'a zany Chinese immigrant forced into Canada.'"
+        ],
+        "Document 3": [
+          "The pilot episode of Will & Grace received mostly positive reviews from television critics.",
+          "Kohan and Mutchnick based the show on their own lives."
+        ]
+      }
+    }
+  },
+  "24": {
+    "pos_docs": [
+      264,
+      6985,
+      265
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Skyscrapers and Landmarks",
+      "description": "This topic encompasses notable skyscrapers and landmarks, focusing on their architectural significance, history, and urban impact.",
+      "evidence": {
+        "Document 1": [
+          "is a skyscraper in the Financial District of New York City",
+          "completed in 1987, the building has 36 floors and stands at 575 ft 0 in"
+        ],
+        "Document 2": [
+          "is a lighthouse at Europa Point, on the southeastern tip of the British Overseas Territory of Gibraltar",
+          "inaugurated on 1 August 1841 in a brief ceremony witnessed by about 10,000 people"
+        ],
+        "Document 3": [
+          "is an upscale residential complex on the apex of Rincon Hill in San Francisco",
+          "consists of two skyscrapers that share a common townhouse podium"
+        ]
+      }
+    }
+  },
+  "25": {
+    "pos_docs": [
+      1449,
+      2504,
+      12186
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Military Conflicts in Early Modern Period",
+      "description": "This topic encompasses significant military engagements and sieges during the early modern period, particularly focusing on conflicts involving European powers.",
+      "evidence": {
+        "Document 1": [
+          "The Battle of Carillon , also known as the 1758 Battle of Ticonderoga , was fought on July 8 , 1758 , during the French and Indian War",
+          "French army of about 3,600 men under General Louis-Joseph de Montcalm decisively defeated an overwhelmingly numerically superior force of British troops"
+        ],
+        "Document 2": [
+          "The Siege of St. John 's was a failed attempt by French forces led by Daniel d 'Auger de Subercase to take the fort at St. John 's , Newfoundland during the winter months of 1705",
+          "Subercase lifted the siege after running out of provisions and gunpowder"
+        ]
+      }
+    }
+  },
+  "26": {
+    "pos_docs": [
+      1427,
+      10347,
+      5020
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Historical Business Figures",
+      "description": "The documents discuss notable historical business figures and their contributions to various industries in the 19th and early 20th centuries.",
+      "evidence": {
+        "Document 1": [
+          "Jay Cooke & Company was a U.S. bank that operated from 1861 to 1873.",
+          "During the Civil War, Cooke & Company sold hundreds of millions of dollars in Union government bonds."
+        ],
+        "Document 2": [
+          "Alfred Dunhill was an English tobacconist and inventor.",
+          "He developed a pipe designed for motorists in 1904."
+        ],
+        "Document 3": [
+          "Hershey Creamery Company produces Hershey's brand ice cream.",
+          "Founded by Jacob Hershey and four of his brothers in 1894."
+        ]
+      }
+    }
+  },
+  "27": {
+    "pos_docs": [
+      5562,
+      5572,
+      5588
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "World War II Military Aircraft",
+      "description": "The documents discuss various military aircraft developed and used during World War II, focusing on their design, purpose, and operational history.",
+      "evidence": {
+        "Document 1": [
+          "military glider designed and built by the British company General Aircraft Ltd during World War II",
+          "became the basic trainer for the glider schools that were formed."
+        ],
+        "Document 2": [
+          "Soviet prototype for a heavily armored ground attack aircraft",
+          "not placed into production."
+        ],
+        "Document 3": [
+          "Soviet heavy bomber designed before World War II",
+          "used to bomb Berlin in August 1941."
+        ]
+      }
+    }
+  },
+  "28": {
+    "pos_docs": [
+      12171,
+      6527,
+      8117
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Medieval English Figures",
+      "description": "The documents discuss notable figures and events from medieval England, focusing on their roles in politics, religion, and society.",
+      "evidence": {
+        "Document 1": [
+          "Battle of Burton Bridge was fought between Thomas, 2nd Earl of Lancaster and his cousin Edward II of England",
+          "Lancaster's defeat removed the immediate threat to Edward's rule"
+        ],
+        "Document 2": [
+          "Wulfred was an Anglo-Saxon Archbishop of Canterbury in medieval England",
+          "Wulfred was the first archbishop to place his portrait on the coinage he struck"
+        ],
+        "Document 3": [
+          "Henry de Cornhill was a medieval English royal official and sheriff who served King Henry II of England",
+          "Henry de Cornhill was likely born around 1135"
+        ]
+      }
+    }
+  },
+  "29": {
+    "pos_docs": [
+      1167,
+      1335,
+      1235
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Fungal Species Descriptions",
+      "description": "The documents provide detailed descriptions of various fungal species, including their taxonomy, morphology, habitat, and characteristics.",
+      "evidence": {
+        "Document 1": [
+          "Hapalopilus nidulans is a species of polypore fungus in the family Polyporaceae.",
+          "This widely distributed species is found on five continents."
+        ],
+        "Document 2": [
+          "Mycena nidificata is a species of fungus in the Mycenaceae family of the Agaricales.",
+          "First collected in 2000 and reported as a new species in 2007."
+        ],
+        "Document 3": [
+          "Lysurus periphragmoides, commonly known as the stalked lattice stinkhorn, is a species of fungus in the stinkhorn family.",
+          "The fruit body consists of a reddish latticed head placed on top of a long stalk."
+        ]
+      }
+    }
+  },
+  "30": {
+    "pos_docs": [
+      4362,
+      8587,
+      10254
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Paralympic Sports Achievements",
+      "description": "This topic encompasses the achievements and contributions of athletes with disabilities in various sports, particularly at the Paralympic Games.",
+      "evidence": {
+        "Document 1": [
+          "Holger Glinicki coached the German women's national wheelchair basketball team, winning multiple European championships and medals at the Paralympics.",
+          "He became involved in disability sports after a motorcycle accident that left him paralyzed."
+        ],
+        "Document 3": [
+          "Yip Pin Xiu is a Singaporean swimmer with muscular dystrophy who has won multiple medals at the Paralympics.",
+          "Her achievements sparked public debate about the treatment and recognition of disabled athletes in Singapore."
+        ]
+      }
+    }
+  },
+  "31": {
+    "pos_docs": [
+      13143,
+      13174,
+      5033
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Bach's Sacred Music",
+      "description": "The documents discuss the sacred choral compositions of Johann Sebastian Bach, focusing on their historical context, structure, and liturgical significance.",
+      "evidence": {
+        "Document 1": [
+          "Magnificat in E-flat major, BWV 243a, by Johann Sebastian Bach is a musical setting of the Latin text of the Magnificat",
+          "Bach, as some of his contemporaries, devotes individual expression to every verse of the canticle"
+        ],
+        "Document 2": [
+          "Es ist das Heil uns kommen her, BWV 9, is a church cantata by Johann Sebastian Bach",
+          "The theme is salvation from sin by God's grace alone"
+        ]
+      }
+    }
+  },
+  "32": {
+    "pos_docs": [
+      10494,
+      7287,
+      986
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Film and Entertainment Industry",
+      "description": "This topic encompasses notable films, their production details, and key figures in the entertainment industry.",
+      "evidence": {
+        "Document 1": [
+          "The Blues Brothers is a 1980 American musical crime comedy film directed by John Landis.",
+          "It features musical numbers by rhythm and blues (R & B), soul, and blues singers."
+        ],
+        "Document 2": [
+          "Inception is a 2010 science fiction heist thriller film written, co-produced, and directed by Christopher Nolan.",
+          "The film stars Leonardo DiCaprio as a professional thief who steals information by infiltrating the subconscious."
+        ]
+      }
+    }
+  },
+  "33": {
+    "pos_docs": [
+      9843,
+      8812,
+      13668
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Science and Society",
+      "description": "This topic encompasses the interplay between scientific understanding and societal responses, particularly in the context of climate change and cultural phenomena.",
+      "evidence": {
+        "Document 1": [
+          "explores climate change denial and its implications",
+          "arguments about why warnings have been ignored"
+        ],
+        "Document 2": [
+          "chronicles the history of the children 's television program",
+          "developed out of a TV Guide article to commemorate the show 's 35th anniversary"
+        ],
+        "Document 3": [
+          "concerned with the foundations , methods , and implications of science",
+          "overlaps with metaphysics , ontology , and epistemology"
+        ]
+      }
+    }
+  },
+  "34": {
+    "pos_docs": [
+      1113,
+      4195,
+      9190
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Notable Figures in History",
+      "description": "This topic encompasses the lives and contributions of significant historical figures across various fields, including entertainment, science, and royalty.",
+      "evidence": {
+        "Document 1": [
+          "Heidi Montag is an American television personality, singer, fashion designer, and author.",
+          "Montag came to prominence after being cast in the MTV reality television series The Hills."
+        ],
+        "Document 2": [
+          "James Franck was a German physicist who won the 1925 Nobel Prize for Physics.",
+          "Franck became the Head of the Physics Division of the Kaiser Wilhelm Gesellschaft for Physical Chemistry."
+        ],
+        "Document 3": [
+          "The early life of Pedro II of Brazil covers the period from his birth on 2 December 1825 until 18 July 1841.",
+          "Pedro II was raised with simplicity but received an exceptional education towards shaping what Brazilians then considered an ideal ruler."
+        ]
+      }
+    }
+  },
+  "35": {
+    "pos_docs": [
+      11194,
+      12405,
+      9417
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Mathematical and Scientific Concepts",
+      "description": "The documents discuss various mathematical and scientific theories and methods, including statistical estimation, quantum electrodynamics, and geometric patterns in art.",
+      "evidence": {
+        "Document 1": [
+          "maximum spacing estimation (MSE or MSP)",
+          "estimating the parameters of a univariate statistical model"
+        ],
+        "Document 2": [
+          "quantum electrodynamics (QED)",
+          "relativistic quantum field theory of electrodynamics"
+        ],
+        "Document 3": [
+          "Islamic decoration",
+          "geometric patterns which have developed over the centuries"
+        ]
+      }
+    }
+  },
+  "36": {
+    "pos_docs": [
+      2262,
+      3706,
+      5202
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Naval History and Warfare",
+      "description": "The documents focus on significant naval figures and events from various historical periods, particularly during major conflicts like the American Revolutionary War and World Wars.",
+      "evidence": {
+        "Document 1": [
+          "Rear Admiral Leonard Warren Murray played a significant role in the Battle of the Atlantic.",
+          "He was the only Canadian to command an Allied theatre of operations during World War I or World War II."
+        ],
+        "Document 2": [
+          "Vengeur du Peuple took part in the naval operations in the American Revolutionary War.",
+          "The sinking of Vengeur du Peuple was used as propaganda by the National Convention."
+        ],
+        "Document 3": [
+          "HMS Emerald was a 36-gun Amazon-class frigate that served in several naval battles.",
+          "Emerald was part of Rear-Admiral John Thomas Duckworth's squadron during the Action of 7 April 1800."
+        ]
+      }
+    }
+  },
+  "37": {
+    "pos_docs": [
+      10036,
+      9996,
+      3876
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Major Sporting Events",
+      "description": "The documents discuss notable sporting events in various disciplines, highlighting key performances, outcomes, and historical significance.",
+      "evidence": {
+        "Document 1": [
+          "The 2015 Malaysian Grand Prix , formally titled the 2015 Formula 1 Petronas Malaysia Grand Prix , was a Formula One motor race",
+          "Vettel won the race , having started from second place on the grid."
+        ],
+        "Document 2": [
+          "The 2010 Emory Healthcare 500 was a NASCAR Sprint Cup Series stock car race",
+          "The race was won by Tony Stewart , for the Stewart Haas Racing team."
+        ],
+        "Document 3": [
+          "The 103rd Boat Race took place on 30 March 1957",
+          "Cambridge won by two lengths in a time of 19 minutes 1 second."
+        ]
+      }
+    }
+  },
+  "38": {
+    "pos_docs": [
+      4048,
+      682,
+      5686
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "U.S. State Highways and Freeways",
+      "description": "The documents discuss various state highways and freeways across different U.S. states, highlighting their routes, features, and historical context.",
+      "evidence": {
+        "Document 1": [
+          "one of the nation's largest and fastest-growing freeway systems",
+          "the backbone of Phoenix's freeway system is composed of three major freeways"
+        ],
+        "Document 2": [
+          "M-42 is a rural state trunkline highway in the U.S. state of Michigan",
+          "M-42 is a rural, two-lane highway connecting Manton and Lake City"
+        ],
+        "Document 3": [
+          "Delaware Route 23 is a 14.76-mile-long state highway in Sussex County, Delaware",
+          "DE 23 begins at a boat ramp parking lot at Massey's Landing in Long Neck"
+        ]
+      }
+    }
+  },
+  "39": {
+    "pos_docs": [
+      200,
+      7495,
+      7503
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Animal Species Descriptions",
+      "description": "This topic encompasses detailed descriptions of various animal species, including their physical characteristics, habitats, behaviors, and conservation statuses.",
+      "evidence": {
+        "Document 1": [
+          "The winghead shark (Eusphyra blochii) is a species of hammerhead shark",
+          "Inhabiting the shallow coastal waters of the western Indo-Pacific"
+        ],
+        "Document 2": [
+          "The long-billed thrasher (Toxostoma longirostre) is a medium-sized resident songbird",
+          "It bears a strong resemblance to its close relative the brown thrasher"
+        ],
+        "Document 3": [
+          "The brolga (Grus rubicunda) is a bird in the crane family",
+          "It is a common, gregarious wetland bird species of tropical and south-eastern Australia"
+        ]
+      }
+    }
+  },
+  "40": {
+    "pos_docs": [
+      12525,
+      11282,
+      6947
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Biological Diversity and Evolution",
+      "description": "This topic encompasses the study of various life forms, their evolutionary history, and their ecological interactions.",
+      "evidence": {
+        "Document 1": [
+          "Biology is a natural science concerned with the study of life and living organisms",
+          "evolution as the engine that propels the synthesis and creation of new species"
+        ],
+        "Document 2": [
+          "Pterosaurs are flying reptiles of the extinct clade or order Pterosauria",
+          "They existed from the late Triassic to the end of the Cretaceous Period"
+        ],
+        "Document 3": [
+          "Cicadas are a superfamily, the Cicadoidea, of insects in the order Hemiptera",
+          "Most cicadas are cryptic, singing at night to avoid predators"
+        ]
+      }
+    }
+  },
+  "41": {
+    "pos_docs": [
+      3433,
+      3244,
+      3424
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Military Units in World War II",
+      "description": "The documents discuss various military units and their roles during World War II, focusing on their formation, battles, and historical significance.",
+      "evidence": {
+        "Document 1": [
+          "The 4th Parachute Brigade was an airborne, specifically a parachute infantry, brigade formation of the British Army during the Second World War.",
+          "the brigade first saw action in September 1943, during Operation Slapstick, an amphibious landing at the port of Taranto."
+        ],
+        "Document 2": [
+          "The 49th Battalion was an infantry unit of the Australian Army raised as part of the Australian Imperial Force during the First World War.",
+          "the 49th was expanded and the following year deployed to New Guinea to undertake garrison duty."
+        ],
+        "Document 3": [
+          "The 95th Infantry Division was an infantry division of the United States Army.",
+          "the division earned the nickname 'Iron Men of Metz' for fighting to liberate and defend the town."
+        ]
+      }
+    }
+  },
+  "42": {
+    "pos_docs": [
+      11593,
+      8422,
+      11585
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Video Game Development and Community",
+      "description": "This topic encompasses the development, release, and fan engagement surrounding various video games across different platforms.",
+      "evidence": {
+        "Document 1": [
+          "John Madden Football ' 93 is a 1992 sports video game developed by Blue Sky Productions",
+          "the game was a commercial success."
+        ],
+        "Document 2": [
+          "Grabbed by the Ghoulies is an action-adventure video game developed by Rare",
+          "the game was met with mixed reviews upon release."
+        ],
+        "Document 3": [
+          "The Mother 3 fan translation is a complete English-language localization of the 2006 Japanese video game Mother 3",
+          "The final version was released in October 2008 and issued as a patch."
+        ]
+      }
+    }
+  },
+  "43": {
+    "pos_docs": [
+      6196,
+      6207,
+      13267
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Political Careers of Business Leaders",
+      "description": "This topic covers the intersection of business and politics, highlighting individuals who transitioned from successful business careers to prominent political roles.",
+      "evidence": {
+        "Document 1": [
+          "Scott Smith is an American businessman and politician, elected as the 38th mayor of Mesa, Arizona.",
+          "He has financial and business consulting experience."
+        ],
+        "Document 2": [
+          "Danny Williams was a highly successful lawyer and businessman before entering politics.",
+          "He served as the ninth Premier of Newfoundland and Labrador."
+        ],
+        "Document 3": [
+          "Marc Ravalomanana first rose to prominence as the founder and CEO of the vast dairy conglomerate TIKO.",
+          "He entered politics upon founding the Tiako Iarivo political party."
+        ]
+      }
+    }
+  },
+  "44": {
+    "pos_docs": [
+      4891,
+      7737,
+      7650
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Japanese Media Adaptations",
+      "description": "The documents discuss various Japanese media works, including manga, visual novels, and their adaptations into anime and other formats.",
+      "evidence": {
+        "Document 1": [
+          "Azumanga Daioh is a Japanese yonkoma comedy manga series...",
+          "A television anime adaptation titled Azumanga Daioh: the Animation was produced by J.C.Staff..."
+        ],
+        "Document 2": [
+          "Little Busters! is a Japanese visual novel developed by Key.",
+          "An adult version of the game titled Little Busters! Ecstasy was released..."
+        ],
+        "Document 3": [
+          "Ef: A Fairy Tale of the Two is a two-part Japanese adult visual novel series by Minori...",
+          "A 12-episode anime adaptation titled Ef: A Tale of Memories was produced by Shaft..."
+        ]
+      }
+    }
+  },
+  "45": {
+    "pos_docs": [
+      12408,
+      12406,
+      3974
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Scientific Exploration and Measurement",
+      "description": "The documents discuss various scientific experiments and concepts related to space, gravitational measurement, and firefighting technology.",
+      "evidence": {
+        "Document 1": [
+          "Outer space is the void that exists between celestial bodies",
+          "the majority of the mass-energy in the observable universe is a poorly understood vacuum energy of space"
+        ],
+        "Document 2": [
+          "The Schiehallion experiment was an 18th-century experiment to determine the mean density of the Earth",
+          "the deflection angle depended on the relative densities and volumes of the Earth and the mountain"
+        ],
+        "Document 3": [
+          "Hard suction hose is a specific type of fire hose used in drafting operations",
+          "it is built to withstand vacuum, rather than pressure, abrasion, and heat"
+        ]
+      }
+    }
+  },
+  "46": {
+    "pos_docs": [
+      9559,
+      7994,
+      4566
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Nationalism and Conflict",
+      "description": "The documents discuss the themes of nationalism and conflict as they relate to historical events and figures in the context of wars and political movements.",
+      "evidence": {
+        "Document 1": [
+          "United Nations Security Council Resolution 82 demanded North Korea immediately end its invasion of South Korea",
+          "the resolution was completely ignored by North Korea, setting the stage for massive international involvement"
+        ],
+        "Document 2": [
+          "D\u0105browski was a Polish general widely respected for his patriotic attitude",
+          "promoting the cause of Polish independence abroad"
+        ],
+        "Document 3": [
+          "Michel Aflaq was a Syrian philosopher and Arab nationalist",
+          "his ideas played a significant role in the development of Ba'athism"
+        ]
+      }
+    }
+  },
+  "47": {
+    "pos_docs": [
+      10300,
+      13700,
+      10291
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Science Fiction TV Series",
+      "description": "The documents focus on episodes and mythology from popular science fiction television series, specifically Fringe and The X-Files.",
+      "evidence": {
+        "Document 1": [
+          "The End of All Things is the fourteenth episode of the fourth season of the American science-fiction drama television series Fringe",
+          "the episode marked the beginning of a four-week break for the series"
+        ],
+        "Document 2": [
+          "Volume 2 of The X-Files Mythology collection is the second DVD release containing selected episodes from the third to the fifth seasons of the American science fiction television series The X-Files",
+          "The episodes follow the investigations of paranormal-related cases, or X-Files, by FBI Special Agents Fox Mulder and Dana Scully."
+        ],
+        "Document 3": [
+          "Neither Here nor There is the fourth season premiere of the Fox science fiction drama television series Fringe",
+          "The episode depicts the aftermath of the third season finale in which Peter Bishop disappears from his timeline."
+        ]
+      }
+    }
+  },
+  "48": {
+    "pos_docs": [
+      8978,
+      6612,
+      6735
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Tropical Cyclones and Their Effects",
+      "description": "This topic encompasses the formation, characteristics, and impacts of tropical and subtropical cyclones, including specific historical examples and their influence on affected regions.",
+      "evidence": {
+        "Document 1": [
+          "Hurricane Odile was the second of three tropical storms to make landfall in Mexico during the 1984 Pacific hurricane season.",
+          "The storm caused significant rainfall accumulations of 24.73 inches (628.1 mm) in Southern Mexico, resulting in severe damage to tourism resorts."
+        ],
+        "Document 2": [
+          "A subtropical cyclone is a weather system that has some characteristics of a tropical and an extratropical cyclone.",
+          "Subtropical cyclones have broad wind patterns with maximum sustained winds located farther from the center than typical tropical cyclones."
+        ],
+        "Document 3": [
+          "The Effects of Hurricane Dennis in Mississippi were mostly minor and included one indirect death.",
+          "Dennis rapidly intensified to attain Category 4 status on the Saffir-Simpson Hurricane Scale before making landfall on Cuba."
+        ]
+      }
+    }
+  },
+  "49": {
+    "pos_docs": [
+      3552,
+      4995,
+      7032
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Cultural and Historical Significance of Urban Spaces",
+      "description": "These documents explore the cultural, historical, and social significance of urban spaces in various American cities.",
+      "evidence": {
+        "Document 1": [
+          "Columbia is a center of education, culture, and athletic competition.",
+          "Cultural institutions include the State Historical Society of Missouri and the Museum of Art and Archaeology."
+        ],
+        "Document 2": [
+          "Mary's Club is considered a Portland institution and has appeared in several films.",
+          "The club has been included in walking tours of the city."
+        ],
+        "Document 3": [
+          "Piedmont Park was originally designed to host major expositions showcasing the region's prosperity.",
+          "The park features scenic paths added by the sons of the architect of New York's Central Park."
+        ]
+      }
+    }
+  }
+}

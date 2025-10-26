@@ -1,0 +1,149 @@
+<Basic Info>
+| LDAModel (current version: 0.13.0)
+| 14290 docs, 14090633 words
+| Total Vocabs: 15000, Used Vocabs: 15000
+| Entropy of words: 8.60627
+| Entropy of term-weighted words: 8.60627
+| Removed Vocabs: <NA>
+|
+<Training Info>
+| Iterations: 840, Burn-in steps: 0
+| Optimization Interval: 10
+| Log-likelihood per word: -8.43894
+|
+<Initial Parameters>
+| tw: TermWeight.ONE
+| min_cf: 0 (minimum collection frequency of words)
+| min_df: 0 (minimum document frequency of words)
+| rm_top: 0 (the number of top words to be removed)
+| k: 100 (the number of topics between 1 ~ 32767)
+| alpha: [0.1] (hyperparameter of Dirichlet distribution for document-topic, given as a single `float` in case of symmetric prior and as a list with length `k` of `float` in case of asymmetric prior.)
+| eta: 0.01 (hyperparameter of Dirichlet distribution for topic-word)
+| seed: 2413658751 (random seed)
+| trained in version 0.13.0
+|
+<Parameters>
+| alpha (Dirichlet prior on the per-document topic distributions)
+|  [0.01398479 0.02304553 0.02892357 0.02040456 0.01399644 0.00852698
+|   0.02385174 0.02004901 0.04414294 0.01171699 0.02235233 0.04210798
+|   0.01218782 0.03286564 0.05726322 0.01757674 0.09172848 0.0212351
+|   0.01790148 0.01931015 0.01133801 0.02445947 0.01376741 0.02252657
+|   0.01718181 0.01322209 0.05133674 0.016304   0.02407265 0.04970904
+|   0.03447904 0.02400288 0.01549264 0.03192335 0.00920766 0.01715969
+|   0.02023915 0.02047134 0.01250994 0.01078686 0.04634381 0.32007253
+|   0.07124218 0.00790011 0.01427914 0.0322233  0.02049956 0.03253812
+|   0.01339295 0.04365774 0.09661642 0.01048732 0.03389804 0.05982534
+|   0.01611621 0.04114504 0.03449843 0.01628635 0.03004573 0.04654779
+|   0.01715608 0.04505242 0.03333809 0.01343765 0.0276923  0.01318066
+|   0.03778052 0.01752235 0.07838736 0.12279703 0.02324753 0.04734203
+|   0.0201977  0.01435651 0.0061427  0.01540348 0.22904195 0.02025218
+|   0.00911504 0.00845354 0.02961034 0.16256578 0.02613853 0.00767332
+|   0.03512736 0.00734987 0.01218308 0.03825655 0.02102894 0.05525183
+|   0.02281867 0.00834871 0.02976189 0.01505513 0.00938135 0.00929086
+|   0.08171803 0.01446006 0.01054191 0.01766976]
+| eta (Dirichlet prior on the per-topic word distribution)
+|  0.01
+|
+<Topics>
+| #0 (70666) : character relationship paul storyline susan
+| #1 (72187) : nuclear research medical physics energy
+| #2 (139524) : law court act rights state
+| #3 (80419) : water river creek feet dam
+| #4 (55882) : horses horse breed dog breeds
+| #5 (123098) : match event ring triple championship
+| #6 (94592) : governor virginia grant massachusetts war
+| #7 (244398) : guns ship ships tons class
+| #8 (116880) : school students education schools university
+| #9 (69859) : round tournament won match final
+| #10 (110581) : castle century built stone england
+| #11 (134358) : island land population native islands
+| #12 (41549) : ride chinese china coaster train
+| #13 (136006) : series characters character comic animated
+| #14 (216619) : building built site buildings house
+| #15 (51308) : food meat wine beer salt
+| #16 (242996) : said announced stated media april
+| #17 (99366) : party election minister government prime
+| #18 (74300) : world won team gold time
+| #19 (129666) : road route highway north east
+| #20 (74742) : formula function space newton number
+| #21 (95128) : ships french ship fleet british
+| #22 (92184) : harrison song album recording beatles
+| #23 (188686) : ship german british war ships
+| #24 (282723) : tropical storm depression hurricane cyclone
+| #25 (44669) : india indian temple hindu tamil
+| #26 (167323) : book published wrote work writing
+| #27 (49570) : air wind weather surface water
+| #28 (350210) : game player games players released
+| #29 (190398) : police prison murder trial case
+| #30 (163803) : army battle forces troops war
+| #31 (172798) : episode season series episodes michael
+| #32 (73904) : poem poems poetry poet bach
+| #33 (76483) : women men gay woman sex
+| #34 (101111) : episode mulder scully series season
+| #35 (59379) : language english word languages use
+| #36 (128972) : station line trains railway service
+| #37 (127578) : aircraft air squadron wing flight
+| #38 (56423) : games olympics olympic athletes events
+| #39 (92181) : species cap fruit stem brown
+| #40 (104611) : christmas radio television festival contest
+| #41 (753384) : time new later years began
+| #42 (197133) : century known found modern later
+| #43 (116248) : match runs test innings australia
+| #44 (105289) : species animals body like animal
+| #45 (137795) : design engine speed production power
+| #46 (36041) : spanish west latin mexico spain
+| #47 (140650) : city area street population county
+| #48 (40104) : space mission earth moon apollo
+| #49 (469827) : song number video single chart
+| #50 (213189) : fire day days left killed
+| #51 (69961) : episode star series season trek
+| #52 (247956) : film films million released release
+| #53 (216458) : world human life nature theory
+| #54 (90646) : series released japan japanese manga
+| #55 (132163) : million government billion percent management
+| #56 (127632) : park area lake mountain years
+| #57 (164527) : team season game points nba
+| #58 (87275) : japanese australia australian japan war
+| #59 (243742) : government political war military state
+| #60 (122943) : highway route state north road
+| #61 (142244) : war general military commander officer
+| #62 (109044) : bridge construction project tunnel million
+| #63 (75819) : series episode doctor bbc episodes
+| #64 (116318) : band rock music guitar songs
+| #65 (58698) : church century chapel cathedral wall
+| #66 (168338) : film role award played play
+| #67 (56443) : plants plant tree species trees
+| #68 (135352) : light red blue use body
+| #69 (377810) : family life later father years
+| #70 (142248) : president election state campaign senate
+| #71 (80218) : american chicago california united_states washington
+| #72 (29706) : white black brown african american
+| #73 (51213) : arab muslim egypt ottoman israel
+| #74 (75193) : game season innings era games
+| #75 (98873) : species birds bird males nest
+| #76 (755038) : said like time called people
+| #77 (198256) : battalion division brigade regiment war
+| #78 (48730) : race oxford cambridge boat blues
+| #79 (116652) : game yard yards season football
+| #80 (104628) : king england henry royal son
+| #81 (405126) : number use different include time
+| #82 (81566) : church god christian religious jesus
+| #83 (100027) : championship match team wrestling tag
+| #84 (83018) : german french war germany polish
+| #85 (21953) : units system mars cards gas
+| #86 (123675) : race lap car second drivers
+| #87 (241432) : album released music songs release
+| #88 (207140) : hurricane storm damage winds mph
+| #89 (133792) : company million new sold business
+| #90 (102251) : emperor son king dynasty death
+| #91 (78408) : episode jack glee liz tracy
+| #92 (70256) : art painting work museum works
+| #93 (92689) : british fort men american troops
+| #94 (85150) : shark species sharks long fin
+| #95 (52073) : carey music soundtrack album game
+| #96 (319353) : character story plot characters man
+| #97 (88928) : madonna tour dance gaga spears
+| #98 (128584) : season home baseball league runs
+| #99 (24298) : jackson texas florida georgia louisiana
+|
+

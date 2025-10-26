@@ -1,0 +1,149 @@
+<Basic Info>
+| LDAModel (current version: 0.13.0)
+| 32661 docs, 3420422 words
+| Total Vocabs: 14990, Used Vocabs: 14990
+| Entropy of words: 7.78247
+| Entropy of term-weighted words: 7.78247
+| Removed Vocabs: <NA>
+|
+<Training Info>
+| Iterations: 550, Burn-in steps: 0
+| Optimization Interval: 10
+| Log-likelihood per word: -7.46479
+|
+<Initial Parameters>
+| tw: TermWeight.ONE
+| min_cf: 0 (minimum collection frequency of words)
+| min_df: 0 (minimum document frequency of words)
+| rm_top: 0 (the number of top words to be removed)
+| k: 100 (the number of topics between 1 ~ 32767)
+| alpha: [0.1] (hyperparameter of Dirichlet distribution for document-topic, given as a single `float` in case of symmetric prior and as a list with length `k` of `float` in case of asymmetric prior.)
+| eta: 0.01 (hyperparameter of Dirichlet distribution for topic-word)
+| seed: 1757845120 (random seed)
+| trained in version 0.13.0
+|
+<Parameters>
+| alpha (Dirichlet prior on the per-document topic distributions)
+|  [0.01450557 0.01144054 0.01652614 0.00658864 0.01670595 0.0093613
+|   0.00739759 0.00736274 0.00693229 0.01040548 0.01148158 0.01271693
+|   0.00940989 0.02023767 0.0121152  0.0066285  0.00574978 0.00825928
+|   0.0496294  0.00632697 0.00502082 0.01037897 0.01588474 0.00945429
+|   0.00749884 0.00632628 0.00692079 0.00721195 0.0148609  0.00618692
+|   0.02815652 0.02023188 0.013463   0.00721767 0.00710052 0.01232532
+|   0.00726238 0.00598201 0.01166716 0.00640051 0.01039262 0.00825491
+|   0.00593926 0.01883971 0.06456805 0.00744143 0.00869792 0.03988224
+|   0.0095555  0.00557891 0.00877562 0.01790494 0.01846359 0.00555676
+|   0.02482497 0.0090619  0.00760392 0.01240443 0.01076835 0.00921163
+|   0.01241492 0.01036006 0.01341978 0.00766472 0.00750538 0.02234925
+|   0.00788393 0.00661306 0.00672299 0.06262299 0.0175334  0.00835239
+|   0.0084254  0.0072199  0.02115308 0.01393333 0.00880642 0.01705239
+|   0.049172   0.01269926 0.00932969 0.0133063  0.0132245  0.02073821
+|   0.00972195 0.01225641 0.00821988 0.01134667 0.00836757 0.0185227
+|   0.00860605 0.00869779 0.01147526 0.00512858 0.0053528  0.01229501
+|   0.01364449 0.00937444 0.00738144 0.02912224]
+| eta (Dirichlet prior on the per-topic word distribution)
+|  0.01
+|
+<Topics>
+| #0 (83341) : sec title authorizes appropriations subtitle
+| #1 (33887) : health secretary research cancer director
+| #2 (36833) : tax income amends code revenue
+| #3 (29631) : drug secretary product fda device
+| #4 (52807) : assistance president congress foreign government
+| #5 (29748) : water species act administrator epa
+| #6 (40580) : iran president sanctions person nuclear
+| #7 (44750) : school students schools leas high
+| #8 (17643) : insurance state act requirements coverage
+| #9 (29987) : fuel vehicle vehicles motor act
+| #10 (24926) : disability benefits act age insurance
+| #11 (41436) : information security data entity requires
+| #12 (21904) : court act judge criminal judges
+| #13 (25480) : united_states amends duty schedule harmonized_tariff
+| #14 (38865) : health services mental care programs
+| #15 (27983) : electronic fisa records act information
+| #16 (14812) : early children programs childhood care
+| #17 (29375) : land federal secretary lands public
+| #18 (72017) : bill shall requirements standards state
+| #19 (16260) : abortion act child woman federal
+| #20 (11285) : labor organization unit employees agreement
+| #21 (36842) : violence sexual assault criminal amends
+| #22 (35861) : federal united_states individual act criminal
+| #23 (40535) : water project secretary act facilities
+| #24 (23526) : food act secretary animal product
+| #25 (11135) : status act alien conditional state
+| #26 (11402) : usps card postal delivery mail
+| #27 (16181) : act hiv aids sexual women
+| #28 (46991) : land secretary federal lands requires
+| #29 (19189) : act fishery fishing management conservation
+| #30 (61250) : action act state civil federal
+| #31 (60865) : education programs grants community organizations
+| #32 (38474) : education training program programs secretary
+| #33 (34374) : air airport faa aircraft administrator
+| #34 (20141) : product safety act products consumer
+| #35 (37716) : education students student higher assistance
+| #36 (19285) : border secretary security dhs enforcement
+| #37 (8318) : cuba act travel united_states commission
+| #38 (45674) : defense secretary dod military committees
+| #39 (14823) : act gas natural energy ferc
+| #40 (20992) : act district president members member
+| #41 (39490) : program agricultural act amends secretary
+| #42 (31874) : vessel coast_guard vessels oil act
+| #43 (35256) : funds act year fiscal budget
+| #44 (149212) : secretary requires directs report establish
+| #45 (21620) : election political candidate act contributions
+| #46 (27971) : research program requires science nsf
+| #47 (57390) : year payment payments rate fee
+| #48 (19316) : emergency security response disaster act
+| #49 (11462) : debt bankruptcy debtor claim certain
+| #50 (23279) : indian native tribal tribes tribe
+| #51 (32710) : employee employer employees employment act
+| #52 (40777) : health care coverage act insurance
+| #53 (23790) : intelligence dni security information committees
+| #54 (47977) : information consumer act requires number
+| #55 (31324) : wilderness area act land lands
+| #56 (29548) : mortgage loan credit act insurance
+| #57 (35482) : medicare medicaid title act security
+| #58 (25610) : act state ftc person sale
+| #59 (24391) : plan retirement plans employee benefits
+| #60 (47351) : financial institution company act depository
+| #61 (25768) : child care children state foster
+| #62 (23065) : property real federal use facility
+| #63 (5054) : horse horses act asthma sub
+| #64 (19274) : united_states trade act country foreign
+| #65 (58023) : federal agencies activities programs requires
+| #66 (19202) : person firearms firearm act federal
+| #67 (21857) : tribe trust indian land act
+| #68 (32102) : carbon administrator emissions requires air
+| #69 (67108) : act period date enactment year
+| #70 (47818) : rule agency proposed review act
+| #71 (24869) : loan loans student education borrowers
+| #72 (12236) : agreements guam puerto_rico united_states agreement
+| #73 (18968) : drug prescription controlled drugs act
+| #74 (51520) : member members military service duty
+| #75 (59129) : alien immigration visa united_states act
+| #76 (21805) : housing assistance hud income act
+| #77 (49008) : veterans secretary care medical veteran
+| #78 (106866) : program grant grants funds state
+| #79 (41589) : energy development technology technologies doe
+| #80 (24303) : act secretary loan guarantee treasury
+| #81 (14202) : measure amended summary version repeated
+| #82 (26362) : board report general congress requires
+| #83 (40092) : tax credit revenue internal amends
+| #84 (29027) : energy renewable electric electricity efficiency
+| #85 (42120) : medicare services act care payment
+| #86 (21840) : transportation rail railroad safety projects
+| #87 (14477) : area areas rural state located
+| #88 (30858) : project projects federal flood construction
+| #89 (49178) : agency federal requires agencies report
+| #90 (27177) : service fcc act communications services
+| #91 (21732) : tax irs taxpayer return information
+| #92 (38807) : small business sba businesses administrator
+| #93 (19894) : safety secretary operator pipeline coal
+| #94 (19175) : compensation unemployment state act individual
+| #95 (41665) : school education schools leas students
+| #96 (34131) : law enforcement state local attorney
+| #97 (51015) : oil gas secretary lease act
+| #98 (34248) : restoration management activities projects plan
+| #99 (51904) : tax revenue credit code income
+|
+

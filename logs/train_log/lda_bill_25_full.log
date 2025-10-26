@@ -1,0 +1,62 @@
+<Basic Info>
+| LDAModel (current version: 0.13.0)
+| 32661 docs, 3420422 words
+| Total Vocabs: 14990, Used Vocabs: 14990
+| Entropy of words: 7.78247
+| Entropy of term-weighted words: 7.78247
+| Removed Vocabs: <NA>
+|
+<Training Info>
+| Iterations: 490, Burn-in steps: 0
+| Optimization Interval: 10
+| Log-likelihood per word: -7.68397
+|
+<Initial Parameters>
+| tw: TermWeight.ONE
+| min_cf: 0 (minimum collection frequency of words)
+| min_df: 0 (minimum document frequency of words)
+| rm_top: 0 (the number of top words to be removed)
+| k: 25 (the number of topics between 1 ~ 32767)
+| alpha: [0.1] (hyperparameter of Dirichlet distribution for document-topic, given as a single `float` in case of symmetric prior and as a list with length `k` of `float` in case of asymmetric prior.)
+| eta: 0.01 (hyperparameter of Dirichlet distribution for topic-word)
+| seed: 835871660 (random seed)
+| trained in version 0.13.0
+|
+<Parameters>
+| alpha (Dirichlet prior on the per-document topic distributions)
+|  [0.02492196 0.02584855 0.03501123 0.05015206 0.03149392 0.06093249
+|   0.02976888 0.02783244 0.05007129 0.01463113 0.04584153 0.03098886
+|   0.03313681 0.03267862 0.01651766 0.02128385 0.02867946 0.06823632
+|   0.07908074 0.02623787 0.04186497 0.02783475 0.01713519 0.01457154
+|   0.06340934]
+| eta (Dirichlet prior on the per-topic word distribution)
+|  0.01
+|
+<Topics>
+| #0 (121402) : energy fuel renewable act gas
+| #1 (139188) : water project secretary act projects
+| #2 (139984) : health medicare act care coverage
+| #3 (161780) : act state federal employee action
+| #4 (115623) : assistance housing child indian state
+| #5 (157704) : act sec rule shall bill
+| #6 (124232) : information act service security electronic
+| #7 (139831) : act financial mortgage consumer credit
+| #8 (202490) : program research development establish requires
+| #9 (59451) : food program act secretary amends
+| #10 (140000) : veterans act service secretary benefits
+| #11 (130824) : health care secretary services programs
+| #12 (196230) : education school students schools program
+| #13 (149223) : land secretary federal lands act
+| #14 (59238) : small business program administrator businesses
+| #15 (103241) : alien act united_states secretary immigration
+| #16 (111641) : criminal act law enforcement federal
+| #17 (170924) : act funds federal state year
+| #18 (247240) : requires information report agency federal
+| #19 (179363) : sec secretary authorizes report defense
+| #20 (115390) : united_states amends duty president schedule
+| #21 (129819) : secretary drug safety act product
+| #22 (102230) : oil secretary gas act lease
+| #23 (59390) : loan act loans student amends
+| #24 (163984) : tax revenue code amends internal
+|
+

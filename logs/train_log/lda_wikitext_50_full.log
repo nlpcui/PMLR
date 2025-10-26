@@ -1,0 +1,91 @@
+<Basic Info>
+| LDAModel (current version: 0.13.0)
+| 14290 docs, 14090633 words
+| Total Vocabs: 15000, Used Vocabs: 15000
+| Entropy of words: 8.60627
+| Entropy of term-weighted words: 8.60627
+| Removed Vocabs: <NA>
+|
+<Training Info>
+| Iterations: 700, Burn-in steps: 0
+| Optimization Interval: 10
+| Log-likelihood per word: -8.46091
+|
+<Initial Parameters>
+| tw: TermWeight.ONE
+| min_cf: 0 (minimum collection frequency of words)
+| min_df: 0 (minimum document frequency of words)
+| rm_top: 0 (the number of top words to be removed)
+| k: 50 (the number of topics between 1 ~ 32767)
+| alpha: [0.1] (hyperparameter of Dirichlet distribution for document-topic, given as a single `float` in case of symmetric prior and as a list with length `k` of `float` in case of asymmetric prior.)
+| eta: 0.01 (hyperparameter of Dirichlet distribution for topic-word)
+| seed: 2696896769 (random seed)
+| trained in version 0.13.0
+|
+<Parameters>
+| alpha (Dirichlet prior on the per-document topic distributions)
+|  [0.01300005 0.0168953  0.06669018 0.03839223 0.01844578 0.10777472
+|   0.0551846  0.05862234 0.04138963 0.37727037 0.04847345 0.03489354
+|   0.01248946 0.04241928 0.01677098 0.03210877 0.03893146 0.01240691
+|   0.05912732 0.0259503  0.02092637 0.02524441 0.02117762 0.15062805
+|   0.05308871 0.04243717 0.08575898 0.02821956 0.04837461 0.01456862
+|   0.03081845 0.0283513  0.04477195 0.09453292 0.12610477 0.04820952
+|   0.04391674 0.01733107 0.02947342 0.01981536 0.03217022 0.03235232
+|   0.02866595 0.04084571 0.04432806 0.04618584 0.05279366 0.01043082
+|   0.02273971 0.06500367]
+| eta (Dirichlet prior on the per-topic word distribution)
+|  0.01
+|
+<Topics>
+| #0 (132591) : australia match runs test innings
+| #1 (59881) : ride park train coaster roller
+| #2 (310275) : police said prison trial death
+| #3 (195357) : law court act government state
+| #4 (278086) : game team season points yard
+| #5 (525133) : character story man characters time
+| #6 (220142) : harrison work poem works art
+| #7 (296200) : area river water miles lake
+| #8 (190334) : chinese century temple india known
+| #9 (1072543) : time new later end began
+| #10 (422339) : album music band song songs
+| #11 (141553) : horses horse breed white food
+| #12 (213849) : season game games home league
+| #13 (558595) : song number video chart single
+| #14 (107302) : episode jack series season television
+| #15 (214715) : station line railway trains bridge
+| #16 (326944) : episode series season doctor episodes
+| #17 (232577) : match championship team event title
+| #18 (242450) : american war washington new_york governor
+| #19 (157940) : aircraft squadron air war flying
+| #20 (98535) : star space trek earth crew
+| #21 (416423) : ship guns ships war tons
+| #22 (79233) : church michael god christian office
+| #23 (586168) : said like madonna people called
+| #24 (306926) : century building castle built church
+| #25 (288977) : army battle men troops british
+| #26 (319047) : company million business year new
+| #27 (166778) : aircraft design engine production speed
+| #28 (236981) : king son death royal england
+| #29 (106735) : species brown cap fruit stem
+| #30 (190310) : world won games team olympics
+| #31 (115563) : jackson music stage tour concert
+| #32 (394993) : film films role production million
+| #33 (439424) : women world people social human
+| #34 (539359) : life family years later year
+| #35 (211075) : formula system language number example
+| #36 (170206) : british french ships ship island
+| #37 (172017) : race lap oxford second cambridge
+| #38 (273198) : highway road route north state
+| #39 (197465) : species shark long females small
+| #40 (215806) : species plants plant animals found
+| #41 (294861) : war division battalion brigade regiment
+| #42 (441034) : game games player released series
+| #43 (303713) : election president party campaign political
+| #44 (200187) : book published series story stories
+| #45 (177832) : water surface air high power
+| #46 (327360) : war government military political german
+| #47 (120762) : episode mulder scully series season
+| #48 (496259) : storm tropical hurricane winds depression
+| #49 (304600) : city building street area located
+|
+

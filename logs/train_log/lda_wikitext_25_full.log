@@ -1,0 +1,62 @@
+<Basic Info>
+| LDAModel (current version: 0.13.0)
+| 14290 docs, 14090633 words
+| Total Vocabs: 15000, Used Vocabs: 15000
+| Entropy of words: 8.60627
+| Entropy of term-weighted words: 8.60627
+| Removed Vocabs: <NA>
+|
+<Training Info>
+| Iterations: 510, Burn-in steps: 0
+| Optimization Interval: 10
+| Log-likelihood per word: -8.47058
+|
+<Initial Parameters>
+| tw: TermWeight.ONE
+| min_cf: 0 (minimum collection frequency of words)
+| min_df: 0 (minimum document frequency of words)
+| rm_top: 0 (the number of top words to be removed)
+| k: 25 (the number of topics between 1 ~ 32767)
+| alpha: [0.1] (hyperparameter of Dirichlet distribution for document-topic, given as a single `float` in case of symmetric prior and as a list with length `k` of `float` in case of asymmetric prior.)
+| eta: 0.01 (hyperparameter of Dirichlet distribution for topic-word)
+| seed: 3721465724 (random seed)
+| trained in version 0.13.0
+|
+<Parameters>
+| alpha (Dirichlet prior on the per-document topic distributions)
+|  [0.05947362 0.03936807 0.09253173 0.10645524 0.02659587 0.02276317
+|   0.07498314 0.01243796 0.07169296 0.0777067  0.09073312 0.03499036
+|   0.04554613 0.01799222 0.08479844 0.06284259 0.05441728 0.0283275
+|   0.04139902 0.16285722 0.08391625 0.07213307 0.0390931  0.02846972
+|   0.24232082]
+| eta (Dirichlet prior on the per-topic word distribution)
+|  0.01
+|
+<Topics>
+| #0 (880257) : song number video music chart
+| #1 (605449) : game games player released series
+| #2 (736291) : government said people law political
+| #3 (702720) : book published work world god
+| #4 (518684) : storm tropical hurricane winds depression
+| #5 (174672) : race lap second car johnson
+| #6 (735636) : film films role production million
+| #7 (72661) : race oxford cambridge jack boat
+| #8 (471536) : century building castle church built
+| #9 (673940) : king french army war battle
+| #10 (702025) : president state election united_states american
+| #11 (313539) : highway road route north state
+| #12 (518432) : species found white long known
+| #13 (350396) : season runs game team games
+| #14 (516920) : area water city river park
+| #15 (595932) : war british men command division
+| #16 (487343) : album music band songs song
+| #17 (347323) : game team season points yard
+| #18 (294928) : aircraft air flight squadron wing
+| #19 (761234) : use system number example time
+| #20 (518386) : station line new company million
+| #21 (913092) : episode series season character episodes
+| #22 (541510) : ship ships guns war fleet
+| #23 (388699) : match team event won world
+| #24 (1269028) : later time life years family
+|
+

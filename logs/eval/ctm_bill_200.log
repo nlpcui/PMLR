@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/Users/viktor/Desktop/TopicModel/PMLR/src/topic_model.py", line 259, in <module>
+    with open(f'output/topic_models/{args.model_type}_{args.dataset}_{args.num_topics}.json', 'r') as fp_output:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'output/topic_models/ctm_bill_200.json'

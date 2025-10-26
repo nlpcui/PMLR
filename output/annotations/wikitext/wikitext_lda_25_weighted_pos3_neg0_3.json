@@ -1,0 +1,630 @@
+{
+  "0": {
+    "pos_docs": [
+      571,
+      7837,
+      523
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Pop Music Analysis",
+      "description": "The documents discuss various pop songs, their production, themes, and critical reception.",
+      "evidence": {
+        "Document 1": [
+          "'Say You'll Be There' is a song by English girl group Spice Girls.",
+          "The lyrics... received mixed reviews from critics."
+        ],
+        "Document 2": [
+          "'In the Dark' is a song performed by American recording artist Dev.",
+          "The song received generally positive reviews from music critics."
+        ],
+        "Document 3": [
+          "'You'll See' is a song by American recording artist Madonna.",
+          "The song received positive reception from contemporary critics."
+        ]
+      }
+    }
+  },
+  "1": {
+    "pos_docs": [
+      7702,
+      8330,
+      7703
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Video Game Series and Genres",
+      "description": "The documents discuss various video game titles across different genres and their development histories.",
+      "evidence": {
+        "Document 1": [
+          "Metroid Prime : Trilogy is a compilation of action-adventure games",
+          "It features three games from the Metroid series"
+        ],
+        "Document 2": [
+          "Naruto : Clash of Ninja is a 3-D cel-shaded fighting game",
+          "It is based on the popular anime and manga series Naruto"
+        ],
+        "Document 3": [
+          "Chocolatier is a casual strategy video game with action game elements",
+          "Players assume the role of a young Chocolatier"
+        ]
+      }
+    }
+  },
+  "2": {
+    "pos_docs": [
+      2296,
+      6140,
+      1385
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Political History and Activism",
+      "description": "The documents discuss the lives and political activities of individuals and groups involved in significant historical events and movements, including war service, left-wing politics, and militant activism.",
+      "evidence": {
+        "1": [
+          "served in the Imperial German Army during the First World War",
+          "forced out of office after the passing of the Nuremberg Laws"
+        ],
+        "2": [
+          "served as Deputy Prime Minister and Foreign Minister",
+          "support for Cuba and similar left-wing nations led to American pressure to keep him out"
+        ],
+        "3": [
+          "advocated complete independence for Puerto Rico",
+          "was responsible for more than 120 bomb attacks on United States targets"
+        ]
+      }
+    }
+  },
+  "3": {
+    "pos_docs": [
+      13898,
+      9122,
+      13526
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Occult and Spiritual Beliefs",
+      "description": "This topic encompasses various practices and beliefs related to the occult, spirituality, and differing interpretations of religious experiences.",
+      "evidence": {
+        "Document 1": [
+          "Satanic and Left-Hand Path occult group",
+          "Traditional Satanism"
+        ],
+        "Document 2": [
+          "baptism with the Holy Spirit",
+          "empowerment for Christian ministry"
+        ],
+        "Document 3": [
+          "a demon in disguise as a beautiful young maiden",
+          "a fight between good and evil ensues"
+        ]
+      }
+    }
+  },
+  "4": {
+    "pos_docs": [
+      9021,
+      1912,
+      1881
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Tropical Cyclones and Hurricanes",
+      "description": "The documents discuss various tropical cyclones and hurricanes, detailing their formation, paths, impacts, and meteorological characteristics.",
+      "evidence": {
+        "Document 1": [
+          "the 1975 Pacific Northwest hurricane was an unusual Pacific tropical cyclone",
+          "it attained hurricane status farther north than any other Pacific hurricane"
+        ],
+        "Document 2": [
+          "Tropical Storm Gert was the fourth of seven tropical cyclones to make landfall in Mexico during 2005",
+          "it gained the record for the earliest formation of a seventh named storm in an Atlantic hurricane season"
+        ],
+        "Document 3": [
+          "the 1942 Belize hurricane was the only known hurricane to strike Belize in the month of November",
+          "this storm was detected in the vicinity of Turks and Caicos Islands on November 5"
+        ]
+      }
+    }
+  },
+  "5": {
+    "pos_docs": [
+      10033,
+      9997,
+      10059
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Motor Racing History",
+      "description": "This topic encompasses the history and key events in various forms of motor racing, including motorcycle racing and NASCAR.",
+      "evidence": {
+        "Document 1": [
+          "Kenny Roberts is an American former professional motorcycle racer and racing team owner.",
+          "Roberts left his mark on Grand Prix motorcycle racing as a world championship winning rider."
+        ],
+        "Document 2": [
+          "The 2013 Mudsummer Classic was a NASCAR Camping World Truck Series stock car race held on July 24, 2013.",
+          "It was the first dirt track race held by a NASCAR national touring series since 1970."
+        ],
+        "Document 3": [
+          "The 2015 Bahrain Grand Prix was a Formula One motor race held on 19 April 2015.",
+          "Lewis Hamilton managed to win from Kimi R\u00e4ikk\u00f6nen and Nico Rosberg."
+        ]
+      }
+    }
+  },
+  "6": {
+    "pos_docs": [
+      934,
+      14218,
+      1098
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Film and Television Creators",
+      "description": "This topic encompasses notable filmmakers and actors, highlighting their contributions to cinema and television through innovative storytelling and character development.",
+      "evidence": {
+        "Document 3": [
+          "Pen\u00e9lope Cruz is a Spanish actress and model.",
+          "She has appeared in films in a range of genres, including the comedy Waking Up in Reno."
+        ]
+      }
+    }
+  },
+  "7": {
+    "pos_docs": [
+      3864,
+      3871,
+      3905
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "The Boat Race History",
+      "description": "A historical overview of the annual rowing competition between the University of Oxford and the University of Cambridge known as The Boat Race.",
+      "evidence": {
+        "Document 1": [
+          "The Boat Race is a side-by-side rowing competition between the University of Oxford and the University of Cambridge.",
+          "Cambridge won the race by 35 lengths, as of 2014 the largest winning margin in the history of the event."
+        ],
+        "Document 2": [
+          "The Boat Race is an annual rowing eight competition between the University of Oxford and the University of Cambridge.",
+          "Cambridge won the race by 20 lengths to level the overall record at 1 \u2013 1."
+        ],
+        "Document 3": [
+          "The Boat Race is a side-by-side rowing race between crews from the Universities of Oxford and Cambridge along the River Thames in London.",
+          "Cambridge won by a quarter of a length, the narrowest margin of victory since the 1877 race."
+        ]
+      }
+    }
+  },
+  "8": {
+    "pos_docs": [
+      392,
+      344,
+      299
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Historic Architectural Sites",
+      "description": "The documents discuss various historic architectural sites and their significance in different cultural contexts.",
+      "evidence": {
+        "Document 1": [
+          "Fire Station Number 4 was added to the National Register of Historic Places in 1983.",
+          "The Queen Anne Style station was built in 1890."
+        ],
+        "Document 2": [
+          "The oyasato-yakata is a massive organizational undertaking that is understood by Tenrikyo adherents as a spiritual practice.",
+          "Construction began in 1954 on a project that continues today."
+        ],
+        "Document 3": [
+          "Chester Rows consist of covered walkways at the first floor behind which are entrances to shops and other premises.",
+          "Dating from the medieval era, the Rows may have been built on top of rubble remaining from the ruins of Roman buildings."
+        ]
+      }
+    }
+  },
+  "9": {
+    "pos_docs": [
+      2532,
+      2541,
+      4554
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Colonial Military Campaigns",
+      "description": "The documents discuss various military campaigns and governance during the colonial period, highlighting the interactions between colonial powers and indigenous populations.",
+      "evidence": {
+        "Document 1": [
+          "Dutch colonial authorities in Formosa undertook military actions to subdue hostile aboriginal villages.",
+          "The campaign ended in February 1636, with representatives from twenty-eight villages attending a ceremony to cement Dutch sovereignty."
+        ],
+        "Document 2": [
+          "The Second Northern War involved Sweden and its adversaries, with the Dutch Republic intervening against Sweden.",
+          "The rapid Swedish advance became known in Poland as the Swedish Deluge."
+        ]
+      }
+    }
+  },
+  "10": {
+    "pos_docs": [
+      9546,
+      5018,
+      13255
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Political Leadership and Governance",
+      "description": "This topic encompasses the dynamics of political leadership, governance structures, and the impact of individual leaders on their nations and international relations.",
+      "evidence": {
+        "Document 1": [
+          "Biden focused on his plan to achieve political success in the Iraq War through a system of federalization.",
+          "Biden ultimately dropped out of the race on January 3, 2008, after capturing less than 1% of the vote in the Iowa caucus."
+        ],
+        "Document 2": [
+          "IFC is a member of the World Bank Group and is headquartered in Washington, D.C.",
+          "The IFC's stated aim is to create opportunities for people to escape poverty and achieve better living standards by mobilizing financial resources for private enterprise."
+        ],
+        "Document 3": [
+          "Rajoelina became president on 21 March 2009 during a political crisis.",
+          "Rajoelina dissolved the Senate and National Assembly and transferred their powers to new governance structures."
+        ]
+      }
+    }
+  },
+  "11": {
+    "pos_docs": [
+      7920,
+      710,
+      724
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Toll and State Highways",
+      "description": "The documents discuss various toll and state highways in North America, focusing on their routes, characteristics, and operational details.",
+      "evidence": {
+        "Document 1": [
+          "Ontario Highway 407 is a tolled 400-series highway in the Canadian province of Ontario.",
+          "It is the first electronically-operated toll highway opened in the world."
+        ],
+        "Document 2": [
+          "M-25 is a state trunkline highway in the US state of Michigan.",
+          "It serves the lakeshore resorts along Lake Huron and Saginaw Bay."
+        ],
+        "Document 3": [
+          "M-217, also known as Michiana Parkway, is a multi-lane state trunkline highway in the U.S. state of Michigan.",
+          "The highway crosses farmland between the two termini."
+        ]
+      }
+    }
+  },
+  "12": {
+    "pos_docs": [
+      1227,
+      13336,
+      1352
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "fungal and plant taxonomy",
+      "description": "The documents discuss the classification and characteristics of various fungi and flowering plants, emphasizing their taxonomy and ecological roles.",
+      "evidence": {
+        "Document 1": [
+          "Mycena stylobates, commonly known as the bulbous bonnet, is a species of inedible mushroom in the family Mycenaceae.",
+          "The species was first named Agaricus stylobates by Christian Hendrik Persoon in 1801."
+        ],
+        "Document 2": [
+          "The lily family, Liliaceae, consists of fifteen genera and about 705 known species of flowering plants within the order Liliales.",
+          "First described in 1789, the lily family became a paraphyletic 'catch-all' group of petaloid monocots."
+        ],
+        "Document 3": [
+          "Suillus americanus is a species of fungus in the Suillaceae family of mushrooms.",
+          "Suillus americanus was first described scientifically by American mycologist Charles Horton Peck in 1888."
+        ]
+      }
+    }
+  },
+  "13": {
+    "pos_docs": [
+      10880,
+      3001,
+      4750
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Baseball History and Achievements",
+      "description": "This topic encompasses significant events, players, and milestones in the history of baseball, particularly focusing on Major League Baseball teams and their achievements.",
+      "evidence": {
+        "Document 1": [
+          "The Philadelphia Phillies ' 2008 season was the 126th in the history of the franchise.",
+          "The team won the World Series; this was the first major sports championship for Philadelphia since the 76ers swept the 1983 NBA Finals."
+        ],
+        "Document 2": [
+          "Evers helped lead the Cubs to four National League pennants, including two World Series championships.",
+          "Evers was named the league 's Most Valuable Player."
+        ]
+      }
+    }
+  },
+  "14": {
+    "pos_docs": [
+      10459,
+      11684,
+      7118
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Volcanic Activity and Water Bodies",
+      "description": "This topic encompasses the formation and characteristics of caldera lakes and dams resulting from volcanic activity and hydrological engineering.",
+      "evidence": {
+        "Document 1": [
+          "Crater Lake is a caldera lake in the western United States, located in south-central Oregon.",
+          "The lake partly fills a nearly 2,148-foot deep caldera that was formed around 7,700 years ago by the collapse of the volcano Mount Mazama."
+        ],
+        "Document 2": [
+          "The Pensacola Dam is a multiple-arch buttress dam on the Grand River in-between Disney and Langley in the U.S. state of Oklahoma.",
+          "The dam was constructed for the purposes of hydroelectric power generation, flood control and recreation."
+        ],
+        "Document 3": [
+          "Incapillo is a Pleistocene caldera, a depression formed by the collapse of a volcano, in the La Rioja province of Argentina.",
+          "Incapillo is considered the southernmost volcanic centre in the Central Volcanic Zone of the Andes with Pleistocene activity."
+        ]
+      }
+    }
+  },
+  "15": {
+    "pos_docs": [
+      6284,
+      3405,
+      2337
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Military Leadership and History",
+      "description": "This topic encompasses the biographies and military careers of notable military leaders from various countries and conflicts.",
+      "evidence": {
+        "Document 1": [
+          "Bryan Douglas 'Doug' Brown was a four-star United States Army general, who retired in 2007 after four decades of military service.",
+          "He served as the seventh commander of U.S. Special Operations Command (USSOCOM)."
+        ],
+        "Document 2": [
+          "The 61st Infantry Division was an infantry division of the British Army, raised in 1939 as part of the expansion of the Territorial Army.",
+          "The division was created as a duplicate of the 48th (South Midland) Infantry Division, and was assigned to home defence duties."
+        ],
+        "Document 3": [
+          "Major General Edward James Milford was an Australian Army officer who fought in the First and the Second World Wars.",
+          "He commanded the 5th and 7th Divisions during the New Guinea and Borneo campaigns."
+        ]
+      }
+    }
+  },
+  "16": {
+    "pos_docs": [
+      13002,
+      13605,
+      13147
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Evolution of Music Genres",
+      "description": "This topic encompasses the historical development and influence of various music genres, including rock, blues, and classical compositions.",
+      "evidence": {
+        "Document 1": [
+          "debut studio album by the English rock band Pink Floyd",
+          "hailed as one of the best ever psychedelic rock albums"
+        ],
+        "Document 2": [
+          "one of the most played, arranged, and rearranged pieces in blues history",
+          "became an early blues standard with recordings by several blues musicians"
+        ],
+        "Document 3": [
+          "church cantata by Johann Sebastian Bach",
+          "marks the beginning of his first annual cycle of cantatas"
+        ]
+      }
+    }
+  },
+  "17": {
+    "pos_docs": [
+      5887,
+      5911,
+      4227
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "College Football History",
+      "description": "The documents discuss the history and notable figures in college football, including teams, coaches, and their achievements.",
+      "evidence": {
+        "Document 1": [
+          "1893 Alabama Crimson White football team represented the University of Alabama in the 1893 college football season",
+          "finished with a record of zero wins and four losses (0 \u2013 4)"
+        ],
+        "Document 2": [
+          "Ara Parseghian is a former American football player and coach who guided the University of Notre Dame to national championships",
+          "widely regarded alongside Knute Rockne and Frank Leahy as a part of the 'Holy Trinity' of Notre Dame head coaches"
+        ]
+      }
+    }
+  },
+  "18": {
+    "pos_docs": [
+      5578,
+      3951,
+      6386
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Aerial Robotics and Aviation History",
+      "description": "This topic encompasses the development and evolution of aerial robotics and significant figures in aviation history, highlighting both military and competitive aspects.",
+      "evidence": {
+        "Document 1": [
+          "The Boeing AH-64 Apache is an American four-blade, twin-turboshaft attack helicopter",
+          "The U.S. Army is the primary operator of the AH-64"
+        ],
+        "Document 2": [
+          "The International Aerial Robotics Competition began in 1991",
+          "collegiate teams with the backing of industry and government have fielded autonomous flying robots"
+        ],
+        "Document 3": [
+          "John Cunningham was a Royal Air Force night fighter ace during the Second World War",
+          "Cunningham gradually became an established test pilot, gaining a considerable amount of flying time on different types of aircraft"
+        ]
+      }
+    }
+  },
+  "19": {
+    "pos_docs": [
+      11190,
+      12518,
+      12426
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Scientific Processes and Methods",
+      "description": "This topic encompasses various scientific methods and processes used in fields such as mathematics, paleontology, and physics to study and understand natural phenomena.",
+      "evidence": {
+        "Document 1": [
+          "the curve-shortening flow is a process that modifies a smooth curve",
+          "an example of a geometric flow"
+        ],
+        "Document 2": [
+          "the scientific study of life that existed prior to",
+          "includes the study of fossils to determine organisms' evolution"
+        ],
+        "Document 3": [
+          "The Fizeau experiment was carried out by Hippolyte Fizeau in 1851",
+          "to measure the relative speeds of light in moving water"
+        ]
+      }
+    }
+  },
+  "20": {
+    "pos_docs": [
+      10207,
+      10802,
+      12725
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Infrastructure Development and Transportation",
+      "description": "The documents discuss various infrastructure projects related to transportation systems and their impact on communities.",
+      "evidence": {
+        "Document 1": [
+          "Taiwan High Speed Rail is a high-speed rail line that runs approximately 345 km along the west coast of Taiwan.",
+          "The system is based primarily on Japan's Shinkansen technology."
+        ],
+        "Document 2": [
+          "The A4232 is a distributor road in Cardiff, the capital of Wales.",
+          "When fully completed, the road will form part of the Cardiff ring road system."
+        ],
+        "Document 3": [
+          "The Garbage Museum was a waste-management themed museum located in Stratford, Connecticut.",
+          "The museum focused on empowering visitors with knowledge about waste management."
+        ]
+      }
+    }
+  },
+  "21": {
+    "pos_docs": [
+      3126,
+      13591,
+      11295
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Television Episode Analysis",
+      "description": "The documents analyze specific episodes of various television series, focusing on their plots, themes, and audience reception.",
+      "evidence": {
+        "Document 1": [
+          "The episode features Michael's emotional struggles and attempts at romance during a blood drive.",
+          "It received generally mixed reviews and was watched by 8.63 million viewers."
+        ],
+        "Document 2": [
+          "The episode centers on the investigation of a police officer's shooting and a young girl's murder.",
+          "It was seen by 8.9 million households in its original broadcast."
+        ],
+        "Document 3": [
+          "The episode tells three interwoven stories over a single day, showcasing characters' personal conflicts.",
+          "It received overwhelming critical acclaim and was noted for its formal experiments."
+        ]
+      }
+    }
+  },
+  "22": {
+    "pos_docs": [
+      11917,
+      7144,
+      12157
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Naval Vessels of World War II",
+      "description": "These documents discuss various naval vessels used during World War II, their designs, careers, and fates.",
+      "evidence": {
+        "doc_id_1": [
+          "Type IXB U-boat",
+          "sunk on 4 October 1941"
+        ],
+        "doc_id_2": [
+          "San Giorgio-class armoured cruiser",
+          "captured by the Germans in 1943"
+        ],
+        "doc_id_3": [
+          "Wittelsbach-class battleships",
+          "saw limited duty in the Baltic Sea"
+        ]
+      }
+    }
+  },
+  "23": {
+    "pos_docs": [
+      11153,
+      10602,
+      11321
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Professional Athletes",
+      "description": "This cluster discusses the careers and achievements of various professional athletes across different sports.",
+      "evidence": {
+        "Document 1": [
+          "Miguel Cotto is a Puerto Rican professional boxer.",
+          "He is the first and only Puerto Rican to win world titles in four different weight classes."
+        ],
+        "Document 2": [
+          "Montel Vontavious Porter is an American professional wrestler.",
+          "He is perhaps most known for his tenure with World Wrestling Entertainment (WWE)."
+        ],
+        "Document 3": [
+          "Michelle Rzepecki is an Australian goalball player.",
+          "She was selected to represent Australia at the 2012 Summer Paralympics in goalball."
+        ]
+      }
+    }
+  },
+  "24": {
+    "pos_docs": [
+      10490,
+      1124,
+      1000
+    ],
+    "neg_docs": [],
+    "topic": {
+      "name": "Child Education and Safety",
+      "description": "The documents focus on themes of child education, particularly in the context of safety and well-being.",
+      "evidence": {
+        "Document 1": [
+          "intended to teach children between ages five and eight how to avoid situations where they might be sexually abused",
+          "the first British children's film about sexual abuse"
+        ],
+        "Document 2": [
+          "began an annual tradition of speaking to schoolchildren about the film"
+        ],
+        "Document 3": [
+          "worked as a children's entertainer"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+<Basic Info>
+| LDAModel (current version: 0.13.0)
+| 32661 docs, 3420422 words
+| Total Vocabs: 14990, Used Vocabs: 14990
+| Entropy of words: 7.78247
+| Entropy of term-weighted words: 7.78247
+| Removed Vocabs: <NA>
+|
+<Training Info>
+| Iterations: 330, Burn-in steps: 0
+| Optimization Interval: 10
+| Log-likelihood per word: -7.79913
+|
+<Initial Parameters>
+| tw: TermWeight.ONE
+| min_cf: 0 (minimum collection frequency of words)
+| min_df: 0 (minimum document frequency of words)
+| rm_top: 0 (the number of top words to be removed)
+| k: 10 (the number of topics between 1 ~ 32767)
+| alpha: [0.1] (hyperparameter of Dirichlet distribution for document-topic, given as a single `float` in case of symmetric prior and as a list with length `k` of `float` in case of asymmetric prior.)
+| eta: 0.01 (hyperparameter of Dirichlet distribution for topic-word)
+| seed: 1477115891 (random seed)
+| trained in version 0.13.0
+|
+<Parameters>
+| alpha (Dirichlet prior on the per-document topic distributions)
+|  [0.06507368 0.0468815  0.07548977 0.05917438 0.0793755  0.038494
+|   0.11378911 0.06779086 0.06738339 0.08170248]
+| eta (Dirichlet prior on the per-topic word distribution)
+|  0.01
+|
+<Topics>
+| #0 (415976) : secretary act land federal water
+| #1 (258606) : act loan small business financial
+| #2 (431582) : program education programs grants requires
+| #3 (302759) : health care secretary act services
+| #4 (250020) : tax amends act revenue income
+| #5 (178941) : child act state law criminal
+| #6 (502794) : act information federal requires state
+| #7 (263711) : act secretary veterans alien service
+| #8 (304974) : energy amends united_states secretary act
+| #9 (511059) : sec secretary requires report congress
+|
+
