@@ -1,7 +1,7 @@
 venv/
 .vscode/
 
-data/bills/
+data/bill/
 data/wikitext/
 
 output/topic_models/
