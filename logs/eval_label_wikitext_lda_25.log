@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/Users/viktor/Desktop/TopicModel/PMLR/src/eval_label.py", line 243, in <module>
+    with open(args.topic_annotations, 'r') as fp:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'output/annotations/wikitext/wikitext_lda_25_top_k_pos3_neg0_1.json'
