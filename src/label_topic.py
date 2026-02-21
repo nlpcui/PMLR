@@ -2,14 +2,19 @@ import json
 import argparse
 import logging
 import os
+import sys
 from tqdm import tqdm
 from collections import OrderedDict
 from string import Template
-from src.config import local_config, openai_key, api_price
+from src.config import local_config, api_price
 from openai import OpenAI
-from data.dataset import BillDataset, WikitextDataset
+from data.dataset import BillDataset, WikitextDataset, SAEWikitext, Features
 from src.utils import set_logging, truncate
+from pathlib import Path
 
+openai_key = os.getenv("OPENAI_API_KEY_Data_Interpretation")
+
+print('openai_key', openai_key)
 
 annotate_prompt = \
 Template("""
@@ -63,7 +68,7 @@ Your json output:""")
 
 
 annotate_prompt_simple = Template("""
-You are given a set of documents that belong to the same cluster. Your task is to identify their common topic. The topic should be broad enough to cover all provided documents and other potential documents in the same cluster, and specific enough to avoid overgeneralization to documents from other clusters. If documents from other clusters are provided, you may use them as references for contrast.
+Given a set of documents that belong to the same cluster, your task is to identify their common topic. The topic should be broad enough to cover all provided documents and other potential documents in the same cluster, and specific enough to avoid overgeneralization to documents from other clusters. If documents from other clusters are provided, you can use them as references for contrast.
 
 Documents from the target cluster:
 $pos_docs
@@ -77,9 +82,21 @@ Please output your result as a single JSON object with the following fields:
 Only output the JSON string and do not include any additional text, explanations, or code formatting (such as json or markdown)!
 """)
 
+annotate_prompt_explanation = Template("""
+You are a meticulous AI researcher conducting an important investigation into patterns found in language. You will be given a list of text examples and your task is to analyze text and provide an interpretation that thoroughly encapsulates possible patterns found in it.
+
+Text examples:
+$EXAMPLES
+
+Output exactly one valid JSON object in the following format:
+{"title": "concise pattern title, max 5 words", "description": "one-sentence description of the pattern"}.
+
+Do not output any additional text, explanations, or code formatting (such as json or markdown).
+""")
+
 
 class TopicAnnotator:
-    def __init__(self, documents, model_id, temperature, prompt_template, max_doc_length=256, max_retry=3):
+    def __init__(self, documents, model_id, temperature, prompt_template, features, min_feature_size, max_doc_length=256, max_retry=3):
         self.temperature = temperature
         self.client = OpenAI(api_key=openai_key)
         self.model_id = model_id
@@ -87,6 +104,8 @@ class TopicAnnotator:
         self.max_retry = max_retry
         self.max_doc_length = max_doc_length
         self.documents = documents
+        self.features = features
+        self.min_feature_size = min_feature_size
 
     # def __annotate_single(self, docs, keywords):
     #     doc_id_text = [(doc['id'], doc['text']) for doc in docs]
@@ -132,10 +151,16 @@ class TopicAnnotator:
         # for doc_id in doc2topic:
         #     topic2doc[doc2topic[doc_id]].add(doc_id)
 
+        skipped_features = {}
+
         topic_labels = {}
 
         with tqdm(total=len(sampled_docs)) as pbar:
             for topic_id, docs in sampled_docs.items():
+                if len(self.features.label2data[int(topic_id)]) < self.min_feature_size:
+                    skipped_features[int(topic_id)] = len(self.features.label2data[int(topic_id)])
+                    pbar.update(1)
+                    continue
                 pos_documents = '\n'.join([f"Document {i+1}: {truncate(self.documents[int(doc_id)]['text'], self.max_doc_length)}" for i, doc_id in enumerate(docs['pos'])])
                 neg_documents = '\n'.join([f"Document {i+1}: {truncate(self.documents[int(doc_id)]['text'], self.max_doc_length)}" for i, doc_id in enumerate(docs['neg'])])
                 if not neg_documents:
@@ -159,7 +184,7 @@ class TopicAnnotator:
                         total_input_tokens += response.usage.prompt_tokens
                         total_output_tokens += response.usage.completion_tokens
                         break
-                    except:
+                    except Exception:
                         continue
                 pbar.update(1)
                 pbar.set_postfix(OrderedDict({
@@ -170,41 +195,69 @@ class TopicAnnotator:
 
                 topic_labels[topic_id] = {'pos_docs': docs['pos'], 'neg_docs': docs['neg'], 'topic': result}
 
+        logging.info('Skipped features: {}'.format(skipped_features))
+
         return topic_labels
 
 
 if __name__ == "__main__":
     set_logging(log_file=None)
     parser = argparse.ArgumentParser()
-    parser.add_argument('--dataset', type=str)              # [wikitext, bill]
+    parser.add_argument('--dataset', type=str)              # [topic_wikitext, topic_bill]
+    parser.add_argument('--max_text_length', type=int, default=256)
     parser.add_argument('--prompt_model_id', type=str)      # GPT model
     parser.add_argument('--temperature', type=float)        #
     parser.add_argument('--saved_scores', type=str)
     parser.add_argument('--samples', type=str)
+    parser.add_argument('--output_file', type=str)
+    parser.add_argument('--saved_features', type=Path)
+    parser.add_argument('--feature_type', type=str)
+    parser.add_argument('--min_feature_size', type=int, default=500)
 
     args = parser.parse_args()
-    dataset = WikitextDataset(data_file=local_config['data']['wikitext']) if args.dataset == 'wikitext' else BillDataset(data_file=local_config['data']['bill'])
+    if args.dataset == 'topic_wikitext':
+        dataset = WikitextDataset(data_file=local_config['data']['topic_wikitext'])
+        ann_prompt = annotate_prompt_simple
+    elif args.dataset == 'topic_bill':
+        dataset = BillDataset(data_file=local_config['data']['topic_bill'])
+        ann_prompt = annotate_prompt_simple
+    elif args.dataset == 'sae_wikitext':
+        dataset = SAEWikitext(data_file=local_config['data']['sae_wikitext'])
+        ann_prompt = annotate_prompt_explanation
+
+    saved_features = Features.load(args.saved_features, feature_type=args.feature_type)
 
     annotator = TopicAnnotator(
         model_id=args.prompt_model_id,
         temperature=args.temperature,
-        prompt_template=annotate_prompt_simple,
+        prompt_template=ann_prompt,
         max_retry=3,
-        documents=dataset
+        documents=dataset,
+        features=saved_features,
+        min_feature_size=args.min_feature_size,
+        max_doc_length=args.max_text_length
     )
-    all_sampled = []
-    if os.path.isdir(args.samples):
-        for filename in os.listdir(args.samples):
-            if os.path.isfile(os.path.join(args.samples, filename)):
-                all_sampled.append(os.path.join(args.samples, filename))
-    else:
-        all_sampled.append(args.samples)
 
-    for input_file in all_sampled:
-        logging.info('Labeling docs from {}'.format(input_file))
-        with open(input_file, 'r') as fp_in:
-            sampled_documents = json.load(fp_in)
-        labels = annotator.annotate(sampled_docs=sampled_documents)
-        with open(f'output/topic_labels/{args.dataset}/{os.path.split(input_file)[-1]}', 'w') as fp_out:
-            json.dump(labels, fp_out)
+    with open(args.samples, 'r') as fp_samples:
+        sampled_data = json.load(fp_samples)
+
+    labels = annotator.annotate(sampled_docs=sampled_data)
+    with open(args.output_file, 'w') as fp_out:
+        json.dump(labels, fp_out)
+
+    # all_sampled = []
+    # if os.path.isdir(args.samples):
+    #     for filename in os.listdir(args.samples):
+    #         if os.path.isfile(os.path.join(args.samples, filename)):
+    #             all_sampled.append(os.path.join(args.samples, filename))
+    # else:
+    #     all_sampled.append(args.samples)
+    #
+    # for input_file in all_sampled:
+    #     logging.info('Labeling docs from {}'.format(input_file))
+    #     with open(input_file, 'r') as fp_in:
+    #         sampled_documents = json.load(fp_in)
+    #     labels = annotator.annotate(sampled_docs=sampled_documents)
+    #     with open(f'output/topic_labels/{args.dataset}/{os.path.split(input_file)[-1]}', 'w') as fp_out:
+    #         json.dump(labels, fp_out)
 

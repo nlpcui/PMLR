@@ -8,16 +8,17 @@ import numpy as np
 import random
 from openai import OpenAI
 from src.config import local_config
-from data.dataset import WikitextDataset, BillDataset
-from src.sample_docs import Selector
+from data.dataset import WikitextDataset, BillDataset, SAEWikitext, Features
 from string import Template
-from src.config import openai_key, api_price
+from src.config import api_price, openai_key
 from tqdm import tqdm
 from dataclasses import dataclass
 from src.utils import set_logging, truncate
 from pathlib import Path
+from collections import OrderedDict
 
-prompt_eval = Template(
+
+prompt_eval_old = Template(
 """
 You are given a topic and some documents. For each document, determine whether the topic applies to it based on the following rules:
 1. The topic directly matches the subject or main focus of the document. Loosely or indirectly related topics should not be considered applicable (e.g., basketball is not applicable to a document about football).
@@ -44,6 +45,52 @@ Note that you must include all <document_id> in your output, even for documents 
 
 Output:""")
 
+
+prompt_eval_multi = Template('''
+You will be given a document and a list of topic descriptions.  Your task is to determine which topic the article best matches in terms of content and semantics.
+
+Requirements:
+1. Select exactly ONE topic that best fits the article.
+2. If the document does not match any of the topics, output: none
+3. Output ONLY the topic number (e.g., 1, 2, 3), and NOTHING else.
+
+Document:
+$DOCUMENT
+
+Topics:
+$TOPIC_LABELS
+
+Output: (only the topic number or "none")
+''')
+
+prompt_eval_single = Template('''
+You will be given a document and a topic name and a description. Your task is to determine whether the document matches the topic in terms of content and semantics.
+Output 1 if the document matches the topic or 0 otherwise.
+
+Document:
+$DOCUMENT
+
+Topics:
+$TOPIC_LABEL
+
+Output: <1 or 0> (Output ONLY a label (i.e., 0 or 1), and NOTHING else.)
+''')
+
+
+prompt_eval_sae = Template("""
+Your task is to determine whether the pattern is present in or applicable to the given text.
+
+Return 1 if the pattern clearly applies to the text and 0 otherwise.
+
+Text:
+$TEXT
+
+Pattern:
+$PATTERN
+
+Output:
+Return only a single digit (0 or 1). Do not include any explanation, formatting, or additional text.
+""")
 
 @dataclass
 class Cluster:
@@ -394,54 +441,164 @@ class LabelEvaluator:
         return
 
 
+class Evaluator:
+    def __init__(self, data, labels, eval_samples, max_retry, temperature, model_id, prompt_template, max_doc_length, features, feature_type):
+
+        self.data = data
+        self.labels = labels
+        self.eval_samples = eval_samples
+        self.max_retry = max_retry
+        self.temperature = temperature
+        self.model_id = model_id
+        self.prompt_template = prompt_template
+        self.max_doc_length = max_doc_length
+        self.feature_type = feature_type
+        self.features = features
+
+        self.client = OpenAI(api_key=openai_key)
+        self.cost = 0
+
+    def eval(self, key):
+        result = {}
+        all_label_descriptions = '\n'.join(['topic {}: {}\n{}'.format(tid, self.labels[tid]['topic'][key], self.labels[tid]['topic']['description']) for tid in self.labels])
+        fail_cnt = 0
+        print('labels', self.labels.keys())
+        with tqdm(total=200*34, desc='Eval Feature Label') as pbar:
+            print('f_ids', self.eval_samples.keys())
+            for f_id, samples in self.eval_samples.items():
+                if f_id not in self.labels:
+                    # print('not found', f_id)
+                    continue
+
+                if len(self.features.label2data[int(f_id)]) <= 1000:
+                    continue
+                # print('found', f_id)
+                cur_label = '{}: {}'.format(self.labels[f_id]['topic'][key], self.labels[f_id]['topic']['description'])
+                match = {'pos': {}, 'neg': {}}
+                for category in ['pos', 'neg']:
+                    cnt = 0
+                    for data_id in samples[category]:
+                        cnt += 1
+                        doc = truncate(self.data[int(data_id)]["text"], self.max_doc_length)
+                        try:
+                            if self.feature_type == 'topic':
+                                prompt = self.prompt_template.substitute(DOCUMENT=doc, TOPIC_LABEL=cur_label)
+                            else:
+                                prompt = self.prompt_template.substitute(TEXT=doc, PATTERN=cur_label)
+                                # output = self.api_call(prompt=prompt)
+                                # if str(output) == str(f_id):
+                                #     match[category][int(data_id)] = 1
+                                # else:
+                                #     match[category][int(data_id)] = 0
+                            output = self.api_call(prompt=prompt)
+                            match[category][int(data_id)] = int(output.strip())
+                        except Exception:
+                            traceback.print_exc()
+                            # exit(1)
+                            match[category][int(data_id)] = -1
+                            fail_cnt += 1
+
+                        # print('topic_id: {}, category: {}, cnt: {}, data_id: {}, predicted_topic: {}, match: {}.'.format(f_id, category, cnt, data_id, output, str(output) == str(f_id)))
+                        pbar.update(1)
+                        pbar.set_postfix(OrderedDict({
+                            'cost': self.cost, 'fail_cnt': fail_cnt
+                        }))
+
+                recall = sum(list(match['pos'].values())) / len(match['pos'])
+                precision = sum(list(match['pos'].values())) / (sum(list(match['pos'].values())) + sum(list(match['neg'].values())) + 1e-5)
+                f1 = 2 * recall * precision / (recall + precision + 1e-5)
+
+                result[f_id] = {
+                    'recall': recall, 'precision': precision, 'f1': f1, 'match': match, 'eval_samples': eval_samples
+                }
+
+        return result
+
+    def api_call(self, prompt):
+        messages = [
+            {'role': 'system', 'content': 'You are a content analyst that helps me analyze the topics discussed in documents.'},
+            {'role': 'user', 'content': prompt}
+        ]
+        response = self.client.chat.completions.create(model=self.model_id, messages=messages, temperature=self.temperature)
+        self.cost += response.usage.prompt_tokens * api_price[self.model_id]['input'] + response.usage.completion_tokens * api_price[self.model_id]['output']
+        output = response.choices[0].message.content
+        return output
+
+
 if __name__ == '__main__':
-    set_logging(None)
+    set_logging(log_file=None, level=logging.ERROR)
     parser = argparse.ArgumentParser()
-    parser.add_argument('--dataset', type=str)                      # [wikitext, bill]
-    parser.add_argument('--saved_weights', type=str)
+    parser.add_argument('--dataset', type=str)                      # [topic_wikitext, topic_bill]
+    parser.add_argument('--saved_features', type=str)
+    parser.add_argument('--feature_type', type=str)
     parser.add_argument('--topic_annotations', type=Path)
     parser.add_argument('--prompt_model_id', type=str, default='gpt-4o-mini')
     parser.add_argument('--temperature', type=float, default=0.3)
-    parser.add_argument('--doc_max_length', type=int, default=500)
-    parser.add_argument('--gen_k', type=int, default=50)
-    parser.add_argument('--dist_k', type=int, default=5)
+    parser.add_argument('--doc_max_length', type=int, default=300)
     parser.add_argument('--max_retry', type=int, default=3)
+    parser.add_argument('--eval_samples', type=Path)
+    parser.add_argument('--output_file', type=Path)
+    parser.add_argument('--prompt_type', type=str, default='single_label')
 
     args = parser.parse_args()
 
     # dataset
-    assert args.dataset in ['wikitext', 'bill']
+    if args.dataset == 'topic_wikitext':
+        dataset = WikitextDataset(data_file=local_config['data'][args.dataset])
+    elif args.dataset == 'topic_bill':
+        dataset = BillDataset(data_file=local_config['data'][args.dataset])
+    elif args.dataset == 'sae_wikitext':
+        dataset = SAEWikitext(data_file=local_config['data'][args.dataset])
 
-    if args.dataset == 'wikitext':
-        dataset = WikitextDataset(data_file=local_config['data']['wikitext'])
-    else:
-        dataset = BillDataset(data_file=local_config['data']['bill'])
-
-    # topic label result
+    # topic labels
     with open(args.topic_annotations, 'r') as fp:
         annotations = json.load(fp)
 
     # saved weights
-    with open(args.saved_weights, 'r') as fp:
-        saved_weights = json.load(fp)
+    # with open(args.saved_weights, 'r') as fp:
+    #     saved_weights = json.load(fp)
 
-    evaluator = LabelEvaluator(
-        documents=dataset,
-        topic2doc_weights=saved_weights['topic2doc_dist'],
-        doc2topic_weights=saved_weights['doc2topic_dist'],
-        topic_annotations=annotations,
-        prompt_template=prompt_eval,
-        prompt_model_id=args.prompt_model_id,
-        temperature=args.temperature,
-        max_retry=args.max_retry,
-        doc_max_length=args.doc_max_length,
-    )
-    print('Evaluating {}'.format(args.topic_annotations))
-    generalization_output = evaluator.generalization(k=args.gen_k)
-    consistency_output = evaluator.consistency()
-    distinctiveness_output = evaluator.distinctiveness(k=args.dist_k)
-    scores = evaluator.score(consistency_output, generalization_output, distinctiveness_output)
+    # eval samples
+    with open(args.eval_samples, 'r') as fp:
+        eval_samples = json.load(fp)
+
+    # evaluator = LabelEvaluator(
+    #     documents=dataset,
+    #     topic2doc_weights=saved_weights['topic2doc_dist'],
+    #     doc2topic_weights=saved_weights['doc2topic_dist'],
+    #     topic_annotations=annotations,
+    #     prompt_template=prompt_eval,
+    #     prompt_model_id=args.prompt_model_id,
+    #     temperature=args.temperature,
+    #     max_retry=args.max_retry,
+    #     doc_max_length=args.doc_max_length,
+    # )
+    # print('Evaluating {}'.format(args.topic_annotations))
+    # generalization_output = evaluator.generalization(k=args.gen_k)
+    # consistency_output = evaluator.consistency()
+    # distinctiveness_output = evaluator.distinctiveness(k=args.dist_k)
+    # scores = evaluator.score(consistency_output, generalization_output, distinctiveness_output)
     #
-    with open(os.path.join('output/eval_result', args.dataset, os.path.split(args.topic_annotations)[-1]), 'w') as fp_out:
-        json.dump({'consistency': consistency_output, 'generalization': generalization_output, 'distinctiveness': distinctiveness_output, 'scores': scores}, fp_out)
+    # #
+    # with open(os.path.join('output/eval_result', args.dataset, os.path.split(args.topic_annotations)[-1]), 'w') as fp_out:
+    #     json.dump({'consistency': consistency_output, 'generalization': generalization_output, 'distinctiveness': distinctiveness_output, 'scores': scores}, fp_out)
+
+    saved_features = Features.load(args.saved_features, feature_type=args.feature_type)
+
+    evaluator = Evaluator(
+        data=dataset,
+        labels=annotations,
+        eval_samples=eval_samples,
+        temperature=args.temperature,
+        model_id=args.prompt_model_id,
+        max_retry=args.max_retry,
+        prompt_template=prompt_eval_single if args.feature_type == 'topic' else prompt_eval_sae,
+        max_doc_length=args.doc_max_length,
+        feature_type=args.feature_type,
+        features=saved_features
+    )
+    eval_result = evaluator.eval(key='title' if args.feature_type == 'sae' else 'name')
+    print(eval_result)
+    with open(args.output_file, 'w') as fp_output:
+        json.dump(eval_result, fp_output)
 

@@ -1,0 +1,9 @@
+Dataset: wikitext, num_topics: 10, NPMI: 0.08441697463440848
+Dataset: wikitext, num_topics: 25, NPMI: 0.09599201463822433
+Dataset: wikitext, num_topics: 50, NPMI: 0.10169708151876752
+Dataset: wikitext, num_topics: 100, NPMI: 0.1071029600612597
+Dataset: wikitext, num_topics: 200, NPMI: 0.10556403810244508
+Dataset: bill, num_topics: 25, NPMI: 0.05820071213233138
+Dataset: bill, num_topics: 50, NPMI: 0.07804142560109374
+Dataset: bill, num_topics: 100, NPMI: 0.08642633332592603
+Dataset: bill, num_topics: 200, NPMI: 0.08733382585385728

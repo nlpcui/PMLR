@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49d2826f-bbbc-4e1d-9bf7-f5669714d1e5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/data/dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/data/dataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/sampled/random/wikitext_lda_25_random_pos10_neg0_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/sampled/random/wikitext_lda_25_random_pos10_neg0_2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/sampled/random/wikitext_lda_25_random_pos10_neg0_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/sampled/random/wikitext_lda_25_random_pos20_neg0_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/sampled/random/wikitext_lda_25_random_pos20_neg0_2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/sampled/random/wikitext_lda_25_random_pos20_neg0_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/sampled/random/wikitext_lda_25_random_pos50_neg0_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/sampled/random/wikitext_lda_25_random_pos5_neg0_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/sampled/random/wikitext_lda_25_random_pos5_neg0_2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/sampled/random/wikitext_lda_25_random_pos5_neg0_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/sampled/topk/wikitext_lda_25_topk_pos10_neg0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/sampled/topk/wikitext_lda_25_topk_pos15_neg0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/sampled/topk/wikitext_lda_25_topk_pos20_neg0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/sampled/topk/wikitext_lda_25_topk_pos50_neg0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/sampled/topk/wikitext_lda_25_topk_pos5_neg0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/sampled/weighted/wikitext_lda_25_weighted_pos10_neg0_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/sampled/weighted/wikitext_lda_25_weighted_pos10_neg0_2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/sampled/weighted/wikitext_lda_25_weighted_pos10_neg0_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/sampled/weighted/wikitext_lda_25_weighted_pos15_neg0_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/sampled/weighted/wikitext_lda_25_weighted_pos15_neg0_2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/sampled/weighted/wikitext_lda_25_weighted_pos15_neg0_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/sampled/weighted/wikitext_lda_25_weighted_pos20_neg0_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/sampled/weighted/wikitext_lda_25_weighted_pos20_neg0_2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/sampled/weighted/wikitext_lda_25_weighted_pos20_neg0_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/sampled/weighted/wikitext_lda_25_weighted_pos50_neg0_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/sampled/weighted/wikitext_lda_25_weighted_pos5_neg0_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/sampled/weighted/wikitext_lda_25_weighted_pos5_neg0_2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/sampled/weighted/wikitext_lda_25_weighted_pos5_neg0_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/topic_labels/old/lda_25_random_10.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/topic_labels/old/lda_25_random_20.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/topic_labels/old/lda_25_random_5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/topic_labels/old/lda_25_top_k_10.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/topic_labels/old/lda_25_top_k_20.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/topic_labels/old/lda_25_top_k_5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/topic_labels/wikitext/wikitext_lda_25_random_pos10_neg0_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/topic_labels/wikitext/wikitext_lda_25_random_pos10_neg0_2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/topic_labels/wikitext/wikitext_lda_25_random_pos10_neg0_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/topic_labels/wikitext/wikitext_lda_25_random_pos20_neg0_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/topic_labels/wikitext/wikitext_lda_25_random_pos20_neg0_2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/topic_labels/wikitext/wikitext_lda_25_random_pos20_neg0_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/topic_labels/wikitext/wikitext_lda_25_random_pos50_neg0_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/topic_labels/wikitext/wikitext_lda_25_random_pos5_neg0_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/topic_labels/wikitext/wikitext_lda_25_random_pos5_neg0_2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/topic_labels/wikitext/wikitext_lda_25_random_pos5_neg0_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/topic_labels/wikitext/wikitext_lda_25_topk_pos10_neg0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/topic_labels/wikitext/wikitext_lda_25_topk_pos15_neg0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/topic_labels/wikitext/wikitext_lda_25_topk_pos20_neg0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/topic_labels/wikitext/wikitext_lda_25_topk_pos50_neg0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/topic_labels/wikitext/wikitext_lda_25_topk_pos5_neg0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/topic_labels/wikitext/wikitext_lda_25_weighted_pos10_neg0_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/topic_labels/wikitext/wikitext_lda_25_weighted_pos10_neg0_2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/topic_labels/wikitext/wikitext_lda_25_weighted_pos10_neg0_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/topic_labels/wikitext/wikitext_lda_25_weighted_pos15_neg0_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/topic_labels/wikitext/wikitext_lda_25_weighted_pos15_neg0_2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/topic_labels/wikitext/wikitext_lda_25_weighted_pos15_neg0_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/topic_labels/wikitext/wikitext_lda_25_weighted_pos20_neg0_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/topic_labels/wikitext/wikitext_lda_25_weighted_pos20_neg0_2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/topic_labels/wikitext/wikitext_lda_25_weighted_pos20_neg0_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/topic_labels/wikitext/wikitext_lda_25_weighted_pos50_neg0_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/topic_labels/wikitext/wikitext_lda_25_weighted_pos5_neg0_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/topic_labels/wikitext/wikitext_lda_25_weighted_pos5_neg0_2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/topic_labels/wikitext/wikitext_lda_25_weighted_pos5_neg0_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/1_run_topic_model.sh" beforeDir="false" afterPath="$PROJECT_DIR$/script/1_run_topic_model.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/2_eval_topic_model.sh" beforeDir="false" afterPath="$PROJECT_DIR$/script/2_eval_topic_model.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/3_sample_docs.sh" beforeDir="false" afterPath="$PROJECT_DIR$/script/3_sample_docs.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/4_label_topic.sh" beforeDir="false" afterPath="$PROJECT_DIR$/script/4_label_topic.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script/5_eval_label.sh" beforeDir="false" afterPath="$PROJECT_DIR$/script/5_eval_label.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/eval_label.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/eval_label.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/label_topic.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/label_topic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample_docs.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scoring.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/scoring.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/topic_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/topic_model.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2vUm545Z2zQp2hSefawskBa7SNz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/sae_wikitext" />
+      <recent name="$PROJECT_DIR$/data/wikitext" />
+      <recent name="$PROJECT_DIR$/output" />
+      <recent name="$PROJECT_DIR$/data/bill" />
+      <recent name="$PROJECT_DIR$/data" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PMLR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49d2826f-bbbc-4e1d-9bf7-f5669714d1e5" name="Changes" comment="" />
+      <created>1744207839387</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744207839387</updated>
+      <workItem from="1744207841702" duration="2956000" />
+      <workItem from="1744814729921" duration="13403000" />
+      <workItem from="1745151894573" duration="67366000" />
+      <workItem from="1745579061382" duration="5050000" />
+      <workItem from="1745674335072" duration="3490000" />
+      <workItem from="1746523028252" duration="78730000" />
+      <workItem from="1759841241485" duration="69274000" />
+      <workItem from="1760269291940" duration="4381000" />
+      <workItem from="1760367781201" duration="573000" />
+      <workItem from="1760368362062" duration="5900000" />
+      <workItem from="1761559387013" duration="3200000" />
+      <workItem from="1767798379697" duration="19198000" />
+      <workItem from="1768135209709" duration="621000" />
+      <workItem from="1769970231896" duration="33782000" />
+      <workItem from="1771169308534" duration="34143000" />
+      <workItem from="1771408690789" duration="15097000" />
+      <workItem from="1771521459591" duration="28248000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/eval_label.py</url>
+          <line>310</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

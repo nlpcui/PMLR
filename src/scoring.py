@@ -71,7 +71,7 @@ if __name__ == '__main__':
     parser.add_argument('--alpha', type=float, default=0.5)
     parser.add_argument('--beta', type=float, default=1)
     parser.add_argument('--num_topics', type=int, default=25)
-    parser.add_argument('--dataset', type=str, default='wikitext')
+    parser.add_argument('--dataset', type=str, default='topic_wikitext')
     parser.add_argument('--topic_model', type=str, default='lda')
 
     args = parser.parse_args()
@@ -80,7 +80,7 @@ if __name__ == '__main__':
     with open(saved_weights, 'r') as fp:
         saved_weights = json.load(fp)
 
-    dataset = WikitextDataset(data_file=local_config['data']['wikitext'])
+    dataset = WikitextDataset(data_file=local_config['data']['topic_wikitext'])
     scorer = Scorer(
         data=dataset,
         topic2doc_weights=saved_weights['topic2doc_dist'],

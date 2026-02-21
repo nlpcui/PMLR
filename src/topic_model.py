@@ -6,12 +6,16 @@ import logging
 import argparse
 import sys
 import os
+
+import nltk
 import tomotopy as tp
 import numpy as np
 from data.dataset import WikitextDataset, BillDataset
 from src.utils import set_logging
 from src.config import local_config
 from collections import OrderedDict
+from gensim.corpora import Dictionary
+from gensim.models import CoherenceModel
 
 
 def train_lda(corpus, num_topics, save_path, max_iterations=1000, step=10):
@@ -81,11 +85,31 @@ class TopicModelEvaluator:
 
         return {'inverse_purity': inverse_purity_score, 'purity': purity_score, 'harmonic': 2 / (1 / purity_score + 1 / inverse_purity_score)}
 
+    def c_npmi(self):
+        # print('here')
+        # print(len(tokenized_doc))
+        # print(tokenized_doc[0])
+        # print('t', topic_words)
+        # exit(1)
+        tokenized_doc = [text.lower().split(' ') for text in self.dataset.texts]
+        topic_words = [[self.output['vocab'][word_id] for word_id in np.argsort(weight)[-10:]] for weight in self.output['topic2word_dist']]
+        dictionary = Dictionary(tokenized_doc)
+
+        coherence_model = CoherenceModel(
+            topics=topic_words,
+            texts=tokenized_doc,
+            dictionary=dictionary,
+            coherence='c_npmi'
+        )
+
+        npmi = coherence_model.get_coherence()
+        return npmi
+
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('--task', type=str, default='eval')   # [train, eval]
-    parser.add_argument('--dataset', type=str, default='wikitext')
+    parser.add_argument('--task', type=str)   # [train, eval]
+    parser.add_argument('--dataset', type=str, default='topic_wikitext')
     parser.add_argument('--num_topics', type=int, default=25)
     parser.add_argument('--model_type', type=str, default='lda')
     parser.add_argument('--max_iterations', type=int)
@@ -93,7 +117,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
     set_logging(log_file=None)
 
-    if args.dataset == 'wikitext':
+    if args.dataset == 'topic_wikitext':
         documents = WikitextDataset(data_file=local_config['data'][args.dataset])
     else:
         documents = BillDataset(data_file=local_config['data'][args.dataset])
@@ -108,5 +132,5 @@ if __name__ == '__main__':
         with open(f'output/topic_models/{args.model_type}_{args.dataset}_{args.num_topics}.json', 'r') as fp_output:
             topic_model_output = json.load(fp_output)
         evaluator = TopicModelEvaluator(dataset=documents, output=topic_model_output)
-        result = evaluator.purity()
-        print('Number of topics {}, purity scores {}'.format(args.num_topics, result))
+        result = evaluator.c_npmi()
+        print('Dataset: {}, num_topics: {}, NPMI: {}'.format(args.dataset, args.num_topics, result))

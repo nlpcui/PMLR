@@ -1,16 +1,14 @@
-
+import os
 
 local_config = {
     'data': {
-        'wikitext': 'data/wikitext/train.metadata.jsonl',
-        'bill': 'data/bill/train.metadata.jsonl'
+        'topic_wikitext': 'data/topic_wikitext/train.metadata.jsonl',
+        'topic_bill': 'data/topic_bill/train.metadata.jsonl',
+        'sae_wikitext': 'data/sae_wikitext/sae_wikitext_train.jsonl'
     },
-    'output': {
-        'topic_models'
-    }
 }
 
-openai_key = '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'
+openai_key = os.getenv("OPENAI_API_KEY_Data_Interpretation")
 
 api_price = {
     'gpt-4o-mini': {'input': 0.15 / 1000000, 'output': 0.6 / 1000000}

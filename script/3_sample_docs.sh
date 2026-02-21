@@ -1,32 +1,53 @@
 #!/bin/bash
 
-# wikitext
-# top k
-#python -m src.sample_docs --dataset=wikitext --strategy=top_k --pos_k=5 --neg_k=0 --topic_model=lda --num_topics=25 --output_path=wikitext_lda_25_topk_pos5_neg0.json
-#exit 1
-#python -m src.sample_docs --dataset=wikitext --strategy=top_k --pos_k=10 --neg_k=0 --topic_model=lda --num_topics=25 --output_path=wikitext_lda_25_topk_pos10_neg0.json
-#python -m src.sample_docs --dataset=wikitext --strategy=top_k --pos_k=15 --neg_k=0 --topic_model=lda --num_topics=25 --output_path=wikitext_lda_25_topk_pos15_neg0.json
-#python -m src.sample_docs --dataset=wikitext --strategy=top_k --pos_k=20 --neg_k=0 --topic_model=lda --num_topics=25 --output_path=wikitext_lda_25_topk_pos20_neg0.json
-python -m src.sample_docs --dataset=wikitext --strategy=top_k --pos_k=50 --neg_k=0 --topic_model=lda --num_topics=25 --output_path=wikitext_lda_25_topk_pos50_neg0.json
+model=lda
+src=bill
+num_features=50
+feature_type=topic
 
-# weighted
-#for i in 1 2 3
+# for eval
+# stratified
+#for strategy in stratified random
 #do
-#  python -m src.sample_docs --dataset=wikitext --strategy=weighted --pos_k=5 --neg_k=0 --topic_model=lda --num_topics=25 --output_path=wikitext_lda_25_weighted_pos5_neg0_${i}.json
-#  python -m src.sample_docs --dataset=wikitext --strategy=weighted --pos_k=10 --neg_k=0 --topic_model=lda --num_topics=25 --output_path=wikitext_lda_25_weighted_pos10_neg0_${i}.json
-#  python -m src.sample_docs --dataset=wikitext --strategy=weighted --pos_k=15 --neg_k=0 --topic_model=lda --num_topics=25 --output_path=wikitext_lda_25_weighted_pos15_neg0_${i}.json
-#  python -m src.sample_docs --dataset=wikitext --strategy=weighted --pos_k=20 --neg_k=0 --topic_model=lda --num_topics=25 --output_path=wikitext_lda_25_weighted_pos20_neg0_${i}.json
+#  python -m src.sample --dataset="${model}_${src}" \
+#                       --sample_method=${strategy} \
+#                       --pos_k=100 \
+#                       --neg_k=100 \
+#                       --num_features=${num_features} \
+#                       --saved_features="output/topic_models/${model}_${src}_${num_features}.json" \
+#                       --output_path="output/sampled/eval/${src}/${model}${num_features}_pos100_neg100_${strategy}.json" \
+#                       --feature_type=${feature_type}
 #done
 
-python -m src.sample_docs --dataset=wikitext --strategy=weighted --pos_k=50 --neg_k=0 --topic_model=lda --num_topics=25 --output_path=wikitext_lda_25_weighted_pos50_neg0_1.json
 
-# random
-#for i in 1 2 3
+# labeling
+# baseline
+#for strategy in stratified random weighted topk
 #do
-#  python -m src.sample_docs --dataset=wikitext --strategy=weighted --pos_k=5 --neg_k=0 --topic_model=lda --num_topics=25 --output_path=wikitext_lda_25_random_pos5_neg0_${i}.json
-#  python -m src.sample_docs --dataset=wikitext --strategy=weighted --pos_k=10 --neg_k=0 --topic_model=lda --num_topics=25 --output_path=wikitext_lda_25_random_pos10_neg0_${i}.json
-##  python -m src.sample_docs --dataset=wikitext --strategy=weighted --pos_k=15 --neg_k=0 --topic_model=lda --num_topics=25 --output_path=wikitext_lda_25_random_pos15_neg0_${i}.json
-#  python -m src.sample_docs --dataset=wikitext --strategy=weighted --pos_k=20 --neg_k=0 --topic_model=lda --num_topics=25 --output_path=wikitext_lda_25_random_pos20_neg0_${i}.json
+#  for num_sel in 5 10 20
+#  do
+#    python -m src.sample --dataset="${model}_${src}" \
+#                         --sample_method=${strategy} \
+#                         --pos_k=${num_sel} \
+#                         --neg_k=0 \
+#                         --num_features=${num_features} \
+#                         --saved_features="output/topic_models/${model}_${src}_${num_features}.json" \
+#                         --output_path="output/sampled/label/${src}/${model}${num_features}_pos${num_sel}_neg0_${strategy}.json" \
+#                         --feature_type=${feature_type}
+#  done
 #done
 
-python -m src.sample_docs --dataset=wikitext --strategy=weighted --pos_k=50 --neg_k=0 --topic_model=lda --num_topics=25 --output_path=wikitext_lda_25_random_pos50_neg0_1.json
+# ours
+for num_sel in 5 10 20
+do
+  for alpha in 0.01 0.05 0.1
+  do
+    python -m src.dpp_retrieve --dataset=${feature_type}_${src} \
+                               --feature_type=${feature_type} \
+                               --saved_features="output/topic_models/${model}_${src}_${num_features}.json" \
+                               --saved_embeddings="output/embeddings/${model}_${src}_pretrained.json" \
+                               --alpha=${alpha} \
+                               --k=$num_sel \
+                               --output_file="output/sampled/label/${src}/${model}${num_features}_pos${num_sel}_neg0_dpp_alpha_${alpha}.json"
+  done
+done
