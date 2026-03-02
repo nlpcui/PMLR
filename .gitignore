@@ -4,3 +4,4 @@ data/topic_bill
 data/topic_wikitext
 output/topic_models
 output/embeddings
+__pycache__

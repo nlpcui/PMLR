@@ -1,0 +1,43 @@
+################################
+#     LOGGING CONFIGURATION    #
+################################
+logger:
+  dir_logger: data/logs
+  console_log: True
+  file_log: True
+  log_level: INFO
+  logger_name: tova
+  N_log_keep: 5 #maximum number of log files to keep
+
+
+################################
+#     MTE CONFIGURATION        #
+################################
+mte:
+  gen:
+    hf_token_env : "HUGGINGFACE_TOKEN"
+    do_chunking : False
+    chunk_size : 128
+    chunk_overlap : 32
+    chunk_batch_size : 200
+    chunk_num_proc : 4
+    embed_batch_size : 32
+    adjust_chunk_size : True
+  emb:
+    embeddings_model: "sentence-transformers/all-MiniLM-L6-v2"
+  llm:
+    llm_model: "google/gemma-2-2b"
+    layer_index: 24
+    sae_release: "gemma-scope-2b-pt-res"
+    sae_id: "layer_24/width_16k/average_l0_73" # it should be layer_{layer_index}...
+    neuronpedia_api_base : "https://www.neuronpedia.org/api/feature"
+    neuronpedia_model_id: "gemma-2-2b"
+    neuronpedia_sae_id: "24-gemmascope-res-16k"
+    chunk_agg : "max"
+    doc_agg : "max"
+    top_k : 20
+    top_tokens_per_feature: 10 # nr of tokens saved per feature
+    M: 256 # total number of features
+    K : 8 # nr of active nurons per feature; sparsity = 1 - (K/M)
+    threshold: 0.5
+    pad_to_multiple_of: 8
