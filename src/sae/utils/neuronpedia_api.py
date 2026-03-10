@@ -1,6 +1,6 @@
 
-from concurrent.futures import ThreadPoolExecutor, as_completed
-from typing import Dict, List
+from typing import Dict
+import json
 import requests
 
 _REQUEST_TIMEOUT = 10  # seconds
@@ -41,40 +41,68 @@ def fetch_feature_explanation(
     return explanation
 
 
-def prefetch_feature_explanations(
-    feature_ids: List[int],
-    neronepedia_api_base: str = "https://www.neuronpedia.org/api/feature",
-    neronepedia_model_id: str = "gemma-2-2b",
-    neronepedia_sae_id: str = "24-gemmascope-res-16k",
-    max_workers: int = 16,
-    timeout: int = _REQUEST_TIMEOUT,
+def load_bulk_explanations(
+    model_id: str,
+    sae_id: str,
+    layer_index: int,
+    s3_base: str = "https://neuronpedia-datasets.s3.us-east-1.amazonaws.com",
+    n_batches: int = 16,
+    timeout: int = 300,
 ) -> Dict[int, str]:
     """
-    Fetch Neuronpedia explanations for a list of feature ids in parallel.
-    Returns a dict {feature_id -> explanation}.
-    Features that fail get the label "<fetch error>".
+    Download all bulk explanation batches for a given model/SAE layer from the
+    Neuronpedia S3 bucket and return a feature_id -> explanation dict.
+
+    S3 path pattern::
+
+        {s3_base}/index.html?prefix=v1/{model_id}/{layer_index}-{sae_suffix}/batch-{N}.jsonl.gz
+
+    "layer_index" is the authoritative layer number.  Any leading ""{N}-""
+    prefix in "sae_id" is stripped and replaced with "layer_index".
+
+    Each record in the JSONL has the shape::
+
+        {"index": "<str>", "description": "<str>", ...}
+
+    Features without a description get the label "<no explanation>".
     """
+    import gzip
+    import io
+    import re
+
+    sae_suffix = re.sub(r"^\d+-", "", sae_id)
+    s3_sae_id = f"{layer_index}-{sae_suffix}"
+    s3_prefix = f"v1/{model_id}/{s3_sae_id}/explanations"
+
+    import logging
+    _log = logging.getLogger(__name__)
+    _log.info("Bulk explanations prefix: %s/%s  (batches 0..%d)",
+              s3_base, s3_prefix, n_batches - 1)
+
     cache: Dict[int, str] = {}
-    unique_ids = list(set(feature_ids))
+    for batch_idx in range(n_batches):
+        url = f"{s3_base}/{s3_prefix}/batch-{batch_idx}.jsonl.gz"
+        resp = requests.get(url, timeout=timeout)
+        if resp.status_code == 404:
+            _log.info("batch-%d → 404, stopping at %d total features",
+                      batch_idx, len(cache))
+            break  # no more batches
+        resp.raise_for_status()
 
-    def _fetch(fid: int) -> tuple:
-        try:
-            label = fetch_feature_explanation(
-                feature_idx=fid,
-                expl_cache={},  # no shared cache needed; we aggregate below
-                neronepedia_api_base=neronepedia_api_base,
-                neronepedia_model_id=neronepedia_model_id,
-                neronepedia_sae_id=neronepedia_sae_id,
-                timeout=timeout,
-            )
-        except Exception:
-            label = "<fetch error>"
-        return fid, label
+        before = len(cache)
+        with gzip.open(io.BytesIO(resp.content), "rt", encoding="utf-8") as fh:
+            for line in fh:
+                line = line.strip()
+                if not line:
+                    continue
+                record = json.loads(line)
+                fid = record.get("index")
+                if fid is None:
+                    continue
+                description = record.get("description") or "<no explanation>"
+                cache[int(fid)] = description
 
-    with ThreadPoolExecutor(max_workers=max_workers) as executor:
-        futures = {executor.submit(_fetch, fid): fid for fid in unique_ids}
-        for future in as_completed(futures):
-            fid, label = future.result()
-            cache[fid] = label
+        _log.info("batch-%d: loaded %d features (running total %d)",
+                  batch_idx, len(cache) - before, len(cache))
 
     return cache

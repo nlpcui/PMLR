@@ -7,7 +7,7 @@ import pandas as pd
 import torch
 from datasets import Dataset
 from src.sae.base import BaseMTE
-from src.sae.utils.neuronpedia_api import prefetch_feature_explanations
+from src.sae.utils.neuronpedia_api import load_bulk_explanations
 from transformers import (AutoModelForCausalLM, AutoTokenizer, PreTrainedModel,
                           PreTrainedTokenizerBase)
 
@@ -71,10 +71,6 @@ def _encode_sparsify(sae, resid_flat: torch.Tensor) -> torch.Tensor:
     return dense
 
 
-# ---------------------------------------------------------------------------
-# Main class
-# ---------------------------------------------------------------------------
-
 class LLMBasedMTE(BaseMTE):
     def __init__(
         self,
@@ -85,11 +81,9 @@ class LLMBasedMTE(BaseMTE):
         """
         Parameters
         ----------
-        sae_backend : {"sae_lens", "sparsify"}
-            Which library to use for loading and running the SAE.
+        sae_backend : Which library to use for loading and running the SAE. Available options:
             - "sae_lens"  : original behaviour, uses sae_lens.SAE (dense output).
-            - "sparsify"  : uses EleutherAI's sparsify.Sae (TopK sparse, converted
-                            to dense internally so the rest of the pipeline is unchanged).
+            - "sparsify"  : uses EleutherAI's sparsify.Sae (TopK sparse, converted  to dense internally so the rest of the pipeline is unchanged).
         """
         super().__init__(logger=logger, method="llm", **kwargs)
         assert self.cfg.gen is not None, "GeneralConfig missing"
@@ -100,12 +94,23 @@ class LLMBasedMTE(BaseMTE):
         llm_model = self.cfg.llm.llm_model
         self._tok = AutoTokenizer.from_pretrained(
             llm_model, token=self.hf_token)
-        self._model = AutoModelForCausalLM.from_pretrained(
-            llm_model,
-            token=self.hf_token,
-            torch_dtype=(torch.bfloat16 if self._device.type ==
-                         "cuda" else torch.float32),
-        ).to(self._device)
+
+        # distribute across gpus if possible, otherwise load on specified device
+        n_gpus = torch.cuda.device_count()
+        if n_gpus > 1:
+            self._model = AutoModelForCausalLM.from_pretrained(
+                llm_model,
+                token=self.hf_token,
+                torch_dtype=torch.bfloat16,
+                device_map="auto",
+            )
+        else:
+            self._model = AutoModelForCausalLM.from_pretrained(
+                llm_model,
+                token=self.hf_token,
+                torch_dtype=(torch.bfloat16 if self._device.type ==
+                             "cuda" else torch.float32),
+            ).to(self._device)
 
         if sae_backend == "sae_lens":
             self._sae = _load_sae_lens(
@@ -132,6 +137,15 @@ class LLMBasedMTE(BaseMTE):
         method from BaseMTE with appropriate chunk size. If chunking is
         disabled, we still call the method with effectively no chunking and
         overlap 0 so we get the token_ids column.
+
+        Parameters
+        ----------
+        corpus : Dataset
+            The input dataset containing the text to be chunked.
+        text_col : str
+            The name of the column in the dataset that contains the text to be chunked.
+        id_col : str  
+            The name of the column in the dataset that contains the unique identifier for each document.
         """
         if self.cfg.gen.chunk_size is None:
             model_max = getattr(self._tok, "model_max_length", 5000)
@@ -158,6 +172,29 @@ class LLMBasedMTE(BaseMTE):
         agg: str,
         threshold: Optional[float],
     ) -> torch.Tensor:
+        """
+        Aggregate token-level features (SAEs return features per token) into a single vector per chunk using the specified method.
+
+        Parameters
+        ----------
+        feats : torch.Tensor
+            The token-level features of shape [B, T, F], where B is batch size, T is sequence length, and F is the number of features.
+        attn_mask : torch.Tensor
+            The attention mask of shape [B, T], where 1 indicates valid tokens and 0 indicates padding.
+        agg : str
+            The aggregation method to use. Options are:
+                - "mean": average the features of valid tokens.
+                - "max": take the maximum feature value across valid tokens.
+                - "frac_above": compute the fraction of valid tokens whose feature value exceeds a given threshold.
+        threshold : Optional[float]
+            The threshold to use when agg is "frac_above". Ignored for other aggregation methods.
+
+        Returns
+        -------
+        torch.Tensor
+            The aggregated features of shape [B, F].
+        """
+
         mask = attn_mask.bool()
         if agg == "mean":
             feats_masked = feats * mask.unsqueeze(-1)
@@ -187,8 +224,11 @@ class LLMBasedMTE(BaseMTE):
             return_tensors="pt",
             pad_to_multiple_of=(8 if self._device.type == "cuda" else None),
         )
-        input_ids = padded["input_ids"].to(self._device)
-        attn_mask = padded["attention_mask"].to(self._device)
+
+        input_device = torch.device(
+            "cuda:0") if torch.cuda.is_available() else self._device
+        input_ids = padded["input_ids"].to(input_device)
+        attn_mask = padded["attention_mask"].to(input_device)
 
         use_cuda = self._device.type == "cuda"
         amp_ctx = torch.autocast(
@@ -204,6 +244,8 @@ class LLMBasedMTE(BaseMTE):
             B, T, D = hs.shape
             resid_flat = hs.reshape(B * T, D)
 
+            # encode regardless of backend
+            # _encode = either _encode_sae_lens or _encode_sparsify, both return [N, F] where N=B*T
             feats_flat = self._encode(self._sae, resid_flat)    # [B*T, F]
             feats = feats_flat.reshape(B, T, -1)                # [B, T, F]
 
@@ -276,23 +318,31 @@ class LLMBasedMTE(BaseMTE):
                 out_batch.append(entries)
                 continue
 
+            bos_id = getattr(self._tok, "bos_token_id", None)
+
             for f in active_fs.tolist():
                 a = feats_masked[b, :, f]
                 vals, pos = torch.topk(a, k=k_tok, dim=0)
-                keep = torch.isfinite(vals)
+
+                # keep only finite and strictly positive activations
+                keep = torch.isfinite(vals) & (vals > 0.0)
+
+                # exclude BOS token
+                if bos_id is not None:
+                    keep = keep & (ids_b[pos] != bos_id)
+
                 if not keep.any():
                     continue
                 pos = pos[keep]
                 vals = vals[keep]
                 tok_ids = ids_b[pos].to(torch.int64).tolist()
-                tok_str = self._tok.convert_ids_to_tokens(tok_ids)
                 entries.append({
                     "feature_id": int(f),
                     "feature_weight": float(theta_f[b, f].item()),
                     "token_pos": pos.to(torch.int64).tolist(),
                     "token_id": tok_ids,
-                    "token_str": tok_str,
                     "token_activation": vals.tolist(),
+                    "token_str": self._tok.convert_ids_to_tokens(tok_ids),
                 })
             out_batch.append(entries)
 
@@ -300,7 +350,6 @@ class LLMBasedMTE(BaseMTE):
 
     def _aggregate_chunk_saes(self, activationes_chunks: Dataset) -> Dataset:
         """
-        Document-level aggregation of chunk-level SAEs. The BaseMTE version of this method aggregates the dense "theta" features and counts "num_features". We override it to also concatenate the "theta_sparse" lists across chunks for each document.
         Uses the parent method to aggregate the normal features, then
         concatenates the theta_sparse lists per document.
         """
@@ -309,67 +358,68 @@ class LLMBasedMTE(BaseMTE):
         if "theta_sparse" not in activationes_chunks.column_names:
             return doc_level
 
-        from itertools import groupby as _groupby
-
-        # Sort by doc_id and concatenate theta_sparse lists — no pandas needed,
-        # so there is no risk of numpy coercion mangling the list-of-dicts.
-        rows = sorted(
-            zip(activationes_chunks["doc_id"],
-                activationes_chunks["theta_sparse"]),
-            key=lambda t: t[0],
+        df = activationes_chunks.select_columns(
+            ["doc_id", "theta_sparse"]).to_pandas()
+        sparse_df = (
+            df.groupby("doc_id")["theta_sparse"]
+              .apply(lambda xs: sum(xs, []))
+              .reset_index()
         )
-        sparse_by_doc = {
-            doc_id: [entry for _, chunk in chunks for entry in chunk]
-            for doc_id, chunks in _groupby(rows, key=lambda t: t[0])
-        }
-
         doc_df = doc_level.to_pandas()
-        doc_df["theta_sparse"] = doc_df["doc_id"].map(
-            lambda did: sparse_by_doc.get(did, [])
+        merged = doc_df.merge(sparse_df, on="doc_id", how="left")
+        merged["theta_sparse"] = merged["theta_sparse"].apply(
+            lambda x: x if isinstance(x, list) else []
         )
-        return Dataset.from_pandas(doc_df)
+        return Dataset.from_pandas(merged)
 
     def _enrich_with_neuronpedia(self, doc_level: Dataset) -> Dataset:
         """
-        Pre-fetch Neuronpedia explanations for every unique feature_id present
-        in theta_sparse (in parallel), then apply labels in a single fast map.
+        Fetch Neuronpedia explanations for every unique feature_id present in
+        theta_sparse and add a "feature_label" field to each entry.
 
-        Uses cfg.llm.neuronpedia_{api_base,model_id,sae_id}.
-        Features that cannot be fetched get the label "<fetch error>".
+        It first downloads a single bulk JSONL from the Neuronpedia S3 bucket.The file to downlaod is determined by "cfg.llm.neuronpedia_model_id","cfg.llm.neuronpedia_sae_id" (which encodes the layer, e.g. "24-gemmascope-res-16k"), and "cfg.llm.layer_index" (used for validation logging).
+
+        Features absent from the bulk file get the label "<no explanation>".
+        If the download itself fails the method logs a warning and returns the
+        dataset unchanged.
         """
         if "theta_sparse" not in doc_level.column_names:
             return doc_level
 
-        api_base = self.cfg.llm.neuronpedia_api_base
         model_id = self.cfg.llm.neuronpedia_model_id
         sae_id = self.cfg.llm.neuronpedia_sae_id
+        layer_index = self.cfg.llm.layer_index
 
-        # 1. Collect all unique feature ids across the whole dataset
-        all_fids = [
-            entry["feature_id"]
-            for row in doc_level["theta_sparse"]
-            for entry in row
-        ]
-        unique_fids = list(set(all_fids))
         self._logger.info(
-            "Pre-fetching %d unique Neuronpedia features (model=%s, sae=%s) …",
-            len(unique_fids), model_id, sae_id,
+            "Downloading Neuronpedia bulk explanations "
+            "(model=%s, sae=%s, layer=%d) …",
+            model_id, sae_id, layer_index,
         )
 
-        # 2. Bulk-fetch in parallel — no HTTP inside map()
-        expl_cache = prefetch_feature_explanations(
-            feature_ids=unique_fids,
-            neronepedia_api_base=api_base,
-            neronepedia_model_id=model_id,
-            neronepedia_sae_id=sae_id,
-        )
-        self._logger.info("Neuronpedia pre-fetch done.")
+        try:
+            expl_cache = load_bulk_explanations(
+                model_id=model_id,
+                sae_id=sae_id,
+                layer_index=layer_index,
+            )
+        except Exception as exc:
+            self._logger.warning(
+                "Neuronpedia bulk download failed (%s). "
+                "Skipping label enrichment.", exc
+            )
+            return doc_level
 
-        # 3. Apply labels locally — pure dict lookup, no I/O
+        self._logger.info(
+            "Loaded %d feature explanations from bulk file.", len(expl_cache)
+        )
+        if expl_cache:
+            sample_ids = list(expl_cache.keys())[:5]
+            self._logger.info("Cache sample keys: %s", sample_ids)
+
         def _enrich_row(example):
             enriched = [
-                {**entry,
-                    "feature_label": expl_cache.get(entry["feature_id"], "<fetch error>")}
+                {**entry, "feature_label": expl_cache.get(
+                    entry["feature_id"], "<no explanation>")}
                 for entry in example["theta_sparse"]
             ]
             return {"theta_sparse": enriched}
